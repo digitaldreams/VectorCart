@@ -83,4 +83,11 @@ class ProductRepository extends ServiceEntityRepository
             ->setMaxResults(5)
             ->getResult();
     }
+
+    public function getCategories(){
+      return  $this->createQueryBuilder('p')
+            ->select('DISTINCT p.category')
+            ->getQuery()
+            ->getResult();
+    }
 }
