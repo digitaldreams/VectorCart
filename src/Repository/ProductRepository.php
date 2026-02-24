@@ -6,6 +6,8 @@ namespace App\Repository;
 use App\Entity\Product;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
+use Pgvector\Vector;
+
 
 class ProductRepository extends ServiceEntityRepository
 {
@@ -53,7 +55,7 @@ class ProductRepository extends ServiceEntityRepository
             $product = $this->find($row['id']);
             if ($product) {
                 // Set the similarity score as a transient property
-                $product->setSimilarityScore(round((float)$row['score'], 4));
+                $product->setSimilarityScore(round((float) $row['score'], 4));
                 $products[] = $product;
             }
         }
@@ -69,6 +71,16 @@ class ProductRepository extends ServiceEntityRepository
             ->setParameter('category', $category)
             ->orderBy('p.createdAt', 'DESC')
             ->getQuery()
+            ->getResult();
+    }
+
+    public function test()
+    {
+        $results = $this->getEntityManager()->createQuery(
+            'SELECT i FROM App\Entity\Product i ORDER BY cosine_distance(i.embedding, :embedding)'
+        )
+            ->setParameter('embedding', new Vector([1, 2, 3]))
+            ->setMaxResults(5)
             ->getResult();
     }
 }
