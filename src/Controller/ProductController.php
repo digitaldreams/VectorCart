@@ -29,6 +29,7 @@ class ProductController extends AbstractController
     {
         $query = $request->query->get('q', '');
         $category = $request->query->get('category', '');
+        $minScore = $request->query->get('score', 0.75);
 
         $products = [];
         $searchTime = 0;
@@ -40,10 +41,11 @@ class ProductController extends AbstractController
             $queryEmbedding = $ollama->vectorize($query,['dimensions' => 1536 ]);
 
             // Search by vector
-            $products = $productRepository->searchByVector(
-                $queryEmbedding,
+            $products = $productRepository->searchByDql(
+                $queryEmbedding->getData(),
                 limit: 20,
-                category: $category ?: null
+                category: $category ?: null,
+                minScore: $minScore
             );
 
             $searchTime = round((microtime(true) - $start) * 1000, 2);
@@ -54,7 +56,7 @@ class ProductController extends AbstractController
             'category' => $category,
             'products' => $products,
             'searchTime' => $searchTime,
-            'categories' => $productRepository->getCategories(),
+            'categories' => array_column($productRepository->getCategories(),'category'),
         ]);
     }
 }

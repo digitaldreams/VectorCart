@@ -63,6 +63,48 @@ class ProductRepository extends ServiceEntityRepository
         return $products;
     }
 
+    /**
+     * Search products using DQL with pgvector cosine_distance function.
+     * Uses Doctrine DQL instead of raw SQL for better portability and type safety.
+     *
+     * @param array<float> $queryEmbedding The query embedding vector
+     * @param int $limit Maximum number of results to return
+     * @param string|null $category Optional category filter
+     * @param float $minScore Minimum similarity score threshold (0.0 to 1.0)
+     * @return array<Product>
+     */
+    public function searchByDql(array $queryEmbedding, int $limit = 10, ?string $category = null, float $minScore = 0.75): array
+    {
+        $vector = new Vector($queryEmbedding);
+
+        $qb = $this->createQueryBuilder('p')
+            ->select('p', '1 - cosine_distance(p.embedding, :embedding) AS score')
+            ->where('p.inStock = true')
+            ->andWhere('1 - cosine_distance(p.embedding, :embedding) >= :minScore')
+            ->orderBy('score', 'DESC')
+            ->setMaxResults($limit)
+            ->setParameter('embedding', $vector)
+            ->setParameter('minScore', $minScore);
+
+        if ($category) {
+            $qb->andWhere('p.category = :category')
+                ->setParameter('category', $category);
+        }
+
+        $results = $qb->getQuery()->getResult();
+
+        // Set similarity score on each product entity
+        $products = [];
+        foreach ($results as $row) {
+            $product = $row[0];
+            $score = (float) $row['score'];
+            $product->setSimilarityScore(round($score, 4));
+            $products[] = $product;
+        }
+
+        return $products;
+    }
+
     public function findByCategory(string $category): array
     {
         return $this->createQueryBuilder('p')
