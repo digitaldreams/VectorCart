@@ -5,7 +5,7 @@ namespace App\Controller;
 
 use App\Entity\Product;
 use App\Repository\ProductRepository;
-use Symfony\AI\Store\Document\VectorizerInterface;
+use App\Service\QueryVectorCache;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
@@ -25,25 +25,36 @@ class ProductController extends AbstractController
     }
 
     #[Route('/search', name: 'product_search', methods: ['GET'])]
-    public function search(Request $request, VectorizerInterface $ollama, ProductRepository $productRepository): Response
+    public function search(Request $request, QueryVectorCache $vectorCache, ProductRepository $productRepository): Response
     {
         $query = $request->query->get('q', '');
         $category = $request->query->get('category', '');
-        $minScore = $request->query->get('score', 0.75);
+        $minScore = (float) $request->query->get('score', 0.75);
+        $page = (int) $request->query->get('page', 1);
+        $limit = 20;
 
         $products = [];
         $searchTime = 0;
+        $totalResults = 0;
 
         if ($query) {
             $start = microtime(true);
 
-            // Get query embedding
-            $queryEmbedding = $ollama->vectorize($query,['dimensions' => 1536 ]);
+            // Get cached query embedding
+            $queryVector = $vectorCache->getVector($query, 1536);
 
             // Search by vector
             $products = $productRepository->searchByDql(
-                $queryEmbedding->getData(),
-                limit: 20,
+                $queryVector->toArray(),
+                limit: $limit,
+                category: $category ?: null,
+                minScore: $minScore,
+                offset: ($page - 1) * $limit
+            );
+
+            // Get total count for pagination
+            $totalResults = $productRepository->countSearchResults(
+                $queryVector->toArray(),
                 category: $category ?: null,
                 minScore: $minScore
             );
@@ -54,9 +65,14 @@ class ProductController extends AbstractController
         return $this->render('product/search.html.twig', [
             'query' => $query,
             'category' => $category,
+            'score' => $minScore,
             'products' => $products,
             'searchTime' => $searchTime,
-            'categories' => array_column($productRepository->getCategories(),'category'),
+            'categories' => array_column($productRepository->getCategories(), 'category'),
+            'page' => $page,
+            'limit' => $limit,
+            'totalResults' => $totalResults,
+            'totalPages' => (int) ceil($totalResults / $limit),
         ]);
     }
 }

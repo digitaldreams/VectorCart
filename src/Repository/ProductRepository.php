@@ -71,9 +71,10 @@ class ProductRepository extends ServiceEntityRepository
      * @param int $limit Maximum number of results to return
      * @param string|null $category Optional category filter
      * @param float $minScore Minimum similarity score threshold (0.0 to 1.0)
+     * @param int $offset Number of results to skip (for pagination)
      * @return array<Product>
      */
-    public function searchByDql(array $queryEmbedding, int $limit = 10, ?string $category = null, float $minScore = 0.75): array
+    public function searchByDql(array $queryEmbedding, int $limit = 10, ?string $category = null, float $minScore = 0.75, int $offset = 0): array
     {
         $vector = new Vector($queryEmbedding);
 
@@ -82,6 +83,7 @@ class ProductRepository extends ServiceEntityRepository
             ->where('p.inStock = true')
             ->andWhere('1 - cosine_distance(p.embedding, :embedding) >= :minScore')
             ->orderBy('score', 'DESC')
+            ->setFirstResult($offset)
             ->setMaxResults($limit)
             ->setParameter('embedding', $vector)
             ->setParameter('minScore', $minScore);
@@ -103,6 +105,34 @@ class ProductRepository extends ServiceEntityRepository
         }
 
         return $products;
+    }
+
+    /**
+     * Count total search results for a given query vector.
+     * Used for pagination.
+     *
+     * @param array<float> $queryEmbedding The query embedding vector
+     * @param string|null $category Optional category filter
+     * @param float $minScore Minimum similarity score threshold (0.0 to 1.0)
+     * @return int Total number of matching results
+     */
+    public function countSearchResults(array $queryEmbedding, ?string $category = null, float $minScore = 0.75): int
+    {
+        $vector = new Vector($queryEmbedding);
+
+        $qb = $this->createQueryBuilder('p')
+            ->select('COUNT(p.id)')
+            ->where('p.inStock = true')
+            ->andWhere('1 - cosine_distance(p.embedding, :embedding) >= :minScore')
+            ->setParameter('embedding', $vector)
+            ->setParameter('minScore', $minScore);
+
+        if ($category) {
+            $qb->andWhere('p.category = :category')
+                ->setParameter('category', $category);
+        }
+
+        return (int) $qb->getQuery()->getSingleScalarResult();
     }
 
     public function findByCategory(string $category): array
