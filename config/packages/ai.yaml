@@ -10,9 +10,9 @@ ai:
         # Agent configuration
         # see https://symfony.com/doc/current/ai/bundles/ai-bundle.html
 
-        # default:
-        #    platform: 'ai.platform.openai'
-        #    model: 'gpt-5-mini'
+          default:
+            platform: 'ai.platform.ollama'
+            model: 'qwen3-vl:8b'
         #    prompt: |
         #        You are a pirate and you write funny.
         #    tools:
@@ -20,8 +20,12 @@ ai:
 
     store:
         # Store configuration
+        # See https://symfony.com/doc/current/ai/components/store.html for all options
 
-        # chromadb:
-        #    default:
-        #        client: 'client.service.id'
-        #        collection: 'my_collection'
+        memory:
+            default: ~
+
+    vectorizer:
+        ollama:
+            platform: 'ai.platform.ollama'
+            model: 'qwen3-embedding:8b'
