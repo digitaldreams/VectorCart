@@ -1,0 +1,1172 @@
+[
+  {
+    "name": "Ultra-Warm Down Parka",
+    "description": "Extreme cold protection with 800-fill down and windproof shell.",
+    "price": "299.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "winter",
+      "outerwear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Tech Raincoat",
+    "description": "Sleek city jacket with breathable mesh lining and taped seams.",
+    "price": "145.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "outerwear",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515462277125-26977e19fad4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Classic Denim Trucker",
+    "description": "Indigo blue denim jacket with fleece collar for a vintage look.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "casual",
+      "denim"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lightweight Puffer Vest",
+    "description": "Easy-layering sleeveless jacket with synthetic warming technology.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "layering",
+      "autumn"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Biker Jacket",
+    "description": "Genuine lambskin jacket with silver hardware and quilted detail.",
+    "price": "195.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "luxury"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Ski Shell",
+    "description": "Gore-Tex mountain jacket with snow skirt and helmet-ready hood.",
+    "price": "350.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reflective Running Windbreaker",
+    "description": "Ultra-lightweight layer for night runners. Fully reflective.",
+    "price": "75.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "active",
+      "safety"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1538233470682-71c3cc7e7c48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Hooded Rain Poncho",
+    "description": "Fun bright patterns for children, 100% waterproof and packable.",
+    "price": "25.00",
+    "category": "Clothing",
+    "tags": [
+      "kids",
+      "rainwear",
+      "fun"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wool Blend Trench Coat",
+    "description": "Double-breasted classic coat for formal and business wear.",
+    "price": "220.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "formal",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544022613-e87c07918b99?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tactical Field Jacket",
+    "description": "Rugged cotton canvas with multiple utility pockets and zip hood.",
+    "price": "125.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "outdoor",
+      "military"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Softshell Climbing Jacket",
+    "description": "Highly breathable and wind-resistant for high-alpine movement.",
+    "price": "140.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "outdoor",
+      "sports"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Cashmere Wrap Coat",
+    "description": "Hand-stitched premium wool and cashmere for ultimate elegance.",
+    "price": "450.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "luxury",
+      "formal"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bomber Style Flight Jacket",
+    "description": "Nylon shell with rib-knit cuffs and signature orange lining.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "fashion",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fleece-Lined Flannel Jacket",
+    "description": "Heavy plaid shirt with warm lining for work and casual days.",
+    "price": "79.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "workwear",
+      "warm"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Sailing Jacket",
+    "description": "High-vis details and salt-resistant fabric for life on sea.",
+    "price": "195.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "waterproof"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Packable Down Jacket",
+    "description": "Compressible warmth that folds into its own pocket. Ideal travel.",
+    "price": "135.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "travel",
+      "warm"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retro Track Top",
+    "description": "Bold color-blocking and funnel neck for a vintage athletic look.",
+    "price": "60.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "retro",
+      "sports"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Urban Expedition Parka",
+    "description": "Modern survival jacket with tech-finish and faux-fur hood.",
+    "price": "250.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "fashion",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Belted Trench Raincoat",
+    "description": "Waterproof women's coat with a flattering adjustable waist.",
+    "price": "165.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "formal",
+      "weather"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515462277125-26977e19fad4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Corduroy Casual Jacket",
+    "description": "Soft ribbed fabric with a warm borg lining for autumn style.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "vintage",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reversible Fleece Pullover",
+    "description": "Switch between smooth nylon and cozy sherpa for two styles.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "casual",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Satin Evening Blazer",
+    "description": "Chic shimmering layer for social events and formal nights out.",
+    "price": "120.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "formal"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591366754631-9884aa332ca1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Workwear Canvas Chore Coat",
+    "description": "Triple-stitched durable jacket for tough manual labor.",
+    "price": "115.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "workwear",
+      "rugged"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cropped Fashion Puffer",
+    "description": "Streetwear-inspired shiny jacket for a bold urban look.",
+    "price": "130.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy Wool Pea Coat",
+    "description": "Traditional double-breasted navy coat with anchor buttons.",
+    "price": "210.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "formal",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Color-Change Raincoat",
+    "description": "Patterns appear when wet! Joyful and waterproof for kids.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": [
+      "kids",
+      "rainwear",
+      "fun"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515462277125-26977e19fad4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waxed Canvas Field Jacket",
+    "description": "Water-resistant traditional jacket that ages with character.",
+    "price": "185.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "outdoor",
+      "vintage"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Minimalist Softshell Vest",
+    "description": "Windproof layer for hiking and everyday outdoor movement.",
+    "price": "80.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "outdoor",
+      "layering"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Quilted Velvet Jacket",
+    "description": "Women's luxury jacket with a diamond-stitch pattern and sheen.",
+    "price": "160.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "luxury",
+      "fashion"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Varsity Sports Jacket",
+    "description": "Classic collegiate design with snap buttons and stripe detail.",
+    "price": "75.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "casual",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Faux-Leather Shearling Aviator",
+    "description": "Rugged flight jacket style with fluffy collar and warm lining.",
+    "price": "145.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "fashion",
+      "warm"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lightweight Hiking Shell",
+    "description": "Packable, breathable layer for high-activity trails.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "outdoor"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Elegant Duster Coat",
+    "description": "Draping tencel jacket for a sophisticated tailored silhouette.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rugged Hunting Jacket",
+    "description": "Stealth finish with thorn-proof fabric for woodland adventure.",
+    "price": "175.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "outdoor",
+      "rugged"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Modern Tech Hoodie",
+    "description": "Water-resistant zip-up with bonded seams and hidden pockets.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "modern",
+      "sportswear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Winter Expedition Anorak",
+    "description": "Pullover mountain jacket with extreme weather resistance.",
+    "price": "195.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "outdoor",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Floral Quilted Jacket",
+    "description": "Soft lightweight jacket for spring and early autumn styles.",
+    "price": "120.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Harrington Summer Jacket",
+    "description": "Classic smart-casual layer with breathable cotton lining.",
+    "price": "90.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "classic",
+      "style"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Vis Safety Parka",
+    "description": "Insulated winter jacket with neon color and reflective tape.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "workwear",
+      "safety"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Suede Blazer",
+    "description": "Velvety soft leather jacket for a luxury business look.",
+    "price": "320.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "luxury",
+      "formal"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591366754631-9884aa332ca1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Insulated Ski Suit",
+    "description": "One-piece winter suit for toddlers to stay dry in deep snow.",
+    "price": "135.00",
+    "category": "Clothing",
+    "tags": [
+      "kids",
+      "winter",
+      "outdoor"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Belted Utility Jacket",
+    "description": "Multi-pocket fashion piece for women with a cinched waist.",
+    "price": "145.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "utility"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Sailing Smock",
+    "description": "100% waterproof pullover for high-performance sea racing.",
+    "price": "225.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "professional"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Classic Corduroy Shacket",
+    "description": "Vintage look button-down that works as both shirt and jacket.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "vintage",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy Knit Cardigan Jacket",
+    "description": "Thick wool outer layer with chunky buttons and zip closure.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "casual",
+      "warm"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Oversized Denim Bomber",
+    "description": "Modern street style fusion with a soft padded interior.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tactical Fleece Jacket",
+    "description": "Heavyweight warmth with reinforced shoulders and chest pads.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "outdoor",
+      "military"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Winter Down Gilet",
+    "description": "Premium sleeveless warmth for mountain and city layering.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "winter",
+      "luxury"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Elegant Satin Cape",
+    "description": "High-fashion evening layer for dramatic formal arrivals.",
+    "price": "175.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "formal",
+      "luxury"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rugged Biker Gilet",
+    "description": "Tough leather vest with stud details for a classic rebel look.",
+    "price": "125.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "fashion",
+      "leather"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Reflective Parka",
+    "description": "Total shell reflects light for maximum safety during school run.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": [
+      "kids",
+      "safety",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Linen Summer Blazer",
+    "description": "Lightweight breathable jacket for hot weather formal wear.",
+    "price": "115.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "summer",
+      "formal"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591366754631-9884aa332ca1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Modern Softshell Anorak",
+    "description": "Stretch fabric with hood and large utility front pocket.",
+    "price": "130.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "outdoor",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Vintage Fringed Suede",
+    "description": "Hand-cut details on a western-style festival jacket.",
+    "price": "230.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "fashion",
+      "vintage"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Mountain Shell",
+    "description": "Extreme durability for high-altitude climbing and wind.",
+    "price": "380.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reversible Urban Bomber",
+    "description": "One side olive, one side camo for dual-style everyday wear.",
+    "price": "120.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "fashion",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Quilted Puffer Coat Long",
+    "description": "Women's full-length winter coat for total body warmth.",
+    "price": "225.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "winter",
+      "warm"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fleece Hooded Windbreaker",
+    "description": "Sporty zip-up with warm interior for outdoor training.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "active",
+      "comfortable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Checked Wool Overcoat",
+    "description": "Traditional pattern with modern cut for a sharp city look.",
+    "price": "240.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "formal",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Lightweight Mac",
+    "description": "Bright easy-on jacket for transitional rainy weather.",
+    "price": "35.00",
+    "category": "Clothing",
+    "tags": [
+      "kids",
+      "rainwear",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Designer Denim Shell",
+    "description": "High-fashion variation on the classic denim jacket design.",
+    "price": "145.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "luxury",
+      "fashion"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Thermal Mountain Vest",
+    "description": "Advanced synthetic insulation for active outdoor sports.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "layering"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sleek Black Raincoat",
+    "description": "Minimalist waterproof jacket for professional city wear.",
+    "price": "150.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "formal",
+      "weather"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515462277125-26977e19fad4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Faux-Fur Cropped Jacket",
+    "description": "Stylish and warm winter fashion piece for evening wear.",
+    "price": "125.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "fashion",
+      "luxury"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy Cotton Chore Jacket",
+    "description": "Vintage workwear with four-pocket functional layout.",
+    "price": "105.00",
+    "category": "Clothing",
+    "tags": [
+      "men",
+      "vintage",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Ski Parka",
+    "description": "Professional grade winter coat with integrated safety sensors.",
+    "price": "420.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "sports",
+      "luxury"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retro Shell Track Top",
+    "description": "Lightweight neon-accented jacket for a 90s sporty vibe.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "retro",
+      "denim"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Warm Sherpa Shacket",
+    "description": "Shirt look with thick fluffy lining for cold weekends.",
+    "price": "75.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "casual",
+      "warm"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxe Velvet Trench",
+    "description": "High-fashion statement coat for women's evening attire.",
+    "price": "350.00",
+    "category": "Clothing",
+    "tags": [
+      "women",
+      "luxury",
+      "formal"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544022613-e87c07918b99?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hard-Shell Alpine Jacket",
+    "description": "Extreme wind and snow defense for high-winter expeditions.",
+    "price": "290.00",
+    "category": "Clothing",
+    "tags": [
+      "unisex",
+      "outdoor",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Men's Luxury Silk Scarf",
+    "description": "Exquisite 100% silk scarf with a classic paisley print. Adds a touch of refined elegance to formal outerwear.",
+    "price": "125.00",
+    "category": "Clothing",
+    "tags": ["men", "luxury", "accessories", "formal"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Velvet Evening Glove Set",
+    "description": "Long velvet gloves with a soft sheen. Perfect for gala events and sophisticated winter formal wear.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["women", "formal", "accessories", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids' Animal Face Beanie - Wolf",
+    "description": "Fun and warm knitted beanie with wolf ears and face. Features a soft fleece lining for extra comfort.",
+    "price": "19.99",
+    "category": "Clothing",
+    "tags": ["kids", "accessories", "winter", "fun"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Performance Compression Top",
+    "description": "Moisture-wicking base layer with targeted muscle support for intense workouts and recovery.",
+    "price": "49.00",
+    "category": "Clothing",
+    "tags": ["unisex", "activewear", "performance", "sporty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1538233470682-71c3cc7e7c48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Lace Detail Cami",
+    "description": "Elegant silk-blend camisole with delicate lace trim. A versatile piece for layering under blazers or wearing alone.",
+    "price": "39.00",
+    "category": "Clothing",
+    "tags": ["women", "fashion", "luxury", "base-layer"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Heavyweight Flannel Overcoat",
+    "description": "A thicker, long-cut version of the classic flannel. Ideal for rugged urban layering in autumn.",
+    "price": "135.00",
+    "category": "Clothing",
+    "tags": ["men", "casual", "rugged", "style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids' Reflective Rain Pants",
+    "description": "Fully waterproof pants with large reflective strips for safety. Perfect for walks to school on dark, rainy days.",
+    "price": "35.00",
+    "category": "Clothing",
+    "tags": ["kids", "safety", "rainwear", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Silk-Blend Pocket Square",
+    "description": "Hand-rolled edges and a sophisticated geometric print. The finishing touch for any well-tailored suit.",
+    "price": "29.00",
+    "category": "Clothing",
+    "tags": ["men", "formal", "accessories", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Merino Wool Leggings",
+    "description": "Natural, breathable warmth for cold weather activity. These silk-soft leggings work as both a base layer and loungewear.",
+    "price": "75.00",
+    "category": "Clothing",
+    "tags": ["women", "merino-wool", "activewear", "base-layer"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Mountain Balaclava",
+    "description": "Windproof and moisture-wicking head protection for extreme alpine conditions and winter sports.",
+    "price": "39.00",
+    "category": "Clothing",
+    "tags": ["unisex", "technical", "outdoor", "winter-sports"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Slim Fit Chinos - Navy",
+    "description": "Modern tapered chinos in a durable stretch-cotton twill. versatile for both office and casual wear.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": ["men", "casual", "office-wear", "style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Pleated Midi Skirt",
+    "description": "Classic midi skirt with sharp pleats and a comfortable elastic waist. Flowy and elegant for any occasion.",
+    "price": "59.00",
+    "category": "Clothing",
+    "tags": ["women", "fashion", "formal", "elegant"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids' Waterproof Trail Gaiters",
+    "description": "Rugged protection to keep mud and water out of boots during forest adventures and school trips.",
+    "price": "24.00",
+    "category": "Clothing",
+    "tags": ["kids", "outdoor", "durable", "technical"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavyweight Cotton Canvas Tote",
+    "description": "Industrial-grade canvas bag with reinforced handles. Built for heavy loads and daily city commutes.",
+    "price": "25.00",
+    "category": "Clothing",
+    "tags": ["unisex", "accessories", "durable", "urban"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Performance Polo - Breathable",
+    "description": "Durable pique polo with moisture-wicking technology. Keeps you cool and sharp during active work days.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["men", "active", "performance", "classic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cropped Studio hoodie",
+    "description": "Soft and stylish hoodie with a relaxed fit. perfect for gym transitions and low-impact activewear.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["women", "active", "fashion", "comfortable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids' Fleece-Lined Winter Mittens",
+    "description": "Thick waterproof mittens with an extra-soft plush lining. Keep little hands toasted during snow play.",
+    "price": "22.00",
+    "category": "Clothing",
+    "tags": ["kids", "winter", "warm", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Rugged Cargo Shorts",
+    "description": "Heavy-duty cotton twill with six secure pockets. Designed for outdoor utility and casual comfort.",
+    "price": "49.00",
+    "category": "Clothing",
+    "tags": ["men", "casual", "rugged", "utility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's High-Rise Yoga Pant - Elite",
+    "description": "Squat-proof and buttery soft. Features a hidden waistband pocket and four-way stretch for total mobility.",
+    "price": "89.00",
+    "category": "Clothing",
+    "tags": ["women", "active", "performance", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids' Reversible Sun Hat",
+    "description": "UPF 50+ protection with two fun patterns. Lightweight and breathable for bright summer beach days.",
+    "price": "18.00",
+    "category": "Clothing",
+    "tags": ["kids", "summer", "safety", "fun"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Soft Shell Cycling Tights",
+    "description": "Windproof and breathable with integrated padding for long-distance comfort on the bike.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": ["men", "sports", "technical", "cycling"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Silk-Bonded Windbreaker",
+    "description": "Hybrid luxury layer that protects from light breeze while feeling incredibly soft against the skin.",
+    "price": "145.00",
+    "category": "Clothing",
+    "tags": ["women", "luxury", "fashion", "performance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids' Durable School Backpack",
+    "description": "Reinforced base and padded straps. features numerous compartments for books, lunch and tech.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["kids", "accessories", "durable", "school"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Premium Leather Belt - Black",
+    "description": "Full-grain Italian leather with a solid brass buckle. A timeless accessory for formal and office wear.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["men", "formal", "accessories", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Athletic Headband Set",
+    "description": "Set of three non-slip moisture-wicking headbands. designed to keep hair away during intense workouts.",
+    "price": "15.00",
+    "category": "Clothing",
+    "tags": ["women", "active", "accessories", "sporty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Compression Socks - Pair",
+    "description": "Graduated compression to improve blood flow and reduce fatigue during long runs or flights.",
+    "price": "29.00",
+    "category": "Clothing",
+    "tags": ["unisex", "performance", "health", "activewear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Lightweight Utility Jacket",
+    "description": "Sleek four-pocket design in a breathable cotton blend. The perfect versatile layer for city commutes.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": ["men", "casual", "modern", "utility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Oversized Knit Scarf",
+    "description": "Extra-long and soft acrylic blend scarf. A cozy statement piece for the coldest winter days.",
+    "price": "35.00",
+    "category": "Clothing",
+    "tags": ["women", "accessories", "winter", "cozy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Technical Mountain Shell - Pro Edition",
+    "description": "Advanced 3-layer waterproof construction for extreme alpine conditions. Breathable and fully seam-sealed.",
+    "price": "495.00",
+    "category": "Clothing",
+    "tags": ["unisex", "technical", "outdoor", "premium"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  }
+]

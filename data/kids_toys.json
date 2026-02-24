@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Soft Silicone Baby Teether Set - 4pc",
+    "description": "BPA-free medical grade silicone teethers with various textures to soothe sensitive gums. Easy for small hands to grip and dishwasher safe.",
+    "price": "14.99",
+    "category": "Baby Care",
+    "tags": ["teether", "baby", "silicone", "soothing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515488403636-ee00c1dcbdc2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Convertible 3-in-1 Baby Stroller",
+    "description": "Elegant luxury stroller that transforms from a bassinet into a toddler seat. Features all-terrain wheels, a large storage basket, and advanced suspension.",
+    "price": "349.00",
+    "category": "Baby Gear",
+    "tags": ["stroller", "baby", "travel", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544126592-807daa2b567b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Baby Swaddle Blankets - 3pk",
+    "description": "Ultra-soft and breathable muslin cotton blankets. Lightweight and generous in size, perfect for swaddling, nursing covers, or stroller shading.",
+    "price": "29.99",
+    "category": "Baby Bedding",
+    "tags": ["swaddle", "baby", "cotton", "organic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Baby Monitor with 1080p Camera",
+    "description": "Wi-Fi enabled video monitor with night vision, room temperature sensor, and two-way audio. Plays lullabies and sends notifications to your phone.",
+    "price": "129.00",
+    "category": "Baby Safety",
+    "tags": ["baby-monitor", "safety", "camera", "smart-home"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Quality Magnetic Building Blocks - 64pc",
+    "description": "Educational STEM toy set with colorful geometric tiles. Powerful magnets for building 3D structures. Encourages creativity and fine motor skills.",
+    "price": "39.99",
+    "category": "Educational Toys",
+    "tags": ["magnetic-blocks", "STEM", "toys", "learning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1587654711722-195c672e8a03?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Breast Pump - Portable & Quiet",
+    "description": "Medical-grade hospital strength pump with 9 suction levels and massage mode. Rechargeable battery and discreet design for mothers on-the-go.",
+    "price": "99.00",
+    "category": "Baby Care",
+    "tags": ["breast-pump", "maternity", "baby-care", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Plush Activity Play Mat with Gym",
+    "description": "Extra-padded colorful floor mat with 5 hanging sensory toys. Features lights, music, and a tummy time pillow for early development.",
+    "price": "54.99",
+    "category": "Baby Toys",
+    "tags": ["play-mat", "baby-gym", "development", "sensory"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515488403636-ee00c1dcbdc2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wooden Montessori Shape Sorter",
+    "description": "Eco-friendly sustainable wood toy with 10 different shapes and colors. Traditional learning tool for improving hand-eye coordination and logic.",
+    "price": "24.99",
+    "category": "Educational Toys",
+    "tags": ["wooden-toys", "montessori", "educational", "learning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515488403636-ee00c1dcbdc2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Folding High Chair",
+    "description": "Self-standing high chair with a 3-position adjustable tray and easy-to-clean seat pad. Folds ultra-thin for space-saving storage.",
+    "price": "79.00",
+    "category": "Baby Gear",
+    "tags": ["high-chair", "baby-gear", "feeding", "furniture"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Non-Toxic Washable Finger Paints - Set of 6",
+    "description": "Vibrant and creamy paints in easy-squeeze bottles. Completely safe for toddlers and easily washes off skin, clothes, and walls.",
+    "price": "16.99",
+    "category": "Kids Arts & Crafts",
+    "tags": ["paints", "art-supplies", "kids-crafts", "creativity"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Interactive Talking Learning Robot",
+    "description": "Smart toy that teaches letters, numbers, and basic code logic through fun music and movement. Responds to voice commands and touch.",
+    "price": "45.00",
+    "category": "Educational Toys",
+    "tags": ["robot", "smart-toy", "educational", "STEM"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Breathable Mesh Baby Carrier",
+    "description": "Ergonomic multi-position carrier with an adjustable seat and padded shoulder straps for all-day comfort. Designed for infants up to 45lbs.",
+    "price": "89.00",
+    "category": "Baby Gear",
+    "tags": ["baby-carrier", "travel", "safety", "ergonomic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544126592-807daa2b567b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Baby Plate Set",
+    "description": "Sectioned plate with a powerful suction base and a matching soft silicone spoon. Sustainable and cute design for stress-free meal times.",
+    "price": "22.50",
+    "category": "Baby Care",
+    "tags": ["baby-feeding", "bamboo", "tableware", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Large Foldable Baby Playpen",
+    "description": "Safe and spacious activity center with mesh walls and a padded base. Includes an integrated zipper door and storage pocket for toys.",
+    "price": "69.99",
+    "category": "Baby Safety",
+    "tags": ["playpen", "baby-safety", "furniture", "activity-center"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultra-Soft Plush Elephant Snuggler",
+    "description": "Hand-stitched extra-large security blanket with a plush elephant head. Machine washable and incredibly soft, perfect for comforting and sleep.",
+    "price": "19.99",
+    "category": "Baby Toys",
+    "tags": ["plush-toy", "baby", "security-blanket", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Non-Contact Baby Thermometer",
+    "description": "Instant infrared forehead scanner for fever detection. Silent mode for sleeping babies and a color-coded fever alarm for quick results.",
+    "price": "34.00",
+    "category": "Baby Care",
+    "tags": ["thermometer", "baby-safety", "medical", "home-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "White Noise Sound Machine for Nurseries",
+    "description": "Compact sleep aid featuring 10 calming sounds: white noise, lullabies, and ocean waves. Includes a gentle warm-glow night light.",
+    "price": "29.99",
+    "category": "Baby Bedding",
+    "tags": ["white-noise", "baby-sleep", "nursery", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Diaper Bag Backpack",
+    "description": "Stylish and functional bag with 15 pockets, including insulated bottle holders and a waterproof pocket. Includes a folding changing mat.",
+    "price": "49.99",
+    "category": "Baby Gear",
+    "tags": ["diaper-bag", "travel", "parents", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Remote Control Stunt Car",
+    "description": "High-speed 4WD car that flips, spins, and performs 360-degree stunts. Durable enough for both indoor and outdoor rough and tumble play.",
+    "price": "32.00",
+    "category": "Kids Toys",
+    "tags": ["RC-car", "toys", "high-speed", "boys-toys"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594736797933-906109919f2e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "DIY Crystal Growing Science Kit",
+    "description": "Educational STEM activity for older kids to grow their own vibrant crystals at home. Includes all necessary ingredients and a colorful display stand.",
+    "price": "24.99",
+    "category": "Educational Toys",
+    "tags": ["science-kit", "STEM", "learning", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Kids Art Table with Chairs",
+    "description": "Sturdy wooden table with two chairs. Features a built-in roll of paper and storage bins for crayons, markers, and crafty projects.",
+    "price": "149.00",
+    "category": "Kids Furniture",
+    "tags": ["kids-table", "art-studio", "furniture", "creativity"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Baby Bath Seat and Tub",
+    "description": "Ergonomic tub with a newborn support insert and a built-in temperature gauge. Soft cushioned surface for a safe and relaxing bath time.",
+    "price": "39.99",
+    "category": "Baby Care",
+    "tags": ["baby-bath", "hygiene", "comfort", "nursery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Baby Bibs - 8pk",
+    "description": "Double-layered absorbent bibs with adjustable nickel-free snaps. Available in various cute prints. Soft against baby's delicate skin.",
+    "price": "15.99",
+    "category": "Baby Care",
+    "tags": ["baby-bibs", "cotton", "feeding", "essentials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515488403636-ee00c1dcbdc2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Kids Trampoline - Small",
+    "description": "Safe indoor trampoline for toddlers featuring a steady handle bar and a padded spring cover. Provides active fun and exercise.",
+    "price": "85.00",
+    "category": "Kids Toys",
+    "tags": ["trampoline", "exercise", "indoor-fun", "toys"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Baby Diaper Cream - Organic",
+    "description": "Extra-strength soothing barrier cream formulated with zinc oxide and calendula. Heals and protects against diaper rash naturally.",
+    "price": "12.49",
+    "category": "Baby Care",
+    "tags": ["diaper-cream", "baby-skincare", "hygiene", "nursery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Baby Bottle Warmer - Instant",
+    "description": "Heats breast milk or formula to the perfect temperature in minutes. Features a gentle steaming method to preserve nutrients. Digital timer.",
+    "price": "39.00",
+    "category": "Baby Gear",
+    "tags": ["bottle-warmer", "baby-feeding", "appliances", "nursery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Wooden Dollhouse- 3 Stories",
+    "description": "Beautiful hand-painted wooden dollhouse with realistic furniture and working doors. Large enough for multiple children to play together.",
+    "price": "159.00",
+    "category": "Kids Toys",
+    "tags": ["dollhouse", "toys", "imaginative-play", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Waterproof Binoculars - HD",
+    "description": "Rugged easy-to-use binoculars for young explorers. Features 8x magnification and oversized eye pieces for comfortable nature watching.",
+    "price": "22.99",
+    "category": "Educational Toys",
+    "tags": ["binoculars", "nature", "learning", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Kids Scooter with LED Wheels",
+    "description": "Zippy lightweight scooter with colorful light-up wheels. Features a simple thumb-throttle and rear foot brake for safe and fun riding.",
+    "price": "149.00",
+    "category": "Kids Toys",
+    "tags": ["scooter", "kids-ride-on", "outdoor-fun", "toys"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541625602330-2277a1cd1f59?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Soft Plush Kids Armchair - Dino",
+    "description": "Cute dinosaur-shaped bean bag chair for reading and watching shows. Lightweight and portable, a favorite addition to any playroom.",
+    "price": "49.99",
+    "category": "Kids Furniture",
+    "tags": ["bean-bag", "kids-seating", "furniture", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Bamboo Baby Pajamas",
+    "description": "Ultra-silky and temperature-regulating bamboo sleepwear. Features a 2-way zipper for easy diaper changes and non-slip feet.",
+    "price": "28.00",
+    "category": "Baby Clothing",
+    "tags": ["baby-pajamas", "bamboo", "sleepwear", "baby-clothing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Musical Interactive Piano Mat - 5ft",
+    "description": "Large floor piano mat that kids can play with their feet. Features 8 different instrument sounds and record/playback functions. Fun and active.",
+    "price": "39.99",
+    "category": "Kids Toys",
+    "tags": ["musical-toy", "piano-mat", "toys", "active-play"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515488403636-ee00c1dcbdc2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Baby Nasal Aspirator - Electric",
+    "description": "Gentle and effective hospital-strength suction to clear stuffy noses. Features 5 suction levels and calming music/lights to distract baby.",
+    "price": "44.99",
+    "category": "Baby Care",
+    "tags": ["nasal-aspirator", "baby-care", "hygiene", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Magnetic Doodle Drawing Board",
+    "description": "Mess-free creative toy for drawing and doodling. Includes various stamps and an easy-slide eraser for endless artistic fun.",
+    "price": "18.99",
+    "category": "Kids Arts & Crafts",
+    "tags": ["drawing-board", "kids-art", "toys", "mess-free"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Ergonomic Baby Bath Support",
+    "description": "Durable plastic reclining seat for safe and hands-free baby bathing. Features non-slip feet and a soft-touch surface for comfort.",
+    "price": "24.99",
+    "category": "Baby Care",
+    "tags": ["bath-support", "baby-bath", "hygiene", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "STEM Solar Powered Robot Kit",
+    "description": "Build 12 different robots that walk, crawl, and float using only solar energy. Excellent project for teaching renewable energy and mechanics.",
+    "price": "29.99",
+    "category": "Educational Toys",
+    "tags": ["STEM", "robot", "renewable-energy", "learning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Plush Unicorn Night Light & Projector",
+    "description": "Soft cuddly unicorn that projects a starry night sky onto the ceiling. Helps calm children and provides a comforting glow for sleep.",
+    "price": "25.00",
+    "category": "Kids Bedding",
+    "tags": ["night-light", "plush-toy", "baby-sleep", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Diaper Pail - Odor Locking",
+    "description": "Sleek and easy-to-use diaper disposal system with a powerful odor-control seal. One-handed operation and uses standard trash bags.",
+    "price": "69.00",
+    "category": "Baby Care",
+    "tags": ["diaper-pail", "hygiene", "nursery", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Kids Telescope with Tripod",
+    "description": "Entry-level astronomical telescope for viewing the moon and stars. High-quality glass optics provide clear and bright views for young astronomers.",
+    "price": "59.99",
+    "category": "Educational Toys",
+    "tags": ["telescope", "science", "learning", "astronomy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Fiber Baby Food Containers - 4pk",
+    "description": "Leak-proof and sustainable small glass containers for homemade baby food. Microwave and freezer safe, perfect for portioned meals.",
+    "price": "18.00",
+    "category": "Baby Care",
+    "tags": ["food-storage", "baby-feeding", "eco-friendly", "nursery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Wooden Balance Bike",
+    "description": "Natural birch wood bike designed to help toddlers develop balance and coordination before transition to a pedal bike. Lightweight and stylish.",
+    "price": "89.00",
+    "category": "Kids Gear",
+    "tags": ["balance-bike", "wooden-toys", "outdoor-fun", "toddler"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541625602330-2277a1cd1f59?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Large Kids Play Tent with Tunnel",
+    "description": "Vibrant and easy-to-assemble pop-up tent and connecting tunnel. Provides a fun indoor or outdoor hideout for imaginative play and adventure.",
+    "price": "34.99",
+    "category": "Kids Toys",
+    "tags": ["play-tent", "indoor-fun", "toys", "imaginative-play"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Baby Towel with Hood",
+    "description": "Extra-large ultra-absorbent bamboo cotton towel with a cute animal hood. Soft and gentle for drying baby's hair and body after bath time.",
+    "price": "22.50",
+    "category": "Baby Care",
+    "tags": ["baby-towel", "hygiene", "cotton", "nursery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Building Planks - 100pc",
+    "description": "Simple and open-ended wood blocks in various lengths. Encourages architectural thinking and creative problem-solving for all ages.",
+    "price": "39.99",
+    "category": "Educational Toys",
+    "tags": ["wooden-blocks", "architecture", "toys", "STEM"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515488403636-ee00c1dcbdc2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital HD Kids Camera",
+    "description": "Rugged and easy-to-grip 20.0 megapixel camera with a waterproof housing. Features fun filters, games, and video recording for young photographers.",
+    "price": "49.00",
+    "category": "Kids Toys",
+    "tags": ["kids-camera", "photography", "gadget", "learning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Leak Silicone Sippy Cup",
+    "description": "BPA-free training cup with a soft silicone spout and weighted straw. Easy-to-grip handles and completely leak-proof design for toddlers.",
+    "price": "14.99",
+    "category": "Baby Care",
+    "tags": ["sippy-cup", "baby-feeding", "hygiene", "essentials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Baby Bottle Drying Rack",
+    "description": "Elegant and space-saving rack with various branch lengths. Folds flat for travel and keeps baby items organized and hygienic.",
+    "price": "19.99",
+    "category": "Baby Gear",
+    "tags": ["drying-rack", "nursery", "organization", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Cloud Bookshelf for Nursery",
+    "description": "Small wall-mounted floating shelf in a cute cloud shape. perfect for displaying favorite bedtime books and nursery decorations.",
+    "price": "24.50",
+    "category": "Kids Furniture",
+    "tags": ["bookshelf", "nursery-decor", "furniture", "cloud"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cotton Storage Baskets - Set of 2",
+    "description": "Extra-large woven rope baskets for organizing toys, laundry, and nursery essentials. Neutral and elegant design that fits any home decor.",
+    "price": "39.99",
+    "category": "Nursery Decor",
+    "tags": ["storage", "organization", "nursery", "baskets"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Deluxe Baby Care Kit - 20pc",
+    "description": "Complete healthcare and grooming kit including hairbrush, nail clippers, finger toothbrush, and first aid guide in a portable case.",
+    "price": "29.99",
+    "category": "Baby Care",
+    "tags": ["baby-grooming", "health", "essentials", "gift-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic 3D Building Tiles - 100pc Set",
+    "description": "Unlock infinite creativity with these colorful translucent tiles. Features powerful magnets and various geometric shapes for building complex structures.",
+    "price": "69.99",
+    "category": "STEM Toys",
+    "tags": ["magnetic-tiles", "building", "STEM", "educational"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1587654711463-207e240213e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Walking Robot Dinosaur with Sound & Lights",
+    "description": "Remote-controlled T-Rex that walks, roars, and features glowing LED eyes. Made from safe, non-toxic materials for hours of prehistoric adventure.",
+    "price": "49.99",
+    "category": "Interactive Toys",
+    "tags": ["dinosaur", "robot", "remote-control", "interactive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1566576721346-d4a3b4eaad5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Deluxe Wooden Dollhouse with Furniture",
+    "description": "Large three-story Victorian-style dollhouse crafted from sustainable pine. Includes 15 pieces of hand-painted furniture and functioning doors.",
+    "price": "129.00",
+    "category": "Pretend Play",
+    "tags": ["dollhouse", "wooden-toys", "imaginative-play", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Junior Chemist Experiment Kit",
+    "description": "Conduct over 50 safe and exciting experiments at home. Includes real glass beakers, safety goggles, and a 40-page illustrated instruction manual.",
+    "price": "39.99",
+    "category": "STEM Toys",
+    "tags": ["science-kit", "chemistry", "educational", "learning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cozy Cable Knit Baby Blanket - Organic",
+    "description": "Soft and breathable blanket made from 100% GOTS certified organic cotton. Features a classic cable knit pattern, perfect for nurseries or travel.",
+    "price": "34.00",
+    "category": "Baby Essentials",
+    "tags": ["baby-blanket", "organic-cotton", "nursery", "cozy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Interactive Learning Globe",
+    "description": "Augmented reality globe that teaches geography, culture, and wildlife via a companion app. Explore thousands of facts about our planet interactively.",
+    "price": "89.00",
+    "category": "Educational Tech",
+    "tags": ["globe", "AR", "geography", "smart-toy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Trampoline for Toddlers",
+    "description": "Safe indoor trampoline with a high-density safety net and thick padded floor. perfect for burning energy and developing motor skills in small spaces.",
+    "price": "75.00",
+    "category": "Active Play",
+    "tags": ["trampoline", "toddler", "indoor-play", "active"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Animal Finger Puppets - Plush",
+    "description": "Hand-stitched soft velvet puppets for storytelling and imaginative play. Includes a lion, elephant, giraffe, monkey, zebra, and hippo.",
+    "price": "14.99",
+    "category": "Pretend Play",
+    "tags": ["puppets", "storytelling", "soft-toys", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Silicone Baby Bibs - Set of 3",
+    "description": "Easy-clean bibs with a deep food catcher pocket. Adjustable neckband grows with your baby. durable, lightweight, and BPA-free.",
+    "price": "19.99",
+    "category": "Baby Care",
+    "tags": ["bibs", "baby-feeding", "silicone", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 12-Piece Kids' Art Studio",
+    "description": "Comprehensive art set including washable paints, watercolor pencils, brushes, and a sturdy table easel. Ideal for budding young artists.",
+    "price": "44.99",
+    "category": "Arts & Crafts",
+    "tags": ["art-set", "creativity", "painting", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultralight Balance Bike - Ages 2-5",
+    "description": "Aluminum frame bike with no pedals. Helps toddlers develop coordination and balance naturally before transitioning to a real pedal bike.",
+    "price": "89.00",
+    "category": "Active Play",
+    "tags": ["balance-bike", "outdoor", "development", "active"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eco-Friendly Bamboo Dinnerware Set",
+    "description": "Set of 5 colorful pieces: plate, bowl, cup, and utensils. Crafted from sustainable bamboo fiber, it's a great plastic-free alternative for kids.",
+    "price": "24.99",
+    "category": "Baby Care",
+    "tags": ["dinnerware", "bamboo", "eco-friendly", "baby-feeding"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart LED Star Projector Night Light",
+    "description": "Transform any ceiling into a rotating galaxy. Features 10 color modes, music speaker, and remote control for the perfect sleep environment.",
+    "price": "39.00",
+    "category": "Nursery Decor",
+    "tags": ["night-light", "star-projector", "smart-toy", "sleep"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Teething Rings - Pair",
+    "description": "Natural untreated beechwood rings with soft organic cotton ears. Safe and soothing for teething babies while stimulating sensory development.",
+    "price": "14.49",
+    "category": "Baby Care",
+    "tags": ["teething", "organic", "sensory", "safe"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558223610-1014a0e3346a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable High Chair Booster Seat",
+    "description": "Ultra-compact and lightweight seats that straps to standard family chairs. Features a removable 3-point harness and easy-clean padded surface.",
+    "price": "49.00",
+    "category": "Baby Care",
+    "tags": ["booster-seat", "travel-gear", "baby-feeding", "convenience"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree - Kids' Size",
+    "description": "Smaller scaled vertical organizer for up to 4 of your child's favorite mugs. Weighted solid brass base ensures stability on low tables or playroom desks.",
+    "price": "29.99",
+    "category": "Nursery Decor",
+    "tags": ["mug-tree", "organization", "brass", "modern-kids"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Himalayan Salt Table Lamp - Small",
+    "description": "Hand-carved salt crystal lamp providing a warm, amber glow. Create a calming and cozy atmosphere for reading or sleep in a child's bedroom.",
+    "price": "24.99",
+    "category": "Nursery Decor",
+    "tags": ["lighting", "wellness", "cozy", "nightlight"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Device Bluetooth Screen Switcher - Mini",
+    "description": "Small desktop button allowing kids to switch their educational wireless keyboard and mouse between a computer and tablet easily during homework.",
+    "price": "19.99",
+    "category": "Educational Tech",
+    "tags": ["tech-gadget", "multi-device", "homework", "convenience"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Desk Organizers - Set of 3",
+    "description": "Clear hand-blown glass canisters for organizing crafting supplies like beads, stamps, and ribbons. keeps small parts accessible and beautifully visible.",
+    "price": "24.50",
+    "category": "Arts & Crafts",
+    "tags": ["glass-canisters", "minimalist", "craft-organization", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941068-d08316492978?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Backpack for School - Small",
+    "description": "Premium durable leather bag with a privacy flap. Sized perfectly for primary school students, includes an internal padded section for tablets.",
+    "price": "65.00",
+    "category": "Bags & Gear",
+    "tags": ["school-bag", "leather", "professional-kids", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 12-Digit Desktop Calculator - Mini",
+    "description": "Mechanical key calculator in fun colors with a large tilting LCD. Provides a tactile typing experience for young students practicing math.",
+    "price": "26.00",
+    "category": "Educational Tech",
+    "tags": ["calculator", "tactile-keys", "math", "study-gear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Letter Opener - Toy Safe",
+    "description": "Polished brass stationery tool with rounded safety edges. A beautiful and heavy object to help children explore the 'magic' of opening mail safely.",
+    "price": "15.50",
+    "category": "Nursery Decor",
+    "tags": ["letter-opener", "brass", "minimalist", "imagination"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Folding Wooden Laptop Desk - Kids' Size",
+    "description": "Pro-style sturdy solid pine tray with adjustable tilting top. Includes a small drawer for pens and a phone/tablet holder slot for home learning.",
+    "price": "45.00",
+    "category": "Furniture",
+    "tags": ["study-tray", "work-from-home-kids", "ergonomic", "furniture"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Sensor for Indoor Plants - Mini",
+    "description": "Fun Bluetooth enabled sensor that alerts a child's phone if their bedroom plant needs care. Teaches responsibility and plant biology practically.",
+    "price": "24.99",
+    "category": "Educational Tech",
+    "tags": ["plant-sensor", "smart-home", "learning", "nature"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Wall Mounted Toy Rack",
+    "description": "Sustainable and sturdy rack with customizable hooks. help children organize their bags and toys while adding an organic aesthetic to playrooms.",
+    "price": "39.00",
+    "category": "Organization",
+    "tags": ["toy-rack", "bamboo", "organization", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 3-Hole Electric Paper Punch - Light",
+    "description": "Child-safe fully automatic puncher for school binders. handles up to 15 sheets of paper effortlessly. Includes a mess-free easy-empty tray.",
+    "price": "54.00",
+    "category": "Educational Tech",
+    "tags": ["puncher", "study-supplies", "automation", "efficiency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Mesh Market Bags - Kids' Set",
+    "description": "Small-sized reusable bags for children to use at the store. washable and breathable cotton mesh for carrying fresh snacks and small toy finds.",
+    "price": "14.49",
+    "category": "Baby Essentials",
+    "tags": ["mesh-bags", "eco-friendly", "sustainable", "shopping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Meat Thermometer - Play Kitchen",
+    "description": "Safe, realistic toy version of a digital thermometer. Displays temperature and makes realistic beeping sounds for immersive chef pretend play.",
+    "price": "19.99",
+    "category": "Pretend Play",
+    "tags": ["thermometer-toy", "chef-pretend", "interactive", "learning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Ceramic Bird House - Nightlight",
+    "description": "Small glazed decorative piece shaped like a traditional birdhouse. casts a warm flickering glow through its windows with its safe LED tea light.",
+    "price": "19.99",
+    "category": "Nursery Decor",
+    "tags": ["night-light", "ceramic", "minimalist", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Stone Bookends - Kids' Collection",
+    "description": "Pair of heavy-weight unpolished stone bookends in playful natural shapes. Holds your entire picture book collection securely in your nursery area.",
+    "price": "45.00",
+    "category": "Organization",
+    "tags": ["bookends", "marble", "minimalist", "nursery-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Blind Motor for Playrooms",
+    "description": "Easily automate your existing playroom window shades with this smart battery-operated motor. control via app or set automated family schedules.",
+    "price": "89.00",
+    "category": "Educational Tech",
+    "tags": ["automation", "smart-home", "convenience", "nursery-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Key Holder & Play Shelf",
+    "description": "Low-mounted magnetic wall organizer for children's toy keys and drawings. Holds up to 6 items and features a top shelf for favorite toy figures.",
+    "price": "24.00",
+    "category": "Organization",
+    "tags": ["key-holder-toy", "wooden", "minimalist", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gourmet Artisan Tea Party Spice Set",
+    "description": "Set of three unique child-safe aromatic blends for sensory play: Sweet Cinnamon, Soothing Lavender, and Bright Citrus Petals. handcrafted.",
+    "price": "29.99",
+    "category": "Pretend Play",
+    "tags": ["play-spice", "sensory", "gift", "tea-party"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Rechargeable LED Adventure Light",
+    "description": "Ultra-bright and versatile camping light with a large carry handle and magnetic base. ideal for backyard forts or night-time book explores.",
+    "price": "34.00",
+    "category": "Active Play",
+    "tags": ["adventure-light", "camping-kids", "explorer", "rechargeable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Humidity Monitor - Nursery Pro",
+    "description": "Small enough for a change table, this precision sensor monitor helps you track air quality in a baby's room and ensures a safe, healthy environment.",
+    "price": "18.99",
+    "category": "Educational Tech",
+    "tags": ["humidity-monitor", "wellness", "smart-device", "baby-safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Desk Clock - Toy Size",
+    "description": "Hand-polished solid brass tabletop clock with silent sweeping hands. A timeless and elegant way for kids to track time on their study desk.",
+    "price": "22.50",
+    "category": "Nursery Decor",
+    "tags": ["clock", "brass", "minimalist", "learning-time"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Linen Storage Bins with Leather Handles",
+    "description": "Folding canvas storage cubes for playroom organization. durable and lightweight, they fit perfectly into standard cube shelving units.",
+    "price": "32.00",
+    "category": "Organization",
+    "tags": ["storage-bins", "linen", "organization", "nursery-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Tape Dispenser - Toy Safe",
+    "description": "Weighted brass dispenser with a child-safe cutting edge. heavy enough to stay in place during use, adding a high-end feel to craft time.",
+    "price": "35.00",
+    "category": "Arts & Crafts",
+    "tags": ["tape-dispenser", "brass", "nursery-decor", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Copper Vacuum Insulated Kids' Bottle",
+    "description": "Elegant and naturally antimicrobial copper bottle that keeps water cold for 24 hours. minimalist design perfect for school lunches and sports.",
+    "price": "39.00",
+    "category": "Baby Essentials",
+    "tags": ["water-bottle", "copper", "insulated", "luxury-kids"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Glass Candle Tins - Kids' Safe",
+    "description": "Small child-safe LED candle tins with various floral fragrances. Create a homey atmosphere in any playroom or bedroom safely and easily.",
+    "price": "34.99",
+    "category": "Nursery Decor",
+    "tags": ["candles-led", "scent", "relaxation", "safe-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty 45L Kids' Camp Backpack",
+    "description": "Robust water-resistant rucksack sized for overnight scouts. Features multiple pockets and an integrated rain cover for rugged expeditions.",
+    "price": "89.00",
+    "category": "Bags & Gear",
+    "tags": ["backpack", "travel-bag", "scouts", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Insulated Stainless Steel Sippy Cup- 12oz",
+    "description": "Double-wall vacuum insulation keeps drinks cold for 24 hours. Features a leak-proof soft-silicone spout and easy-to-hold side handles.",
+    "price": "24.99",
+    "category": "Baby Essentials",
+    "tags": ["sippy-cup", "insulated", "baby-feeding", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultralight Kids' Hammock with Straps",
+    "description": "Breathable parachute nylon hammock sized for children. supports up to 250lbs and includes adjustable straps for easy setup in any backyard.",
+    "price": "39.99",
+    "category": "Active Play",
+    "tags": ["hammock", "playroom", "leisure", "ultralight"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510312295971-6f011702811a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Wi-Fi Kids' Tracker - Wearable",
+    "description": "Compact and airline-approved GPS tracker watch. Monitor your child's location in real-time via an app during family trips or outings.",
+    "price": "49.00",
+    "category": "Educational Tech",
+    "tags": ["kids-tracker", "gps", "safety-tech", "peace-of-mind"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Polarized Adventure Shades - Ages 3-10",
+    "description": "Ultra-lightweight unbreakable frames that float in water. UV400 rated polarized lenses protect young eyes during high-energy beach activities.",
+    "price": "34.00",
+    "category": "Active Play",
+    "tags": ["sunglasses-kids", "polarized", "watersports", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Kids' First Aid Kit - Travel Size",
+    "description": "Essential medical kit in a colorful waterproof pouch. includes colorful bandages, antiseptic wipes, and a safety guide for parent and child.",
+    "price": "24.99",
+    "category": "Baby Care",
+    "tags": ["first-aid", "safety", "parenting", "essentials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Ultralight Play Mat",
+    "description": "Soft and insulated 1-inch thick mat that provides a comfortable cushioned surface for tummy time anywhere. Folds to fit in a diaper bag.",
+    "price": "35.00",
+    "category": "Baby Essentials",
+    "tags": ["play-mat", "travel-gear", "baby-comfort", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Kids' Headphone Case",
+    "description": "Shockproof and water-resistant hard shell case. fits most over-ear headphones and includes a pocket for chargers and small travel toys.",
+    "price": "19.99",
+    "category": "Educational Tech",
+    "tags": ["headphone-case", "protection", "travel-gear", "kids-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Leak-Proof Snack Bag Set",
+    "description": "Set of 3 reusable food-safe bags with a reliable zipper closure. keeps fruit and cookies fresh for school lunches sustainably.",
+    "price": "14.99",
+    "category": "Baby Essentials",
+    "tags": ["snack-bags", "eco-friendly", "school-lunch", "silicone"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 4K Action Camera - Kids' Pro",
+    "description": "Highly durable waterproof camera with large simplified buttons and voice control. perfect for active kids capturing their first adventures.",
+    "price": "69.00",
+    "category": "Interactive Toys",
+    "tags": ["kids-camera", "tech", "underwater", "creativity"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

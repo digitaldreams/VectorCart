@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Adjustable Dumbbell Set - 50lbs",
+    "description": "Premium cast iron adjustable dumbbells with secure spin-lock collars. Versatile for home strength training, allowing for quick weight changes between exercises.",
+    "price": "149.99",
+    "category": "Strength Training",
+    "tags": ["weights", "dumbbells", "strength", "home-gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583454110551-21f2fa20211c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Density Yoga Mat - 6mm",
+    "description": "Eco-friendly TPE yoga mat with non-slip texture and extra cushioning. Perfect for yoga, pilates, and floor exercises. Lightweight and includes carrying strap.",
+    "price": "39.99",
+    "category": "Yoga & Pilates",
+    "tags": ["yoga", "mat", "non-slip", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Jump Rope",
+    "description": "Speed jump rope with ball bearing system for smooth rotation. Adjustable cable length and ergonomic handles. Ideal for cardio, boxing, and MMA training.",
+    "price": "19.99",
+    "category": "Cardio",
+    "tags": ["jump-rope", "cardio", "fitness", "speed"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1599058917232-d750c1859d72?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Resistance Bands Set - 5 Levels",
+    "description": "Set of 5 premium latex resistance bands ranging from extra light to extra heavy. Great for physical therapy, strength training, and full-body workouts at home.",
+    "price": "24.99",
+    "category": "Strength Training",
+    "tags": ["resistance-bands", "fitness", "home-gym", "stretching"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598971169397-0402e3a1f11a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Foam Roller for Muscle Recovery",
+    "description": "High-density foam roller for deep tissue massage and trigger point therapy. Rejuvenates sore muscles and improves flexibility. Compact 12-inch design.",
+    "price": "22.99",
+    "category": "Recovery & Wellness",
+    "tags": ["massage", "foam-roller", "recovery", "stretching"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1600881333168-2ed099fe515e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cast Iron Kettlebell - 20lbs",
+    "description": "Durable solid cast iron kettlebell with wide comfortable handle. Powder-coated finish to prevent corrosion. Versatile for swings, squats, and functional movements.",
+    "price": "44.99",
+    "category": "Strength Training",
+    "tags": ["kettlebell", "weights", "strength", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Folding Exercise Bike",
+    "description": "Compact stationary bike with 8 levels of magnetic resistance. LCD monitor tracks speed, time, distance, and calories. Space-saving design for small apartments.",
+    "price": "179.99",
+    "category": "Cardio",
+    "tags": ["exercise-bike", "cardio", "fitness", "home-gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Suspension Training System",
+    "description": "Professional bodyweight training kit with reinforced anchors and ergonomic handles. Develop strength, balance, and core stability using your own body weight.",
+    "price": "89.99",
+    "category": "Strength Training",
+    "tags": ["suspension-trainer", "bodyweight", "fitness", "core"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ab Roller with Knee Pad",
+    "description": "Stable dual-wheel ab roller with comfortable foam handles. Includes high-density foam knee pad for extra protection during core workouts.",
+    "price": "18.99",
+    "category": "Core Training",
+    "tags": ["ab-roller", "core", "abs", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Burst Stability Ball - 65cm",
+    "description": "Thick wall stability ball for core strength, balance, and posture. Ideal for home workouts and active sitting. Includes quick inflation foot pump.",
+    "price": "24.99",
+    "category": "Yoga & Pilates",
+    "tags": ["stability-ball", "exercise-ball", "core", "yoga"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518611012118-296056caf200?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pull-Up Bar for Doorway",
+    "description": "Heavy-duty steel pull-up bar with multiple grip positions. Easy to install without screws, fits standard doorways. Padded handles for comfort.",
+    "price": "34.99",
+    "category": "Strength Training",
+    "tags": ["pull-up-bar", "strength", "fitness", "home-gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544033527-b192daee1f5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Medicine Ball - 10lbs",
+    "description": "Textured rubber medicine ball for rotational training and explosive movements. Durable design with non-slip grip. Great for core and strength conditioning.",
+    "price": "39.99",
+    "category": "Strength Training",
+    "tags": ["medicine-ball", "weights", "fitness", "core"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Weighted Vest - 20lbs",
+    "description": "Adjustable weighted vest with even weight distribution. Made with breathable mesh and reflective strips for safety. Increases intensity of cardio and bodyweight exercises.",
+    "price": "59.99",
+    "category": "Strength Training",
+    "tags": ["weighted-vest", "fitness", "cardio", "strength"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aerobic Stepper Platform",
+    "description": "Adjustable aerobic step with non-slip surface. Three height levels for varying workout intensity. Ideal for cardio, strength, and group fitness classes.",
+    "price": "49.99",
+    "category": "Cardio",
+    "tags": ["aerobic-step", "fitness", "cardio", "stepper"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ankle Weights Set - 5lbs Pair",
+    "description": "Comfortable ankle weights with adjustable straps. Perfect for adding resistance to walking, jogging, and lower body exercises. Reinforced stitching for durability.",
+    "price": "16.99",
+    "category": "Strength Training",
+    "tags": ["ankle-weights", "weights", "fitness", "toning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Punching Bag Set - 80lbs",
+    "description": "Heavy-duty synthetic leather punching bag with double-end loops. Includes boxing gloves, hand wraps, and ceiling mount. Great for HIIT and martial arts training.",
+    "price": "129.99",
+    "category": "Martial Arts",
+    "tags": ["boxing", "punching-bag", "MMA", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1509190105349-346cb77358ed?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Agility Ladder and Cones Set",
+    "description": "15ft agility ladder with 12 rungs and 10 marking cones. Ideal for footwork, speed, and coordination training for various sports. Portable with carrying bag.",
+    "price": "29.99",
+    "category": "Sports Training",
+    "tags": ["agility", "speed", "athletics", "training"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Swim Fins for Training",
+    "description": "Short blade training fins designed to increase leg strength and ankle flexibility. Soft rubber foot pocket for comfort. Perfect for swim drills and workouts.",
+    "price": "25.99",
+    "category": "Swimming",
+    "tags": ["swimming", "fins", "fitness", "training"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387631-afb16881947b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electronic Smart Jump Rope",
+    "description": "Digital jump rope with backlit LCD display that tracks jumps, time, and calories. Syncs with fitness apps via Bluetooth. Adjustable length for adults and kids.",
+    "price": "34.99",
+    "category": "Cardio",
+    "tags": ["jump-rope", "smart-fitness", "cardio", "digital"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544033527-b192daee1f5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Battle Rope - 30ft",
+    "description": "Heavy-duty poly-dacron battle rope with heat-shrunk handles for better grip. High tensile strength for intense core and full-body conditioning.",
+    "price": "79.99",
+    "category": "Strength Training",
+    "tags": ["battle-rope", "strength", "HIIT", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand Grip Strengthener",
+    "description": "Adjustable hand grip exercises from 22lbs to 132lbs. Great for improving finger and forearm strength. Ergonomic design fits all hand sizes.",
+    "price": "12.99",
+    "category": "Strength Training",
+    "tags": ["hand-grip", "strength", "rehab", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541575140244-9d042be68292?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "BOSU Balance Trainer",
+    "description": "The original half-ball balance trainer with stable base. Enhance balance, core stability, and agility with a wide range of surface exercises.",
+    "price": "159.99",
+    "category": "Core Training",
+    "tags": ["balance-trainer", "BOSU", "core", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518611012118-296056caf200?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Olympic Barbell Wall Rack",
+    "description": "Heavy-duty steel wall-mounted rack for storing up to 3 Olympic barbells. Protective padding to prevent scratches. Space-saving gym organization.",
+    "price": "39.99",
+    "category": "Gym Equipment",
+    "tags": ["barbell-rack", "storage", "home-gym", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Padded Gym Floor Tiles - 24sq ft",
+    "description": "Interlocking EVA foam floor mats with high-density padding. Water-resistant and shock-absorbent surface for home gyms and play areas. Six tiles included.",
+    "price": "44.99",
+    "category": "Gym Equipment",
+    "tags": ["flooring", "gym-mats", "home-gym", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Muscle Massage Gun",
+    "description": "Professional percussion massager with 6 speed levels and 4 attachment heads. Quiet brushless motor for effective muscle relief and recovery.",
+    "price": "119.99",
+    "category": "Recovery & Wellness",
+    "tags": ["massage-gun", "recovery", "muscle-relief", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hydration Bladder - 2L",
+    "description": "BPA-free hydration reservoir with leak-proof valve and insulated tube. Fits standard hiking backpacks. Large opening for easy cleaning and ice filling.",
+    "price": "24.99",
+    "category": "Outdoor Sports",
+    "tags": ["hydration", "hiking", "cycling", "outdoors"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Microfiber Sports Towel Set",
+    "description": "Quick-dry microfiber towels in three sizes. Highly absorbent and lightweight. Includes breathable mesh carrying pouch. Essential for gym and outdoor sports.",
+    "price": "19.99",
+    "category": "Fitness Accessories",
+    "tags": ["towels", "microfiber", "gym", "quick-dry"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1600881333168-2ed099fe515e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rechargeable Headlamp",
+    "description": "High-lumen LED headlamp with adjustable angle and 5 lighting modes. Water-resistant and shock-proof. Perfect for night running, hiking, and camping.",
+    "price": "29.99",
+    "category": "Outdoor Sports",
+    "tags": ["headlamp", "hiking", "running", "camping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Golf Hitting Net",
+    "description": "Large indoor/outdoor golf practice net with target and carrying bag. Durable nylon mesh and sturdy frame. Practice your swing safely at home.",
+    "price": "89.99",
+    "category": "Golf",
+    "tags": ["golf", "training-aid", "fitness", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1535131749006-b7f58c99034b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Fitness Mirror",
+    "description": "High-definition interactive mirror with built-in fitness classes and personal training. Elegant design when off, powerful portal when on.",
+    "price": "1499.00",
+    "category": "Smart Fitness",
+    "tags": ["smart-fitness", "home-gym", "technology", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Weight Bench",
+    "description": "Durable steel weight bench with 7 backrest positions and 3 seat positions. Foldable design for easy storage. Ideal for dumbbell and barbell workouts.",
+    "price": "139.99",
+    "category": "Gym Equipment",
+    "tags": ["weight-bench", "strength", "home-gym", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compression Arm Sleeves",
+    "description": "Moisture-wicking compression sleeves for muscle support and improved circulation. UPF 50+ sun protection. Pair of sleeves for various sports.",
+    "price": "14.99",
+    "category": "Sports Training",
+    "tags": ["compression", "arm-sleeves", "recovery", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Liquid Chalk for Weightlifting",
+    "description": "Fast-drying liquid chalk for superior grip in weightlifting, climbing, and gymnastics. Mess-free formula in a convenient squeeze bottle.",
+    "price": "12.49",
+    "category": "Strength Training",
+    "tags": ["chalk", "grip", "lifting", "gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Yoga Wheel for Stretching",
+    "description": "Sturdy yoga wheel with comfortable eco-friendly TPE padding. Assists with backbends, core strength, and deep stretching. Supports up to 550lbs.",
+    "price": "34.99",
+    "category": "Yoga & Pilates",
+    "tags": ["yoga-wheel", "stretching", "yoga", "flexibility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tactical Backpack - 40L",
+    "description": "Large water-resistant tactical backpack with MOLLE webbing and multiple compartments. Padded laptop sleeve and comfortable straps for long treks.",
+    "price": "64.99",
+    "category": "Outdoor Sports",
+    "tags": ["backpack", "hiking", "tactical", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Recreational Badminton Set",
+    "description": "Complete badminton set with 4 steel rackets, adjustable net, and 3 shuttlecocks. Includes carrying bag for easy transport to parks and beaches.",
+    "price": "49.99",
+    "category": "Racket Sports",
+    "tags": ["badminton", "outdoor-games", "sports", "leisure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Phone Pouch",
+    "description": "Universal waterproof dry bag for smartphones up to 7 inches. Touch-friendly window and secure locking mechanism. Ideal for swimming, kayaking, and beach trips.",
+    "price": "14.99",
+    "category": "Outdoor Sports",
+    "tags": ["waterproof", "phone-pouch", "swimming", "kayaking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387631-afb16881947b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cycling Helmet with LED Rear Light",
+    "description": "Lightweight aerodynamic bike helmet with 22 vents for cooling. Integrated rechargeable LED rear light for safety. Adjustable size for perfect fit.",
+    "price": "44.99",
+    "category": "Cycling",
+    "tags": ["helmet", "cycling", "safety", "bicycle"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541625602330-2277a1cd1f59?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Stand Up Paddle Board",
+    "description": "10ft inflatable SUP with non-slip deck and triple fins. Includes adjustable paddle, hand pump, leash, and travel backpack. Durable military-grade PVC.",
+    "price": "399.00",
+    "category": "Outdoor Sports",
+    "tags": ["paddle-board", "SUP", "water-sports", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Basketball Hoop",
+    "description": "Portable basketball system with adjustable height from 7.5ft to 10ft. Shatterproof backboard and stable base that can be filled with water or sand.",
+    "price": "249.99",
+    "category": "Team Sports",
+    "tags": ["basketball", "sports", "outdoor", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544919935-430c0007b719?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Thermal Compression Tights",
+    "description": "Insulated compression leggings for cold weather outdoor sports. Brushed fleece interior for warmth and moisture-wicking exterior.",
+    "price": "39.99",
+    "category": "Sports Training",
+    "tags": ["compression", "tights", "running", "winter-sports"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Knee Support Braces - Pair",
+    "description": "Breathable neoprene knee sleeves with adjustable compression straps. Provides stability and relief for joint pain and injuries during sports.",
+    "price": "24.99",
+    "category": "Recovery & Wellness",
+    "tags": ["knee-support", "recovery", "brace", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Impact Sports Bra",
+    "description": "Max support sports bra with moisture-wicking fabric and adjustable straps. Wire-free design for maximum comfort during intense workouts.",
+    "price": "34.99",
+    "category": "Fitness Accessories",
+    "tags": ["sports-bra", "fitness", "workout", "support"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Swim Cap - 2 Pack",
+    "description": "Durable and flexible silicone swim caps designed for a comfortable, snag-free fit. Protects hair from chlorine and reduces drag.",
+    "price": "14.49",
+    "category": "Swimming",
+    "tags": ["swim-cap", "swimming", "pool", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387631-afb16881947b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Fog Swimming Goggles",
+    "description": "Professional swim goggles with wide vision lenses and UV protection. Leak-proof silicone seal and adjustable double head strap.",
+    "price": "18.99",
+    "category": "Swimming",
+    "tags": ["goggles", "swimming", "pool", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387631-afb16881947b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Weightlifting Gloves with Wrist Wraps",
+    "description": "Breathable gym gloves with padded palms and integrated long wrist wraps for maximum wrist stability during heavy lifts.",
+    "price": "22.99",
+    "category": "Strength Training",
+    "tags": ["gym-gloves", "weightlifting", "strength", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Barbell Pad for Squats",
+    "description": "High-density foam barbell pad with anti-slip surface. Ergonomic design to relieve pressure on neck and shoulders during squats and lunges.",
+    "price": "19.99",
+    "category": "Strength Training",
+    "tags": ["barbell-pad", "squats", "lifting", "gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Weightlifting Belt - Leather",
+    "description": "Genuine leather weightlifting belt with 4-inch uniform width for core support. Double-prong steel buckle for secure fit.",
+    "price": "49.99",
+    "category": "Strength Training",
+    "tags": ["weight-belt", "lifting", "strength", "gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Speed Agility Cones - Set of 20",
+    "description": "Durable flexible plastic marking cones in high-visibility colors. Essential for footwork drills and boundary marking in all sports.",
+    "price": "14.99",
+    "category": "Sports Training",
+    "tags": ["cones", "agility", "training-aid", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Weighted Walking Bars",
+    "description": "Set of two 2lb hand-weighted bars with comfortable foam grip. Ideal for increasing cardio intensity and toning arms while walking.",
+    "price": "19.49",
+    "category": "Strength Training",
+    "tags": ["weights", "walking", "fitness", "toning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Yoga Strap - 8ft",
+    "description": "Durable cotton yoga strap with secure metal D-ring buckle. Increases range of motion and helps with deep stretches and alignment.",
+    "price": "11.99",
+    "category": "Yoga & Pilates",
+    "tags": ["yoga-strap", "stretching", "yoga", "flexibility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pilates Ring - 14-inch",
+    "description": "Flexible composite magic circle with double-sided foam handles. Ideal for toning inner and outer thighs, arms, and chest.",
+    "price": "24.99",
+    "category": "Yoga & Pilates",
+    "tags": ["pilates", "toning", "fitness", "yoga"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fitness Journal and Workout Planner",
+    "description": "Comprehensive spiral-bound logbook for tracking exercises, sets, reps, and nutrition. Goal setting sections and progress charts.",
+    "price": "16.99",
+    "category": "Fitness Accessories",
+    "tags": ["journal", "planner", "fitness-log", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sports Headbands - 3 Pack",
+    "description": "Elastic moisture-wicking headbands with silicone grip to stay in place. Lightweight and breathable fabric for any workout.",
+    "price": "12.99",
+    "category": "Fitness Accessories",
+    "tags": ["headband", "fitness", "running", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Deep Tissue Lacrosse Ball",
+    "description": "Dense high-quality rubber ball for pinpoint muscle massage and trigger point therapy. Excellent for relieving tension in back and feet.",
+    "price": "9.49",
+    "category": "Recovery & Wellness",
+    "tags": ["massage", "recovery", "muscle-relief", "mobility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Ankle Braces - Pair",
+    "description": "Breathable compression ankle supports with adjustable straps. Provides stability for weak or injured ankles during any physical activity.",
+    "price": "19.99",
+    "category": "Recovery & Wellness",
+    "tags": ["ankle-brace", "recovery", "sports-support", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Punching Bag for Kids",
+    "description": "Free-standing inflatable heavy bag with stable base for water or sand. Soft safe surface for kids to practice active play and fitness.",
+    "price": "24.99",
+    "category": "Kids Fitness",
+    "tags": ["boxing", "kids", "active-play", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1509190105349-346cb77358ed?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Yoga Blocks - Set of 2",
+    "description": "Large supportive foam yoga blocks with non-slip surface and beveled edges. Essential tool for deepening poses and ensuring proper alignment.",
+    "price": "18.99",
+    "category": "Yoga & Pilates",
+    "tags": ["yoga-blocks", "yoga", "fitness", "stretching"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mini Exercise Bike - Under Desk",
+    "description": "Compact pedal exerciser for arms and legs. Adjustable resistance and digital monitor. Perfect for low-impact exercise while working.",
+    "price": "49.99",
+    "category": "Cardio",
+    "tags": ["pedal-exerciser", "under-desk", "low-impact", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rechargeable LED Safety Vest",
+    "description": "High-visibility reflective vest with integrated LED lights. Multiple lighting modes and adjustable size. Essential for night running and cycling.",
+    "price": "29.99",
+    "category": "Outdoor Sports",
+    "tags": ["safety-vest", "running", "cycling", "night-safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compression Wrist Wraps - Pair",
+    "description": "Elastic wrist supports with thumb loop and velcro closure. Provides adjustable compression and stability for heavy lifting and racket sports.",
+    "price": "14.49",
+    "category": "Strength Training",
+    "tags": ["wrist-wraps", "lifting", "support", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Foam Grip Pull-Up Handles",
+    "description": "Comfortable foam-covered handles that slide onto standard pull-up bars to provide a neutral grip option. Reduces strain on wrists.",
+    "price": "16.99",
+    "category": "Strength Training",
+    "tags": ["pull-up-handles", "strength", "fitness", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544033527-b192daee1f5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stretching Strap with Loops",
+    "description": "Non-elastic multi-loop strap for assisted stretching. Allows for deep and effective stretches without a partner. Includes exercise guide.",
+    "price": "12.99",
+    "category": "Yoga & Pilates",
+    "tags": ["stretching", "flexibility", "rehab", "yoga"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Arm Blaster for Biceps",
+    "description": "Contoured aluminum arm blaster designed to isolate biceps and triceps. Adjustable nylon strap and padded neck and elbows for comfort.",
+    "price": "39.99",
+    "category": "Strength Training",
+    "tags": ["arm-blaster", "biceps", "strength", "lifting"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sliding Core Discs - Pair",
+    "description": "Dual-sided core gliders for various floor types. Enhance core strength, balance, and stability with low-impact bodyweight movements.",
+    "price": "14.99",
+    "category": "Core Training",
+    "tags": ["core-sliders", "gliders", "fitness", "abs"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sports Armband for Phone",
+    "description": "Adjustable neoprene armband with touch-sensitive window and key holder. Breathable and sweat-proof design for running and cycling.",
+    "price": "16.49",
+    "category": "Outdoor Sports",
+    "tags": ["armband", "phone-holder", "running", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gym Chalk Bag for Climbing",
+    "description": "Large chalk bag with drawstring closure and adjustable waist belt. Fleece lining and brush holder. Perfect for rock climbing and lifting.",
+    "price": "19.99",
+    "category": "Outdoor Sports",
+    "tags": ["chalk-bag", "climbing", "lifting", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522163182402-834f871fd851?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Weighted Ropeless Jump Rope",
+    "description": "Digital cordless jump rope with weighted handles and simulation balls. Ideal for indoor workouts without space constraints. Tracks time and jumps.",
+    "price": "29.99",
+    "category": "Cardio",
+    "tags": ["jump-rope", "cordless", "fitness", "indoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544033527-b192daee1f5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pilates Head Pillow",
+    "description": "Small supportive foam pillow designed for proper head and neck alignment during Pilates and floor work. Moisture-resistant and easy to clean.",
+    "price": "14.99",
+    "category": "Yoga & Pilates",
+    "tags": ["pilates", "yoga", "support", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Finger Exerciser Set - 3 Levels",
+    "description": "Set of three silicone finger stretchers with different resistance levels. Great for strengthening finger muscles and improving dexterity.",
+    "price": "9.99",
+    "category": "Strength Training",
+    "tags": ["finger-exerciser", "strength", "rehab", "training"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541575140244-9d042be68292?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sports Mouthguard for Adults",
+    "description": "Professional quality boil-and-bite mouthguard for maximum protection and comfort during contact sports. Includes ventilated carrying case.",
+    "price": "12.99",
+    "category": "Team Sports",
+    "tags": ["mouthguard", "protection", "safety", "sports"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Weight Sled",
+    "description": "Durable steel push/pull sled for power and speed training. Can be loaded with Olympic weight plates. High and low handle positions.",
+    "price": "199.99",
+    "category": "Strength Training",
+    "tags": ["weight-sled", "strength", "conditioning", "power"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gym Bag with Shoe Compartment",
+    "description": "Large water-resistant sports bag with dedicated ventilated shoe compartment and multiple pockets. Padded shoulder strap and durable zippers.",
+    "price": "39.99",
+    "category": "Fitness Accessories",
+    "tags": ["gym-bag", "sports-bag", "travel", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Olympic Weight Plate Rack",
+    "description": "A-frame steel rack for storing standard 2-inch Olympic weight plates. Five storage pegs and space for two barbells. Keeps gym floor organized.",
+    "price": "69.99",
+    "category": "Gym Equipment",
+    "tags": ["weight-rack", "storage", "home-gym", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wall Mount Cable Pulley Station",
+    "description": "Stationary cable machine with adjustable height and high/low pulley options. Includes various attachments for a full-body workout. Steel construction.",
+    "price": "299.99",
+    "category": "Gym Equipment",
+    "tags": ["cable-machine", "strength", "home-gym", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Dip Station Push-Up Stand",
+    "description": "Stable parallel bars for dips, pull-ups, and core exercises. Adjustable width and height. High-quality steel with foam-padded grips.",
+    "price": "89.99",
+    "category": "Strength Training",
+    "tags": ["dip-station", "bodyweight", "strength", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aerobic Training Bench",
+    "description": "Versatile fitness platform with 2 levels of height adjustment. Can be used as a stepper or a weight bench. Non-slip surface and rubber feet.",
+    "price": "54.99",
+    "category": "Cardio",
+    "tags": ["aerobic-step", "fitness", "cardio", "bench"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Scale with Body Analysis",
+    "description": "Bluetooth digital scale that measures weight, body fat%, muscle mass, and more. Syncs with major fitness apps and tracks progress over time.",
+    "price": "49.99",
+    "category": "Recovery & Wellness",
+    "tags": ["smart-scale", "fitness-tracker", "monitoring", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wrist and Forearm Blaster",
+    "description": "Heavy-duty steel roller with reinforced strap and weight attachment. Develop forearm strength and grip endurance effectively.",
+    "price": "24.99",
+    "category": "Strength Training",
+    "tags": ["forearm-strengthener", "strength", "lifting", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mini Trampoline - Rebounder",
+    "description": "Compact aerobic trampoline with sturdy frame and durable mat. Safe and effective for low-impact cardio and lymphatic drainage.",
+    "price": "79.99",
+    "category": "Cardio",
+    "tags": ["trampoline", "rebounder", "cardio", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Yoga Knee Pads - Pair",
+    "description": "Thick foam cushions to provide extra comfort and support for knees, elbows, and wrists during yoga and floor exercises. Non-slip and lightweight.",
+    "price": "14.99",
+    "category": "Yoga & Pilates",
+    "tags": ["yoga", "knee-pads", "comfort", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Massage Lacrosse Ball Set - 3pcs",
+    "description": "Set of three high-density rubber balls for various muscle group massages. Targeted relief for hard-to-reach areas. Includes carrying bag.",
+    "price": "16.49",
+    "category": "Recovery & Wellness",
+    "tags": ["massage", "recovery", "trigger-point", "mobility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Athletic Compression Socks - 3 Pair",
+    "description": "High-performance compression socks designed for runners and athletes. Graduated compression for better blood flow and faster recovery.",
+    "price": "22.99",
+    "category": "Sports Training",
+    "tags": ["compression", "socks", "running", "recovery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Rowing Machine",
+    "description": "Full-body workout rower with 12 levels of quiet magnetic resistance. Digital monitor tracks time, count, and calories. Padded seat for comfort.",
+    "price": "299.00",
+    "category": "Cardio",
+    "tags": ["rowing-machine", "rower", "cardio", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Balance Pad - Large",
+    "description": "Thick foam balance mat for core stability, injury rehabilitation, and motor skill development. Tear-resistant and moisture-proof surface.",
+    "price": "29.99",
+    "category": "Core Training",
+    "tags": ["balance-pad", "rehab", "core", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518611012118-296056caf200?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Boxing Hand Wraps - 180 inch",
+    "description": "Semi-elastic hand wraps for optimal knuckle and wrist protection. Professional length with thumb loop and velcro closure. Machine washable.",
+    "price": "10.99",
+    "category": "Martial Arts",
+    "tags": ["boxing", "hand-wraps", "MMA", "protection"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1509190105349-346cb77358ed?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Quick-Release Weight Barbell Collars",
+    "description": "Durable nylon collars for 2-inch Olympic bars. Easy to use one-hand locking mechanism for maximum safety during heavy lifting.",
+    "price": "14.99",
+    "category": "Gym Equipment",
+    "tags": ["barbell-collars", "safety", "lifting", "gym"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gym Chalk Ball with Microfiber Bag",
+    "description": "Refillable chalk ball in a breathable microfiber bag. Provides excellent grip for lifting, climbing, and gymnastics while reducing dust.",
+    "price": "11.49",
+    "category": "Strength Training",
+    "tags": ["chalk", "grip", "lifting", "climbing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rechargeable Personal Cooling Fan",
+    "description": "Portable hands-free neck fan with 3 speeds and flexible design. Lightweight and long-lasting for outdoor sports and hot gym sessions.",
+    "price": "24.99",
+    "category": "Fitness Accessories",
+    "tags": ["fan", "cooling", "portable", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Self-Massage Back Hook",
+    "description": "Ergonomic S-shaped massage tool for reaching hard-to-target muscles in back and shoulders. Durable construction with multiple therapy knobs.",
+    "price": "27.99",
+    "category": "Recovery & Wellness",
+    "tags": ["massage", "recovery", "muscle-relief", "mobility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1622519407650-3df9883f76a5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Density Abdominal Mat",
+    "description": "Contoured ab mat designed to support the lower back during crunches and leg lifts. High-quality foam for comfort and stability.",
+    "price": "19.99",
+    "category": "Core Training",
+    "tags": ["ab-mat", "core", "abs", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Weightlifting Hand Grips",
+    "description": "Durable leather hand protectors for gymnastics and high-repetition lifting. Protects against blisters and tears during pull-ups and cleans.",
+    "price": "18.49",
+    "category": "Strength Training",
+    "tags": ["hand-grips", "lifting", "protection", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526402927230-0084050d268a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Weighted Jump Rope",
+    "description": "Speed jump rope with removable weight blocks in the handles. Perfect for varying workout intensity and building forearm strength.",
+    "price": "22.99",
+    "category": "Cardio",
+    "tags": ["jump-rope", "weighted", "fitness", "cardio"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544033527-b192daee1f5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mini Resistance Bands - 5 Force Levels",
+    "description": "Set of five loop resistance bands with varying tension. Ideal for upper body and glute exercises, activation, and mobility work.",
+    "price": "15.99",
+    "category": "Strength Training",
+    "tags": ["resistance-bands", "fitness", "home-gym", "stretching"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598971169397-0402e3a1f11a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Speed Kick Shield",
+    "description": "High-density foam kick pad with reinforced stitching and multiple handles for varied training sessions. Durable synthetic leather exterior.",
+    "price": "49.99",
+    "category": "Martial Arts",
+    "tags": ["boxing", "kick-shield", "MMA", "training"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1509190105349-346cb77358ed?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reflex Speed Bag with Adjustable Stand",
+    "description": "Spring-loaded reflex bag for speed and coordination training. Adjustable height and heavy-duty base for water or sand. Perfect for indoor home gym.",
+    "price": "89.99",
+    "category": "Martial Arts",
+    "tags": ["boxing", "speed-bag", "MMA", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1509190105349-346cb77358ed?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Weight Sled Platform",
+    "description": "Durable steel push/pull sled for power and speed training. Can be loaded with Olympic weight plates. High and low handle positions.",
+    "price": "199.99",
+    "category": "Strength Training",
+    "tags": ["weight-sled", "strength", "conditioning", "power"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Fitness Station",
+    "description": "Multi-functional home gym station with resistance bands, base, and attachments. Compact and portable for full-body workouts anywhere.",
+    "price": "129.99",
+    "category": "Gym Equipment",
+    "tags": ["home-gym", "fitness", "portable", "strength"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Hydration Tracker Water Bottle",
+    "description": "750ml leak-proof bottle with integrated sensor that tracks daily water intake and syncs with your fitness app. Glows to remind you to hydrate.",
+    "price": "39.00",
+    "category": "Fitness Accessories",
+    "tags": ["water-bottle", "hydration", "smart-tech", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Cork Yoga Block - Set of 2",
+    "description": "Eco-friendly natural cork blocks that provide superior grip and firm support for deep poses. 100% sustainable and antimicrobial materials.",
+    "price": "29.99",
+    "category": "Yoga",
+    "tags": ["yoga-blocks", "cork", "sustainable", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Smart Smart Glasses with Audio",
+    "description": "Premium eyewear with integrated Bluetooth speakers and noise-cancelling mics. Listen to music and take calls hands-free while protecting your eyes from blue light.",
+    "price": "199.00",
+    "category": "Wearable Tech",
+    "tags": ["smart-glasses", "audio", "tech", "gadget"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591076482161-421a3a0f63f2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Charging Mouse Pad - XL",
+    "description": "Extra-large desk mat with a built-in 15W wireless charging zone for your smartphone and earbuds. Features smooth microbial fabric and anti-slip base.",
+    "price": "49.99",
+    "category": "Tech Accessories",
+    "tags": ["charging-pad", "wireless-charging", "desk-setup", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable SSD - 2TB High Speed",
+    "description": "Ultra-compact and rugged external solid state drive with read speeds up to 1050MB/s. Drop-resistant and encrypted for data security. USB-C compatible.",
+    "price": "159.99",
+    "category": "Data Storage",
+    "tags": ["SSD", "storage", "tech", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Advanced Robotic Vacuum with Mopping",
+    "description": "Smart lidar-based navigation vacuum that automatically maps your home. Features 4000Pa suction and an integrated vibrating mop for hard floors.",
+    "price": "449.00",
+    "category": "Smart Home",
+    "tags": ["robot-vacuum", "smart-home", "cleaning", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mechanical Keyboard - Custom Hotswap",
+    "description": "Professional tenkeyless keyboard with pre-lubed switches and doubleshot PBT keycaps. Features hotswappable PCB and customizable RGB lighting.",
+    "price": "139.00",
+    "category": "Computing",
+    "tags": ["keyboard", "mechanical", "custom-keyboard", "computing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Noise Cancelling Earbuds - Pro Tech",
+    "description": "Active noise cancellation with 30-hour battery life and spatial audio. Features a sleek wireless charging case and customizable touch controls.",
+    "price": "129.00",
+    "category": "Audio",
+    "tags": ["earbuds", "bluetooth", "audio", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590664083111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Doorbell with 2K Video",
+    "description": "High-definition video doorbell with two-way audio and human detection. Encrypted local storage and works with major smart home ecosystems.",
+    "price": "149.00",
+    "category": "Smart Home",
+    "tags": ["smart-doorbell", "security", "smart-home", "video"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Smart Projector - 1080p",
+    "description": "Mini LED projector with built-in Android TV and powerful speakers. projects up to 120-inches with auto-keystone correction for travel and outdoor movies.",
+    "price": "299.00",
+    "category": "Gadgets",
+    "tags": ["projector", "movies", "gadget", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "MagSafe Compatible Battery Pack",
+    "description": "Magnetic 5000mAh power bank that snaps onto your iPhone for on-the-go wireless charging. Slim design and high-quality liquid silicone finish.",
+    "price": "45.00",
+    "category": "Tech Accessories",
+    "tags": ["power-bank", "magsafe", "iphone-accessories", "wireless-charging"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart LED Table Lamp with Mood Sensing",
+    "description": "Voice-controlled lamp that changes color based on your music or activity. Features a minimalist touch-sensitive base and app control.",
+    "price": "69.00",
+    "category": "Smart Home",
+    "tags": ["lighting", "smart-home", "decor", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Advanced Drone with 4K Hasselblad Camera",
+    "description": "Professional-grade drone with 3-axis gimbal and obstacle avoidance. features a 30-minute flight time and 10km HD video transmission.",
+    "price": "899.00",
+    "category": "Gadgets",
+    "tags": ["drone", "photography", "videography", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Vertical Ergonomic Mouse - Wireless",
+    "description": "Designed to reduce forearm strain and wrist pressure. Features a natural handshake position, 4000 DPI sensor, and rechargeable battery.",
+    "price": "59.99",
+    "category": "Computing",
+    "tags": ["mouse", "ergonomic", "computing", "office-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Fitness Ring - Health Tracker",
+    "description": "Discreet wearable that tracks heart rate, sleep quality, and activity levels. Lightweight titanium build and 1-week battery life. App integrated.",
+    "price": "249.00",
+    "category": "Wearable Tech",
+    "tags": ["smart-ring", "health-tracker", "wearable", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549439602-43ebca2327af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Dual-Band Wi-Fi 6 Mesh Router System",
+    "description": "Cover your whole home in high-speed internet. Eliminate dead zones and supports up to 100 connected devices with seamless roaming.",
+    "price": "179.00",
+    "category": "Computing",
+    "tags": ["router", "wifi-6", "mesh-wifi", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "USB-C Desktop Docking Station - 10-in-1",
+    "description": "Expand your laptop's potential with 4K HDMI, DisplayPort, Ethernet, and multiple USB ports. Supports 100W power delivery charging.",
+    "price": "119.00",
+    "category": "Tech Accessories",
+    "tags": ["docking-station", "laptop-accessories", "computing", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Leak Sensor - 3pk",
+    "description": "Get instant notifications on your phone if water is detected in your kitchen or basement. Helps prevent expensive water damage.",
+    "price": "54.99",
+    "category": "Smart Home",
+    "tags": ["smart-home", "sensors", "security", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Drawing Pad with Active Stylus",
+    "description": "High-sensitivity graphic tablet for digital artists and photo editors. includes customizable shortcut keys and 8192 levels of pressure sensitivity.",
+    "price": "149.00",
+    "category": "Computing",
+    "tags": ["drawing-tablet", "digital-art", "creative", "computing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Home Theater Soundbar with Atmos",
+    "description": "Immersive 3.1.2 channel audio with wireless subwoofer and Dolby Atmos support. Cinematic sound for movies and music via Bluetooth.",
+    "price": "349.00",
+    "category": "Audio",
+    "tags": ["soundbar", "audio", "home-theater", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541810237-766792376483?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Coffee Mug with Temp Control",
+    "description": "Keep your coffee at the exact temperature you like for up to 90 minutes. App-controlled with a sleek ceramic finish and charging saucer.",
+    "price": "129.00",
+    "category": "Gadgets",
+    "tags": ["smart-mug", "coffee", "gadget", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Advanced VR Headset - All-in-One",
+    "description": "Standalone virtual reality system with 4K resolution and haptic controllers. No PC required, vast library of games and immersive experiences.",
+    "price": "399.00",
+    "category": "Wearable Tech",
+    "tags": ["VR", "virtual-reality", "gaming", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Garden Ecosystem - Indoor",
+    "description": "Hydroponic indoor garden that automatically controls light and water for your herbs and vegetables. Connects to your phone for growth tracking.",
+    "price": "159.00",
+    "category": "Smart Home",
+    "tags": ["indoor-garden", "smart-home", "lifestyle", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "100W GaN Wall Fast Charger",
+    "description": "Ultra-compact wall charger using Gallium Nitride technology. Features 3 USB-C and 1 USB-A port to charge your laptop, phone, and tablet simultaneously.",
+    "price": "59.99",
+    "category": "Tech Accessories",
+    "tags": ["charger", "fast-charging", "tech", "GaN"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Indoor Air Quality Monitor",
+    "description": "Tracks CO2, VOCs, humidity, and temperature in real-time. Link it to your smart home to automatically activate purifiers or humidifiers.",
+    "price": "99.00",
+    "category": "Smart Home",
+    "tags": ["air-quality", "smart-home", "sensors", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Carbon Fiber Laptop Stand - Foldable",
+    "description": "Lightweight and incredibly strong stand that lifts your laptop to eye level. Folds completely flat for travel and includes a felt carrying case.",
+    "price": "45.00",
+    "category": "Tech Accessories",
+    "tags": ["laptop-stand", "tech-accessories", "computing", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Handheld Pocket PC - OLED Gaming",
+    "description": "Powerful gaming PC in the palm of your hand with a vibrant 7-inch OLED screen. capable of playing modern AAA titles on the go.",
+    "price": "649.00",
+    "category": "Computing",
+    "tags": ["gaming", "handheld-PC", "tech", "gadget"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Key Finder & Item Tracker - 4pk",
+    "description": "Tiny Bluetooth trackers that attach to your keys, wallet, or luggage. Use the app to ring your items or see their last seen location on a map.",
+    "price": "59.99",
+    "category": "Gadgets",
+    "tags": ["tracker", "item-finder", "gadget", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Kitchen Scale with App Integration",
+    "description": "High-precision digital scale that syncs nutritional data to your fitness app. Features an elegant tempered glass surface and backlit display.",
+    "price": "34.99",
+    "category": "Smart Home",
+    "tags": ["kitchen-scale", "smart-home", "health-tech", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Window Cleaning Robot",
+    "description": "Automatic vacuum-powered robot that cleans high windows effortlessly. features edge detection and app control for safe vertical cleaning.",
+    "price": "229.00",
+    "category": "Smart Home",
+    "tags": ["window-cleaner", "robot", "cleaning", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Pet Feeder with Camera",
+    "description": "Schedule meals for your pet and monitor them via the HD wide-angle camera. Features two-way audio to talk to your pet while you're away.",
+    "price": "119.00",
+    "category": "Smart Home",
+    "tags": ["pet-feeder", "smart-home", "pet-tech", "camera"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Fidelity Bluetooth Turntable",
+    "description": "Play your vinyl collection and stream it wirelessly to your speakers. includes high-quality moving magnet cartridge and built-in phono preamp.",
+    "price": "249.00",
+    "category": "Audio",
+    "tags": ["turntable", "vinyl", "audio", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Home Hub with HD Touchscreen",
+    "description": "Central control for your smart lights, cameras, and locks. Features a vibrant 10-inch display for video calls and streaming tutorials.",
+    "price": "189.00",
+    "category": "Smart Home",
+    "tags": ["smart-hub", "control-panel", "smart-home", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Desktop 3D Printer - Professional Grade",
+    "description": "High-precision FDM printer with an auto-leveling bed and filament sensor. easy to set up and compatible with various materials like PLA and PETG.",
+    "price": "499.00",
+    "category": "Gadgets",
+    "tags": ["3d-printer", "tech", "making", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Sleep Tracker Lamp",
+    "description": "Monitors your sleep cycles and wakes you up naturally with sunrise simulation. includes relaxing white noise and sunset modes for falling asleep.",
+    "price": "129.00",
+    "category": "Smart Home",
+    "tags": ["sleep-tracker", "lighting", "wellness", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bluetooth Mechanical Numpad - Custom",
+    "description": "Ten-key pad with premium brown switches and hotswap capabilities. Perfect for laptop users who need a separate number pad for data entry.",
+    "price": "49.00",
+    "category": "Computing",
+    "tags": ["numpad", "mechanical", "computing", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Umbrella with Weather Alerts",
+    "description": "Teflon-coated windproof umbrella with a Bluetooth-enabled handle. Get notifications if you leave it behind and weather alerts if rain is coming.",
+    "price": "59.00",
+    "category": "Gadgets",
+    "tags": ["gadget", "smart-weather", "accessories", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522810358485-6e5428bdc6d1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "12-in-1 USB-C Triple Display Hub",
+    "description": "Ultimate desktop expander supporting three 4K monitors simultaneously. Features high-speed data transfer and 100W laptop charging.",
+    "price": "139.00",
+    "category": "Tech Accessories",
+    "tags": ["USB-hub", "docking-station", "computing", "multitasking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Electric Toothbrush - AI Powered",
+    "description": "AI brush tracking and 3D mouth mapping to ensure you never miss a spot. Features 7 modes and real-time pressure sensors through the app.",
+    "price": "199.00",
+    "category": "Gadgets",
+    "tags": ["toothbrush", "health-tech", "AI", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Leak Shutoff Valve",
+    "description": "Automatically shuts off your water main if a leak is detected. Connects to your Wi-Fi and provides peace of mind while away from home.",
+    "price": "249.00",
+    "category": "Smart Home",
+    "tags": ["smart-home", "safety", "water-control", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Multi-Colored Filament Set - 10pk",
+    "description": "High-quality PLA filament for 3D printers in a curated palette. Includes RFID tags for automatic printer setting adjustments.",
+    "price": "89.00",
+    "category": "Gadgets",
+    "tags": ["3d-printing", "filament", "tech", "making"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Studio Headphones - Wired",
+    "description": "Open-back headphones with a wide soundstage for accurate audio mixing and critical listening. Includes a detachable 3m cable and 6.3mm adapter.",
+    "price": "199.00",
+    "category": "Audio",
+    "tags": ["audio", "professional", "monitoring", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mechanical Keyboard - Compact 65%",
+    "description": "Premium Gasket Mount keyboard with hot-swappable switches and PBT keycaps. Features customizable RGB lighting and a sleek aluminum chassis.",
+    "price": "149.00",
+    "category": "Computing",
+    "tags": ["keyboard", "mechanical", "RGB", "hot-swap"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1595225405011-511452486714?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultrawide Curved Productivity Monitor - 38\"",
+    "description": "3840x1600 resolution with 144Hz refresh rate. Includes built-in USB-C docking station and exceptionally accurate color reproduction for creators.",
+    "price": "899.00",
+    "category": "Computing",
+    "tags": ["monitor", "ultrawide", "productivity", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart WiFi Hub with Integrated Speaker",
+    "description": "Central controller for all your smart home devices. Features voice assistant integration and a surprisingly powerful high-fidelity speaker.",
+    "price": "129.00",
+    "category": "Smart Home",
+    "tags": ["smart-hub", "voice-assistant", "speaker", "automation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544717297-fa154da09f5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 4K Mirrorless Camera",
+    "description": "Full-frame sensor with 61MP resolution and advanced AI-driven autofocus. Perfect for high-end photography and cinematic 4K video recording.",
+    "price": "2499.00",
+    "category": "Photography",
+    "tags": ["camera", "mirrorless", "4K", "photography"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1)b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Noise-Cancelling TWS Earbuds - Carbon Black",
+    "description": "Active noise cancellation with 35dB reduction. features 30-hour total battery life and high-fidelity 10mm dynamic drivers for rich bass.",
+    "price": "99.00",
+    "category": "Audio",
+    "tags": ["earbuds", "audio", "noise-cancelling", "wireless"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Leak Detector - WiFi",
+    "description": "Small sensor that alerts your phone instantly when water is detected. Prevent expensive damage with 24/7 monitoring of your home's water lines.",
+    "price": "34.99",
+    "category": "Smart Home",
+    "tags": ["security", "safety", "smart-home", "protection"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable SSD - 2TB NVMe",
+    "description": "Blazing fast read/write speeds up to 1050MB/s. Rugged, water and dust resistant design with hardware encryption for secure travel backups.",
+    "price": "189.00",
+    "category": "Computing",
+    "tags": ["ssd", "storage", "portable", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1597843798133-e11244023945?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Standing Desk Controller - Smart",
+    "description": "Add memory presets and smartphone control to your existing electric desk. Features automatic reminders to stand and detailed usage statistics.",
+    "price": "45.00",
+    "category": "Computing",
+    "tags": ["desk-tech", "ergonomic", "productivity", "smart-device"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "4K Laser Projector - Home Cinema",
+    "description": "Ultra-short throw projector that delivers 120-inch 4K images from just inches away. HDR10 support and integrated Harman Kardon sound.",
+    "price": "2199.00",
+    "category": "Home Theater",
+    "tags": ["projector", "4K", "cinema", "entertainment"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517604101542-c99b5f44e1f6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree - Tech Edition",
+    "description": "Weighted vertical organizer for up to 6 of your favorite tech-themed designer mugs. Gold finish adds a premium touch to your developer setup.",
+    "price": "39.99",
+    "category": "Computing",
+    "tags": ["organization", "brass", "desk-decor", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Himalayan Salt Table Lamp - Large",
+    "description": "Hand-carved salt crystal lamp with a wooden base. Provides a warm, amber glow that reduces glare and creates a calming tech workspace ambiance.",
+    "price": "29.99",
+    "category": "Computing",
+    "tags": ["lighting", "wellness", "cozy", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Multi-Device Bluetooth Switcher",
+    "description": "Instantly switch your wireless keyboard and mouse between 3 devices with one button. Small enough to hide under your monitor stand.",
+    "price": "19.99",
+    "category": "Computing",
+    "tags": ["tech-gadget", "multi-device", "productivity", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Desk Organizers - Set of 3",
+    "description": "Hand-blown glass canisters for organizing small tech accessories like dongles, SD cards, and charging tips. keeps your desk appearing open and light.",
+    "price": "24.50",
+    "category": "Computing",
+    "tags": ["glass-canisters", "minimalist", "desk-organization", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941068-d08316492978?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Luggage Tag with Security Flap",
+    "description": "Tanned leather tag with a privacy flap to hide your contact details from casual observation while traveling with high-end tech equipment.",
+    "price": "12.00",
+    "category": "Photography",
+    "tags": ["luggage-tag", "leather", "travel", "security"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 12-Digit Desktop Calculator",
+    "description": "Vintage-inspired mechanical key calculator with a large tilting LCD. Provides a tactile typing experience for budgets and serious data entry.",
+    "price": "26.00",
+    "category": "Computing",
+    "tags": ["calculator", "tactile-keys", "accounting", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Letter Opener - Minimalist",
+    "description": "Solid polished brass letter opener with an ergonomic handle. A heavy and elegant object that turns a daily task into a momentary luxury at your desk.",
+    "price": "15.50",
+    "category": "Computing",
+    "tags": ["letter-opener", "brass", "minimalist", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Folding Wooden Laptop Bed Desk Pro",
+    "description": "Sturdy solid pine tray with adjustable tilting top and integrated cooling vents. Includes a small drawer for your phone and tablet stylus.",
+    "price": "45.00",
+    "category": "Computing",
+    "tags": ["laptop-tray", "work-from-home", "ergonomic", "furniture"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Sensor for Indoor Plants - Tech Edition",
+    "description": "Bluetooth enabled sensor that alerts your phone if your office plant needs hydration. Features light and fertilizer monitoring for optimal growth.",
+    "price": "24.99",
+    "category": "Smart Home",
+    "tags": ["plant-sensor", "smart-home", "learning", "nature"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Wall Mounted Tech Rack",
+    "description": "Sustainable and sturdy rack with customizable hooks. help organize your controllers, headsets, and cables while adding an organic aesthetic.",
+    "price": "39.00",
+    "category": "Computing",
+    "tags": ["tech-rack", "bamboo", "organization", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 3-Hole Electric Paper Punch - Pro",
+    "description": "Fully automatic puncher for large technical binders. handles up to 30 sheets of paper effortlessly. Includes a mess-free easy-empty tray.",
+    "price": "69.00",
+    "category": "Computing",
+    "tags": ["puncher", "office-supplies", "automation", "efficiency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree Stand - Deluxe",
+    "description": "Vertical space-saving organizer for up to 6 mugs. weighted solid brass base ensures stability while keeping your developer desk organized.",
+    "price": "29.99",
+    "category": "Computing",
+    "tags": ["mug-tree", "organization", "brass", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Mesh Market Bags for Tech Gear",
+    "description": "Sustainable way to carry your fresh loose charging cables and gadgets. Washable and breathable bags available in three sizes.",
+    "price": "14.49",
+    "category": "Computing",
+    "tags": ["mesh-bags", "eco-friendly", "sustainable", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Meat Thermometer - Wireless Pro Plus",
+    "description": "Professional-grade dual-sensor probe for precise monitoring of your BBQ or oven from your phone up to 150ft away. Bluetooth 5.0 enabled.",
+    "price": "89.00",
+    "category": "Smart Home",
+    "tags": ["thermometer", "tech-gadget", "lifestyle", "cooking-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Ceramic Tea Light Bird House - Techie",
+    "description": "Small hand-glazed decorative piece that casts a flickering glow through its geometric windows. A serene addition to your gaming or work setup.",
+    "price": "19.99",
+    "category": "Computing",
+    "tags": ["candle-holder", "ceramic", "minimalist", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Stone Bookends - Granite Edition",
+    "description": "Pair of heavy-weight unpolished stone bookends in unique natural shapes. Holds your entire technical manual collection securely.",
+    "price": "45.00",
+    "category": "Computing",
+    "tags": ["bookends", "granite", "minimalist", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Blind Motor - WiFi Pro Kit",
+    "description": "Automate your existing window shades with this smart battery-operated motor. control via app or set automated family schedules effortlessly.",
+    "price": "89.00",
+    "category": "Smart Home",
+    "tags": ["automation", "smart-home", "convenience", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Key Holder & Mail Shelf - Studio",
+    "description": "Magnetic wall-mounted organizer for entryway or studio. Securely holds up to 6 keys and features a shelf for small tech mail.",
+    "price": "24.00",
+    "category": "Computing",
+    "tags": ["key-holder", "wooden", "minimalist", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gourmet Artisan Coffee Pod Sampler",
+    "description": "Set of 3 unique handcrafted coffee blends for your home office: Bold Dark Roast, Smooth Medium, and Bright Ethopian Light Roast.",
+    "price": "29.99",
+    "category": "Computing",
+    "tags": ["coffee", "gourmet", "productivity", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Rechargeable LED Studio Light",
+    "description": "Ultra-bright light with adjustable color temperature from 3200K-5600K. ideal for video calling, streaming, and macro photography.",
+    "price": "34.00",
+    "category": "Photography",
+    "tags": ["lighting", "streaming", "VLOG", "rechargeable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Humidity & Temp Monitor - Smart Plus",
+    "description": "Precision sensor monitor that helps you track air quality in your server room or office. Alerts your phone if limits are exceeded.",
+    "price": "18.99",
+    "category": "Computing",
+    "tags": ["monitor", "wellness", "smart-device", "air-quality"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Desk Clock Pro",
+    "description": "Tabletop clock with silent sweeping hands. A timeless and elegant way to track your work sessions without the distraction of ticking.",
+    "price": "22.50",
+    "category": "Computing",
+    "tags": ["clock", "brass", "minimalist", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Linen Tech Accessory Bins - Set of 3",
+    "description": "Folding canvas storage cubes for cable management. durable and lightweight, they fit perfectly into standard cube shelving units.",
+    "price": "32.00",
+    "category": "Computing",
+    "tags": ["storage-bins", "linen", "organization", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Tape Dispenser - Heavy Duty Pro",
+    "description": "weighted brass dispenser that stays in place during use. A high-end tool that adds style to your professional packaging tasks.",
+    "price": "35.00",
+    "category": "Computing",
+    "tags": ["tape-dispenser", "brass", "desk-decor", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Copper Vacuum Insulated Smart Bottle",
+    "description": "Naturally antimicrobial copper bottle that glows to remind you to hydrate. Elegant design perfect for the modern desk.",
+    "price": "39.00",
+    "category": "Smart Home",
+    "tags": ["water-bottle", "copper", "insulated", "smart-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Glass Candle Tins - Pure Essential",
+    "description": "Scented soy candles in various therapeutic fragrances. Create a homey and focused atmosphere in your office or studio safely.",
+    "price": "34.99",
+    "category": "Computing",
+    "tags": ["candles", "scent", "relaxation", "safe-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty 45L Tech Commuter Backpack",
+    "description": "Water-resistant rucksack with multiple padded sections for 17\" laptop, tablet, and high-end peripherals. Durable and robust build.",
+    "price": "89.00",
+    "category": "Computing",
+    "tags": ["backpack", "travel-bag", "commuter", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Insulated Stainless Steel Office Mug - 12oz",
+    "description": "Double-wall vacuum insulation keeps drinks hot for 12 hours. Features a leak-proof slider lid and elegant minimalist steel finish.",
+    "price": "24.99",
+    "category": "Computing",
+    "tags": ["office-mug", "insulated", "eco-friendly", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultralight Desktop Hammock - Hand rest",
+    "description": "Ergonomic mesh hammock for your wrist or hand. Helps reduce carpal tunnel risk during long typing and mouse-heavy sessions.",
+    "price": "39.99",
+    "category": "Computing",
+    "tags": ["wrist-rest", "ergonomic", "productivity", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510312295971-6f011702811a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Wi-Fi Asset Tracker - Extra Thin",
+    "description": "Credit card sized GPS tracker for your wallet or laptop bag. Monitor location in real-time via an app with lifetime subscription.",
+    "price": "49.00",
+    "category": "Smart Home",
+    "tags": ["asset-tracker", "gps", "security-tech", "peace-of-mind"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Polarized Smart Glasses - High-Definition",
+    "description": "Ultra-lightweight frames with integrated bone-conduction speakers. Protect your eyes while listening to music or taking calls seamlessly.",
+    "price": "34.00",
+    "category": "Computing",
+    "tags": ["smart-glasses", "audio", "polarized", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Tech First Aid Kit - Anti-Static",
+    "description": "Essential component repair kit in a professional pouch. includes ESD-safe wipes, tweezers, and thermal paste for emergency PC fixes.",
+    "price": "24.99",
+    "category": "Computing",
+    "tags": ["repair-kit", "safety", "PC-building", "essentials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Ultralight VR Play Mat",
+    "description": "Cushioned surface that provides haptic feedback of your VR boundaries. Protects your floor and joints during active gaming sessions.",
+    "price": "35.00",
+    "category": "Interactive Toys",
+    "tags": ["VR-mat", "gaming-gear", "safety", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Smart Device Hard Case",
+    "description": "Shockproof and water-resistant hard shell case. fits most large tablets and drones with dedicated interior organization for parts.",
+    "price": "19.99",
+    "category": "Computing",
+    "tags": ["hard-case", "protection", "travel-gear", "tech-accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Leak-Proof Accessory Case Set",
+    "description": "Set of 3 reusable cases for your liquid-sensitive electronic parts. Zipper closure keeps your gear fresh and protected from humidity.",
+    "price": "14.99",
+    "category": "Computing",
+    "tags": ["accessory-case", "eco-friendly", "protection", "silicone"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 4K Capture Card - Zero Latency",
+    "description": "Plug-and-play high-performance card for 4K60 streaming. compatible with all major consoles and PCs for a seamless broadcast experience.",
+    "price": "69.00",
+    "category": "Computing",
+    "tags": ["capture-card", "streaming", "VLOG", "pro-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1595225405011-511452486714?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart LED Table Lamp 2 - Color Wave",
+    "description": "Dynamic lighting with music synchronization. Controllable via app or touch. Features a sleep aid mode with sunrise simulation.",
+    "price": "49.99",
+    "category": "Smart Home",
+    "tags": ["lighting", "RGB", "smart-home", "lifestyle"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ergonomic Under-Desk Footrest - Smart",
+    "description": "Adjustable footrest with built-in heating and vibration. Improves circulation and focus during long hours at the PC workstation.",
+    "price": "59.00",
+    "category": "Computing",
+    "tags": ["footrest", "ergonomic", "comfort", "productivity"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505797149-43b00fe18478?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acoustic Desk Privacy Panel 2",
+    "description": "Reversible sound-absorbing felt panel. Provides immediate noise reduction and visual focus for shared coworking or home office spaces.",
+    "price": "65.00",
+    "category": "Computing",
+    "tags": ["privacy-panel", "acoustic", "focus", "work-style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Fountain Pen Ink - Obsidian Black",
+    "description": "Handcrafted archival ink from Japan. non-clogging formula that provides a deep black finish on all of your high-end technical papers.",
+    "price": "49.00",
+    "category": "Stationery",
+    "tags": ["ink", "fountain-pen", "writing", "executive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Minimalist Notebooks - Pro Edition",
+    "description": "A5 sized notebooks with thick 120gsm paper. durable linen covers and lay-flat binding, perfect for coding diagrams and meeting notes.",
+    "price": "24.99",
+    "category": "Stationery",
+    "tags": ["notebooks", "stationery", "minimalist", "tech-writing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941068-d08316492978?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Desktop Waste Bin Pro",
+    "description": "Small compact trash can with a sensor-driven auto-lid. Minimalist design for tech desks to keep small scraps organized instantly.",
+    "price": "19.99",
+    "category": "Computing",
+    "tags": ["trash-can", "desk-organization", "tech-decor", "smart-device"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "USB-C Multi-Port Hub - Pro 10-in-1",
+    "description": "Desktop dock featuring Dual HDMI 4K, Gigabit Ethernet, and multiple high-speed USB-A/C ports. supports PD charging up to 100W.",
+    "price": "79.99",
+    "category": "Computing",
+    "tags": ["USB-hub", "docking-station", "productivity", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Under-Desk Keyboard Tray - Smart Clamp",
+    "description": "Extra-wide sliding drawer that clamps to your desk without tools. Frees up workspace and rotates 360 degrees for optimal ergonomics.",
+    "price": "59.00",
+    "category": "Computing",
+    "tags": ["keyboard-tray", "ergonomic", "desk-organization", "furniture"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Monitor Light Bar Pro with Backlight",
+    "description": "Dual-light source bar with front-facing desk lamp and back-facing RGB ambient light. touch control with precise brightness adjustment.",
+    "price": "54.99",
+    "category": "Computing",
+    "tags": ["monitor-light", "lighting", "productivity", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Walnut Wood Headphone Stand - Deluxe V2",
+    "description": "Hand-carved curved stand made from sustainable walnut. features a hidden cable management path and solid weighted brass base.",
+    "price": "45.00",
+    "category": "Computing",
+    "tags": ["headphone-stand", "wooden", "luxury-office", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Ergonomic Footrest 2",
+    "description": "High-density foam foot massager with non-slip organic linen cover. improves comfort and productivity during heavy PC work sessions.",
+    "price": "34.99",
+    "category": "Computing",
+    "tags": ["footrest", "ergonomic", "well-being", "office-health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505797149-43b00fe18478?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Tech Padfolio - Professional Plus",
+    "description": "High-end genuine leather organizer for 13\" laptop, tablet, and high-speed cables. Includes slots for cards and unique stylus holder.",
+    "price": "89.00",
+    "category": "Computing",
+    "tags": ["padfolio", "leather", "executive", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Geometric Metal Bookends - Tech Pair",
+    "description": "Sturdy sculptural bookends in a deep carbon finish. Keeps your library of coding manuals organized while adding a modern artistic touch.",
+    "price": "29.99",
+    "category": "Computing",
+    "tags": ["bookends", "metal", "organization", "office-style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Bottle 2 - Pro Hydrate",
+    "description": "Bluetooth enabled bottle that tracks every sip and glows to remind you to drink. Features a built-in speaker for meeting alerts.",
+    "price": "59.99",
+    "category": "Smart Home",
+    "tags": ["water-bottle", "smart-device", "wellness", "lifestyle"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Canvas Tech Messenger Bag Pro",
+    "description": "Robust rucksack with excessive padding for 16\" laptop and high-end peripherals. Water-resistant and features numerous security pockets.",
+    "price": "64.99",
+    "category": "Computing",
+    "tags": ["backpack", "travel-bag", "commuter", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

@@ -1,0 +1,803 @@
+[
+  {
+    "name": "Aromatherapy Candle Set - Lavender & Vanilla",
+    "description": "Set of 3 scented candles with calming lavender and warm vanilla. Creates romantic ambiance for intimate evenings. Natural soy wax, 40-hour burn time each.",
+    "price": "29.99",
+    "category": "Romance & Ambiance",
+    "tags": ["candles", "aromatherapy", "romantic", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Massage Oil Gift Set",
+    "description": "Premium massage oil collection with jasmine, rose, and sandalwood scents. Nourishing for skin, perfect for couples massage and relaxation.",
+    "price": "34.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["massage", "oil", "couples", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Silk Sleep Mask",
+    "description": "Pure mulberry silk sleep mask for restful sleep. Soft, breathable, and gentle on skin. Adjustable strap for perfect fit.",
+    "price": "19.99",
+    "category": "Sleep & Comfort",
+    "tags": ["sleep", "silk", "comfort", "rest"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Spa Gift Basket",
+    "description": "Complete spa experience at home with bath salts, body scrubs, face masks, and plush towels. Perfect for romantic date night.",
+    "price": "79.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["spa", "couples", "gift", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Rose Petal Bath Confetti",
+    "description": "Biodegradable rose petal confetti for romantic baths. Dissolves in water, releases subtle fragrance. Creates luxurious spa atmosphere.",
+    "price": "14.99",
+    "category": "Romance & Ambiance",
+    "tags": ["bath", "rose", "romantic", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Champagne Flutes Crystal Set",
+    "description": "Elegant crystal champagne flutes, set of 2. Perfect for celebrations, anniversaries, and special moments. Hand-blown craftsmanship.",
+    "price": "49.99",
+    "category": "Celebration & Dining",
+    "tags": ["champagne", "crystal", "celebration", "elegant"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Board Game Collection",
+    "description": "Fun and engaging board games designed for two players. Includes conversation starters and bonding activities. Perfect for date nights.",
+    "price": "39.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["games", "couples", "fun", "bonding"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Bathrobe Set His & Hers",
+    "description": "Matching plush bathrobes in premium cotton terry. Soft, absorbent, and comfortable. Embroidery option available for personalization.",
+    "price": "89.99",
+    "category": "Sleep & Comfort",
+    "tags": ["bathrobe", "couples", "luxury", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Essential Oil Diffuser with LED Lights",
+    "description": "Ultrasonic aromatherapy diffuser with color-changing LED lights. Creates peaceful atmosphere. Includes lavender and eucalyptus oils.",
+    "price": "44.99",
+    "category": "Romance & Ambiance",
+    "tags": ["diffuser", "aromatherapy", "ambiance", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Chocolate Fondue Set",
+    "description": "Electric chocolate fondue fountain with dipping forks. Perfect for romantic desserts. Easy to clean, adjustable temperature.",
+    "price": "54.99",
+    "category": "Celebration & Dining",
+    "tags": ["fondue", "chocolate", "romantic", "dessert"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Yoga Mat Extra Large",
+    "description": "Extra-wide yoga mat for partner yoga and stretching. Non-slip surface, eco-friendly material. Includes carrying strap.",
+    "price": "69.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["yoga", "couples", "fitness", "wellness"],
+    "inStock": true
+  },
+  {
+    "name": "Memory Foam Pillow Set",
+    "description": "Ergonomic memory foam pillows, set of 2. Supports neck and spine for better sleep. Hypoallergenic bamboo cover.",
+    "price": "79.99",
+    "category": "Sleep & Comfort",
+    "tags": ["pillow", "memory-foam", "sleep", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Wine Tasting Experience Kit",
+    "description": "Complete wine tasting set with glasses, aerator, and tasting guide. Perfect for romantic evenings exploring new wines together.",
+    "price": "64.99",
+    "category": "Celebration & Dining",
+    "tags": ["wine", "tasting", "romantic", "experience"],
+    "inStock": true
+  },
+  {
+    "name": "Himalayan Salt Lamp",
+    "description": "Natural Himalayan pink salt lamp creates warm, soothing glow. Air purifying properties. Perfect for bedroom ambiance.",
+    "price": "34.99",
+    "category": "Romance & Ambiance",
+    "tags": ["lamp", "himalayan-salt", "ambiance", "wellness"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Cooking Class Gift Card",
+    "description": "Gift certificate for hands-on cooking class for two. Learn new recipes together, enjoy the meal you create. Multiple cuisine options.",
+    "price": "149.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["cooking", "class", "couples", "experience"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Bed Sheet Set Egyptian Cotton",
+    "description": "1000 thread count Egyptian cotton sheets. Silky smooth, breathable, and durable. Includes fitted sheet, flat sheet, and pillowcases.",
+    "price": "159.99",
+    "category": "Sleep & Comfort",
+    "tags": ["sheets", "egyptian-cotton", "luxury", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Picnic Basket for Two",
+    "description": "Wicker picnic basket with plates, glasses, cutlery, and blanket. Perfect for romantic outdoor dates. Insulated compartment.",
+    "price": "89.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["picnic", "outdoor", "romantic", "basket"],
+    "inStock": true
+  },
+  {
+    "name": "Bubble Bath Luxury Collection",
+    "description": "Premium bubble bath set with rose, lavender, and chamomile scents. Creates rich, long-lasting bubbles. Moisturizing formula.",
+    "price": "39.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["bath", "bubbles", "luxury", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Meditation Cushion Set",
+    "description": "Comfortable meditation cushions for partner mindfulness practice. Organic cotton cover, buckwheat hull filling. Promotes relaxation.",
+    "price": "79.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["meditation", "cushion", "couples", "mindfulness"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Photo Album Leather",
+    "description": "Handcrafted leather photo album for cherished memories. Customizable cover with names or dates. Acid-free pages protect photos.",
+    "price": "69.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["photo-album", "leather", "personalized", "memories"],
+    "inStock": true
+  },
+  {
+    "name": "Breakfast in Bed Tray Set",
+    "description": "Bamboo breakfast tray with foldable legs and handles. Perfect for lazy weekend mornings. Includes flower vase holder.",
+    "price": "44.99",
+    "category": "Celebration & Dining",
+    "tags": ["breakfast", "tray", "romantic", "bamboo"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Dance Class Package",
+    "description": "Series of 6 dance lessons for two. Choose from salsa, ballroom, or swing. Professional instructors, fun atmosphere.",
+    "price": "199.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["dance", "class", "couples", "activity"],
+    "inStock": true
+  },
+  {
+    "name": "Weighted Blanket for Two",
+    "description": "Queen-size weighted blanket promotes relaxation and better sleep. Even weight distribution, breathable cotton. 20 lbs.",
+    "price": "129.99",
+    "category": "Sleep & Comfort",
+    "tags": ["blanket", "weighted", "sleep", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Love Letter Writing Set",
+    "description": "Elegant stationery set with premium paper, envelopes, and wax seal. Perfect for expressing heartfelt sentiments.",
+    "price": "29.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["stationery", "letters", "romantic", "writing"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Spa Day Package",
+    "description": "Full day spa experience for two including massages, facials, and access to relaxation areas. Refreshments included.",
+    "price": "399.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["spa", "couples", "massage", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Stargazing Telescope",
+    "description": "Beginner-friendly telescope for romantic stargazing nights. Includes star map and astronomy guide. Portable design.",
+    "price": "149.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["telescope", "stargazing", "romantic", "astronomy"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Journal & Planner",
+    "description": "Shared journal for goals, dreams, and daily reflections. Includes prompts for deeper connection. Leather-bound.",
+    "price": "34.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["journal", "planner", "couples", "connection"],
+    "inStock": true
+  },
+  {
+    "name": "Hot Tub Aromatherapy Crystals",
+    "description": "Spa crystals for hot tubs and jacuzzis. Eucalyptus and mint scent. Creates relaxing, therapeutic experience.",
+    "price": "24.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["hot-tub", "aromatherapy", "spa", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Gourmet Chocolate Truffle Box",
+    "description": "Artisan chocolate truffles in assorted flavors. Hand-crafted, premium ingredients. Beautiful gift packaging.",
+    "price": "49.99",
+    "category": "Celebration & Dining",
+    "tags": ["chocolate", "truffles", "gourmet", "gift"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Hammock with Stand",
+    "description": "Double hammock with sturdy stand for backyard relaxation. Weather-resistant fabric, holds up to 450 lbs. Easy assembly.",
+    "price": "179.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["hammock", "outdoor", "relaxation", "couples"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Satin Pillowcase Set",
+    "description": "Satin pillowcases reduce hair frizz and skin creases. Cooling and smooth. Set of 2 in matching colors.",
+    "price": "39.99",
+    "category": "Sleep & Comfort",
+    "tags": ["pillowcase", "satin", "luxury", "beauty"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Adventure Book",
+    "description": "Guided adventure journal with 100 date ideas and experiences to try together. From simple to extravagant activities.",
+    "price": "24.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["adventure", "dates", "couples", "activities"],
+    "inStock": true
+  },
+  {
+    "name": "Aromatherapy Bath Bombs Set",
+    "description": "Handmade bath bombs with essential oils. 12-piece set in various scents. Moisturizing and relaxing for bath time.",
+    "price": "34.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["bath-bombs", "aromatherapy", "relaxation", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Pottery Class Experience",
+    "description": "Hands-on pottery workshop for two. Create personalized ceramic pieces together. Includes all materials and firing.",
+    "price": "129.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["pottery", "class", "couples", "creative"],
+    "inStock": true
+  },
+  {
+    "name": "Silk Robe Kimono Style",
+    "description": "Elegant silk kimono robe with floral pattern. Lightweight, breathable, and luxurious. Perfect for lounging.",
+    "price": "89.99",
+    "category": "Sleep & Comfort",
+    "tags": ["robe", "silk", "kimono", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Massage Course Online",
+    "description": "Comprehensive online course teaching professional massage techniques. Video lessons, lifetime access. Enhance intimacy and relaxation.",
+    "price": "79.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["massage", "course", "couples", "learning"],
+    "inStock": true
+  },
+  {
+    "name": "Romantic Movie Night Package",
+    "description": "Curated collection of classic romantic films, gourmet popcorn, and cozy blanket. Perfect for date night at home.",
+    "price": "59.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["movies", "romantic", "date-night", "entertainment"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Painting Class Kit",
+    "description": "Complete painting set for two with canvases, paints, brushes, and online tutorial. Create art together at home.",
+    "price": "69.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["painting", "art", "couples", "creative"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Foot Spa Massager",
+    "description": "Electric foot spa with heat, bubbles, and massage rollers. Relaxing end to long days. Adjustable settings.",
+    "price": "99.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["foot-spa", "massage", "relaxation", "wellness"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Subscription Box Romance",
+    "description": "Monthly subscription delivering romantic surprises, date night ideas, and intimate products. Keeps relationship exciting.",
+    "price": "49.99",
+    "category": "Romance & Ambiance",
+    "tags": ["subscription", "couples", "romantic", "monthly"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Star Map Print",
+    "description": "Custom star map showing night sky on your special date. Framed print, personalized with names and location.",
+    "price": "79.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["star-map", "personalized", "romantic", "gift"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Yoga Retreat Weekend",
+    "description": "Two-day yoga and wellness retreat for couples. Includes accommodations, meals, and guided sessions. Mountain location.",
+    "price": "599.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["yoga", "retreat", "couples", "wellness"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Duvet Cover Set",
+    "description": "Premium microfiber duvet cover with hidden zipper. Soft, wrinkle-resistant, and easy care. Includes shams.",
+    "price": "89.99",
+    "category": "Sleep & Comfort",
+    "tags": ["duvet", "bedding", "luxury", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Trivia Game",
+    "description": "Fun trivia game testing how well you know each other. 500 questions, conversation starters. Strengthens connection.",
+    "price": "29.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["game", "trivia", "couples", "fun"],
+    "inStock": true
+  },
+  {
+    "name": "Scented Drawer Liners Lavender",
+    "description": "Lavender-scented drawer liners keep clothes fresh and fragrant. Non-slip, easy to cut to size. Set of 6 sheets.",
+    "price": "19.99",
+    "category": "Romance & Ambiance",
+    "tags": ["lavender", "scented", "drawer-liners", "fresh"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Wine & Paint Night Kit",
+    "description": "Complete kit for wine and painting date night. Includes canvases, paints, wine glasses, and tutorial access.",
+    "price": "74.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["wine", "painting", "couples", "date-night"],
+    "inStock": true
+  },
+  {
+    "name": "Silk Sleep Set Camisole & Shorts",
+    "description": "Luxurious silk pajama set with adjustable straps. Breathable, temperature-regulating. Available in multiple colors.",
+    "price": "79.99",
+    "category": "Sleep & Comfort",
+    "tags": ["silk", "pajamas", "sleepwear", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Bucket List Scratch Poster",
+    "description": "Interactive poster with 100 experiences to scratch off as completed. From simple dates to grand adventures.",
+    "price": "24.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["bucket-list", "poster", "couples", "experiences"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Hand Cream Gift Set",
+    "description": "Nourishing hand cream collection with shea butter and vitamin E. 5 scents, travel-size tubes. Perfect for pampering.",
+    "price": "34.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["hand-cream", "skincare", "luxury", "gift"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Hot Air Balloon Ride",
+    "description": "Romantic hot air balloon experience for two. Champagne toast, breathtaking views. Sunrise or sunset options.",
+    "price": "449.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["hot-air-balloon", "romantic", "experience", "adventure"],
+    "inStock": true
+  },
+  {
+    "name": "Bedroom Fairy Lights String",
+    "description": "Warm white LED fairy lights create magical ambiance. 33 feet, battery or USB powered. Perfect for bedroom decoration.",
+    "price": "19.99",
+    "category": "Romance & Ambiance",
+    "tags": ["lights", "fairy-lights", "ambiance", "decoration"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Cookbook for Two",
+    "description": "Recipe book designed for cooking together. 100 romantic dinner recipes with wine pairings. Beautiful photography.",
+    "price": "34.99",
+    "category": "Celebration & Dining",
+    "tags": ["cookbook", "couples", "recipes", "cooking"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Body Butter Set",
+    "description": "Rich body butter collection with cocoa and shea. Deeply moisturizing, non-greasy. 4 scents in elegant jars.",
+    "price": "44.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["body-butter", "moisturizer", "luxury", "skincare"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Camping Gear Set",
+    "description": "Complete camping set for two including tent, sleeping bags, and cooking equipment. Perfect for outdoor adventures together.",
+    "price": "299.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["camping", "outdoor", "couples", "adventure"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Couple Mugs Set",
+    "description": "Matching ceramic mugs with custom names or message. Microwave and dishwasher safe. Perfect for morning coffee together.",
+    "price": "29.99",
+    "category": "Celebration & Dining",
+    "tags": ["mugs", "personalized", "couples", "coffee"],
+    "inStock": true
+  },
+  {
+    "name": "Meditation App Couples Subscription",
+    "description": "Annual subscription to premium meditation app with couples-focused content. Guided sessions for connection and relaxation.",
+    "price": "99.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["meditation", "app", "couples", "mindfulness"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Throw Blanket Cashmere",
+    "description": "Soft cashmere throw blanket for cozy evenings. Lightweight yet warm. Available in neutral colors.",
+    "price": "149.99",
+    "category": "Sleep & Comfort",
+    "tags": ["blanket", "cashmere", "luxury", "cozy"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Karaoke Microphone Set",
+    "description": "Wireless Bluetooth karaoke microphones with built-in speakers. Fun for date nights and parties. Rechargeable.",
+    "price": "59.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["karaoke", "microphone", "couples", "fun"],
+    "inStock": true
+  },
+  {
+    "name": "Anniversary Memory Box Wooden",
+    "description": "Handcrafted wooden box for storing love letters, photos, and mementos. Engraving available. Keepsake quality.",
+    "price": "69.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["memory-box", "wooden", "anniversary", "keepsake"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Bike Ride Tandem Bicycle",
+    "description": "Tandem bicycle built for two. Comfortable seats, smooth ride. Perfect for leisurely rides and exploring together.",
+    "price": "899.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["bicycle", "tandem", "couples", "outdoor"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Bathtub Caddy Tray",
+    "description": "Bamboo bathtub tray with wine glass holder, book stand, and candle slots. Extendable to fit most tubs.",
+    "price": "54.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["bathtub", "caddy", "luxury", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Question Card Game",
+    "description": "Conversation card game with 150 thought-provoking questions. Deepen understanding and connection. Perfect for date nights.",
+    "price": "24.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["cards", "game", "couples", "conversation"],
+    "inStock": true
+  },
+  {
+    "name": "Silk Eye Pillow Lavender",
+    "description": "Weighted silk eye pillow filled with lavender and flax seeds. Promotes relaxation and better sleep. Cooling effect.",
+    "price": "22.99",
+    "category": "Sleep & Comfort",
+    "tags": ["eye-pillow", "silk", "lavender", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Spa Robes Monogrammed",
+    "description": "Plush spa robes with custom monogram embroidery. Ultra-soft, absorbent. His and hers sizing available.",
+    "price": "119.99",
+    "category": "Sleep & Comfort",
+    "tags": ["robes", "spa", "monogrammed", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Romantic Dinner for Two Meal Kit",
+    "description": "Gourmet meal kit with pre-portioned ingredients and chef-designed recipes. Restaurant-quality dinner at home.",
+    "price": "79.99",
+    "category": "Celebration & Dining",
+    "tags": ["meal-kit", "dinner", "romantic", "gourmet"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Fitness Tracker Set",
+    "description": "Matching fitness trackers to motivate each other. Track steps, heart rate, and sleep. Sync together for shared goals.",
+    "price": "199.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["fitness", "tracker", "couples", "health"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Scented Sachets Set",
+    "description": "Handmade scented sachets for closets and drawers. Rose, lavender, and vanilla scents. Natural ingredients.",
+    "price": "24.99",
+    "category": "Romance & Ambiance",
+    "tags": ["sachets", "scented", "natural", "fragrance"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Sunset Cruise Experience",
+    "description": "Private sunset cruise for two with champagne and appetizers. Romantic waterfront views, professional captain.",
+    "price": "349.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["cruise", "sunset", "romantic", "experience"],
+    "inStock": true
+  },
+  {
+    "name": "Bedroom Aromatherapy Humidifier",
+    "description": "Ultrasonic humidifier with essential oil diffuser. Quiet operation, LED mood lighting. Improves air quality and ambiance.",
+    "price": "49.99",
+    "category": "Romance & Ambiance",
+    "tags": ["humidifier", "aromatherapy", "bedroom", "wellness"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Gratitude Journal",
+    "description": "Shared gratitude journal with daily prompts. Strengthens appreciation and positive communication. Leather-bound.",
+    "price": "32.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["journal", "gratitude", "couples", "mindfulness"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Chocolate & Wine Pairing Set",
+    "description": "Curated selection of premium chocolates paired with fine wines. Tasting notes included. Perfect for romantic evenings.",
+    "price": "129.99",
+    "category": "Celebration & Dining",
+    "tags": ["chocolate", "wine", "pairing", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Starlight Projector",
+    "description": "Galaxy projector creates stunning starry night ceiling. Multiple color modes, Bluetooth speaker. Romantic bedroom ambiance.",
+    "price": "64.99",
+    "category": "Romance & Ambiance",
+    "tags": ["projector", "starlight", "ambiance", "romantic"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Song Lyrics Print",
+    "description": "Custom print featuring your special song lyrics. Framed, multiple design options. Meaningful romantic gift.",
+    "price": "54.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["lyrics", "personalized", "romantic", "print"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Massage Table Portable",
+    "description": "Professional-grade portable massage table. Adjustable height, comfortable padding. Perfect for home spa experiences.",
+    "price": "179.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["massage", "table", "portable", "spa"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Pajama Set Matching Couples",
+    "description": "Matching silk-blend pajama sets. Comfortable, breathable, and stylish. Available in multiple colors and sizes.",
+    "price": "109.99",
+    "category": "Sleep & Comfort",
+    "tags": ["pajamas", "matching", "couples", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Adventure Scrapbook Kit",
+    "description": "Complete scrapbooking kit for documenting adventures together. Includes album, stickers, and creative supplies.",
+    "price": "44.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["scrapbook", "adventure", "couples", "memories"],
+    "inStock": true
+  },
+  {
+    "name": "Romantic Getaway Weekend Package",
+    "description": "Two-night stay at luxury resort with spa treatments, gourmet dinners, and couples activities. Multiple destinations available.",
+    "price": "799.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["getaway", "romantic", "resort", "vacation"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Meditation Singing Bowl",
+    "description": "Handcrafted Tibetan singing bowl for meditation and relaxation. Creates soothing vibrations. Includes cushion and striker.",
+    "price": "69.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["singing-bowl", "meditation", "couples", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Canopy Bed Curtains",
+    "description": "Sheer canopy curtains create romantic bedroom atmosphere. Easy installation, machine washable. Elegant draping.",
+    "price": "89.99",
+    "category": "Romance & Ambiance",
+    "tags": ["canopy", "curtains", "bedroom", "romantic"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Coffee Subscription",
+    "description": "Monthly delivery of premium coffee beans from around the world. Tasting notes and brewing tips. Shared morning ritual.",
+    "price": "39.99",
+    "category": "Celebration & Dining",
+    "tags": ["coffee", "subscription", "couples", "monthly"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Couple Portrait Custom",
+    "description": "Custom illustrated portrait from your photo. Digital or printed, multiple artistic styles. Unique romantic gift.",
+    "price": "99.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["portrait", "custom", "personalized", "art"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Outdoor Movie Projector",
+    "description": "Portable projector with screen for backyard movie nights. Bluetooth connectivity, built-in speakers. Create magical evenings.",
+    "price": "249.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["projector", "outdoor", "movies", "couples"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Body Oil Sensual Blend",
+    "description": "Nourishing body oil with ylang-ylang and jasmine. Silky texture, absorbs quickly. Perfect for massage and skincare.",
+    "price": "44.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["body-oil", "sensual", "massage", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Puzzle Custom Photo",
+    "description": "1000-piece jigsaw puzzle made from your favorite photo. Quality printing, sturdy pieces. Fun activity to do together.",
+    "price": "39.99",
+    "category": "Entertainment & Leisure",
+    "tags": ["puzzle", "custom", "photo", "couples"],
+    "inStock": true
+  },
+  {
+    "name": "Bedroom Sound Machine White Noise",
+    "description": "Sound machine with nature sounds and white noise. Promotes better sleep, blocks distractions. Timer and volume control.",
+    "price": "49.99",
+    "category": "Sleep & Comfort",
+    "tags": ["sound-machine", "sleep", "white-noise", "relaxation"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Cooking Utensil Set Personalized",
+    "description": "Engraved wooden cooking utensils for couples who love cooking together. Includes spatulas, spoons, and cutting board.",
+    "price": "59.99",
+    "category": "Celebration & Dining",
+    "tags": ["cooking", "utensils", "personalized", "couples"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Silk Duvet Comforter",
+    "description": "All-season silk-filled duvet. Temperature-regulating, hypoallergenic. Lightweight luxury for perfect sleep.",
+    "price": "299.99",
+    "category": "Sleep & Comfort",
+    "tags": ["duvet", "silk", "luxury", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Relationship Book Collection",
+    "description": "Curated set of bestselling relationship books. Communication, intimacy, and growth topics. Strengthen your bond.",
+    "price": "79.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["books", "relationship", "couples", "growth"],
+    "inStock": true
+  },
+  {
+    "name": "Romantic Rose Delivery Subscription",
+    "description": "Fresh roses delivered monthly. Choose frequency and color. Keep romance alive with regular floral surprises.",
+    "price": "49.99",
+    "category": "Romance & Ambiance",
+    "tags": ["roses", "flowers", "subscription", "romantic"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Spa Slippers Luxury",
+    "description": "Plush spa slippers with memory foam. Matching set for couples. Soft, comfortable, and washable.",
+    "price": "34.99",
+    "category": "Sleep & Comfort",
+    "tags": ["slippers", "spa", "couples", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Love Story Book",
+    "description": "Custom book telling your unique love story. Personalized with names, dates, and photos. Beautiful keepsake.",
+    "price": "89.99",
+    "category": "Memories & Keepsakes",
+    "tags": ["book", "love-story", "personalized", "keepsake"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Wellness Retreat Day Pass",
+    "description": "Day pass to luxury wellness center. Access to pools, saunas, relaxation areas, and fitness classes for two.",
+    "price": "149.99",
+    "category": "Wellness & Intimacy",
+    "tags": ["wellness", "retreat", "spa", "couples"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Champagne Gift Set",
+    "description": "Premium champagne with crystal flutes and chocolate truffles. Elegant gift box. Perfect for celebrations.",
+    "price": "159.99",
+    "category": "Celebration & Dining",
+    "tags": ["champagne", "gift", "luxury", "celebration"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Silk Pajama Set for Couples",
+    "description": "Matching 100% mulberry silk pajamas. Breathable, hypoallergenic, and incredibly soft. Elevate your evening relaxation together.",
+    "price": "189.00",
+    "category": "Sleep & Comfort",
+    "tags": ["silk", "pajamas", "matching", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Ambient Mood Lighting Kit",
+    "description": "Synchronized LED light strips and lamps for your bedroom. control millions of colors via app to create the perfect romantic atmosphere.",
+    "price": "129.00",
+    "category": "Romance & Ambiance",
+    "tags": ["smart-lighting", "mood-light", "RGB", "ambiance"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Cooking Masterclass - Online",
+    "description": "Lifetime access to a series of 12 gourmet cooking lessons designed for two. Learn from world-class chefs in your own kitchen.",
+    "price": "99.00",
+    "category": "Entertainment & Leisure",
+    "tags": ["cooking-class", "online-learning", "couples", "activity"],
+    "inStock": true
+  },
+  {
+    "name": "Personalized Map of Our First Date",
+    "description": "High-quality custom map print of the exact location where you first met. Framed and personalized with your names and the date.",
+    "price": "75.00",
+    "category": "Memories & Keepsakes",
+    "tags": ["map-print", "custom-gift", "romantic", "anniversary"],
+    "inStock": true
+  },
+  {
+    "name": "High-Fidelity record Player - Walnut Edition",
+    "description": "Premium turntable with built-in Bluetooth and walnut finish. Perfect for spinning classic romantic vinyl records on date nights.",
+    "price": "199.00",
+    "category": "Romance & Ambiance",
+    "tags": ["turntable", "audio", "vintage-style", "music"],
+    "inStock": true
+  },
+  {
+    "name": "Couples Massage Oil Set - Organic",
+    "description": "Set of three therapeutic grade massage oils: Relaxing Lavender, Sensual Ylang-Ylang, and Energizing Citrus. 100% natural and organic.",
+    "price": "45.00",
+    "category": "Wellness & Intimacy",
+    "tags": ["massage-oil", "organic", "wellness", "aromatherapy"],
+    "inStock": true
+  },
+  {
+    "name": "Indoor Tabletop Fire Pit - Bio-Ethanol",
+    "description": "Sleek and safe smokeless fire pit for your living room. Creates a warm and cozy focal point for indoor camping or quiet evenings.",
+    "price": "89.00",
+    "category": "Romance & Ambiance",
+    "tags": ["fire-pit", "indoor", "ambiance", "home-decor"],
+    "inStock": true
+  }
+]
+

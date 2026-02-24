@@ -1,0 +1,803 @@
+[
+  {
+    "name": "Basmati Rice Premium 5kg",
+    "description": "Long-grain aromatic basmati rice, aged for superior flavor and fluffy texture. Perfect for biryani, pilaf, and everyday meals. Naturally gluten-free.",
+    "price": "12.99",
+    "category": "Grains",
+    "tags": ["rice", "basmati", "grain", "gluten-free"],
+    "inStock": true
+  },
+  {
+    "name": "Organic Brown Rice 2kg",
+    "description": "Whole grain brown rice rich in fiber, vitamins, and minerals. Nutty flavor and chewy texture. Healthier alternative to white rice.",
+    "price": "8.99",
+    "category": "Grains",
+    "tags": ["rice", "brown-rice", "organic", "whole-grain"],
+    "inStock": true
+  },
+  {
+    "name": "Jasmine Rice 10kg",
+    "description": "Fragrant Thai jasmine rice with soft, slightly sticky texture. Ideal for Asian cuisine, stir-fries, and curry dishes.",
+    "price": "18.99",
+    "category": "Grains",
+    "tags": ["rice", "jasmine", "thai", "aromatic"],
+    "inStock": true
+  },
+  {
+    "name": "Sona Masoori Rice 5kg",
+    "description": "Medium-grain rice popular in South Indian cooking. Lightweight, aromatic, and easy to digest. Great for daily meals.",
+    "price": "10.99",
+    "category": "Grains",
+    "tags": ["rice", "sona-masoori", "indian", "medium-grain"],
+    "inStock": true
+  },
+  {
+    "name": "Wild Rice Mix 1kg",
+    "description": "Blend of wild rice and long-grain rice. Nutty flavor, high in protein and fiber. Gourmet choice for special occasions.",
+    "price": "15.99",
+    "category": "Grains",
+    "tags": ["rice", "wild-rice", "gourmet", "protein"],
+    "inStock": true
+  },
+  {
+    "name": "Himalayan Pink Salt 500g",
+    "description": "Pure Himalayan pink salt crystals rich in minerals. Unrefined and natural. Perfect for cooking and seasoning.",
+    "price": "6.99",
+    "category": "Spices & Seasonings",
+    "tags": ["salt", "himalayan", "mineral", "natural"],
+    "inStock": true
+  },
+  {
+    "name": "Sea Salt Fine Ground 1kg",
+    "description": "Natural sea salt harvested from ocean water. Fine texture for easy dissolving. Essential kitchen staple.",
+    "price": "3.99",
+    "category": "Spices & Seasonings",
+    "tags": ["salt", "sea-salt", "fine", "natural"],
+    "inStock": true
+  },
+  {
+    "name": "Iodized Table Salt 1kg",
+    "description": "Fortified table salt with iodine for thyroid health. Free-flowing and consistent grain size. Everyday cooking essential.",
+    "price": "1.99",
+    "category": "Spices & Seasonings",
+    "tags": ["salt", "iodized", "table-salt", "fortified"],
+    "inStock": true
+  },
+  {
+    "name": "Black Salt (Kala Namak) 250g",
+    "description": "Distinctive sulfurous salt used in South Asian cuisine. Adds unique flavor to chaats, salads, and raitas.",
+    "price": "4.99",
+    "category": "Spices & Seasonings",
+    "tags": ["salt", "black-salt", "indian", "specialty"],
+    "inStock": true
+  },
+  {
+    "name": "Red Lentils (Masoor Dal) 1kg",
+    "description": "Quick-cooking red lentils, high in protein and fiber. Perfect for soups, curries, and dal. Nutritious vegetarian staple.",
+    "price": "4.99",
+    "category": "Pulses",
+    "tags": ["lentils", "dal", "protein", "vegetarian"],
+    "inStock": true
+  },
+  {
+    "name": "Yellow Split Peas (Chana Dal) 1kg",
+    "description": "Split chickpeas with sweet, nutty flavor. Rich in protein and fiber. Essential for Indian cooking.",
+    "price": "5.49",
+    "category": "Pulses",
+    "tags": ["chickpeas", "dal", "protein", "indian"],
+    "inStock": true
+  },
+  {
+    "name": "Green Moong Dal 1kg",
+    "description": "Whole green mung beans, easy to digest and highly nutritious. Great for sprouting, soups, and traditional dal.",
+    "price": "5.99",
+    "category": "Pulses",
+    "tags": ["moong", "dal", "protein", "sprouting"],
+    "inStock": true
+  },
+  {
+    "name": "Black Lentils (Urad Dal) 1kg",
+    "description": "Creamy black lentils perfect for dal makhani and South Indian dishes. Rich, earthy flavor and high protein content.",
+    "price": "6.49",
+    "category": "Pulses",
+    "tags": ["lentils", "urad", "dal", "protein"],
+    "inStock": true
+  },
+  {
+    "name": "Kidney Beans (Rajma) 1kg",
+    "description": "Dark red kidney beans for hearty curries and chili. Excellent source of protein, fiber, and iron.",
+    "price": "5.99",
+    "category": "Pulses",
+    "tags": ["beans", "kidney-beans", "protein", "fiber"],
+    "inStock": true
+  },
+  {
+    "name": "Chickpeas (Kabuli Chana) 1kg",
+    "description": "Large white chickpeas for hummus, curries, and salads. Versatile legume packed with protein and nutrients.",
+    "price": "5.49",
+    "category": "Pulses",
+    "tags": ["chickpeas", "protein", "versatile", "hummus"],
+    "inStock": true
+  },
+  {
+    "name": "Organic Whole Wheat Flour 5kg",
+    "description": "Stone-ground whole wheat flour (atta) for chapati, roti, and bread. High in fiber and nutrients.",
+    "price": "9.99",
+    "category": "Grains",
+    "tags": ["flour", "wheat", "organic", "whole-grain"],
+    "inStock": true
+  },
+  {
+    "name": "All-Purpose Flour 2kg",
+    "description": "Refined white flour for baking cakes, cookies, and pastries. Versatile kitchen essential for all baking needs.",
+    "price": "4.99",
+    "category": "Grains",
+    "tags": ["flour", "baking", "refined", "versatile"],
+    "inStock": true
+  },
+  {
+    "name": "Semolina (Sooji/Rava) 1kg",
+    "description": "Coarse wheat semolina for upma, halwa, and pasta. Quick-cooking and versatile ingredient.",
+    "price": "3.99",
+    "category": "Grains",
+    "tags": ["semolina", "wheat", "breakfast", "versatile"],
+    "inStock": true
+  },
+  {
+    "name": "Rolled Oats 1kg",
+    "description": "Whole grain rolled oats for healthy breakfast porridge. High in fiber and heart-healthy. Gluten-free certified.",
+    "price": "5.99",
+    "category": "Grains",
+    "tags": ["oats", "breakfast", "fiber", "gluten-free"],
+    "inStock": true
+  },
+  {
+    "name": "Quinoa Organic 500g",
+    "description": "Complete protein superfood grain. Nutty flavor, fluffy texture. Perfect for salads, bowls, and side dishes.",
+    "price": "12.99",
+    "category": "Grains",
+    "tags": ["quinoa", "superfood", "protein", "organic"],
+    "inStock": true
+  },
+  {
+    "name": "White Sugar 2kg",
+    "description": "Refined white granulated sugar for sweetening beverages, baking, and cooking. Fine crystals dissolve easily.",
+    "price": "3.99",
+    "category": "Sweeteners",
+    "tags": ["sugar", "sweetener", "baking", "refined"],
+    "inStock": true
+  },
+  {
+    "name": "Brown Sugar 1kg",
+    "description": "Soft brown sugar with molasses for rich flavor. Ideal for baking cookies, cakes, and glazes.",
+    "price": "4.99",
+    "category": "Sweeteners",
+    "tags": ["sugar", "brown-sugar", "baking", "molasses"],
+    "inStock": true
+  },
+  {
+    "name": "Organic Honey 500g",
+    "description": "Pure raw honey from wildflowers. Natural sweetener with antioxidants. Perfect for tea, toast, and cooking.",
+    "price": "11.99",
+    "category": "Sweeteners",
+    "tags": ["honey", "organic", "natural", "antioxidants"],
+    "inStock": true
+  },
+  {
+    "name": "Jaggery (Gur) 1kg",
+    "description": "Traditional unrefined cane sugar. Rich, complex sweetness. Used in Indian sweets and traditional medicine.",
+    "price": "6.99",
+    "category": "Sweeteners",
+    "tags": ["jaggery", "unrefined", "traditional", "indian"],
+    "inStock": true
+  },
+  {
+    "name": "Maple Syrup Pure 250ml",
+    "description": "100% pure Canadian maple syrup. Natural sweetener for pancakes, waffles, and baking. Grade A amber.",
+    "price": "14.99",
+    "category": "Sweeteners",
+    "tags": ["maple-syrup", "natural", "canadian", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Extra Virgin Olive Oil 1L",
+    "description": "Cold-pressed extra virgin olive oil. Heart-healthy monounsaturated fats. Perfect for salads and Mediterranean cooking.",
+    "price": "16.99",
+    "category": "Oils",
+    "tags": ["oil", "olive-oil", "healthy", "mediterranean"],
+    "inStock": true
+  },
+  {
+    "name": "Coconut Oil Virgin 500ml",
+    "description": "Organic virgin coconut oil for cooking and baking. Medium-chain fatty acids. Versatile for cooking and beauty.",
+    "price": "12.99",
+    "category": "Oils",
+    "tags": ["oil", "coconut", "organic", "versatile"],
+    "inStock": true
+  },
+  {
+    "name": "Sunflower Oil 2L",
+    "description": "Light refined sunflower oil for everyday cooking. High smoke point, neutral flavor. Economical choice.",
+    "price": "8.99",
+    "category": "Oils",
+    "tags": ["oil", "sunflower", "cooking", "neutral"],
+    "inStock": true
+  },
+  {
+    "name": "Mustard Oil 1L",
+    "description": "Pungent mustard oil popular in Indian and Bengali cooking. Strong flavor, high in omega-3 fatty acids.",
+    "price": "9.99",
+    "category": "Oils",
+    "tags": ["oil", "mustard", "indian", "omega-3"],
+    "inStock": true
+  },
+  {
+    "name": "Sesame Oil Toasted 250ml",
+    "description": "Aromatic toasted sesame oil for Asian cuisine. Nutty flavor, perfect for stir-fries and finishing dishes.",
+    "price": "7.99",
+    "category": "Oils",
+    "tags": ["oil", "sesame", "asian", "aromatic"],
+    "inStock": true
+  },
+  {
+    "name": "Whole Milk 1L",
+    "description": "Fresh pasteurized whole milk. Rich and creamy. Good source of calcium, protein, and vitamin D.",
+    "price": "2.99",
+    "category": "Dairy",
+    "tags": ["milk", "dairy", "calcium", "protein"],
+    "inStock": true
+  },
+  {
+    "name": "Almond Milk Unsweetened 1L",
+    "description": "Plant-based almond milk, dairy-free and lactose-free. Low calorie, fortified with calcium and vitamins.",
+    "price": "4.99",
+    "category": "Dairy Alternatives",
+    "tags": ["milk", "almond", "vegan", "dairy-free"],
+    "inStock": true
+  },
+  {
+    "name": "Greek Yogurt Plain 500g",
+    "description": "Thick and creamy Greek yogurt. High protein, probiotic-rich. Perfect for breakfast, smoothies, and cooking.",
+    "price": "5.99",
+    "category": "Dairy",
+    "tags": ["yogurt", "greek", "protein", "probiotic"],
+    "inStock": true
+  },
+  {
+    "name": "Cheddar Cheese Block 400g",
+    "description": "Sharp aged cheddar cheese. Rich flavor, perfect for sandwiches, burgers, and cheese boards.",
+    "price": "8.99",
+    "category": "Dairy",
+    "tags": ["cheese", "cheddar", "dairy", "aged"],
+    "inStock": true
+  },
+  {
+    "name": "Butter Unsalted 250g",
+    "description": "Pure unsalted butter for baking and cooking. Creamy texture, rich flavor. Essential for pastries and sauces.",
+    "price": "4.99",
+    "category": "Dairy",
+    "tags": ["butter", "dairy", "baking", "unsalted"],
+    "inStock": true
+  },
+  {
+    "name": "Free Range Eggs Dozen",
+    "description": "Fresh free-range eggs from cage-free hens. Rich in protein, vitamins, and minerals. Versatile for any meal.",
+    "price": "6.99",
+    "category": "Eggs",
+    "tags": ["eggs", "free-range", "protein", "fresh"],
+    "inStock": true
+  },
+  {
+    "name": "Organic Eggs Half Dozen",
+    "description": "Certified organic eggs from pasture-raised chickens. Superior quality and nutrition. Bright orange yolks.",
+    "price": "5.99",
+    "category": "Eggs",
+    "tags": ["eggs", "organic", "pasture-raised", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Turmeric Powder 200g",
+    "description": "Ground turmeric with anti-inflammatory properties. Essential spice for curries, golden milk, and health remedies.",
+    "price": "4.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "turmeric", "anti-inflammatory", "indian"],
+    "inStock": true
+  },
+  {
+    "name": "Cumin Seeds 100g",
+    "description": "Aromatic cumin seeds for tempering and spice blends. Earthy, warm flavor. Essential in Indian and Middle Eastern cooking.",
+    "price": "3.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "cumin", "aromatic", "indian"],
+    "inStock": true
+  },
+  {
+    "name": "Coriander Powder 200g",
+    "description": "Ground coriander seeds with citrusy, slightly sweet flavor. Versatile spice for curries, marinades, and rubs.",
+    "price": "3.49",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "coriander", "aromatic", "versatile"],
+    "inStock": true
+  },
+  {
+    "name": "Red Chili Powder 100g",
+    "description": "Hot red chili powder for adding heat to dishes. Adjust spice level in curries, marinades, and sauces.",
+    "price": "3.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "chili", "hot", "heat"],
+    "inStock": true
+  },
+  {
+    "name": "Garam Masala 100g",
+    "description": "Aromatic Indian spice blend with cinnamon, cardamom, cloves. Warm, complex flavor for curries and rice dishes.",
+    "price": "5.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "garam-masala", "blend", "indian"],
+    "inStock": true
+  },
+  {
+    "name": "Black Pepper Whole 100g",
+    "description": "Premium whole black peppercorns. Freshly grind for maximum flavor and aroma. Essential seasoning for all cuisines.",
+    "price": "4.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "pepper", "whole", "aromatic"],
+    "inStock": true
+  },
+  {
+    "name": "Cinnamon Sticks 50g",
+    "description": "Ceylon cinnamon sticks for sweet and savory dishes. Warm, sweet aroma. Perfect for teas, desserts, and curries.",
+    "price": "6.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "cinnamon", "aromatic", "sweet"],
+    "inStock": true
+  },
+  {
+    "name": "Cardamom Pods Green 50g",
+    "description": "Aromatic green cardamom pods. Intense, sweet flavor. Essential for chai, biryani, and Indian sweets.",
+    "price": "12.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "cardamom", "aromatic", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Bay Leaves Dried 20g",
+    "description": "Dried bay leaves for flavoring soups, stews, and rice dishes. Subtle herbal aroma. Remove before serving.",
+    "price": "2.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "bay-leaves", "herb", "aromatic"],
+    "inStock": true
+  },
+  {
+    "name": "Garlic Powder 100g",
+    "description": "Convenient garlic powder for seasoning. Concentrated flavor, long shelf life. Perfect for rubs and quick cooking.",
+    "price": "3.99",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "garlic", "powder", "convenient"],
+    "inStock": true
+  },
+  {
+    "name": "Onion Powder 100g",
+    "description": "Dehydrated onion powder for instant flavor. Sweet, savory taste. Great for soups, sauces, and seasoning blends.",
+    "price": "3.49",
+    "category": "Spices & Seasonings",
+    "tags": ["spice", "onion", "powder", "savory"],
+    "inStock": true
+  },
+  {
+    "name": "Pasta Penne 500g",
+    "description": "Italian durum wheat penne pasta. Tube shape holds sauce well. Perfect for baked dishes and pasta salads.",
+    "price": "2.99",
+    "category": "Pasta & Noodles",
+    "tags": ["pasta", "italian", "penne", "wheat"],
+    "inStock": true
+  },
+  {
+    "name": "Spaghetti Whole Wheat 500g",
+    "description": "Whole wheat spaghetti for healthier pasta dishes. Nutty flavor, high in fiber. Classic Italian staple.",
+    "price": "3.49",
+    "category": "Pasta & Noodles",
+    "tags": ["pasta", "spaghetti", "whole-wheat", "fiber"],
+    "inStock": true
+  },
+  {
+    "name": "Instant Noodles Pack of 5",
+    "description": "Quick-cooking instant noodles for convenient meals. Variety of flavors. Ready in 3 minutes.",
+    "price": "4.99",
+    "category": "Pasta & Noodles",
+    "tags": ["noodles", "instant", "quick", "convenient"],
+    "inStock": true
+  },
+  {
+    "name": "Rice Noodles 400g",
+    "description": "Thin rice noodles for Asian stir-fries and soups. Gluten-free, quick-cooking. Perfect for pad thai and pho.",
+    "price": "3.99",
+    "category": "Pasta & Noodles",
+    "tags": ["noodles", "rice", "asian", "gluten-free"],
+    "inStock": true
+  },
+  {
+    "name": "Vermicelli (Sevai) 200g",
+    "description": "Thin wheat vermicelli for upma, kheer, and breakfast dishes. Quick-cooking and versatile.",
+    "price": "2.49",
+    "category": "Pasta & Noodles",
+    "tags": ["vermicelli", "wheat", "indian", "breakfast"],
+    "inStock": true
+  },
+  {
+    "name": "Tomato Ketchup 500g",
+    "description": "Classic tomato ketchup for burgers, fries, and snacks. Sweet and tangy flavor. Family favorite condiment.",
+    "price": "3.99",
+    "category": "Condiments",
+    "tags": ["ketchup", "condiment", "tomato", "sweet"],
+    "inStock": true
+  },
+  {
+    "name": "Soy Sauce 500ml",
+    "description": "Naturally brewed soy sauce for Asian cooking. Salty, umami flavor. Essential for stir-fries and marinades.",
+    "price": "4.99",
+    "category": "Condiments",
+    "tags": ["soy-sauce", "asian", "umami", "condiment"],
+    "inStock": true
+  },
+  {
+    "name": "Mayonnaise 400g",
+    "description": "Creamy mayonnaise for sandwiches, salads, and dips. Rich, smooth texture. Versatile spread and ingredient.",
+    "price": "4.49",
+    "category": "Condiments",
+    "tags": ["mayonnaise", "condiment", "creamy", "spread"],
+    "inStock": true
+  },
+  {
+    "name": "Hot Sauce 150ml",
+    "description": "Spicy hot sauce with chili peppers and vinegar. Add heat to any dish. Perfect for tacos, wings, and eggs.",
+    "price": "5.99",
+    "category": "Condiments",
+    "tags": ["hot-sauce", "spicy", "condiment", "chili"],
+    "inStock": true
+  },
+  {
+    "name": "Mustard Sauce 250g",
+    "description": "Tangy yellow mustard for hot dogs, sandwiches, and dressings. Classic American condiment.",
+    "price": "3.49",
+    "category": "Condiments",
+    "tags": ["mustard", "condiment", "tangy", "classic"],
+    "inStock": true
+  },
+  {
+    "name": "Peanut Butter Creamy 500g",
+    "description": "Smooth creamy peanut butter. High in protein and healthy fats. Perfect for sandwiches, smoothies, and baking.",
+    "price": "6.99",
+    "category": "Spreads",
+    "tags": ["peanut-butter", "protein", "spread", "creamy"],
+    "inStock": true
+  },
+  {
+    "name": "Strawberry Jam 400g",
+    "description": "Sweet strawberry jam made with real fruit. Perfect for toast, pastries, and desserts. No artificial colors.",
+    "price": "4.99",
+    "category": "Spreads",
+    "tags": ["jam", "strawberry", "sweet", "fruit"],
+    "inStock": true
+  },
+  {
+    "name": "Chocolate Hazelnut Spread 350g",
+    "description": "Creamy chocolate hazelnut spread. Rich, indulgent flavor. Perfect for toast, pancakes, and desserts.",
+    "price": "7.99",
+    "category": "Spreads",
+    "tags": ["chocolate", "hazelnut", "spread", "sweet"],
+    "inStock": true
+  },
+  {
+    "name": "Green Tea Bags 100 Count",
+    "description": "Premium green tea bags rich in antioxidants. Light, refreshing flavor. Supports metabolism and wellness.",
+    "price": "8.99",
+    "category": "Beverages",
+    "tags": ["tea", "green-tea", "antioxidants", "healthy"],
+    "inStock": true
+  },
+  {
+    "name": "Black Tea Loose Leaf 250g",
+    "description": "Strong black tea leaves for traditional chai and breakfast tea. Bold flavor, high caffeine. Classic choice.",
+    "price": "6.99",
+    "category": "Beverages",
+    "tags": ["tea", "black-tea", "caffeine", "traditional"],
+    "inStock": true
+  },
+  {
+    "name": "Coffee Beans Arabica 500g",
+    "description": "Premium Arabica coffee beans. Medium roast with smooth, balanced flavor. Freshly roasted for best aroma.",
+    "price": "14.99",
+    "category": "Beverages",
+    "tags": ["coffee", "arabica", "beans", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Instant Coffee 100g",
+    "description": "Convenient instant coffee granules. Quick and easy preparation. Rich coffee flavor in seconds.",
+    "price": "5.99",
+    "category": "Beverages",
+    "tags": ["coffee", "instant", "convenient", "quick"],
+    "inStock": true
+  },
+  {
+    "name": "Cocoa Powder Unsweetened 200g",
+    "description": "Pure unsweetened cocoa powder for baking and hot chocolate. Rich chocolate flavor, high in antioxidants.",
+    "price": "6.99",
+    "category": "Baking",
+    "tags": ["cocoa", "chocolate", "baking", "unsweetened"],
+    "inStock": true
+  },
+  {
+    "name": "Baking Powder 200g",
+    "description": "Double-acting baking powder for cakes, muffins, and quick breads. Reliable leavening agent.",
+    "price": "2.99",
+    "category": "Baking",
+    "tags": ["baking-powder", "leavening", "baking", "essential"],
+    "inStock": true
+  },
+  {
+    "name": "Baking Soda 500g",
+    "description": "Pure sodium bicarbonate for baking and cleaning. Versatile household essential. Food-grade quality.",
+    "price": "2.49",
+    "category": "Baking",
+    "tags": ["baking-soda", "versatile", "baking", "cleaning"],
+    "inStock": true
+  },
+  {
+    "name": "Vanilla Extract Pure 100ml",
+    "description": "Pure vanilla extract from Madagascar beans. Rich, aromatic flavor for baking and desserts. Premium quality.",
+    "price": "12.99",
+    "category": "Baking",
+    "tags": ["vanilla", "extract", "baking", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Cornstarch 400g",
+    "description": "Pure cornstarch for thickening sauces, gravies, and puddings. Gluten-free. Essential baking ingredient.",
+    "price": "3.49",
+    "category": "Baking",
+    "tags": ["cornstarch", "thickener", "gluten-free", "baking"],
+    "inStock": true
+  },
+  {
+    "name": "Almonds Raw 500g",
+    "description": "Raw whole almonds. Crunchy, nutritious snack high in protein, fiber, and healthy fats. Heart-healthy.",
+    "price": "12.99",
+    "category": "Nuts & Seeds",
+    "tags": ["almonds", "nuts", "protein", "healthy"],
+    "inStock": true
+  },
+  {
+    "name": "Cashews Roasted 400g",
+    "description": "Roasted salted cashews. Creamy texture, rich flavor. Perfect snack or cooking ingredient.",
+    "price": "14.99",
+    "category": "Nuts & Seeds",
+    "tags": ["cashews", "nuts", "roasted", "snack"],
+    "inStock": true
+  },
+  {
+    "name": "Walnuts Halves 300g",
+    "description": "Walnut halves rich in omega-3 fatty acids. Brain-healthy snack. Great for baking and salads.",
+    "price": "11.99",
+    "category": "Nuts & Seeds",
+    "tags": ["walnuts", "nuts", "omega-3", "healthy"],
+    "inStock": true
+  },
+  {
+    "name": "Peanuts Roasted 500g",
+    "description": "Roasted peanuts with skin. High protein snack. Perfect for trail mix, cooking, or eating plain.",
+    "price": "5.99",
+    "category": "Nuts & Seeds",
+    "tags": ["peanuts", "nuts", "protein", "roasted"],
+    "inStock": true
+  },
+  {
+    "name": "Chia Seeds Organic 300g",
+    "description": "Organic chia seeds rich in omega-3, fiber, and protein. Superfood for smoothies, puddings, and baking.",
+    "price": "8.99",
+    "category": "Nuts & Seeds",
+    "tags": ["chia", "seeds", "superfood", "omega-3"],
+    "inStock": true
+  },
+  {
+    "name": "Flax Seeds Ground 400g",
+    "description": "Ground flax seeds for easy digestion. High in fiber and omega-3. Add to smoothies, oatmeal, and baking.",
+    "price": "6.99",
+    "category": "Nuts & Seeds",
+    "tags": ["flax", "seeds", "fiber", "omega-3"],
+    "inStock": true
+  },
+  {
+    "name": "Sunflower Seeds 300g",
+    "description": "Roasted sunflower seeds. Crunchy snack rich in vitamin E and minerals. Great for salads and trail mix.",
+    "price": "4.99",
+    "category": "Nuts & Seeds",
+    "tags": ["sunflower", "seeds", "vitamin-e", "snack"],
+    "inStock": true
+  },
+  {
+    "name": "Raisins Seedless 500g",
+    "description": "Sweet seedless raisins. Natural energy boost. Perfect for baking, trail mix, and snacking.",
+    "price": "5.99",
+    "category": "Dried Fruits",
+    "tags": ["raisins", "dried-fruit", "sweet", "energy"],
+    "inStock": true
+  },
+  {
+    "name": "Dates Medjool 400g",
+    "description": "Premium Medjool dates. Naturally sweet, soft texture. Rich in fiber and minerals. Healthy dessert alternative.",
+    "price": "11.99",
+    "category": "Dried Fruits",
+    "tags": ["dates", "dried-fruit", "sweet", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Dried Apricots 300g",
+    "description": "Tangy-sweet dried apricots. High in vitamin A and fiber. Delicious snack or baking ingredient.",
+    "price": "7.99",
+    "category": "Dried Fruits",
+    "tags": ["apricots", "dried-fruit", "vitamin-a", "tangy"],
+    "inStock": true
+  },
+  {
+    "name": "Cranberries Dried 250g",
+    "description": "Sweetened dried cranberries. Tart flavor, chewy texture. Perfect for salads, baking, and trail mix.",
+    "price": "6.99",
+    "category": "Dried Fruits",
+    "tags": ["cranberries", "dried-fruit", "tart", "chewy"],
+    "inStock": true
+  },
+  {
+    "name": "Tomato Puree 400g",
+    "description": "Smooth tomato puree for curries, sauces, and soups. Rich tomato flavor. No added preservatives.",
+    "price": "2.99",
+    "category": "Canned Goods",
+    "tags": ["tomato", "puree", "cooking", "sauce"],
+    "inStock": true
+  },
+  {
+    "name": "Coconut Milk 400ml",
+    "description": "Creamy coconut milk for curries, desserts, and smoothies. Dairy-free, rich flavor. Thai cuisine essential.",
+    "price": "3.99",
+    "category": "Canned Goods",
+    "tags": ["coconut", "milk", "dairy-free", "creamy"],
+    "inStock": true
+  },
+  {
+    "name": "Chickpeas Canned 400g",
+    "description": "Pre-cooked chickpeas ready to use. Convenient for hummus, salads, and curries. BPA-free can.",
+    "price": "2.49",
+    "category": "Canned Goods",
+    "tags": ["chickpeas", "canned", "convenient", "protein"],
+    "inStock": true
+  },
+  {
+    "name": "Kidney Beans Canned 400g",
+    "description": "Ready-to-eat kidney beans. Perfect for chili, salads, and Mexican dishes. No soaking required.",
+    "price": "2.49",
+    "category": "Canned Goods",
+    "tags": ["beans", "canned", "convenient", "protein"],
+    "inStock": true
+  },
+  {
+    "name": "Sweet Corn Canned 340g",
+    "description": "Sweet corn kernels in water. Convenient vegetable for salads, soups, and side dishes.",
+    "price": "2.29",
+    "category": "Canned Goods",
+    "tags": ["corn", "canned", "vegetable", "sweet"],
+    "inStock": true
+  },
+  {
+    "name": "Tuna in Water 185g",
+    "description": "Chunk light tuna in water. High protein, low fat. Perfect for sandwiches, salads, and pasta.",
+    "price": "3.99",
+    "category": "Canned Goods",
+    "tags": ["tuna", "fish", "protein", "canned"],
+    "inStock": true
+  },
+  {
+    "name": "Apple Cider Vinegar 500ml",
+    "description": "Raw unfiltered apple cider vinegar with mother. Health tonic, salad dressing, and cooking ingredient.",
+    "price": "6.99",
+    "category": "Vinegars",
+    "tags": ["vinegar", "apple-cider", "health", "raw"],
+    "inStock": true
+  },
+  {
+    "name": "White Vinegar 1L",
+    "description": "Distilled white vinegar for cooking, pickling, and cleaning. Versatile household essential.",
+    "price": "2.99",
+    "category": "Vinegars",
+    "tags": ["vinegar", "white", "versatile", "cooking"],
+    "inStock": true
+  },
+  {
+    "name": "Balsamic Vinegar 250ml",
+    "description": "Aged balsamic vinegar from Modena. Sweet, complex flavor. Perfect for salads and finishing dishes.",
+    "price": "9.99",
+    "category": "Vinegars",
+    "tags": ["vinegar", "balsamic", "aged", "gourmet"],
+    "inStock": true
+  },
+  {
+    "name": "Popcorn Kernels 500g",
+    "description": "Premium popcorn kernels for homemade popcorn. Healthy snack, fun to make. Non-GMO.",
+    "price": "3.99",
+    "category": "Snacks",
+    "tags": ["popcorn", "snack", "kernels", "healthy"],
+    "inStock": true
+  },
+  {
+    "name": "Potato Chips Classic 200g",
+    "description": "Crispy potato chips with sea salt. Classic snack for parties and movie nights.",
+    "price": "3.49",
+    "category": "Snacks",
+    "tags": ["chips", "potato", "snack", "crispy"],
+    "inStock": true
+  },
+  {
+    "name": "Trail Mix 400g",
+    "description": "Healthy trail mix with nuts, seeds, and dried fruits. Energy-boosting snack for hiking and workouts.",
+    "price": "8.99",
+    "category": "Snacks",
+    "tags": ["trail-mix", "nuts", "healthy", "energy"],
+    "inStock": true
+  },
+  {
+    "name": "Dark Chocolate Bar 100g",
+    "description": "70% dark chocolate bar. Rich, intense flavor. High in antioxidants. Premium quality cocoa.",
+    "price": "4.99",
+    "category": "Snacks",
+    "tags": ["chocolate", "dark", "antioxidants", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Granola Bars Box of 6",
+    "description": "Wholesome granola bars with oats, nuts, and honey. Convenient on-the-go breakfast or snack.",
+    "price": "5.99",
+    "category": "Snacks",
+    "tags": ["granola", "bars", "convenient", "healthy"],
+    "inStock": true
+  },
+  {
+    "name": "Mineral Water 1.5L",
+    "description": "Natural mineral water from mountain springs. Pure, refreshing hydration. Rich in essential minerals.",
+    "price": "1.99",
+    "category": "Beverages",
+    "tags": ["water", "mineral", "hydration", "natural"],
+    "inStock": true
+  },
+  {
+    "name": "Orange Juice 1L",
+    "description": "Fresh-squeezed orange juice. No added sugar or preservatives. Rich in vitamin C. Refrigerated.",
+    "price": "4.99",
+    "category": "Beverages",
+    "tags": ["juice", "orange", "vitamin-c", "fresh"],
+    "inStock": true
+  },
+  {
+    "name": "Coconut Water 500ml",
+    "description": "Natural coconut water. Hydrating electrolyte drink. Low calorie, naturally sweet. Post-workout refreshment.",
+    "price": "3.99",
+    "category": "Beverages",
+    "tags": ["coconut", "water", "electrolytes", "hydrating"],
+    "inStock": true
+  },
+  {
+    "name": "Sparkling Water Lemon 1L",
+    "description": "Carbonated water with natural lemon flavor. Zero calories, refreshing. Healthy soda alternative.",
+    "price": "2.49",
+    "category": "Beverages",
+    "tags": ["water", "sparkling", "lemon", "zero-calorie"],
+    "inStock": true
+  },
+  {
+    "name": "Organic Apple Juice 1L",
+    "description": "Pure pressed organic apples. No added sugar, colors, or artificial flavors. Crisp and refreshing taste of natural fruit.",
+    "price": "5.49",
+    "category": "Beverages",
+    "tags": ["juice", "apple", "organic", "natural"],
+    "inStock": true
+  }
+]
+

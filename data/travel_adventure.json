@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Hardside Expandable Spinner Suitcase - 28\"",
+    "description": "Durable lightweight polycarbonate shell with 360-degree spinner wheels and a TSA-approved lock. Expandable design provides 20% more packing space.",
+    "price": "149.99",
+    "category": "Luggage",
+    "tags": ["suitcase", "travel", "luggage", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1565026073747-493a7c7bb246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultra-Lightweight Backpacking Tent - 2 Person",
+    "description": "Weatherproof 3-season tent with high-strength aluminum poles and waterproof rainfly. Sets up in minutes and weighs only 3.5lbs for distance treks.",
+    "price": "199.00",
+    "category": "Camping & Hiking",
+    "tags": ["tent", "camping", "hiking", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Insulated Stainless Steel Water Bottle - 32oz",
+    "description": "Double-wall vacuum insulation keeps drinks cold for 24 hours or hot for 12. Durable powder-coat finish and leak-proof lid with carabiner loop.",
+    "price": "34.99",
+    "category": "Hydration",
+    "tags": ["water-bottle", "hiking", "travel", "insulated"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Memory Foam Travel Neck Pillow",
+    "description": "Ergonomic 360-degree support pillow with a soft washable velour cover. Rolls into a compact carrying bag for space-saving convenience on planes.",
+    "price": "24.99",
+    "category": "Travel Accessories",
+    "tags": ["travel-pillow", "comfort", "flying", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal International Power Adapter",
+    "description": "All-in-one plug adapter for over 150 countries. Features 4 USB ports and a USB-C port for fast charging of all your travel gadgets.",
+    "price": "29.99",
+    "category": "Travel Electronics",
+    "tags": ["power-adapter", "travel-tech", "global", "charging"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Quick-Dry Packable Travel Towel",
+    "description": "Ultra-absorbent microfiber towel that dries 3x faster than cotton. Folds into a small mesh pouch, ideal for beach, gym, and camping.",
+    "price": "19.99",
+    "category": "Travel Gear",
+    "tags": ["travel-towel", "beach", "camping", "compact"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Dry Bag - 20L",
+    "description": "Roll-top dry bag made from heavy-duty 500D PVC. Keeps your gear bone-dry while kayaking, boating, or hiking in heavy rain.",
+    "price": "22.00",
+    "category": "Outdoor Adventure",
+    "tags": ["dry-bag", "waterproof", "kayaking", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pack of 6 Travel Compression Bags",
+    "description": "No-vacuum-needed space saver bags. Just roll to expel air and increase your luggage capacity by up to 75%. different sizes for all clothes.",
+    "price": "18.99",
+    "category": "Luggage Accessories",
+    "tags": ["packing-cubes", "organization", "travel", "luggage"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1565026073747-493a7c7bb246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Density Foam Sleeping Pad",
+    "description": "Self-insulating air pad for comfortable camping. Features a built-in foot pump for quick inflation and a r-value of 4 for cold weather use.",
+    "price": "59.99",
+    "category": "Camping & Hiking",
+    "tags": ["sleeping-pad", "camping", "hiking", "sleep-comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Leather Passport Holder",
+    "description": "Handcrafted genuine leather wallet with RFID blocking technology. Includes slots for passport, boarding passes, and currency.",
+    "price": "34.00",
+    "category": "Travel Accessories",
+    "tags": ["passport-holder", "leather", "RFID-blocking", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Handheld Espresso Maker",
+    "description": "Manual travel espresso machine that uses coffee grounds or capsules. No battery or electricity required, perfect for camping and long trips.",
+    "price": "65.00",
+    "category": "Travel Gear",
+    "tags": ["espresso-maker", "coffee", "camping-gear", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Portable Charger - 20000mAh",
+    "description": "Rugged water-resistant power bank with solar panels for emergency charging. Features dual USB ports and a powerful LED flashlight.",
+    "price": "49.99",
+    "category": "Travel Electronics",
+    "tags": ["power-bank", "solar", "camping", "emergency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Aluminum Trekking Poles",
+    "description": "Lightweight shock-absorbing poles for hiking and mountaineering. Features comfortable cork grips and quick-lock height adjustment.",
+    "price": "44.99",
+    "category": "Camping & Hiking",
+    "tags": ["trekking-poles", "hiking", "walking", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bluetooth Audio Eye Mask for Sleeping",
+    "description": "Ultra-soft padded sleep mask with integrated thin Bluetooth speakers. Perfect for listening to audiobooks or sleep tracks on long flights.",
+    "price": "34.00",
+    "category": "Travel Accessories",
+    "tags": ["sleep-mask", "bluetooth", "travel-tech", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Cooler Bag - 24 Can",
+    "description": "Leak-proof insulated soft-sided cooler that keeps ice for up to 48 hours. Features multiple pockets and an adjustable shoulder strap.",
+    "price": "39.99",
+    "category": "Travel Gear",
+    "tags": ["cooler-bag", "picnic", "beach", "camping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Travel Handheld Garment Steamer",
+    "description": "Compact and powerful steamer that heats up in 30 seconds. Removes wrinkles from clothes quickly in hotel rooms without an iron.",
+    "price": "32.00",
+    "category": "Travel Accessories",
+    "tags": ["steamer", "travel-iron", "clothing-care", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mini First Aid Kit for Hiking",
+    "description": "Lightweight 90-piece medical kit in a water-resistant Eva case. Essential for treating minor injuries on the trail or during travel.",
+    "price": "19.99",
+    "category": "Camping & Hiking",
+    "tags": ["first-aid", "safety", "hiking", "emergency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Toiletry Bag - Dopp Kit",
+    "description": "Handcrafted water-resistant leather wash bag with multiple compartments and a durable lining. A timeless travel essential for grooming.",
+    "price": "45.00",
+    "category": "Luggage Accessories",
+    "tags": ["toiletry-bag", "leather", "grooming", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Noise Cancelling Headphones - Travel Case",
+    "description": "Premium over-ear headphones featuring 40-hour battery life and superior noise cancellation. Includes a protective hard shell travel case.",
+    "price": "249.00",
+    "category": "Travel Electronics",
+    "tags": ["headphones", "audio", "long-flight", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Folding Silicone Camping Kettle",
+    "description": "Food-grade collapsible kettle that saves space in your pack. Features a stainless steel base suitable for camping stoves.",
+    "price": "27.99",
+    "category": "Camping & Hiking",
+    "tags": ["camping-kettle", "backpacker", "cookware", "space-saving"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "RFID Blocking Money Belt",
+    "description": "Discreet under-clothing waist pouch for cash and credit cards. Breathable moisture-wicking fabric for all-day comfort while exploring.",
+    "price": "16.49",
+    "category": "Travel Accessories",
+    "tags": ["money-belt", "security", "travel-safety", "RFID-blocking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultra-Wide Angle Lens for Smartphones",
+    "description": "High-quality clip-on glass lens that expands your phone's camera view. Perfect for landscape photography and capturing vast architecture.",
+    "price": "39.00",
+    "category": "Travel Electronics",
+    "tags": ["phone-lens", "photography", "travel-tech", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Stand-Up Paddleboard",
+    "description": "Complete SUP kit including 10ft inflatable board, paddle, pump, and travel backpack. Durable military-grade PVC for ocean and lake use.",
+    "price": "399.00",
+    "category": "Outdoor Adventure",
+    "tags": ["SUP", "paddle-boarding", "water-sports", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Outdoor Solar Hanging Lantern",
+    "description": "Decorative weather-resistant LED lantern that charges by day and automatically glows at night. Ideal for camping ambiance and patio use.",
+    "price": "24.99",
+    "category": "Camping & Hiking",
+    "tags": ["solar-light", "lantern", "camping-decor", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pack of 2 TSA Approved Luggage Locks",
+    "description": "Heavy-duty 4-digit combination locks. Allows airport security to inspect luggage without damaging the lock. Flexible steel cable design.",
+    "price": "14.99",
+    "category": "Luggage Accessories",
+    "tags": ["luggage-locks", "TSA-approved", "security", "travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sand-Free Beach Blanket - Large",
+    "description": "Extra-large parachute nylon mat that prevents sand from sticking. Includes corner pockets for weighting and stakes for windy days.",
+    "price": "29.99",
+    "category": "Travel Gear",
+    "tags": ["beach-towel", "sand-free", "vacation", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Duffel Bag with Shoe Compartment",
+    "description": "Waterproof weekender bag with an integrated USB charging port and separate ventilated shoe tunnel. Padded shoulder strap for easy carrying.",
+    "price": "59.00",
+    "category": "Luggage",
+    "tags": ["duffel-bag", "weekender", "travel", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Handheld Portable Fan - Rechargeable",
+    "description": "Compact 3-speed fan that fits in your palm. Features a long-lasting battery and quiet operation, perfect for humid tropical travel.",
+    "price": "16.00",
+    "category": "Travel Electronics",
+    "tags": ["fan", "portable", "travel-comfort", "summer"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Binoculars - 10x42 HD",
+    "description": "High-definition waterproof binoculars with multi-coated lenses. provides clear, sharp views for bird watching, safaris, and sightseeing.",
+    "price": "129.00",
+    "category": "Outdoor Adventure",
+    "tags": ["binoculars", "wildlife", "sightseeing", "gear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reusable Silicone Travel Bottles - 4pk",
+    "description": "TSA-approved 3oz leak-proof containers for toiletries. Squeezable and easy to refill with wide openings. Includes identifiers for contents.",
+    "price": "14.99",
+    "category": "Luggage Accessories",
+    "tags": ["travel-bottles", "toiletries", "organization", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lightweight Hammock with Bug Net",
+    "description": "Parachute silk hammock that supports up to 500lbs. Features an integrated fine-mesh mosquito net and tree-friendly straps.",
+    "price": "44.99",
+    "category": "Camping & Hiking",
+    "tags": ["hammock", "camping", "backpacker", "outdoor-living"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Waterproof Phone Pouch",
+    "description": "Clear dry bag for smartphones up to 7 inches. Touch-sensitive window allowed you to take photos and videos underwater up to 10ft.",
+    "price": "12.99",
+    "category": "Travel Electronics",
+    "tags": ["waterproof-phone", "beach", "diving", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1530549387631-afb16881947b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Luggage Tag Set - Pair",
+    "description": "Durable genuine leather tags with an identification window and privacy cover. Elegant gold hardware attaches securely to any suitcase.",
+    "price": "19.99",
+    "category": "Luggage Accessories",
+    "tags": ["luggage-tags", "leather", "travel", "identification"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Camping Stove - Dual Fuel",
+    "description": "Compact and efficient stove that runs on butane or propane. Includes a hard carrying case and precise flame control for outdoor cooking.",
+    "price": "39.00",
+    "category": "Camping & Hiking",
+    "tags": ["camping-stove", "outdoor-cooking", "hiking", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Luggage Scale - Digital",
+    "description": "Handheld ergonomic scale that accurately weighs bags up to 110lbs. Features a backlit screen and low battery indicator to avoid overweight fees.",
+    "price": "14.49",
+    "category": "Travel Gear",
+    "tags": ["luggage-scale", "travel", "luggage", "planning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1565026073747-493a7c7bb246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Theft Backpack with Laptop Slot",
+    "description": "Features hidden zippers, cut-proof fabric, and an integrated USB charging port. Sophisticated design for urban and international travel safety.",
+    "price": "79.00",
+    "category": "Luggage",
+    "tags": ["anti-theft", "backpack", "safety", "commuter"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Quality Compass and Survival Kit",
+    "description": "Includes a precise liquid-filled compass, fire starter, glass breaker, and emergency whistle in a compact aluminum case.",
+    "price": "29.99",
+    "category": "Outdoor Adventure",
+    "tags": ["survival-kit", "hiking", "safety", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Travel Jewelry Organizer Case",
+    "description": "Compact velvet-lined box for rings, necklaces, and earrings. tangle-free design that easily fits into your handbag or carry-on.",
+    "price": "22.00",
+    "category": "Luggage Accessories",
+    "tags": ["jewelry-organizer", "travel", "organization", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512428559083-a40193214fd8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultra-Compact Folding Umbrella",
+    "description": "Windproof fiberglass ribs and waterproof Teflon coating. Folds down to just 6 inches, perfectly sized for travel and daily commutes.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["umbrella", "rainwear", "travel", "compact"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522810358485-6e5428bdc6d1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Hand Warmer - Rechargeable",
+    "description": "Dual-sided electric hand warmer with 3 heat levels. Also doubles as a 5000mAh power bank for charging your phone in cold weather.",
+    "price": "26.99",
+    "category": "Outdoor Adventure",
+    "tags": ["hand-warmer", "winter-travel", "camping-gear", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Canvas & Leather Weekender",
+    "description": "Large vintage-style duffel bag with genuine leather trim and brass hardware. Includes a padded laptop sleeve and a detachable shoulder strap.",
+    "price": "129.00",
+    "category": "Luggage",
+    "tags": ["weekender", "travel-bag", "vintage", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Water-Resistant Electronic Organizer",
+    "description": "Padded storage pouch for cables, chargers, hard drives, and power banks. Keeps all your travel tech organized and tangle-free in your bag.",
+    "price": "19.99",
+    "category": "Travel Electronics",
+    "tags": ["tech-organizer", "travel", "organization", "gadgets"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Coffee Cup - 12oz",
+    "description": "Reusable food-grade silicone cup that collapses to just 1 inch when empty. includes a heat sleeve and leak-proof lid. Eco-friendly travel must-have.",
+    "price": "15.00",
+    "category": "Travel Gear",
+    "tags": ["travel-cup", "coffee", "eco-friendly", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional DSLR Backpack",
+    "description": "Weatherproof photography bag with customizable padded compartments for camera, multiple lenses, and a 15-inch laptop. includes rain cover.",
+    "price": "89.00",
+    "category": "Travel Electronics",
+    "tags": ["camera-bag", "photography", "travel", "professional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Inflatable Footrest for Planes",
+    "description": "Leg rest that fits between airplane seats to help kids sleep or adults relax. and easy to inflate and pack into its own small carrying pouch.",
+    "price": "24.50",
+    "category": "Travel Accessories",
+    "tags": ["leg-rest", "travel-comfort", "flying", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522810358485-6e5428bdc6d1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Passport and Boarding Pass Wallet",
+    "description": "Slim and elegant genuine leather wallet designed to hold essential travel documents. Features RFID protection and a pen loop.",
+    "price": "29.99",
+    "category": "Travel Accessories",
+    "tags": ["travel-wallet", "leather", "organization", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Packable Down Vest - Men's",
+    "description": "Ultra-lightweight insulated vest that folds into its own pocket. Provides reliable warmth without bulk, ideal for layering during active travel.",
+    "price": "69.00",
+    "category": "Camping & Hiking",
+    "tags": ["vest", "travel-clothing", "warmth", "compact"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reflective Hydration Running Vest",
+    "description": "Lightweight breathable vest with a 2L water bladder and multiple pockets for phone and snacks. High-visibility design for night trails.",
+    "price": "45.00",
+    "category": "Outdoor Adventure",
+    "tags": ["hydration-pack", "running", "hiking", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Camping Utensil Set",
+    "description": "Fork, spoon, and knife set that nest together into a compact carrying case. Durable and lightweight, perfect for eco-friendly traveling.",
+    "price": "14.99",
+    "category": "Camping & Hiking",
+    "tags": ["utensils", "backpacking", "camping", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Travel Wall Map - Scratch-off",
+    "description": "Large high-quality scratch-off world map in a minimalist black and gold design. Track your travels by scratching away visited countries.",
+    "price": "24.00",
+    "category": "Travel Accessories",
+    "tags": ["map", "decor", "travel-memories", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 4K Action Camera - Ultra-Thin",
+    "description": "Powerful 4K waterproof action camera with advanced image stabilization and dual screens. Perfect for capturing high-speed adventure in crystal clarity.",
+    "price": "149.00",
+    "category": "Outdoor Gear",
+    "tags": ["action-camera", "4K", "waterproof", "adventure-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lightweight Carbon Fiber Trekking Poles",
+    "description": "Extra-strong and ultralight telescopic poles with comfortable cork grips and anti-shock technology. adjustable for all terrains and heights.",
+    "price": "89.99",
+    "category": "Hiking",
+    "tags": ["trekking-poles", "hiking", "carbon-fiber", "ultralight"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551632432-c735e9799467?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Foldable Solar Charger - 28W",
+    "description": "High-efficiency solar panels that charge your devices directly from the sun. weather-resistant and compact enough to clip onto your backpack.",
+    "price": "59.99",
+    "category": "Travel Tech",
+    "tags": ["solar-charger", "travel-gear", "eco-friendly", "portable-power"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Quick-Dry Microfiber Adventure Towel",
+    "description": "Large sand-resistant towel that dries 3 times faster than cotton. Ultra-compact and lightweight, making it the perfect travel companion for beaches and hikes.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["travel-towel", "quick-dry", "beach", "lightweight"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty 45L Adventure Backpack",
+    "description": "Robust water-resistant rucksack with a dedicated shoe compartment and multiple security pockets. Designed for weekend trips and rugged expeditions.",
+    "price": "129.00",
+    "category": "Travel Gear",
+    "tags": ["backpack", "travel-bag", "adventure", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Insulated Stainless Steel Travel Mug - 20oz",
+    "description": "Double-wall vacuum insulation keeps drinks hot for 12 hours or cold for 24. Features a leak-proof slider lid and fits comfortably in car cup holders.",
+    "price": "24.99",
+    "category": "Travel Accessories",
+    "tags": ["travel-mug", "insulated", "drinks", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultralight Hammock with Tree Straps",
+    "description": "Breathable parachute nylon hammock that supports up to 500lbs. Includes heavy-duty carabiners and adjustable straps for easy setup in minutes.",
+    "price": "39.99",
+    "category": "Camping",
+    "tags": ["hammock", "camping", "leisure", "ultralight"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510312295971-6f011702811a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Wi-Fi Luggage Tracker",
+    "description": "Compact and airline-approved GPS tracker for your suitcase. Monitor your luggage's location in real-time via an app, anywhere in the world.",
+    "price": "49.00",
+    "category": "Travel Tech",
+    "tags": ["luggage-tracker", "gps", "travel-safety", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558223610-101)b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Polarized Adventure Sunglasses - Floating",
+    "description": "Ultra-lightweight frames that float in water. UV400 rated polarized lenses protect your eyes while maintaining perfect clarity during water sports.",
+    "price": "34.00",
+    "category": "Outdoor Gear",
+    "tags": ["sunglasses", "polarized", "watersports", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Travel First Aid Kit - 100 Pieces",
+    "description": "Comprehensive medical kit in a durable, waterproof pouch. essentials for treating minor injuries during camping, hiking, or international travel.",
+    "price": "29.99",
+    "category": "Travel Safety",
+    "tags": ["first-aid", "safety", "camping", "preparedness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Ultralight Sleeping Pad",
+    "description": "Engineered for back and side sleepers, this 2-inch thick pad provides exceptional support and warmth while weighing only 18 ounces. R-value 3.2.",
+    "price": "75.00",
+    "category": "Camping",
+    "tags": ["sleeping-pad", "camping-gear", "hiking", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal International Power Adapter",
+    "description": "All-in-one plug adapter compatible with over 200 countries. Features 4 USB-A ports and 1 USB-C PD port for high-speed device charging.",
+    "price": "39.99",
+    "category": "Travel Tech",
+    "tags": ["power-adapter", "international-travel", "tech", "charging"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Travel Leak-Proof Bottle Set",
+    "description": "Set of 4 BPA-free squeezable bottles for shampoo and lotion. Features unique cross-valve lids and wide openings for easy filling and cleaning.",
+    "price": "18.99",
+    "category": "Travel Accessories",
+    "tags": ["toiletries", "organization", "leak-proof", "travel-bottles"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Density Foam Neck Pillow - Velvet",
+    "description": "Ergonomic U-shaped travel pillow with memory foam for total neck support during long flights. Breathable velvet cover is removable and washable.",
+    "price": "24.00",
+    "category": "Travel Accessories",
+    "tags": ["neck-pillow", "comfort", "flight-essentials", "sleep"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Dry Bag - 20L Sea Blue",
+    "description": "Heavy-duty 500D PVC dry bag with a reliable roll-top closure. keeps your electronics and clothes dry during kayaking, rafting, or beach trips.",
+    "price": "27.50",
+    "category": "Outdoor Gear",
+    "tags": ["dry-bag", "waterproof", "kayaking", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rechargeable LED Camping Lantern - 1000 Lumens",
+    "description": "Ultra-bright omni-directional lantern with 4 light modes. Features a built-in power bank to charge your phone and a 50-hour runtime on low.",
+    "price": "34.99",
+    "category": "Camping",
+    "tags": ["lantern", "camping-light", "rechargeable", "survival"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Foldable Electric Travel Kettle",
+    "description": "Food-grade silicone kettle that collapses for easy suitcase storage. High-speed boiling and automatic shut-off for safe and convenient tea on the go.",
+    "price": "29.99",
+    "category": "Travel Tech",
+    "tags": ["travel-kettle", "compact", "convenience", "hotel-gear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Leather Passport Wallet with RFID",
+    "description": "Elegant hand-finished leather travel organizer. Features dedicated passport slots, card holders, and advanced RFID blocking for data security.",
+    "price": "45.00",
+    "category": "Travel Accessories",
+    "tags": ["passport-wallet", "leather", "RFID-blocking", "security"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Espresso Maker for Travelers",
+    "description": "Manually operated portable espresso machine. No battery or electricity required, uses ground coffee or capsules to deliver a rich crema anywhere.",
+    "price": "89.00",
+    "category": "Travel Tech",
+    "tags": ["coffee-maker", "espresso", "travel-gear", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Functional 12-in-1 Survival Tool",
+    "description": "Robust stainless steel multi-tool featuring pliers, knife, screwdriver, and bottle opener. Folds into a compact pouch for your belt or backpack.",
+    "price": "32.00",
+    "category": "Outdoor Gear",
+    "tags": ["multi-tool", "survival", "camping", "handy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Suitcase Scale - 110lb Capacity",
+    "description": "Compact handheld scale with a bright backlit LCD. help avoid overweight baggage fees by accurately weighing your bags before you reach the airport.",
+    "price": "14.99",
+    "category": "Travel Accessories",
+    "tags": ["luggage-scale", "baggage", "travel-tip", "smart-travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Packable Lightweight Down Jacket",
+    "description": "High-loft 800-fill down jacket that compresses into its own pocket. Water-resistant and extremely warm without being bulky. unisex sizing.",
+    "price": "149.00",
+    "category": "Outdoor Gear",
+    "tags": ["jacket", "travel-clothing", "warmth", "compact"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551488831-01fbe3412952?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rechargeable Electric Hand Warmers - Pair",
+    "description": "Pocket-sized heaters with 3 temperature levels for rapid warmth. double-sided heat and large battery capacity to keep you warm for up to 8 hours.",
+    "price": "39.99",
+    "category": "Outdoor Gear",
+    "tags": ["hand-warmer", "winter-travel", "comfort", "rechargeable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558223610-101)b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Silk Travel Sleep Mask",
+    "description": "Contoured sleep mask made from pure mulberry silk. Blocks 100% of light and won't put pressure on your eyes. Ideal for long-haul red-eye flights.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["sleep-mask", "silk", "travel-comfort", "flight-essentials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Phone Pouch - IPX8 Set of 2",
+    "description": "Transparent pouch that allows you to use your phone's touch screen and camera underwater. Keeps your device dry up to 100ft deep for snorkeling.",
+    "price": "16.49",
+    "category": "Travel Accessories",
+    "tags": ["phone-pouch", "waterproof", "snorkeling", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mini Portable Travel Steamer",
+    "description": "Lightweight handheld garment steamer with a 15-minute continuous steam time. Fast heat-up and anti-leak design for wrinkle-free clothes on the go.",
+    "price": "34.99",
+    "category": "Travel Tech",
+    "tags": ["steamer", "clothing-care", "convenience", "travel-hack"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic 4-in-1 Lens Kit for Smartphone",
+    "description": "Professional quality glass lenses: Macro, Wide Angle, Fisheye, and Telephoto. clipped easily onto any phone to enhance your travel photography.",
+    "price": "29.99",
+    "category": "Travel Tech",
+    "tags": ["photography", "lens", "smartphone-accessories", "travel-photo"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Travel Yoga Mat - 1.5mm",
+    "description": "Ultra-thin and foldable yoga mat made from natural rubber. Grippy surface that folds to the size of a newspaper for easy packing in carry-on luggage.",
+    "price": "49.00",
+    "category": "Travel Accessories",
+    "tags": ["yoga-mat", "fitness", "compact", "well-being"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Compass with Leather Case",
+    "description": "Hand-polished antique-style directional compass. A timeless and functional tool for navigation or as a meaningful gift for explorers.",
+    "price": "27.50",
+    "category": "Outdoor Gear",
+    "tags": ["compass", "brass", "navigation", "vintage"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty TSA Lock - Set of 4",
+    "description": "Recognized by the TSA, these durable locks allow security to inspect your bags without damage. Re-settable combination for peace of mind.",
+    "price": "24.99",
+    "category": "Travel Safety",
+    "tags": ["luggage-lock", "TSA", "security", "travel-essentials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Wireless Bluetooth Speaker - Mini",
+    "description": "Small but mighty waterproof speaker with 10 hours of playback time. features a built-in carabiner for clipping onto bags and backpacks.",
+    "price": "45.00",
+    "category": "Travel Tech",
+    "tags": ["speaker", "bluetooth", "music", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608155611251-30744cb06ea8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Packable Toiletry Hanging Organizer",
+    "description": "Functional multi-pocket organizer with a swivel hook for hanging on bathroom doors. water-resistant design with clear pockets for easy visibility.",
+    "price": "22.00",
+    "category": "Travel Accessories",
+    "tags": ["toiletries", "organization", "hygiene", "travel-bag"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Perpetual Travel Calendar - E-ink",
+    "description": "Modern E-ink desktop clock and calendar with actual walnut wood frame. Automatically updates and shows time, temperature, and upcoming appointments.",
+    "price": "129.00",
+    "category": "Travel Tech",
+    "tags": ["clock", "minimalist", "smart-device", "walnut"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Concrete Vertical Garden Pot",
+    "description": "Modern minimalist modular planter for growing succulents or strawberries. Industrial concrete finish that patinas beautifully in the rain.",
+    "price": "45.00",
+    "category": "Outdoor Decor",
+    "tags": ["vertical-garden", "concrete", "modern", "plants"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Cotton Canvas Laundry Bags",
+    "description": "Large breathable bags for separating dirty clothes during long trips. Machine washable and durable, featuring stylish minimalist travel-themed prints.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["laundry-bags", "organization", "hygiene", "travel-hack"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Weight Steel Folding Stool",
+    "description": "Sturdy and compact tripod stool for camping, fishing, or outdoor festivals. Folds down to the size of a rolled newspaper and weighs only 2lbs.",
+    "price": "29.99",
+    "category": "Camping",
+    "tags": ["camping-stool", "portable", "seating", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510312295971-6f011702811a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Copper Vacuum Insulated Bottle - 17oz",
+    "description": "Elegant and naturally antimicrobial copper bottle that keeps water icy cold for 24 hours. Stylish minimalist design for hiking and office use.",
+    "price": "39.00",
+    "category": "Travel Accessories",
+    "tags": ["water-bottle", "copper", "insulated", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Glass Candle Tins - Scented",
+    "description": "Small travel-sized scented soy candles in various floral and earthy fragrances. Create a homey atmosphere in any hotel or rental home safely.",
+    "price": "34.99",
+    "category": "Travel Accessories",
+    "tags": ["candles", "scent", "relaxation", "cozy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Meat Thermometer - Wireless Pro",
+    "description": "Professional-grade wireless probe for monitoring your outdoor grill or campfire cooking from your phone up to 150ft away accurately.",
+    "price": "89.00",
+    "category": "Outdoor Gear",
+    "tags": ["thermometer", "tech-gadget", "lifestyle", "adventure-food"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Travel Hammock - XL",
+    "description": "Extra-large breathable nylon hammock that fits two people. supports up to 600lbs and provides a weightless relaxing experience in the woods.",
+    "price": "49.00",
+    "category": "Camping",
+    "tags": ["hammock", "camping", "double-person", "relaxing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510312295971-6f011702811a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree Stand - Folding",
+    "description": "Vertical space-saving organizer for up to 6 of your favorite mugs. weighted solid brass base ensures stability while keeping your campsite organized.",
+    "price": "29.99",
+    "category": "Camping",
+    "tags": ["mug-tree", "organization", "brass", "outdoor-living"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Mesh Market Bags - Set of 3",
+    "description": "Replace single-use plastic when shopping at local travel destinations. washable and breathable bags for carrying fresh fruits and local snacks.",
+    "price": "14.49",
+    "category": "Travel Accessories",
+    "tags": ["produce-bags", "eco-friendly", "sustainable", "world-travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Ceramic Bird House - Decorative",
+    "description": "Small hand-glazed decorative piece shaped like a traditional birdhouse. casts a warm flickering glow through its windows when used with a tea light.",
+    "price": "19.99",
+    "category": "Outdoor Decor",
+    "tags": ["candle-holder", "ceramic", "minimalist", "garden-style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Stone Bookends - Solid Granite",
+    "description": "Pair of heavy-weight unpolished stone bookends in unique natural shapes. Holds your entire travel diary collection securely in your study area.",
+    "price": "45.00",
+    "category": "Travel Accessories",
+    "tags": ["bookends", "granite", "minimalist", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Blind Motor for Camper Vans",
+    "description": "Easily automate your existing shades with this smart battery-operated motor. control via app or set automated schedules for privacy on the go.",
+    "price": "89.00",
+    "category": "Travel Tech",
+    "tags": ["automation", "smart-blinds", "convenience", "van-life"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Key Safe Box - Wall Mounted",
+    "description": "Secure wall-mounted key organizer for rental homes or entryway. Holds up to 6 sets and features a top shelf for travel documents.",
+    "price": "24.00",
+    "category": "Travel Safety",
+    "tags": ["key-safe", "security", "organization", "home-safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gourmet Artisan Coffee Sampler",
+    "description": "Set of three unique handcrafted whole-bean coffees from various travel destinations: Ethiopia, Colombia, and Sumatra. roasted in small batches.",
+    "price": "29.99",
+    "category": "Travel Accessories",
+    "tags": ["coffee", "gourmet", "gift", "flavor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559056193-4a1)b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Rechargeable LED Work Light",
+    "description": "Ultra-bright and versatile light with a magnetic base and 360-degree rotation. ideal for camper van repairs or emergency lighting in the wild.",
+    "price": "34.00",
+    "category": "Outdoor Gear",
+    "tags": ["work-light", "emergency", "repair", "rechargeable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Travel Humidity Monitor - Mini",
+    "description": "Small enough to fit in a carry-on, this precision sensor monitor helps you track air quality in hotel rooms and ensures a comfortable environment.",
+    "price": "18.99",
+    "category": "Travel Tech",
+    "tags": ["humidity-monitor", "wellness", "smart-device", "air-quality"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Desk Clock - Small",
+    "description": "Hand-polished solid brass tabletop clock with silent sweeping hands. A timeless and elegant way to keep track of time in your home library or office.",
+    "price": "22.50",
+    "category": "Travel Accessories",
+    "tags": ["clock", "brass", "minimalist", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

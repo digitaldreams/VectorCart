@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Professional 8-Inch Chef's Knife",
+    "description": "High-carbon German stainless steel blade with an ergonomic pakkawood handle. Hand-sharpened for precision cutting, dicing, and mincing.",
+    "price": "69.99",
+    "category": "Kitchen Tools",
+    "tags": ["chef-knife", "kitchen", "cooking", "professional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Enameled Cast Iron Dutch Oven - 6 Qt",
+    "description": "Versatile heavy-duty pot for braising, baking, and stewing. Superior heat retention and porcelain enamel finish that's easy to clean. Oven safe up to 500°F.",
+    "price": "89.99",
+    "category": "Cookware",
+    "tags": ["dutch-oven", "cast-iron", "cookware", "slow-cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Air Fryer with Touchscreen",
+    "description": "Large 5.8-quart air fryer that cooks with up to 85% less fat than traditional deep frying. features 11 presets and a non-stick dishwasher-safe basket.",
+    "price": "119.99",
+    "category": "Kitchen Appliances",
+    "tags": ["air-fryer", "appliances", "healthy-cooking", "fast-meals"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acacia Wood Cutting Board - Extra Large",
+    "description": "Thick and durable end-grain acacia wood block with juice grooves and side handles. Naturally antibacterial and gentle on your knives.",
+    "price": "44.99",
+    "category": "Kitchen Tools",
+    "tags": ["cutting-board", "acacia-wood", "kitchen", "prep"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594382583842-87a4128c948e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Gooseneck Kettle - Temperature Control",
+    "description": "Precision pour kettle perfect for pour-over coffee and tea. Features to-the-degree temperature control and a built-in stopwatch.",
+    "price": "79.99",
+    "category": "Kitchen Appliances",
+    "tags": ["coffee", "tea", "kettle", "precision"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Extra Virgin Olive Oil - Cold Pressed",
+    "description": "Award-winning single-origin olive oil from small-batch farms in Italy. Peppery and robust flavor, perfect for finishing and salads.",
+    "price": "29.99",
+    "category": "Gourmet Food",
+    "tags": ["olive-oil", "gourmet", "organic", "italian"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Stemless Wine Glasses",
+    "description": "Elegant hand-blown crystal wine glasses with a modern thin rim. Durable for daily use yet sophisticated for dinner parties.",
+    "price": "39.99",
+    "category": "Dining & Glassware",
+    "tags": ["wine-glasses", "glassware", "dining", "hostess-gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Charcuterie Board & Cheese Knife Set",
+    "description": "Bamboo cheese board with a hidden drawer for 4 stainless steel cheese knives. Includes slate labels and chalk for a professional presentation.",
+    "price": "49.99",
+    "category": "Dining & Glassware",
+    "tags": ["charcuterie", "cheese-board", "entertaining", "dining"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Vacuum Sealer Machine",
+    "description": "Keep food fresh up to 5 times longer and prevent freezer burn. Includes starter kit with various bag sizes and a built-in cutter.",
+    "price": "64.99",
+    "category": "Kitchen Appliances",
+    "tags": ["vacuum-sealer", "food-storage", "meal-prep", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aged Balsamic Vinegar of Modena - 12 Year",
+    "description": "Thick and syrupy traditional balsamic vinegar from Modena, Italy. Rich complex flavor, ideal for drizzling over cheeses and strawberries.",
+    "price": "45.00",
+    "category": "Gourmet Food",
+    "tags": ["balsamic-vinegar", "gourmet", "italian", "artisan"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Mandoline Slicer",
+    "description": "Stainless steel slicer with adjustable thickness and multiple blade attachments for julienne, waffle, and straight cuts. Includes safety guard.",
+    "price": "34.99",
+    "category": "Kitchen Tools",
+    "tags": ["mandoline", "slicer", "kitchen-prep", "vegetables"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Power Countertop Blender",
+    "description": "Professional 1500W blender with a 64oz BPA-free jar. Perfectly pulverizes ice, nuts, and greens for smoothies, soups, and nut butters.",
+    "price": "149.00",
+    "category": "Kitchen Appliances",
+    "tags": ["blender", "appliances", "smoothies", "powerful"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 4 Marble and Gold Coasters",
+    "description": "Solid white marble coasters with elegant gold inlay. Features a non-slip backing to protect your tables from condensation.",
+    "price": "24.99",
+    "category": "Dining & Glassware",
+    "tags": ["coasters", "marble", "decor", "dining"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Single-Origin Whole Bean Coffee - 1lb",
+    "description": "Freshly roasted specialty coffee from high-altitude farms in Ethiopia. Notes of jasmine, lemon, and peach. Light roast profile.",
+    "price": "22.00",
+    "category": "Gourmet Food",
+    "tags": ["coffee", "whole-bean", "gourmet", "specialty-coffee"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ceramic Non-Stick Cookware Set - 12 Pieces",
+    "description": "Eco-friendly PFOA-free non-stick pots and pans with tempered glass lids. Features stay-cool handles and compatible with all stovetops.",
+    "price": "199.00",
+    "category": "Cookware",
+    "tags": ["cookware", "non-stick", "ceramic", "kitchen-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Woven Table Runner - Linen Blend",
+    "description": "Natural neutral-toned table runner with subtle fringe details. Adds a touch of organic elegance to your dining table for any occasion.",
+    "price": "29.99",
+    "category": "Dining & Glassware",
+    "tags": ["table-runner", "dining-decor", "linen", "boho"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531835597900-51cd9677cbb8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cast Iron Grill Press",
+    "description": "Heavy cast iron press with an ergonomic wooden handle. perfect for making smashed burgers, grilled paninis, and searing steaks evenly.",
+    "price": "19.99",
+    "category": "Kitchen Tools",
+    "tags": ["grill-press", "cast-iron", "burger-press", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artisan Sea Salt Collection - 4 Pack",
+    "description": "Hand-harvested finishing salts: Smoked Applewood, Black Truffle, Himalayan Pink, and Flaky Maldon. Enhances any gourmet dish.",
+    "price": "34.99",
+    "category": "Gourmet Food",
+    "tags": ["sea-salt", "gourmet", "spices", "gift-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Meat Thermometer - Instant Read",
+    "description": "Ultra-fast thermometer that provides accurate temperature in less than 3 seconds. Large backlit screen and waterproof design for grilling.",
+    "price": "16.99",
+    "category": "Kitchen Tools",
+    "tags": ["thermometer", "meat-thermometer", "grilling", "cooking-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Milk Frother & Steamer",
+    "description": "Create cafe-quality lattes and cappuccinos at home. Features 4 modes for hot dense foam, hot airy foam, heating milk, or cold foam.",
+    "price": "49.99",
+    "category": "Kitchen Appliances",
+    "tags": ["milk-frother", "coffee", "latte", "appliances"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Authentic Mexican Granite Molcajete",
+    "description": "Solid granite mortar and pestle for traditional guacamole and spice grinding. Hand-carved and heavy for superior crushing performance.",
+    "price": "59.99",
+    "category": "Kitchen Tools",
+    "tags": ["molcajete", "mortar-pestle", "spice-grinder", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Glass Meal Prep Containers - 10 Pack",
+    "description": "High-quality borosilicate glass containers with leak-proof locking lids. Microwave, oven, and dishwasher safe. BPA-free.",
+    "price": "39.99",
+    "category": "Food Storage",
+    "tags": ["food-storage", "meal-prep", "glass-containers", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Raw Manuka Honey MGO 400+",
+    "description": "Certified high-potency Manuka honey from New Zealand. Rich, creamy texture with therapeutic antibacterial properties. Sustainably sourced.",
+    "price": "55.00",
+    "category": "Gourmet Food",
+    "tags": ["honey", "manuka-honey", "gourmet", "health-food"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Baking Mat Set - 3 Sizes",
+    "description": "Durable non-stick silicone mats that replace parchment paper and oil. perfect for roasting vegetables and baking cookies. Easy to clean.",
+    "price": "24.99",
+    "category": "Baking",
+    "tags": ["baking-mats", "silicone", "baking", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Double Wall Insulated Coffee Mugs - Set of 2",
+    "description": "Hand-blown glass mugs that keep your coffee hot for longer while remaining cool to the touch. Modern minimalist design.",
+    "price": "32.00",
+    "category": "Dining & Glassware",
+    "tags": ["coffee-mugs", "glassware", "drinking", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Loose Leaf Green Tea Sampler",
+    "description": "Set of four premium loose leaf teas: Jasmine, Sencha, Dragonwell, and Matcha powder. Sourced from high-altitude organic gardens.",
+    "price": "39.99",
+    "category": "Gourmet Food",
+    "tags": ["tea", "green-tea", "gourmet", "gift-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Burr Coffee Grinder",
+    "description": "Conical burr grinder with 40 precise settings from espresso to French press. Uniform ground size for the best flavor extraction.",
+    "price": "99.00",
+    "category": "Kitchen Appliances",
+    "tags": ["coffee-grinder", "coffee", "appliances", "gourmet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cast Iron Tortilla Press - 8 Inch",
+    "description": "Heavy cast iron press for making authentic corn and flour tortillas at home. Pre-seasoned and includes parchment paper starters.",
+    "price": "29.99",
+    "category": "Kitchen Tools",
+    "tags": ["tortilla-press", "mexican-cooking", "cast-iron", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Water Pitcher with Bamboo Lid",
+    "description": "Elegant high-borosilicate glass pitcher for iced-tea, lemonade, or water infusions. Fits perfectly in most refrigerator doors. 1.5L.",
+    "price": "24.99",
+    "category": "Dining & Glassware",
+    "tags": ["pitcher", "glassware", "serving", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Saffron Shreads - 2 Grams",
+    "description": "Grade A+ Sargol Saffron from Iran. Highly potent aroma and deep color. Perfect for paella, risotto, and gourmet desserts.",
+    "price": "38.00",
+    "category": "Gourmet Food",
+    "tags": ["saffron", "spices", "gourmet", "luxury-food"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Matte Black Silverware Set - 20 Pieces",
+    "description": "Complete service for 4 premium stainless steel flatware with a modern matte black finish. Elegant weight and dishwasher safe.",
+    "price": "54.99",
+    "category": "Dining & Glassware",
+    "tags": ["silverware", "flatware", "dining", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550966841-3ee7adac1661?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Hand Mixer with Storage Case",
+    "description": "9-speed hand mixer with a powerful motor and slow-start technology. Includes beaters, dough hooks, and an integrated storage case.",
+    "price": "59.99",
+    "category": "Kitchen Appliances",
+    "tags": ["hand-mixer", "baking", "appliances", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reusable Beeswax Food Wraps - 6 Pack",
+    "description": "Sustainable alternative to plastic wrap. Hand-made from organic cotton, beeswax, and jojoba oil. Rinses clean and lasts up to 1 year.",
+    "price": "22.00",
+    "category": "Food Storage",
+    "tags": ["beeswax-wraps", "eco-friendly", "food-storage", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cold Brew Coffee Maker - 1L",
+    "description": "Easy-to-use glass pitcher with an ultra-fine stainless steel mesh filter. Makes smooth, low-acid cold brew concentrate overnight.",
+    "price": "29.99",
+    "category": "Kitchen Appliances",
+    "tags": ["cold-brew", "coffee", "pitcher", "gourmet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "White Truffle Infused Olive Oil",
+    "description": "Extra virgin olive oil combined with rare white truffles. An exquisite finishing oil for popcorn, pasta, and roasted potatoes.",
+    "price": "34.00",
+    "category": "Gourmet Food",
+    "tags": ["truffle-oil", "gourmet", "finishing-oil", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Authentic Japanese Santoku Knife",
+    "description": "7-inch Damascus steel blade with 67 layers. Superior sharpness for precise slicing and dicing. Balanced handle for professional comfort.",
+    "price": "129.00",
+    "category": "Kitchen Tools",
+    "tags": ["santoku-knife", "japanese-knife", "cooking", "professional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Non-Stick Doughnut Baking Pan",
+    "description": "Bake six full-sized doughnuts at once with this durable non-stick steel pan. Easy release and dishwasher safe for home bakers.",
+    "price": "14.99",
+    "category": "Baking",
+    "tags": ["baking-pan", "doughnuts", "home-baking", "sweet-treats"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Cotton Dish Towels",
+    "description": "Highly absorbent waffle-weave towels in neutral tones. Lint-free and perfect for drying glassware and tidying your kitchen counter.",
+    "price": "18.00",
+    "category": "Kitchen Decor",
+    "tags": ["dish-towels", "kitchen-linen", "cleaning", "home-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Soap Dispenser - Touchless",
+    "description": "Hygienic infrared sensor dispenser for your kitchen or bathroom. Adjustable soap volume and sleek stainless steel finish.",
+    "price": "24.99",
+    "category": "Kitchen Decor",
+    "tags": ["soap-dispenser", "hygiene", "kitchen", "gadget"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aged Cheddar and Wine Gourmet Gift Box",
+    "description": "Curated selection of 2-year aged sharp cheddar, artisan crackers, fig jam, and a bottle of premium Cabernet Sauvignon.",
+    "price": "85.00",
+    "category": "Gourmet Food",
+    "tags": ["gift-box", "wine-and-cheese", "gourmet", "celebration"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cast Iron Teapot - 30oz",
+    "description": "Traditional Japanese style tetsubin teapot with an enamel-coated interior and stainless steel infuser. Keeps tea hot for extended periods.",
+    "price": "44.99",
+    "category": "Dining & Glassware",
+    "tags": ["teapot", "cast-iron", "tea", "traditional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Steamer Basket - 10 Inch",
+    "description": "2-tier traditional bamboo steamer for authentic dumplings, vegetables, and fish. Healthy cooking method that preserves nutrients.",
+    "price": "24.99",
+    "category": "Cookware",
+    "tags": ["steamer-basket", "bamboo", "healthy-cooking", "asian-cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Quality Pizza Stone for Oven",
+    "description": "15-inch cordierite stone that absorbs moisture for a perfectly crispy crust. Can be used in the oven or on a outdoor grill.",
+    "price": "39.99",
+    "category": "Kitchen Tools",
+    "tags": ["pizza-stone", "baking", "pizza", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Grade A Maple Syrup - 32oz",
+    "description": "100% pure amber rich maple syrup from family-owned forests in Vermont. Perfect for pancakes, waffles, and glazing meats.",
+    "price": "32.00",
+    "category": "Gourmet Food",
+    "tags": ["maple-syrup", "gourmet", "organic", "breakfast"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Copper Measuring Spoons",
+    "description": "Durable and beautiful heavy-duty stainless steel spoons with a high-polished copper finish. Engraved measurements for durability.",
+    "price": "19.99",
+    "category": "Kitchen Tools",
+    "tags": ["measuring-spoons", "baking", "copper", "kitchen-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Double Wall Glass French Press",
+    "description": "Elegant 1L French press that keeps your coffee hot while staying cool to the touch. Features a 4-level filtration system for a clean cup.",
+    "price": "49.99",
+    "category": "Kitchen Appliances",
+    "tags": ["french-press", "coffee", "glassware", "gourmet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artisan Bread Lame & Dough Whisk Set",
+    "description": "Professional tools for sourdough and bread bakers. Includes a sharp lame for scoring and a Danish dough whisk for easy mixing.",
+    "price": "24.99",
+    "category": "Baking",
+    "tags": ["bread-baking", "baking-tools", "sourdough", "artisan"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Pasta Maker Machine",
+    "description": "Fully automatic machine that mixes, kneads, and extrudes fresh pasta in under 15 minutes. Includes 8 different shaping discs.",
+    "price": "179.00",
+    "category": "Kitchen Appliances",
+    "tags": ["pasta-maker", "appliances", "italian-cooking", "fresh-pasta"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acacia Wood Salad Bowl with Servers",
+    "description": "Large hand-carved natural wood bowl for serving families. Each piece has a unique wood grain and is finished with food-safe oil.",
+    "price": "49.99",
+    "category": "Dining & Glassware",
+    "tags": ["salad-bowl", "acacia-wood", "serving", "dining"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Soy Candle - Warm Vanilla",
+    "description": "Hand-poured candle in a reusable glass jar. Creates a cozy kitchen atmosphere with inviting notes of Madagascar vanilla and caramel.",
+    "price": "19.99",
+    "category": "Kitchen Decor",
+    "tags": ["candle", "home-fragrance", "cozy", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 10-Inch Serrated Bread Knife",
+    "description": "High-carbon stainless steel blade with a scalloped edge designed for effortless slicing of crusty breads and delicate pastries without crushing.",
+    "price": "59.99",
+    "category": "Kitchen Tools",
+    "tags": ["bread-knife", "kitchen", "baking", "cutlery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Enameled Braiser Pan with Lid - 3.5 Qt",
+    "description": "The perfect vessel for shallow frying, searing, and slow-cooking. Superior enameled cast iron distribution and a tight-fitting moisture-locking lid.",
+    "price": "75.00",
+    "category": "Cookware",
+    "tags": ["braiser", "cast-iron", "cookware", "slow-cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Function Rice Cooker & Steamer",
+    "description": "Advanced fuzzy logic technology for perfect rice every time. Features settings for white, brown, sushi, and quinoa, plus a steam basket for vegetables.",
+    "price": "89.00",
+    "category": "Kitchen Appliances",
+    "tags": ["rice-cooker", "appliances", "healthy-eating", "convenience"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Slate Serving Platter - Set of 2",
+    "description": "Hand-cut organic slate boards with raw edges. Perfect for serving cheeses, sushi, or small appetizers at elegant dinner parties. Washable and durable.",
+    "price": "34.99",
+    "category": "Dining & Glassware",
+    "tags": ["slate-platter", "serving", "dining", "entertaining"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Burr Spices & Coffee Grinder",
+    "description": "Equipped with titanium-coated blades and 15 grind settings. Specifically designed to grind both oily coffee beans and dry spices with ease.",
+    "price": "44.99",
+    "category": "Kitchen Appliances",
+    "tags": ["spice-grinder", "coffee", "appliances", "prep"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cold-Pressed Walnut Oil - Artisan",
+    "description": "Rich and nutty finishing oil made from premium California walnuts. Excellent for drizzling over grilled vegetables or in homemade vinaigrettes.",
+    "price": "24.00",
+    "category": "Gourmet Food",
+    "tags": ["walnut-oil", "gourmet", "finishing-oil", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Crystal Whiskey Decanter Set - 5 Pieces",
+    "description": "Includes a stunning 750ml lead-free crystal decanter and 4 heavy-based matching glasses. Elegant diamond-cut design for your home bar.",
+    "price": "79.00",
+    "category": "Dining & Glassware",
+    "tags": ["decanter-set", "whiskey", "barware", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Rolling Pin with Thickness Rings",
+    "description": "Innovative solid wood rolling pin comes with 4 sets of colorful rings to ensure consistent dough thickness for pies, cookies, and pizza.",
+    "price": "22.99",
+    "category": "Baking",
+    "tags": ["rolling-pin", "baking", "kitchen-tools", "prep"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Food Waste Electric Composter",
+    "description": "Odor-free solution for turning kitchen scraps into nutrient-rich soil in less than 8 hours. Compact design fits perfectly on your counter.",
+    "price": "299.00",
+    "category": "Kitchen Appliances",
+    "tags": ["composter", "eco-friendly", "appliances", "sustainability"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artisan Smoked Paprika from Spain",
+    "description": "Directly sourced from the La Vera region. This Pimentón de la Vera adds a deep, smoky aroma and vibrant red color to any dish.",
+    "price": "14.99",
+    "category": "Gourmet Food",
+    "tags": ["spices", "paprika", "gourmet", "international"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Mesh Flour Sifter",
+    "description": "Professional-grade sifter with a fine mesh screen and easy-to-use crank handle. Ensures light and airy flour for high-quality baking results.",
+    "price": "15.99",
+    "category": "Baking",
+    "tags": ["sifter", "baking-tools", "flour", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital High-Precision Kitchen Scale",
+    "description": "Sleek glass surface scale that measures with 1g accuracy. Features a large backlit LCD and a convenient tare function for multi-ingredient mixing.",
+    "price": "19.99",
+    "category": "Kitchen Tools",
+    "tags": ["kitchen-scale", "baking", "precision", "cooking-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Double-Wall Insulated Gravy Boat",
+    "description": "Stainless steel construction keeps sauces and gravies warm for the duration of your meal. Modern design with an easy-pour spout.",
+    "price": "24.99",
+    "category": "Dining & Glassware",
+    "tags": ["gravy-boat", "serving", "dining", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Whole Vanilla Beans - 5 Count",
+    "description": "Grade A Madagascar Bourbon vanilla beans. Plump and moist, rich with seeds for flavoring homemade ice cream, puddings, and extractions.",
+    "price": "29.99",
+    "category": "Gourmet Food",
+    "tags": ["vanilla-beans", "gourmet", "baking", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Ice Bucket & Tongs",
+    "description": "Double-walled brass finished bucket keeps ice frozen for hours. An elegant centerpiece for any cocktail party or evening gathering.",
+    "price": "45.00",
+    "category": "Dining & Glassware",
+    "tags": ["ice-bucket", "barware", "hosting", "style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Honey Pot with Dipper",
+    "description": "Keep your honey fresh and accessible with this food-safe silicone jar. Includes a matching dipper that integrates into the stylish lid.",
+    "price": "14.99",
+    "category": "Dining & Glassware",
+    "tags": ["honey-pot", "kitchen-decor", "serving", "sweet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Cast Iron Pizza Pan - 14\"",
+    "description": "Better than a stone, this cast iron pan provides intense heat transfer for the perfect crispy bottom every time. Pre-seasoned and ready to use.",
+    "price": "39.99",
+    "category": "Cookware",
+    "tags": ["pizza-pan", "cast-iron", "baking", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584286595398-a59f21d313f5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Glass Herb Saver Containers",
+    "description": "Keeps fresh herbs like cilantro, parsley, and asparagus fresh for up to 3 weeks longer. Minimalist design fits perfectly in refrigerator doors.",
+    "price": "34.00",
+    "category": "Food Storage",
+    "tags": ["herb-saver", "food-storage", "kitchen-fresh", "gadget"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Paper Towel Holder",
+    "description": "Solid brass pole with a weighted marble base. Features a vertical tension arm for easy one-handed tearing. Modern addition to any kitchen.",
+    "price": "39.99",
+    "category": "Kitchen Decor",
+    "tags": ["paper-towel-holder", "brass", "kitchen-decor", "style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Tiered Spice Rack - Black",
+    "description": "3-tier expandable organizer for kitchen cabinets. Non-slip lining and heavy-duty steel construction keeps your spices accessible and tidy.",
+    "price": "24.99",
+    "category": "Food Storage",
+    "tags": ["spice-rack", "organization", "pantry", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Authentic Italian Polenta Cornmeal - 2lb",
+    "description": "Coarse-ground yellow cornmeal for traditional creamy polenta. Sourced from high-quality farms in Northern Italy. Naturally gluten-free.",
+    "price": "12.00",
+    "category": "Gourmet Food",
+    "tags": ["polenta", "gourmet", "international", "cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Rapid Egg Cooker - 6 Count",
+    "description": "Perfectly cook eggs to your preference: hard-boiled, soft-boiled, poached, or scrambled in minutes. Automatic shut-off prevents overcooking.",
+    "price": "29.99",
+    "category": "Kitchen Appliances",
+    "tags": ["egg-cooker", "appliances", "breakfast", "convenient"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Loose Leaf Rooibos Tea - 8oz",
+    "description": "Naturally caffeine-free herbal tea from South Africa. Rich in antioxidants with a smooth, sweet, and earthy flavor profile.",
+    "price": "18.50",
+    "category": "Gourmet Food",
+    "tags": ["tea", "rooibos", "gourmet", "antioxidant"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 4 Reusable Silicone Lids - Stretch",
+    "description": "Environmentally friendly alternative to plastic wrap. Various sizes stretch to fit over bowls, pots, and cut fruit for an airtight seal.",
+    "price": "12.99",
+    "category": "Food Storage",
+    "tags": ["silicone-lids", "eco-friendly", "food-storage", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Ceramic Garlic Keeper",
+    "description": "Keep garlic fresh and firm. Vented ceramic jar provides proper airflow while blocking light to prevent sprouting. Modern minimalist design.",
+    "price": "16.99",
+    "category": "Kitchen Decor",
+    "tags": ["garlic-keeper", "food-storage", "kitchen-decor", "freshness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Handheld Electric Milk Frother - Silver",
+    "description": "Lightweight and powerful battery-operated frother for creating lattes and matcha at home. Includes a sleek stainless steel stand.",
+    "price": "12.00",
+    "category": "Kitchen Appliances",
+    "tags": ["milk-frother", "coffee", "gadget", "appliances"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Salt & Pepper Cellars",
+    "description": "Dual sliding moisture-locking containers for your most-used seasonings. magnetic lids prevent accidental spills on your kitchen counter.",
+    "price": "19.99",
+    "category": "Dining & Glassware",
+    "tags": ["salt-cellar", "bamboo", "kitchen-decor", "seasoning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Density Foam Kitchen Mat",
+    "description": "Ergonomic anti-fatigue mat designed to provide maximum support for your feet and back during long prep or washing sessions.",
+    "price": "39.99",
+    "category": "Kitchen Decor",
+    "tags": ["kitchen-mat", "ergonomic", "comfort", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artisan Dark Chocolate Cocoa Nibs - 8oz",
+    "description": "Raw, organic roasted cacao pieces. Adds a deep chocolatey crunch to smoothies, desserts, or even savory sauces. Superfood source of fiber.",
+    "price": "14.49",
+    "category": "Gourmet Food",
+    "tags": ["cocoa-nibs", "gourmet", "superfood", "baking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Cotton Mesh Produce Bags",
+    "description": "Replace single-use plastic at the grocery store. Washable, breathable cotton mesh with drawstring closures for fruits and vegetables.",
+    "price": "12.00",
+    "category": "Food Storage",
+    "tags": ["produce-bags", "eco-friendly", "sustainable", "shopping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Multi-Cooker & Pressure Cooker",
+    "description": "6-quart 7-in-1 kitchen appliance. Sauté, slow cook, steam, and pressure cook all in one. Digital controls with 15 preset programs.",
+    "price": "99.00",
+    "category": "Kitchen Appliances",
+    "tags": ["multi-cooker", "pressure-cooker", "appliances", "fast-cooking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Tiered Cake Turntable",
+    "description": "Smooth rotating aluminum stand with a non-slip base. Essential for consistent and beautiful frosting application on cakes and pastries.",
+    "price": "34.99",
+    "category": "Baking",
+    "tags": ["turntable", "cake-decorating", "baking-tools", "professional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Fruit Bowl - Minimalist",
+    "description": "Constructed from industrial brass wire. An airy and open design that allows for proper ventilation and an elegant display of fruits.",
+    "price": "29.99",
+    "category": "Kitchen Decor",
+    "tags": ["fruit-bowl", "brass", "modern", "home-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Slate Stone Coasters - Set of 4",
+    "description": "High-quality raw edge slate with soft-foam feet. naturally cool and provides a beautiful organic contrast to modern glass and dinnerware.",
+    "price": "18.50",
+    "category": "Dining & Glassware",
+    "tags": ["coasters", "slate", "dining", "home-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Smart Nutrition Scale",
+    "description": "Syncs with an app to provide detailed nutritional breakdowns for over 500 foods. Measure calories, carbs, and proteins instantly.",
+    "price": "45.00",
+    "category": "Kitchen Tools",
+    "tags": ["smart-scale", "nutrition", "health", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Chamomile Loose Leaf Tea - 4oz",
+    "description": "Whole flower blossoms sourced from organic sustainable farms. A calming caffeine-free evening brew with delicate honey-like sweetness.",
+    "price": "16.49",
+    "category": "Gourmet Food",
+    "tags": ["tea", "chamomile", "gourmet", "relaxation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Stainless Steel To-Go Bowls",
+    "description": "Leak-proof nesting bowls with clear silicone lids. Keeps your lunch fresh and organized. durable, plastic-free, and dishwasher safe.",
+    "price": "39.00",
+    "category": "Food Storage",
+    "tags": ["food-containers", "stainless-steel", "meal-prep", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Stainless Steel Dish Drying Rack",
+    "description": "Over-the-sink space-saving design. Includes dedicated slots for plates, bowls, knives, and cutting boards. Heavy-duty rustproof construction.",
+    "price": "69.00",
+    "category": "Kitchen Tools",
+    "tags": ["dish-rack", "organization", "kitchen-sink", "convenience"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Serving Tongs - Small",
+    "description": "Elegant hand-finished brass utility tongs. perfect for serving salads, appetizers, or pastries at a sophisticated dinner gathering.",
+    "price": "12.00",
+    "category": "Dining & Glassware",
+    "tags": ["serving-tongs", "brass", "dining", "style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium White Miso Paste - 1lb",
+    "description": "Fermented organic soybeans and rice. Milder and sweeter than red miso. perfect for delicate soups, glazes, and homemade dressings.",
+    "price": "15.99",
+    "category": "Gourmet Food",
+    "tags": ["miso", "gourmet", "japanese-cooking", "fermented"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Double-Wall Glass Tea Infuser Bottle - 500ml",
+    "description": "Carry your favorite loose-leaf tea with you. Keeps beverages hot or cold for hours. Includes a removable stainless steel strainer.",
+    "price": "24.50",
+    "category": "Dining & Glassware",
+    "tags": ["tea-infuser", "glassware", "lifestyle", "travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Silicone Spatula Set - 4pc",
+    "description": "High-heat resistant (up to 500°F) BPA-free spatulas with steel core. One-piece design prevents head from falling off or trapping food.",
+    "price": "19.99",
+    "category": "Baking",
+    "tags": ["spatula", "baking-tools", "silicone", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Pizza Peel - Large",
+    "description": "Smooth tapered edge for easy pizza transfer into a hot oven or onto a stone. Lightweight and durable solid wood construction.",
+    "price": "24.99",
+    "category": "Kitchen Tools",
+    "tags": ["pizza-peel", "baking", "pizza-prep", "wooden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree Stand",
+    "description": "Display up to 6 of your favorite mugs. Sturdy weighted base and stylish brass arms keep your countertops organized and beautiful.",
+    "price": "29.00",
+    "category": "Kitchen Decor",
+    "tags": ["mug-tree", "organization", "brass", "kitchen-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Raw Cacao Powder - 1lb",
+    "description": "Cold-pressed untempered cocoa powder. High in magnesium and flavonoids. Ideal for healthy baking, rich hot chocolate, and smoothies.",
+    "price": "18.50",
+    "category": "Gourmet Food",
+    "tags": ["cacao", "gourmet", "superfood", "baking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 2 Ceramic Ramkins - 8oz",
+    "description": "Elegant fluted bakeware for individual soufflés, crème brûlées, or small side dishes. Oven, microwave, and dishwasher safe.",
+    "price": "14.99",
+    "category": "Baking",
+    "tags": ["ramkins", "baking", "serving", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Authentic Grade A+ Balsamic Glaze",
+    "description": "Thick and reduced balsamic reduction with a touch of sweetness. drizzle over caprese salads, grilled meats, and even vanilla ice cream.",
+    "price": "16.00",
+    "category": "Gourmet Food",
+    "tags": ["balsamic-glaze", "gourmet", "finishing", "international"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Meat Thermometer - Wireless Bluetooth",
+    "description": "Monitor your cooking from up to 150ft away via an app. features dual internal and external sensors for the perfect roast or grill session.",
+    "price": "89.00",
+    "category": "Kitchen Appliances",
+    "tags": ["smart-thermometer", "tech", "grilling", "cooking-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Linen Napkin Set - 4 Piece",
+    "description": "Soft pre-washed organic linen napkins. Adds a sophisticated and eco-friendly organic touch to your formal or casual dinner service.",
+    "price": "24.00",
+    "category": "Dining & Glassware",
+    "tags": ["napkins", "linen", "dining", "home-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531835597900-51cd9677cbb8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gourmet Spice Blend Gift Tin - BBQ Rubs",
+    "description": "Set of three unique artisanal spice rubs for grilling: Smoky Bourbon, Coffee Ancho, and Garlic Herb. handcrafted in small batches.",
+    "price": "29.99",
+    "category": "Gourmet Food",
+    "tags": ["spices", "bbq", "rub", "gift-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbadcbaf?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

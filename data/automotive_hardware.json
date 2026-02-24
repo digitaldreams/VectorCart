@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Portable Car Jump Starter - 1000A",
+    "description": "Compact and powerful lithium battery pack that can jump start a dead car battery in seconds. Includes built-in LED flashlight and USB charging ports.",
+    "price": "89.99",
+    "category": "Automotive Tools",
+    "tags": ["jump-starter", "car-battery", "emergency", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Pressure Car Washer - 2000 PSI",
+    "description": "Powerful electric pressure washer designed specifically for automobiles. Includes soap dispenser, multiple nozzle tips, and a long flexible hose.",
+    "price": "149.99",
+    "category": "Automotive Cleaning",
+    "tags": ["pressure-washer", "car-wash", "cleaning", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Tire Pressure Gauge & Inflator",
+    "description": "Accurate handheld digital gauge with an integrated high-speed air pump. Powered by your car's 12V outlet. Features an automatic shut-off function.",
+    "price": "39.99",
+    "category": "Automotive Tools",
+    "tags": ["tire-pump", "air-inflator", "automotive", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486006396193-471cf7aa8830?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Microfiber Car Cleaning Towel Set - 12pk",
+    "description": "Ultra-soft, scratch-free microfiber cloths designed for detailing, buffing, and drying your vehicle. Highly absorbent and lint-free.",
+    "price": "19.99",
+    "category": "Automotive Cleaning",
+    "tags": ["microfiber", "detailing", "car-care", "cleaning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Ratchet Straps - 4 Pack",
+    "description": "Set of four industrial-grade tie-down straps with J-hooks and ergonomic ratchets. 1500lbs break strength, ideal for moving and securing loads.",
+    "price": "34.99",
+    "category": "Hardware",
+    "tags": ["ratchet-straps", "tie-down", "load-security", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ceramic Coating Car Wax Kit",
+    "description": "Advanced liquid ceramic wax that provides a high-gloss finish and long-lasting hydrophobicity. Protects paint from UV rays and road contaminants.",
+    "price": "29.99",
+    "category": "Automotive Cleaning",
+    "tags": ["ceramic-coating", "car-wax", "detailing", "paint-protection"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "OBD2 Bluetooth Scanner - Pro Diag",
+    "description": "Plug into your car's OBD2 port to read and clear engine codes, monitor real-time performance, and diagnose issues from your smartphone.",
+    "price": "44.99",
+    "category": "Automotive Tools",
+    "tags": ["OBD2", "car-scanner", "diagnostics", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550745127-d28235d8d97c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Fender Cover - Non-Slip",
+    "description": "Protects your vehicle's paint from scratches and grease while working in the engine bay. Features strong magnets to stay securely in place.",
+    "price": "24.99",
+    "category": "Automotive Tools",
+    "tags": ["fender-cover", "mechanic-tools", "car-maintenance", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "12-Piece Socket Wrench Set - Metric",
+    "description": "Premium chrome vanadium steel socket set with a 72-tooth reversible ratchet. Includes popular metric sizes and a sturdy storage case.",
+    "price": "49.99",
+    "category": "Hardware",
+    "tags": ["wrench", "socket-set", "tools", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cordless Power Drill with Battery Kit",
+    "description": "20V high-torque drill with 25+1 clutch settings and variable speed. Includes two rechargeable batteries, a fast charger, and 30-piece bit set.",
+    "price": "99.00",
+    "category": "Hardware",
+    "tags": ["power-drill", "hardware", "tools", "DIY"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Silicone Car Mount for Phone",
+    "description": "Dashboard and windshield mount with a powerful suction base and adjustable arm. Fits all smartphones and provides a stable view for navigation.",
+    "price": "14.99",
+    "category": "Automotive Accessories",
+    "tags": ["phone-mount", "car-gadget", "navigation", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "All-Season Floor Mats - Set of 4",
+    "description": "Heavy-duty rubber floor mats with deep channels to trap liquid, snow, and dirt. Flexible, trimmable design to fit most cars and SUVs.",
+    "price": "34.99",
+    "category": "Automotive Accessories",
+    "tags": ["floor-mats", "car-interior", "all-weather", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Car Vacuum - Cordless",
+    "description": "Lightweight high-suction vacuum for quick interior cleanups. Includes crevice tool and brush attachment. USB rechargeable.",
+    "price": "45.00",
+    "category": "Automotive Cleaning",
+    "tags": ["car-vacuum", "cleaning", "automotive", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic LED Mechanic's Work Light",
+    "description": "Brightness-adjustable COB LED work light with a flexible neck and powerful magnetic base. Rechargeable and perfect for hands-free engine work.",
+    "price": "29.99",
+    "category": "Automotive Tools",
+    "tags": ["work-light", "mechanic-tools", "LED", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Telescoping Magnetic Pickup Tool",
+    "description": "Extendable tool for retrieving dropped nuts, bolts, and tools in hard-to-reach places. Features a powerful magnet and LED tip.",
+    "price": "12.99",
+    "category": "Hardware",
+    "tags": ["magnetic-tool", "pickup-tool", "hardware", "mechanic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Fog Windshield Treatment",
+    "description": "Specialized coating for interior glass that prevents steaming and fogging in cold or humid weather. Improves visibility and safety.",
+    "price": "12.49",
+    "category": "Automotive Cleaning",
+    "tags": ["anti-fog", "car-care", "safety", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Headlight Restoration Kit - 3 Step",
+    "description": "Revitalize cloudy and yellowed headlights with this simple three-step system. Includes sanding discs, polish, and UV protectant sealant.",
+    "price": "24.99",
+    "category": "Automotive Cleaning",
+    "tags": ["headlight-restore", "car-maintenance", "automotive", "DIY"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Repair Kit - All Colors",
+    "description": "Complete kit to fix tears, burns, and cracks in leather and vinyl car seats. Includes various color tinting compounds and a heat applicator.",
+    "price": "19.99",
+    "category": "Automotive Cleaning",
+    "tags": ["leather-repair", "interior-fix", "automotive", "DIY"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Battery Terminals - Pair",
+    "description": "High-conductivity copper alloy terminals with protective covers. Improves connection and prevents corrosion on car batteries.",
+    "price": "14.99",
+    "category": "Automotive Tools",
+    "tags": ["battery-terminals", "automotive", "maintenance", "electrical"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Measuring Caliper",
+    "description": "High-precision digital caliper for measuring inner and outer dimensions. Hardened stainless steel construction with an easy-to-read LCD screen.",
+    "price": "34.99",
+    "category": "Hardware",
+    "tags": ["caliper", "measuring", "hardware", "engineering"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bluetooth Car Adapter with FM Transmitter",
+    "description": "Stream music and make hands-free calls from your phone to older car stereos. Includes two fast-charging USB ports for your gadgets.",
+    "price": "19.99",
+    "category": "Automotive Accessories",
+    "tags": ["bluetooth-adapter", "car-gadget", "music", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wall-Mounted Tool Organizer - 4ft",
+    "description": "Heavy-duty steel pegboard with various hooks and brackets for organizing wrenches, hammers, and power tools in your garage.",
+    "price": "59.99",
+    "category": "Hardware",
+    "tags": ["tool-organizer", "garage", "storage", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Roll-Up Leather Tool Pouch",
+    "description": "Handcrafted leather tool organizer with 12 pockets. Perfect for mobile mechanics or keeping essential tools organized in your trunk.",
+    "price": "44.99",
+    "category": "Hardware",
+    "tags": ["tool-pouch", "leather", "mechanic-tools", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Trunk Organizer",
+    "description": "Large collapsible organizer for your car's trunk with multiple compartments and side pockets. Non-slip bottom keeps it in place.",
+    "price": "29.99",
+    "category": "Automotive Accessories",
+    "tags": ["trunk-organizer", "car-storage", "organization", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Car Sun Shade - Large",
+    "description": "Reflective accordion-style shade that keeps your car interior cool and protects it from UV damage. Durable material fits most windshields.",
+    "price": "16.99",
+    "category": "Automotive Accessories",
+    "tags": ["sun-shade", "car-interior", "all-weather", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mechanical Creeper - Padded",
+    "description": "Low-profile mechanic's creeper with smooth-rolling swivel casters and a comfortable padded headrest. Makes under-car work easy.",
+    "price": "69.00",
+    "category": "Automotive Tools",
+    "tags": ["mechanic-creeper", "garage-tools", "automotive", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hydraulic Floor Jack - 2.5 Ton",
+    "description": "Heavy-duty steel floor jack with quick-lift technology. Includes safety bypass valve and compact design for easy storage in the garage.",
+    "price": "119.00",
+    "category": "Automotive Tools",
+    "tags": ["floor-jack", "automotive-tools", "car-lift", "garage"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Padlock - 3pk",
+    "description": "Solid brass locks with hardened steel shackle and anti-pick cylinder. Elegant and secure for indoor and light outdoor use on lockers and cabinets.",
+    "price": "39.99",
+    "category": "Hardware",
+    "tags": ["padlock", "security", "brass", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Wrenches - 3 Sizes Set",
+    "description": "Heavy-duty chrome vanadium steel adjustable wrenches (6\", 8\", 10\"). Precision-machined for a tight fit and features a comfortable soft grip.",
+    "price": "44.99",
+    "category": "Hardware",
+    "tags": ["wrench", "hand-tools", "hardware", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Screwdriver Set - 22pc",
+    "description": "Comprehensive set of Phillips and Flathead screwdrivers with magnetic tips and ergonomic handles. Includes precision sizes for small electronics.",
+    "price": "39.99",
+    "category": "Hardware",
+    "tags": ["screwdriver", "hand-tools", "hardware", "DIY"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Battery Charger & Maintainer",
+    "description": "Fully automatic microprocessor-controlled charger for 6V and 12V batteries. Safely maintains your car's charge during long-term storage.",
+    "price": "54.99",
+    "category": "Automotive Tools",
+    "tags": ["battery-charger", "automotive", "maintenance", "electrical"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Hardware Organizer",
+    "description": "Stackable metal bins with clear labels for organizing nuts, bolts, and small screws. Modular design for a custom garage workshop setup.",
+    "price": "29.99",
+    "category": "Hardware",
+    "tags": ["organizer", "nuts-and-bolts", "garage", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Wooden Tool Chest",
+    "description": "Large vintage-style solid oak chest with brass hardware and felt-lined drawers. A flagship centerpiece for organizing your finest hand tools.",
+    "price": "349.00",
+    "category": "Hardware",
+    "tags": ["tool-chest", "vintage", "quality", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Car Seat Organizer with iPad Holder",
+    "description": "Durable polyester back-of-seat organizer with clear touchscreen holder for tablets. Keeps kids' essentials organized and entertained on long trips.",
+    "price": "19.99",
+    "category": "Automotive Accessories",
+    "tags": ["car-organizer", "interior-storage", "travel", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Air Compressor for Tires",
+    "description": "Fast-inflating 12V compressor with a digital gauge and auto-stop feature. Includes multiple nozzle adapters for balls, bikes, and car tires.",
+    "price": "49.00",
+    "category": "Automotive Tools",
+    "tags": ["air-pump", "tire-inflator", "emergency", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486006396193-471cf7aa8830?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Quality Leather Detailing Cream",
+    "description": "Nourishes, conditions, and protects leather car seats without leaving a greasy residue. Features a subtle 'new leather' scent.",
+    "price": "22.99",
+    "category": "Automotive Cleaning",
+    "tags": ["leather-care", "interior-detailing", "automotive", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterless Wash and Wax Spray",
+    "description": "Wash and protect your whole car in 15 minutes without a hose. Safely lifts dirt and adds a protective wax layer. Eco-friendly.",
+    "price": "19.99",
+    "category": "Automotive Cleaning",
+    "tags": ["waterless-wash", "car-care", "cleaning", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Tray for Mechanic Tools",
+    "description": "Strong magnetic stainless steel bowl for holding loose nuts, bolts, and tools while working in the garage. Prevents losing small parts.",
+    "price": "12.00",
+    "category": "Hardware",
+    "tags": ["magnetic-tray", "mechanic-tools", "garage-storage", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Safety Eye Protection",
+    "description": "Comfortable anti-fog and anti-scratch safety glasses. Lightweight design with padded temples for long-term wear during hardware projects.",
+    "price": "14.99",
+    "category": "Hardware",
+    "tags": ["safety-glasses", "protection", "hardware", "tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Solar Camping Lantern",
+    "description": "Bright LED lantern with 3 charging modes: solar, USB, and battery. Perfect for roadside emergencies, camping, and garage power outages.",
+    "price": "24.99",
+    "category": "Automotive Accessories",
+    "tags": ["solar-light", "emergency", "automotive", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Car Trash Can - Leakproof",
+    "description": "Sleek and compact trash container with magnetic opening and liners. Fits on the back of any headrest to keep your interior clean.",
+    "price": "19.49",
+    "category": "Automotive Accessories",
+    "tags": ["car-trash-can", "cleaning", "interior-storage", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Industrial Strength Double-Sided Tape",
+    "description": "Heavy-duty acrylic tape that replaces nails and screws. Weatherproof and ideal for mounting trim, dashboards, and household hardware.",
+    "price": "15.99",
+    "category": "Hardware",
+    "tags": ["mounting-tape", "hardware", "fixit", "DIY"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 3/8-Inch Torque Wrench",
+    "description": "High-accuracy click-style torque wrench. Essential for engine work and tightening lug nuts to precise manufacturer specifications.",
+    "price": "89.00",
+    "category": "Automotive Tools",
+    "tags": ["torque-wrench", "mechanic-tools", "car-maintenance", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Tool Roll for Motorcyclists",
+    "description": "Compact heavy-duty leather pouch designed to mount to your motorcycle's front forks or frame. Keeps essential repair tools accessible.",
+    "price": "39.99",
+    "category": "Automotive Accessories",
+    "tags": ["motorcycle-tools", "leather-pouch", "hardware", "on-the-go"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Fuse Set - 120pc",
+    "description": "Collection of all standard automotive glass fuses in a beautiful wooden storage box. Includes a fuse puller and clear identification chart.",
+    "price": "24.99",
+    "category": "Automotive Tools",
+    "tags": ["fuses", "electrical", "car-repair", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Work Bench - 5ft",
+    "description": "Stable steel frame with a 1.5-inch thick solid maple top. Features a built-in power strip and large storage shelf for garage projects.",
+    "price": "299.00",
+    "category": "Hardware",
+    "tags": ["work-bench", "garage", "hardware", "DIY"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic LED Pickup Tool & Mirror Set",
+    "description": "Extendable set including a high-power magnet and an inspection mirror. Essential for inspecting and retrieving parts in tight car engines.",
+    "price": "18.99",
+    "category": "Automotive Tools",
+    "tags": ["inspection-tool", "mechanic-gear", "automotive", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Colored Cable Tie Set - 500pc",
+    "description": "Durable nylon zip ties in various lengths and colors. perfect for organizing wires, hoses, and securing hardware in your car and garage.",
+    "price": "14.99",
+    "category": "Hardware",
+    "tags": ["cable-ties", "organization", "hardware", "electrical"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reflective Roadside Emergency Triangle Set",
+    "description": "Set of three highly reflective folding triangles for breakdown visibility. Includes a compact carrying case and durable stable base.",
+    "price": "24.99",
+    "category": "Automotive Accessories",
+    "tags": ["emergency-triangle", "safety", "breakdown", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Automotive Funnel with Filter",
+    "description": "Large flexible funnel with an integrated fine-mesh filter. perfect for pouring oil, transmission fluid, and coolant without spills.",
+    "price": "9.99",
+    "category": "Automotive Tools",
+    "tags": ["funnel", "car-maintenance", "automotive", "mechanic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Battery Booster Cables - 20ft",
+    "description": "Extra-long 4-gauge jumper cables with tangle-free rubber coating and industrial-strength clamps. Includes a durable carrying case for emergency trunk storage.",
+    "price": "39.99",
+    "category": "Automotive Tools",
+    "tags": ["jumper-cables", "car-battery", "emergency", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Multimeter for Car Electricals",
+    "description": "High-precision multimeter designed for diagnosing automotive electrical circuits, batteries, and alternators. Large backlit LCD and protective silicone sleeve.",
+    "price": "24.99",
+    "category": "Automotive Tools",
+    "tags": ["multimeter", "electrical-testing", "diagnostics", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Snow Shovel for Car",
+    "description": "Adjustable aluminum snow shovel that folds down for easy storage in your trunk. Lightweight yet sturdy, essential for winter driving safety.",
+    "price": "29.99",
+    "category": "Automotive Accessories",
+    "tags": ["snow-shovel", "winter-safety", "auto-emergency", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Car Scent Diffuser - Wood Finish",
+    "description": "Elegant clip-on diffuser that uses natural essential oils to keep your car smelling fresh. Features an adjustable fragrance intensity and real walnut finish.",
+    "price": "14.99",
+    "category": "Automotive Accessories",
+    "tags": ["car-scent", "diffuser", "interior-decor", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Safety Flashlight - Roadside",
+    "description": "Brightness-adjustable LED flashlight with a powerful magnetic base and flashing red signal mode. Rechargeable with integrated seatbelt cutter and glass breaker.",
+    "price": "26.99",
+    "category": "Automotive Accessories",
+    "tags": ["safety-light", "emergency-tool", "flashlight", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel License Plate Frames - Pair",
+    "description": "Sleek and rust-resistant frames with a polished mirror finish. Includes matching screw caps for a professional and clean look for your vehicle.",
+    "price": "19.99",
+    "category": "Automotive Accessories",
+    "tags": ["license-plate", "car-exterior", "stainless-steel", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Silicone Wiper Blade - 22\"",
+    "description": "Long-lasting silicone blade that provides a streak-free wipe in all weather conditions. Resists UV damage and extreme temperatures better than rubber.",
+    "price": "16.49",
+    "category": "Automotive Maintenance",
+    "tags": ["wiper-blade", "car-maintenance", "weatherproof", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "All-in-One Car Detailing Brush Set - 5pc",
+    "description": "Set of various sized brushes with soft boars' hair bristles. designed to clean delicate interior buttons, vents, and exterior emblems without scratching.",
+    "price": "22.00",
+    "category": "Automotive Cleaning",
+    "tags": ["detailing-brushes", "car-cleaning", "interior-care", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Theft Steering Wheel Lock - Heavy Duty",
+    "description": "High-visibility steel lock that prevents steering and provides a strong visual deterrent for car thieves. Includes two high-security keys.",
+    "price": "34.99",
+    "category": "Automotive Accessories",
+    "tags": ["steering-lock", "auto-security", "anti-theft", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Memory Foam Seat Cushion for Drivers",
+    "description": "Ergonomic wedge-shaped cushion that improves posture and reduces lower back pain during long commutes. Breathable mesh cover and non-slip bottom.",
+    "price": "39.99",
+    "category": "Automotive Accessories",
+    "tags": ["seat-cushion", "ergonomic", "comfort", "driving"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Vis Reflective Safety Vest - Pro",
+    "description": "Compliant reflective vest with multiple pockets for tools and phones. Durable and breathable, essential for roadside repairs and active work zones.",
+    "price": "14.99",
+    "category": "Hardware",
+    "tags": ["safety-vest", "reflective-gear", "roadside-safety", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Plastic Trim Restorer - 8oz",
+    "description": "Deeply cleans and restores faded exterior plastic trim, bumpers, and side mirrors to a deep black finish. Provides long-lasting UV protection.",
+    "price": "18.99",
+    "category": "Automotive Cleaning",
+    "tags": ["trim-restorer", "car-detailing", "exterior-care", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Gas Can with Spill-Proof Spout - 2 Gal",
+    "description": "High-density polyethylene container with a secure self-venting spout. designed for safe fuel storage and easy pouring without mess.",
+    "price": "24.99",
+    "category": "Automotive Tools",
+    "tags": ["gas-can", "emergency-fuel", "safety", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Roof Top Cargo Bag - 15 Cu Ft",
+    "description": "Heavy-duty tarpaulin storage bag with heat-welded seams and secure straps. Fits all vehicles with or without a roof rack for extra luggage space.",
+    "price": "59.00",
+    "category": "Automotive Accessories",
+    "tags": ["cargo-bag", "roof-storage", "travel", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Impact Screwdriver Set - Manual",
+    "description": "Heavy-duty impact driver that converts hammer strikes into high-torque rotation. Essential for loosening rusted or over-tightened engine bolts.",
+    "price": "29.99",
+    "category": "Automotive Tools",
+    "tags": ["impact-driver", "mechanic-tools", "heavy-duty", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Microfiber Chenille Car Wash Mitt - Pair",
+    "description": "Extra-large ultra-soft mitts that hold massive amounts of soapy water. provides a scratch-free and thorough cleaning of your vehicle's paintwork.",
+    "price": "16.49",
+    "category": "Automotive Cleaning",
+    "tags": ["wash-mitt", "car-cleaning", "microfiber", "detailing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Rolling Mechanic's Stool",
+    "description": "Comfortable padded seat with a built-in tool tray and smooth-rolling casters. Reduces strain on back and legs while working at waist-level on cars.",
+    "price": "49.00",
+    "category": "Automotive Tools",
+    "tags": ["mechanic-stool", "garage-tools", "maintenance", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Quality Braided Fuel Line - 10ft",
+    "description": "Steel-braided flexible fuel hose compatible with all modern fuels. Includes an assortment of aluminum fittings and heat-reflective sleeves.",
+    "price": "32.00",
+    "category": "Automotive Tools",
+    "tags": ["fuel-line", "performance-parts", "custom-cars", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Digital Tire Depth Gauge",
+    "description": "Simple and accurate LCD gauge to measure tire tread wear in mm or inches. Features automatic shut-off and a durable carbon fiber body.",
+    "price": "9.99",
+    "category": "Automotive Maintenance",
+    "tags": ["tire-gauge", "tread-wear", "safety", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486006396193-471cf7aa8830?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather and Vinyl Cleaner Spray - 16oz",
+    "description": "Ph-balanced formula that safely removes dirt, oil, and sweat from your car's interior without drying out materials. No greasy residue.",
+    "price": "14.99",
+    "category": "Automotive Cleaning",
+    "tags": ["interior-cleaner", "leather-care", "car-detailing", "cleaning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Magnetic Tool Rack - 18\"",
+    "description": "Strong permanent magnet rail that holds wrenches, hammers, and screwdrivers securely on your garage wall. Saves space and keeps tools handy.",
+    "price": "18.00",
+    "category": "Hardware",
+    "tags": ["magnetic-rack", "tool-organization", "garage", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Pipe Wrench - 14 Inch",
+    "description": "Professional-grade drop-forged steel pipe wrench with a large jaw capacity. Features a comfortable grip and precise adjustment mechanism.",
+    "price": "26.99",
+    "category": "Hardware",
+    "tags": ["pipe-wrench", "plumbing", "hardware", "hand-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Glass Cleaning Concentrate - 1L",
+    "description": "Industrial-strength ammonia-free concentrate that makes 20 gallons of streak-free glass cleaner. Safe for tinted windows and interior plastics.",
+    "price": "22.50",
+    "category": "Automotive Cleaning",
+    "tags": ["glass-cleaner", "car-care", "cleaning", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Car Door Protective Edge Guards - 16ft",
+    "description": "Flexible and durable rubber trim that installs easily over car door edges to prevent chips and scratches in tight parking spaces.",
+    "price": "12.99",
+    "category": "Automotive Accessories",
+    "tags": ["door-guards", "paint-protection", "car-exterior", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Self-Tightening Snow Chains - Pair",
+    "description": "Advanced non-stop snow chains that automatically tighten as you drive. Features high-quality manganese steel for superior traction on ice.",
+    "price": "89.00",
+    "category": "Automotive Maintenance",
+    "tags": ["snow-chains", "winter-driving", "safety", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Pickup Tool with Telescoping Mirror",
+    "description": "Combination set for mechanics to find and retrieve dropped parts in dark engine bays. Includes high-power LEDs and 360-degree swivel mirror.",
+    "price": "19.99",
+    "category": "Automotive Tools",
+    "tags": ["pickup-tool", "inspection-mirror", "mechanic-tools", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Rubber Curb Ramps - Pair",
+    "description": "Portable ramps for cars, trailers, and hand trucks to easily clear high curbs. Features a non-slip textured surface and high load capacity.",
+    "price": "45.00",
+    "category": "Automotive Accessories",
+    "tags": ["curb-ramps", "car-accessories", "accessibility", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Stainless Steel Tool Box - Large",
+    "description": "Mirror-polished heavy-duty tool chest with a sturdy handle and lockable latch. A professional and stylish storage solution for your favorite tools.",
+    "price": "69.99",
+    "category": "Hardware",
+    "tags": ["tool-box", "stainless-steel", "storage", "quality"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Squeal Brake Part Lubricant",
+    "description": "high-temperature ceramic grease that eliminates brake noise and prevents part seizure. essential for a professional brake pad replacement.",
+    "price": "12.49",
+    "category": "Automotive Maintenance",
+    "tags": ["brake-lube", "car-maintenance", "quiet-ride", "mechanic-supplies"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Wi-Fi Garage Door Opener",
+    "description": "Convert your existing garage door to a smart one. Opens and closes from your phone and sends alerts if you leave it open. works with Alexa.",
+    "price": "39.99",
+    "category": "Hardware",
+    "tags": ["garage-opener", "smart-home", "security", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Foldable Car Windshield Sun Shade - XL",
+    "description": "Extra-large reflective shade that blocks 99% of UV rays. compact folding design fits in door pockets when not in use. keeps interior cool.",
+    "price": "16.00",
+    "category": "Automotive Accessories",
+    "tags": ["sun-shade", "car-interior", "uv-protection", "summer"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Metal Jack Stands - Pair",
+    "description": "Supports up to 3 tons with a double-locking mechanism for maximum safety while working under your vehicle. extra-wide base for stability.",
+    "price": "54.99",
+    "category": "Automotive Tools",
+    "tags": ["jack-stands", "safety", "mechanic-tools", "garage"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Towing Light Kit - Wireless",
+    "description": "Complete set of battery-powered trailer lights that attach instantly with strong magnets. no wiring required for emergency towing or flatbed use.",
+    "price": "65.00",
+    "category": "Automotive Maintenance",
+    "tags": ["towing-lights", "trailer-safety", "emergency", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Precision Electronic Torque Adapter",
+    "description": "Converts any standard 1/2\" ratchet into a high-precision digital torque wrench. features real-time LCD display and audible target alerts.",
+    "price": "49.00",
+    "category": "Automotive Tools",
+    "tags": ["torque-adapter", "precision-tools", "mechanic-gear", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Multi-Tool for Glovebox",
+    "description": "Pliers, wire cutters, knives, and screwdrivers in one compact folding tool. Includes a durable belt pouch and fits perfectly in your car's console.",
+    "price": "24.99",
+    "category": "Hardware",
+    "tags": ["multi-tool", "emergency-gear", "hardware", "camping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Density Foam Car Wax Applicator - 6pk",
+    "description": "Soft and absorbent foam pads for even application of waxes and sealants. specifically designed to be gentle on all vehicle paint finishes.",
+    "price": "9.99",
+    "category": "Automotive Cleaning",
+    "tags": ["wax-applicator", "car-polishing", "detailing", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558900912-3b760e58b1ec?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Corrosion Battery Spray - 10oz",
+    "description": "Protective coating that prevents acid corrosion and white powder buildup on battery terminals. Improves starting power and extends battery life.",
+    "price": "14.49",
+    "category": "Automotive Maintenance",
+    "tags": ["battery-spray", "maintenance", "car-battery", "protection"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rubberized Undercoating Spray - 16oz",
+    "description": "Professional-grade protective layer that prevents rust and deadens road noise. Easy to apply to wheel wells, floor pans, and undercarriage.",
+    "price": "19.99",
+    "category": "Automotive Maintenance",
+    "tags": ["undercoating", "rust-prevention", "noise-dampening", "car-maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Tire Valve Stem Caps - 4pk",
+    "description": "High-quality solid brass caps with internal O-ring seal to prevent air leaks. Adds a subtle luxurious touch to any vehicle's wheels.",
+    "price": "12.00",
+    "category": "Automotive Accessories",
+    "tags": ["valve-caps", "car-luxury", "maintenance", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486006396193-471cf7aa8830?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Wall-Mounted Key Organizer",
+    "description": "Solid walnut wood strip with hidden high-power magnets. modern and elegant way to organize your car and house keys in the mudroom.",
+    "price": "29.99",
+    "category": "Hardware",
+    "tags": ["key-organizer", "walnut", "home-storage", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Power Inverter - 300W",
+    "description": "Converts your car's 12V DC power into 110V AC household electricity. Features two USB ports for laptops, cameras, and phone charging.",
+    "price": "34.00",
+    "category": "Automotive Accessories",
+    "tags": ["power-inverter", "car-travel", "electronics", "automotive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Silicone Steering Wheel Cover",
+    "description": "Non-slip and odor-free silicone grip that protects your steering wheel from wear and heat. Available in various colors to match your interior.",
+    "price": "15.99",
+    "category": "Automotive Accessories",
+    "tags": ["steering-wheel-cover", "car-interior", "comfort", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Hand Rivet Tool Kit",
+    "description": "Professional rivet gun with 4 interchangeable nosepieces and mixed rivets. Ideal for metalwork, car body repair, and household hardware projects.",
+    "price": "39.99",
+    "category": "Hardware",
+    "tags": ["rivet-tool", "metalwork", "hardware", "specialized-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Caliper Painting Kit",
+    "description": "Durable high-heat ceramic coating for brake calipers. features a deep glossy finish that resists brake dust and road salt for up to 3 years.",
+    "price": "32.00",
+    "category": "Automotive Cleaning",
+    "tags": ["caliper-paint", "custom-cars", "exterior-detailing", "maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Non-Contact Tachometer",
+    "description": "measures RPM of rotating engines and machinery safely from a distance using a laser. large backlit display and memory function for peak values.",
+    "price": "34.99",
+    "category": "Automotive Tools",
+    "tags": ["tachometer", "RPM-measure", "engine-diagnostics", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550745127-d28235d8d97c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Colored Automotive Wire Loom - 50ft",
+    "description": "High-temperature split tubing for organizing and protecting car wiring. Professional aesthetic for engine bays and custom electrical work.",
+    "price": "19.99",
+    "category": "Hardware",
+    "tags": ["wire-loom", "electrical-organization", "car-repair", "hardware"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Car Tablet Headrest Mount",
+    "description": "Sturdy and flexible arm that holds 7-12 inch tablets securely for rear passengers. perfect for keeping kids entertained on long drives.",
+    "price": "18.50",
+    "category": "Automotive Accessories",
+    "tags": ["tablet-mount", "car-entertainment", "travel", "interior-storage"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Self-Leveling Cup Holder Expander",
+    "description": "Oversized cup holder that installs into any standard car console. Holds massive 32oz-40oz water bottles and features a weighted stable design.",
+    "price": "14.99",
+    "category": "Automotive Accessories",
+    "tags": ["cup-holder", "car-interior", "hydration", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic LED Engine Inspection Light",
+    "description": "Super-slim rechargeable flashlight with a powerful magnetic base and hook. Designed to reach deep into cramped engine components.",
+    "price": "24.99",
+    "category": "Automotive Tools",
+    "tags": ["work-light", "inspection", "mechanic-tools", "LED"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Carbon Fiber Vinyl Wrap - 5ft x 1ft",
+    "description": "High-gloss 3D textured vinyl for interior trim and exterior accents. Features air-release technology for bubble-free application by DIY enthusiasts.",
+    "price": "15.00",
+    "category": "Automotive Accessories",
+    "tags": ["vinyl-wrap", "car-customization", "carbon-fiber", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

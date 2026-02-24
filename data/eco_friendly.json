@@ -1,0 +1,904 @@
+[
+  {
+    "name": "Portable Solar Panel Kit - 100W",
+    "description": "High-efficiency monocrystalline solar panels with a foldable design. Includes an integrated controller and multiple charging ports for power stations and gadgets.",
+    "price": "189.99",
+    "category": "Solar Energy",
+    "tags": ["solar-panel", "eco-friendly", "off-grid", "renewable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Indoor Composter - Electric",
+    "description": "Transform your kitchen scraps into nutrient-rich compost in just 24 hours. Odor-free and quiet operation with a compact countertop design.",
+    "price": "299.00",
+    "category": "Sustainable Kitchen",
+    "tags": ["composter", "eco-friendly", "kitchen", "zero-waste"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594382583842-87a4128c948e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reusable Bamboo Fabric Paper Towels",
+    "description": "One roll replaces up to 60 standard paper towel rolls. Durable, washable, and incredibly absorbent. perfect for cleaning and spill management.",
+    "price": "24.99",
+    "category": "Zero Waste",
+    "tags": ["bamboo-towels", "reusable", "cleaning", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eco-Friendly Cork Yoga Mat",
+    "description": "Naturally antimicrobial and sustainable cork surface with a non-slip natural rubber base. Biodegradable and free from toxic PVC and latex.",
+    "price": "79.00",
+    "category": "Wellness",
+    "tags": ["yoga-mat", "cork", "sustainable", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592419302264-213958739f81?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Water-Saving Smart Shower Head",
+    "description": "Reduces water consumption by up to 30% without sacrificing pressure. features an integrated LED that changes color based on water temperature.",
+    "price": "59.99",
+    "category": "Home Efficiency",
+    "tags": ["shower-head", "water-saving", "eco-friendly", "bathroom"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Outdoor Security Light",
+    "description": "Motion-activated LED floodlight that charges during the day. Dusk-to-dawn sensor and weatherproof design for year-round reliability without wiring.",
+    "price": "39.99",
+    "category": "Solar Energy",
+    "tags": ["solar-light", "security", "outdoor", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Glass & Stainless Steel Tea Infuser Bottle",
+    "description": "Double-wall borosilicate glass bottle with a built-in removable coarse-mesh strainer. Sustainable way to enjoy loose-leaf tea on the go.",
+    "price": "32.00",
+    "category": "Hydration",
+    "tags": ["tea-infuser", "reusable-bottle", "glassware", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wool Dryer Balls - Set of 6",
+    "description": "Natural alternative to plastic dryer balls and chemical fabric softeners. Reduces drying time and softens clothes using premium organic wool.",
+    "price": "19.99",
+    "category": "Zero Waste",
+    "tags": ["dryer-balls", "laundry", "sustainable", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Beeswax Food Wraps - Starter Kit",
+    "description": "set of three sizes made from organic cotton, sustainably harvested beeswax, and pure jojoba oil. Rinses clean and reusable for up to a year.",
+    "price": "18.50",
+    "category": "Zero Waste",
+    "tags": ["beeswax-wraps", "food-storage", "kitchen", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Desktop Computer Stand",
+    "description": "Elegant monitor riser made from 100% sustainable bamboo. features side pockets for stationery and keeps your workspace organized and ergonomic.",
+    "price": "45.00",
+    "category": "Zero Waste",
+    "tags": ["bamboo", "office-setup", "sustainable", "ergonomic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Wi-Fi Smart Thermostat",
+    "description": "Save energy by automatically adjusting your home's temperature based on your schedule. intuitive app control and works with major smart home assistants.",
+    "price": "149.00",
+    "category": "Home Efficiency",
+    "tags": ["thermostat", "energy-saving", "smart-home", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reusable Glass Coffee Cup - 12oz",
+    "description": "Barista-standard glass cup with a natural cork band for grip and a splash-proof lid. Durable and sustainable alternative to disposable cups.",
+    "price": "26.00",
+    "category": "Zero Waste",
+    "tags": ["coffee-cup", "reusable", "glassware", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Fiber Scrub Brush Set - 3pc",
+    "description": "sustainable brushes made from bamboo and agave fibers. Includes a dish brush, vegetable scrub, and heavy-duty scouring brush. Biodegradable.",
+    "price": "22.99",
+    "category": "Sustainable Kitchen",
+    "tags": ["cleaning-brushes", "bamboo", "kitchen", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Backpack - 20L",
+    "description": "Rugged water-resistant backpack with an integrated 7W solar panel. perfect for hiking and travel, allowing you to charge your devices on the go.",
+    "price": "89.00",
+    "category": "Solar Energy",
+    "tags": ["solar-backpack", "travel", "renewable", "hiking"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Hemp Fabric Market Bag",
+    "description": "Heavy-duty reusable grocery bag made from 100% organic hemp. Breathable, durable, and naturally resistant to mold and bacteria. Machine washable.",
+    "price": "14.99",
+    "category": "Zero Waste",
+    "tags": ["market-bag", "hemp", "reusable", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531835597900-51cd9677cbb8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Home Hydroponic Growing System",
+    "description": "Sleek LED-powered indoor garden for year-round herbs and greens. Features a quiet water pump and nutrient indicator for easy plant care.",
+    "price": "119.99",
+    "category": "Sustainable Kitchen",
+    "tags": ["indoor-garden", "hydroponics", "sustainable", "fresh-food"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eco-Friendly Tofu Press - Bamboo",
+    "description": "Stainless steel and bamboo press that removes moisture for perfectly crisp tofu. Designed to be durable and sustainable in your kitchen.",
+    "price": "34.00",
+    "category": "Sustainable Kitchen",
+    "tags": ["tofu-press", "bamboo", "kitchen-gadget", "vegan"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Recycled Plastic Yoga Block Set - Pair",
+    "description": "Lightweight and supportive yoga blocks made from 100% recycled PET. Beveled edges for comfort and non-slip surface for stability.",
+    "price": "29.99",
+    "category": "Wellness",
+    "tags": ["yoga-blocks", "recycled", "fitness", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592419302264-213958739f81?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Outdoor Security Camera",
+    "description": "Wire-free security with an integrated solar panel. 1080p HD video with night vision and two-way audio. encrypted local storage included.",
+    "price": "139.00",
+    "category": "Solar Energy",
+    "tags": ["solar-camera", "security", "outdoor", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compostable Kitchen Trash Bags - 50ct",
+    "description": "Strong leak-proof bags made from corn starch and plant-based polymers. Completely biodegradable in home or municipal composting systems.",
+    "price": "16.49",
+    "category": "Zero Waste",
+    "tags": ["trash-bags", "compostable", "eco-friendly", "zero-waste"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Toothbrushes - 10pk",
+    "description": "Biodegradable toothbrushes with charcoal-infused soft bristles. sustainable and affordable alternative to plastic toothbrushes for the whole family.",
+    "price": "19.99",
+    "category": "Zero Waste",
+    "tags": ["toothbrushes", "bamboo", "hygiene", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Garden Fountain Pump",
+    "description": "Simply place in water and watch it go. Includes multiple nozzle heads for different spray patterns. Perfect for bird baths and small ponds.",
+    "price": "24.99",
+    "category": "Solar Energy",
+    "tags": ["solar-fountain", "outdoor-decor", "water-feature", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Linen Bed Sheet Set - Queen",
+    "description": "Breathable and luxurious sheets made from 100% organic French linen. Naturally temperature regulating and gets softer with every wash.",
+    "price": "189.00",
+    "category": "Wellness",
+    "tags": ["linen-sheets", "bedroom", "sustainable", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reusable Glass Straws - 8pk",
+    "description": "Durable and elegant straws in various colors. Includes a travel case and two cleaning brushes. BPA-free and eco-friendly choice for drinks.",
+    "price": "14.99",
+    "category": "Zero Waste",
+    "tags": ["glass-straws", "reusable", "beverages", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Battery Power Station - 300Wh",
+    "description": "High-capacity portable power box for camping and emergencies. Rechargeable via solar panels, wall outlet, or car charger. Silent and emission-free.",
+    "price": "249.00",
+    "category": "Solar Energy",
+    "tags": ["power-station", "portable-power", "solar", "emergency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Fiber Dinnerware Set - 16pc",
+    "description": "Complete service for four including plates, bowls, and cups. Durable, lightweight, and made from 100% natural plant fibers. Dishwasher safe.",
+    "price": "59.99",
+    "category": "Sustainable Kitchen",
+    "tags": ["dinnerware", "bamboo", "kitchen", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550966841-3ee7adac1661?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rainwater Collection Barrel - 50 Gallon",
+    "description": "High-quality UV-protected barrel with an integrated screen and spigot. Essential tool for sustainable gardening and water conservation.",
+    "price": "99.00",
+    "category": "Home Efficiency",
+    "tags": ["rain-barrel", "gardening", "water-saving", "sustainability"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1416874334358-693ae519890a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Copper and Glass Indoor Watering Can",
+    "description": "Modern and minimal watering can that looks beautiful as a decor piece. High-quality materials designed for a lifetime of sustainable use.",
+    "price": "39.00",
+    "category": "Sustainable Kitchen",
+    "tags": ["watering-can", "copper", "gardening", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581339393878-1854f38eb41e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Reusable Coffee Filters",
+    "description": "Replace hundreds of paper filters with this set of three durable organic cotton filters. Provides a clean cup with a richer flavor profile.",
+    "price": "14.49",
+    "category": "Zero Waste",
+    "tags": ["coffee-filters", "reusable", "zero-waste", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hemp and Recycled PET Laptop Bag",
+    "description": "Professional 15-inch bag made from extremely durable natural hemp and recycled plastic bottles. Weatherproof and sustainably styled.",
+    "price": "75.00",
+    "category": "Zero Waste",
+    "tags": ["laptop-bag", "hemp", "recycled", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Manual Hand-Cranked Coffee Grinder",
+    "description": "Precision ceramic burr grinder that requires zero electricity. Adjustable settings from espresso to French press for off-grid gourmet coffee.",
+    "price": "34.99",
+    "category": "Sustainable Kitchen",
+    "tags": ["coffee-grinder", "manual", "off-grid", "gourmet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Energy Monitoring Plug",
+    "description": "Monitor the real-time energy usage of any appliance via your smartphone. Set schedules and timers to reduce standby power consumption.",
+    "price": "19.99",
+    "category": "Home Efficiency",
+    "tags": ["smart-plug", "energy-monitoring", "eco-friendly", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Cutlery Travel Set - 8pc",
+    "description": "Complete reusable set including fork, spoon, knife, straws, and chopsticks in a canvas roll. The perfect companion for plastic-free eating.",
+    "price": "16.00",
+    "category": "Zero Waste",
+    "tags": ["cutlery", "bamboo", "travel-gear", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Recycled Plastic Outdoor Rug - Large",
+    "description": "Durable and reversible rug made from 100% recycled high-density polyethylene. UV-protected and easy to clean for patios and camping.",
+    "price": "69.00",
+    "category": "Sustainability",
+    "tags": ["rug", "outdoor-decor", "recycled", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522810358485-6e5428bdc6d1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Portable Camping Lantern",
+    "description": "Bright LED lantern with 3 brightness modes and a flashing emergency signal. Charges by solar or USB, and includes a hanging hook.",
+    "price": "22.50",
+    "category": "Solar Energy",
+    "tags": ["solar-light", "camping", "emergency", "renewable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Fiber Mixing Bowl Set - 4pc",
+    "description": "Curated set of nested bowls in earthy tones. Lightweight and durable for baking and food prep. 100% biodegradable when no longer needed.",
+    "price": "39.99",
+    "category": "Sustainable Kitchen",
+    "tags": ["mixing-bowls", "bamboo", "kitchen-set", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550966841-3ee7adac1661?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cork Desktop Organizer - 5pc Set",
+    "description": "Minimalist desk accessories made from natural renewable cork. Includes a pen holder, document tray, and phone stand. Sustainable and tactile.",
+    "price": "49.00",
+    "category": "Zero Waste",
+    "tags": ["desk-organizer", "cork", "office", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eco-Friendly Glass Food Storage - Set of 10",
+    "description": "Premium glass containers with natural bamboo locking lids. A 100% plastic-free way to keep your leftovers fresh and organized.",
+    "price": "44.99",
+    "category": "Zero Waste",
+    "tags": ["food-storage", "glassware", "zero-waste", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Woven Natural Reed Laundry Basket",
+    "description": "Large and breathable basket made from sustainably harvested reeds. Features a removable organic cotton lining for easy cleaning.",
+    "price": "54.00",
+    "category": "Sustainability",
+    "tags": ["laundry-basket", "natural-fiber", "home-decor", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Intelligent Exterior Wall Lamp",
+    "description": "Features a dual sensor for motion and light. Casts an elegant up-and-down light pattern, perfect for eco-friendly modern architecture.",
+    "price": "34.99",
+    "category": "Solar Energy",
+    "tags": ["solar-light", "outdoor-lighting", "modern-decor", "renewable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Charcoal Air Purifying Bags - 4pk",
+    "description": "Natural and sustainable way to absorb odors, bacteria, and allergens. Re-activate in the sun and compost the charcoal after 2 years of use.",
+    "price": "24.99",
+    "category": "Home Essentials",
+    "tags": ["air-purifier", "bamboo", "natural", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Biodegradable Wheat Straw Dinnerware Set",
+    "description": "Unbreakable and lightweight set including plates, bowls, and cups. Made from natural wheat straw fiber, a renewable agricultural byproduct.",
+    "price": "39.00",
+    "category": "Kitchenware",
+    "tags": ["wheat-straw", "biodegradable", "dinnerware", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Outdoor Security Camera",
+    "description": "100% wire-free 1080p camera with integrated solar panel. Features PIR motion detection, two-way audio, and no-cost local storage.",
+    "price": "129.00",
+    "category": "Solar Energy",
+    "tags": ["solar-camera", "security", "renewable", "smart-home"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Hemp Fiber Bath Towel Set",
+    "description": "Luxuriously soft and naturally antimicrobial towels made from 55% hemp and 45% organic cotton. Highly absorbent and exceptionally durable.",
+    "price": "55.00",
+    "category": "Lifestyle",
+    "tags": ["hemp", "towels", "organic", "sustainable-luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cork Fabric Travel Yoga Mat",
+    "description": "Renewable cork surface that becomes more grippy when wet. Features natural antimicrobial properties and a recycled rubber base for stability.",
+    "price": "79.00",
+    "category": "Lifestyle",
+    "tags": ["yoga-mat", "cork", "fitness", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compostable Phone Case - Wheat Fiber",
+    "description": "Protect your device and the planet. This stylish and durable case will fully biodegrade in a backyard compost heap in just 6 months.",
+    "price": "29.99",
+    "category": "Lifestyle",
+    "tags": ["phone-case", "compostable", "wheat-fiber", "plastic-free"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Desktop Solar Desk Fan - Adjustable",
+    "description": "Quiet brushless motor fan powered entirely by the sun or USB. perfect for staying cool in your home office without using grid electricity.",
+    "price": "34.00",
+    "category": "Solar Energy",
+    "tags": ["solar-fan", "office-gear", "renewable", "energy-saving"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reusable Glass Spray Bottles - Set of 3",
+    "description": "Durable amber glass bottles with adjustable nozzles. Ideal for DIY natural cleaning solutions, reducing single-use plastic waste significantly.",
+    "price": "22.50",
+    "category": "Home Essentials",
+    "tags": ["glass-bottles", "zero-waste", "cleaning", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree - Sustainable Finish",
+    "description": "Weighted vertical organizer for up to 6 of your favorite eco-themed mugs. Hand-polished brass that patinas naturally over time.",
+    "price": "39.99",
+    "category": "Kitchenware",
+    "tags": ["organization", "brass", "minimalist", "long-lasting"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Himalayan Salt Table Lamp - Eco Base",
+    "description": "Hand-carved salt crystal lamp on a reclaimed wood base. Provides a warm, amber glow using an energy-efficient LED bulb.",
+    "price": "29.99",
+    "category": "Lifestyle",
+    "tags": ["lighting", "wellness", "natural-materials", "cozy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Mesh Market Bags for Groceries",
+    "description": "Sustainable and breathable way to carry your fresh loose produce. Washable and durable, replacing plastic bags for years of shopping.",
+    "price": "14.49",
+    "category": "Kitchenware",
+    "tags": ["mesh-bags", "zero-waste", "sustainable", "shopping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Sensor for Indoor Eco-Plants",
+    "description": "Bluetooth enabled sensor that alerts your phone when your organic indoor plants need hydration. features light and soil nutrient monitoring.",
+    "price": "24.99",
+    "category": "Home Essentials",
+    "tags": ["plant-sensor", "smart-home", "learning", "nature"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Wall Mounted Herb Rack",
+    "description": "Sustainable and sturdy rack with 10 movable stainless steel hooks. help organize your fresh herbs or eco-friendly kitchen tools efficiently.",
+    "price": "39.00",
+    "category": "Kitchenware",
+    "tags": ["herb-rack", "bamboo", "organization", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 3-Hole Electric Paper Punch - Eco",
+    "description": "Fully automatic puncher made from 50% recycled plastic. handles up to 30 sheets of paper effortlessly. Includes a mess-free easy-empty tray.",
+    "price": "69.00",
+    "category": "Home Essentials",
+    "tags": ["puncher", "recycled-materials", "automation", "efficiency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Mug Tree Stand - Eco Edition",
+    "description": "Vertical space-saving organizer for up to 6 mugs. weighted solid brass base ensures stability while keeping your sustainable kitchen tidy.",
+    "price": "29.99",
+    "category": "Kitchenware",
+    "tags": ["mug-tree", "organization", "brass", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Mesh Market Bags - Set of 3",
+    "description": "High-quality washable cotton bags for all your produce needs. Replaces plastic bags permanently and supports sustainable agriculture.",
+    "price": "14.49",
+    "category": "Kitchenware",
+    "tags": ["mesh-bags", "zero-waste", "sustainable", "shopping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Meat Thermometer - Solar Battery",
+    "description": "Professional-grade wireless probe powered by a solar rechargeable battery. monitor your cooking from your phone up to 150ft away.",
+    "price": "89.00",
+    "category": "Kitchenware",
+    "tags": ["thermometer", "tech-gadget", "lifestyle", "renewable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Ceramic Bird House - Eco Glow",
+    "description": "Glazed decorative piece that casts a flickering glow through its windows. Use with natural soy tea lights for a serene atmosphere.",
+    "price": "19.99",
+    "category": "Solar Energy",
+    "tags": ["candle-holder", "ceramic", "minimalist", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Stone Bookends - Natural Slate",
+    "description": "Pair of heavy-weight unpolished slate bookends in unique geometric shapes. Holds your entire eco-conscious library securely.",
+    "price": "45.00",
+    "category": "Lifestyle",
+    "tags": ["bookends", "slate", "minimalist", "natural-materials"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Blind Motor - Eco Hub Compatible",
+    "description": "Automate your shades to optimize natural light and save energy. battery-operated with solar charging option and app control.",
+    "price": "89.00",
+    "category": "Solar Energy",
+    "tags": ["automation", "smart-home", "energy-efficiency", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Key Holder & Mail Shelf - Eco",
+    "description": "Magnetic wall-mounted organizer made from reclaimed wood. holds up to 6 keys and features a shelf for organic paper mail.",
+    "price": "24.00",
+    "category": "Home Essentials",
+    "tags": ["key-holder", "wooden", "minimalist", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gourmet Artisan Tea Blend Sampler",
+    "description": "Set of three unique handcrafted organic tea blends: Soothing Chamomile, Bright Green Tea, and Bold Hibiscus Berry. plastic-free packaging.",
+    "price": "29.99",
+    "category": "Kitchenware",
+    "tags": ["tea", "organic", "gourmet", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1471943311424-646960669fbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Rechargeable LED Work Light - Eco",
+    "description": "Ultra-bright and versatile light with integrated solar charging panel. ideal for emergency lighting and sustainable outdoor activities.",
+    "price": "34.00",
+    "category": "Solar Energy",
+    "tags": ["work-light", "emergency", "solar-power", "rechargeable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Humidity & Temp Monitor - Eco Pro",
+    "description": "Precision sensor monitor that helps you track air quality and optimize your heating for energy savings. App connectivity included.",
+    "price": "18.99",
+    "category": "Home Essentials",
+    "tags": ["monitor", "wellness", "energy-saving", "air-quality"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Desk Clock - Eco Silent",
+    "description": "Hand-polished tabletop clock with silent sweeping hands. timeless design crafted for durability and low environmental impact.",
+    "price": "22.50",
+    "category": "Home Essentials",
+    "tags": ["clock", "brass", "minimalist", "long-lasting"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Linen Storage Bins with Leather Handles - Eco",
+    "description": "Folding organic linen storage cubes for home organization. long-lasting, plastic-free alternative to traditional storage bins.",
+    "price": "32.00",
+    "category": "Home Essentials",
+    "tags": ["storage-bins", "linen", "organization", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Tape Dispenser - Eco Weight",
+    "description": "Heavy solid brass dispenser designed to last for generations. Eliminate plastic models and add a touch of timeless style to your gift wrapping.",
+    "price": "35.00",
+    "category": "Home Essentials",
+    "tags": ["tape-dispenser", "brass", "minimalist", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Copper Vacuum Insulated Bottle - Eco Luxe",
+    "description": "Naturally antimicrobial copper bottle that keeps water cold for 24 hours. A stylish, lifetime alternative to a plastic bottle.",
+    "price": "39.00",
+    "category": "Lifestyle",
+    "tags": ["water-bottle", "copper", "insulated", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Glass Candle Tins - Scented Eco",
+    "description": "Soy wax candles in various organic floral fragrances. Create a relaxing atmosphere sustainably with clean-burning cotton wicks.",
+    "price": "34.99",
+    "category": "Home Essentials",
+    "tags": ["candles", "scent", "relaxation", "soy-wax"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty 45L Eco Traveler Backpack",
+    "description": "Robust water-resistant rucksack made from 100% recycled ocean plastic. features multiple pockets and ergonomic design for all your trips.",
+    "price": "89.00",
+    "category": "Lifestyle",
+    "tags": ["backpack", "travel-bag", "recycled-plastic", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Insulated Stainless Steel Sippy Cup- 12oz Eco",
+    "description": "Double-wall vacuum insulation keeps drinks cold for 24 hours. A durable and safe alternative to plastic for children on the move.",
+    "price": "24.99",
+    "category": "Kitchenware",
+    "tags": ["sippy-cup", "insulated", "baby-feeding", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultralight Adventure Hammock with Straps - Eco",
+    "description": "Breathable parachute nylon hammock made from surplus materials. supports up to 500lbs and provides a low-impact way to enjoy the outdoors.",
+    "price": "39.99",
+    "category": "Lifestyle",
+    "tags": ["hammock", "camping", "leisure", "ultralight"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510312295971-6f011702811a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Wi-Fi Asset Tracker - Eco Aware",
+    "description": "Compact GPS tracker made from biodegradable materials. monitor your valuables location in real-time via an app with lifetime subscription.",
+    "price": "49.00",
+    "category": "Home Essentials",
+    "tags": ["gps-tracker", "security", "sustainable-tech", "peace-of-mind"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Polarized Adventure Sunglasses - Eco Frames",
+    "description": "Ultra-lightweight frames made from 100% reclaimed ocean fishing nets. UV400 rated polarized lenses protect your eyes sustainably.",
+    "price": "34.00",
+    "category": "Lifestyle",
+    "tags": ["sunglasses", "polarized", "recycled", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compact Travel First Aid Kit - Eco Pouch",
+    "description": "Essential medical kit in a durable, waterproof hemp fiber pouch. contains biodegradable bandages and antiseptic wipes.",
+    "price": "29.99",
+    "category": "Home Essentials",
+    "tags": ["first-aid", "safety", "hemp", "preparedness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Inflatable Ultralight Sleep Mat - Eco",
+    "description": "Engineered for back and side sleepers, this 2-inch thick pad is made from recycled nylon and provides exceptional support and warmth.",
+    "price": "55.00",
+    "category": "Lifestyle",
+    "tags": ["sleep-mat", "recycled-materials", "comfort", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Smart Device Hard Case - Eco Shell",
+    "description": "Shockproof and water-resistant hard shell case made from compressed bamboo fiber. fits most over-ear headphones and small devices.",
+    "price": "19.99",
+    "category": "Home Essentials",
+    "tags": ["hard-case", "protection", "bamboo-fiber", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Leak-Proof Accessory Bag Set - Eco",
+    "description": "Set of 3 reusable food-safe bags with a reliable zipper closure. keeps your sustainable snacks and tools fresh for your daily adventures.",
+    "price": "14.99",
+    "category": "Kitchenware",
+    "tags": ["mesh-bags", "eco-friendly", "silicone", "shopping"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 4K Capture Card - Eco Build",
+    "description": "Plug-and-play high-performance card for 4K60 streaming. made from 100% recyclable components and minimal packaging for a lower footprint.",
+    "price": "69.00",
+    "category": "Home Essentials",
+    "tags": ["capture-card", "pro-tech", "recyclable", "streaming"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart LED Table Lamp 3 - Nature Mood",
+    "description": "dynamic lighting with wood trim and touch control. Features a preset Eco-mode that saves up to 30% more energy than standard settings.",
+    "price": "49.99",
+    "category": "Solar Energy",
+    "tags": ["lighting", "RGB", "smart-home", "lifestyle"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ergonomic Under-Desk Footrest - Eco Foam",
+    "description": "Adjustable footrest made from high-density recycled soy foam. Improves circulation and focus during your home office sessions sustainably.",
+    "price": "39.00",
+    "category": "Lifestyle",
+    "tags": ["footrest", "ergonomic", "recycled-foam", "office-health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505797149-43b00fe18478?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acoustic Desk Privacy Panel - Hemp Fiber",
+    "description": "Reversible sound-absorbing panel made from 100% pressed hemp fiber. provides immediate noise reduction for a more focused eco-friendly workspace.",
+    "price": "65.00",
+    "category": "Home Essentials",
+    "tags": ["privacy-panel", "acoustic", "hemp", "focus"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Fountain Pen Ink - Forest Moss",
+    "description": "Handcrafted archival quality ink from Japan. rich green finish made from sustainable plant pigments. non-clogging formula for serious writers.",
+    "price": "49.00",
+    "category": "Lifestyle",
+    "tags": ["ink", "fountain-pen", "writing", "professional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Minimalist Notebooks - Reclaimed Paper",
+    "description": "A5 notebooks with thick 120gsm unbleached 100% recycled paper. durable linen covers and lay-flat binding for sketching your eco-designs.",
+    "price": "24.99",
+    "category": "Lifestyle",
+    "tags": ["notebooks", "reclaimed-paper", "minimalist", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941068-d08316492978?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Desktop Compost Bin - Minimalist",
+    "description": "Small compact bin with a charcoal filter to keep odors away. Minimalist design for tech desks to keep small organic scraps organized.",
+    "price": "19.99",
+    "category": "Kitchenware",
+    "tags": ["compost-bin", "zero-waste", "desk-organization", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "USB-C Multi-Port Hub - Eco Materials",
+    "description": "Desktop dock featuring an aluminum shell and minimal plastic components. supports PD charging and provides multiple high-speed ports sustainably.",
+    "price": "79.99",
+    "category": "Home Essentials",
+    "tags": ["USB-hub", "docking-station", "productivity", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Under-Desk Keyboard Tray - Bamboo Series",
+    "description": "Extra-wide sliding drawer crafted from solid carbonized bamboo. Frees up workspace and rotates 360 degrees for optimal eco-friendly ergonomics.",
+    "price": "59.00",
+    "category": "Home Essentials",
+    "tags": ["keyboard-tray", "bamboo", "ergonomic", "desk-organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Monitor Light Bar - Solar Rechargeable",
+    "description": "Adjustable color temperature front lamp with solar charging capacity. Reduces glare and saves power at your workstation effortlessly.",
+    "price": "54.99",
+    "category": "Solar Energy",
+    "tags": ["monitor-light", "solar-power", "productivity", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eco-Friendly Walnut Headphone Stand",
+    "description": "Hand-carved curved stand made from sustainable walnut. features a hidden cable management path and solid weighted base.",
+    "price": "45.00",
+    "category": "Home Essentials",
+    "tags": ["headphone-stand", "walnut", "luxury-office", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Ergonomic Footrest - Natural Series",
+    "description": "High-density foam foot massager with non-slip organic linen cover. improves comfort and focus during your desk meditation or work sessions.",
+    "price": "34.99",
+    "category": "Lifestyle",
+    "tags": ["footrest", "ergonomic", "natural-materials", "well-being"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505797149-43b00fe18478?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sustainable Tech Padfolio - Hemp Edition",
+    "description": "High-end genuine hemp fiber organizer for 13\" laptop, tablet, and essentials. durable and eco-friendly professional gear.",
+    "price": "45.00",
+    "category": "Lifestyle",
+    "tags": ["padfolio", "hemp", "organization", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-1696413565d3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Geometric Metal Bookends - Recycled Mesh",
+    "description": "Sturdy sculptural bookends made from recycled industrial mesh. keeps your library of green-living manuals organized while adding a modern touch.",
+    "price": "29.99",
+    "category": "Home Essentials",
+    "tags": ["bookends", "recycled-metal", "organization", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Bottle - Solar Lite",
+    "description": "Bluetooth enabled bottle that tracks hydration and recharges via integrated solar panel lid. Features lightweight, durable construction.",
+    "price": "39.99",
+    "category": "Solar Energy",
+    "tags": ["water-bottle", "smart-device", "wellness", "solar-power"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533675114005-acc073170ec5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Canvas Adventure Backpack - Ocean Plastic",
+    "description": "Robust rucksack with excessive padding and weather-resistant finish. crafted entirely from ocean plastics to support a cleaner planet.",
+    "price": "64.99",
+    "category": "Lifestyle",
+    "tags": ["backpack", "travel-bag", "ocean-plastic", "durable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Rubber Yoga Block",
+    "description": "Eco-friendly alternative to foam blocks. Sustainable natural rubber providing firm support and excellent grip for all yoga practices.",
+    "price": "19.99",
+    "category": "Lifestyle",
+    "tags": ["yoga-block", "natural-rubber", "fitness", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Drinking Straws - Set of 10",
+    "description": "Durable and reusable straws crafted from organic bamboo. Includes a cleaning brush and a travel pouch for a zero-waste lifestyle on the go.",
+    "price": "12.00",
+    "category": "Kitchenware",
+    "tags": ["bamboo-straws", "zero-waste", "sustainable", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Upcycled Cotton Tote Bag - Hand-Printed",
+    "description": "Stylish and strong bag made from textile factory offcuts. each one is unique and features original hand-printed botanical designs.",
+    "price": "24.99",
+    "category": "Lifestyle",
+    "tags": ["tote-bag", "upcycled", "cotton", "fashion"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Intelligent Garden Path Lights - 6pk",
+    "description": "Energy-efficient landscape lighting that charges during the day and turns on automatically at night. Weather-resistant stainless steel finish.",
+    "price": "45.00",
+    "category": "Solar Energy",
+    "tags": ["solar-light", "garden-decor", "renewable", "outdoor-lighting"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Biodegradable Bamboo Charcoal Dental Floss",
+    "description": "Candle-wax coated silk floss in a reusable glass dispenser. Fully compostable and effective for deep cleaning between teeth sustainably.",
+    "price": "8.99",
+    "category": "Lifestyle",
+    "tags": ["dental-floss", "zero-waste", "bamboo-charcoal", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Recycled Glass Water Carafe Set",
+    "description": "Hand-blown carafe and matching glass made from 100% recycled glass. Minimalist design that adds a conscious aesthetic to your table.",
+    "price": "34.00",
+    "category": "Kitchenware",
+    "tags": ["recycled-glass", "glassware", "sustainable-home", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  }
+]
+
+

@@ -1,0 +1,826 @@
+[
+  {
+    "name": "Dell XPS 15 Laptop",
+    "description": "High-performance laptop with Intel Core i7, 16GB RAM, 512GB SSD, 15.6\" 4K display. Perfect for developers and content creators.",
+    "price": "1899.99",
+    "category": "Laptop",
+    "tags": ["laptop", "dell", "professional", "4K display"],
+    "inStock": true
+  },
+  {
+    "name": "MacBook Pro 14\" M3",
+    "description": "Apple's latest MacBook Pro with M3 chip, 18GB unified memory, 512GB SSD. Exceptional performance for coding and creative work.",
+    "price": "2199.00",
+    "category": "Laptop",
+    "tags": ["laptop", "apple", "M3", "professional"],
+    "inStock": true
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Ultra-lightweight business laptop with Intel Core i7, 16GB RAM, 1TB SSD, 14\" display. Built for professionals on the go.",
+    "price": "1699.00",
+    "category": "Laptop",
+    "tags": ["laptop", "lenovo", "business", "lightweight"],
+    "inStock": true
+  },
+  {
+    "name": "HP Pavilion Gaming Laptop",
+    "description": "Gaming laptop with AMD Ryzen 7, NVIDIA RTX 3060, 16GB RAM, 512GB SSD. Great for gaming and development.",
+    "price": "1299.00",
+    "category": "Laptop",
+    "tags": ["laptop", "gaming", "HP", "RTX"],
+    "inStock": true
+  },
+  {
+    "name": "ASUS ROG Zephyrus G14",
+    "description": "Compact gaming laptop with AMD Ryzen 9, RTX 4060, 32GB RAM, 1TB SSD. Powerful performance in a portable form.",
+    "price": "1899.00",
+    "category": "Laptop",
+    "tags": ["laptop", "gaming", "ASUS", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "description": "Premium laptop with Intel Core i7, 16GB RAM, 512GB SSD, 13.5\" PixelSense touchscreen. Elegant design for professionals.",
+    "price": "1599.00",
+    "category": "Laptop",
+    "tags": ["laptop", "microsoft", "touchscreen", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Acer Aspire 5",
+    "description": "Budget-friendly laptop with Intel Core i5, 8GB RAM, 256GB SSD, 15.6\" Full HD display. Great for students and everyday use.",
+    "price": "599.00",
+    "category": "Laptop",
+    "tags": ["laptop", "budget", "acer", "student"],
+    "inStock": true
+  },
+  {
+    "name": "Razer Blade 15",
+    "description": "Premium gaming laptop with Intel Core i9, RTX 4070, 32GB RAM, 1TB SSD. Top-tier performance for gaming enthusiasts.",
+    "price": "2799.00",
+    "category": "Laptop",
+    "tags": ["laptop", "gaming", "razer", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "LG Gram 17",
+    "description": "Ultra-lightweight 17\" laptop weighing only 3 lbs, Intel Core i7, 16GB RAM, 1TB SSD. Perfect for portability.",
+    "price": "1799.00",
+    "category": "Laptop",
+    "tags": ["laptop", "lightweight", "LG", "portable"],
+    "inStock": true
+  },
+  {
+    "name": "MSI Creator Z16",
+    "description": "Content creator laptop with Intel Core i9, RTX 4060, 32GB RAM, 1TB SSD, 16\" QHD+ display. Built for creative professionals.",
+    "price": "2299.00",
+    "category": "Laptop",
+    "tags": ["laptop", "creator", "MSI", "professional"],
+    "inStock": true
+  },
+  {
+    "name": "Dell Inspiron 15 3000",
+    "description": "Affordable laptop with Intel Core i3, 8GB RAM, 256GB SSD, 15.6\" HD display. Ideal for basic computing needs.",
+    "price": "449.00",
+    "category": "Laptop",
+    "tags": ["laptop", "budget", "dell", "basic"],
+    "inStock": true
+  },
+  {
+    "name": "MacBook Air M2",
+    "description": "Thin and light laptop with Apple M2 chip, 8GB RAM, 256GB SSD, 13.6\" Liquid Retina display. Perfect for everyday tasks.",
+    "price": "1199.00",
+    "category": "Laptop",
+    "tags": ["laptop", "apple", "M2", "lightweight"],
+    "inStock": true
+  },
+  {
+    "name": "HP Spectre x360",
+    "description": "2-in-1 convertible laptop with Intel Core i7, 16GB RAM, 512GB SSD, 13.5\" OLED touchscreen. Versatile and powerful.",
+    "price": "1699.00",
+    "category": "Laptop",
+    "tags": ["laptop", "2-in-1", "HP", "touchscreen"],
+    "inStock": true
+  },
+  {
+    "name": "Lenovo Legion 5 Pro",
+    "description": "Gaming laptop with AMD Ryzen 7, RTX 4060, 16GB RAM, 512GB SSD, 16\" QHD display. Excellent value for gamers.",
+    "price": "1499.00",
+    "category": "Laptop",
+    "tags": ["laptop", "gaming", "lenovo", "value"],
+    "inStock": true
+  },
+  {
+    "name": "ASUS ZenBook 14",
+    "description": "Ultraportable laptop with Intel Core i7, 16GB RAM, 512GB SSD, 14\" Full HD display. Sleek design for professionals.",
+    "price": "999.00",
+    "category": "Laptop",
+    "tags": ["laptop", "ultraportable", "ASUS", "professional"],
+    "inStock": true
+  },
+  {
+    "name": "Custom Gaming PC - RTX 4090",
+    "description": "High-end gaming desktop with Intel Core i9-14900K, RTX 4090, 64GB DDR5 RAM, 2TB NVMe SSD. Ultimate gaming performance.",
+    "price": "3999.00",
+    "category": "Computer",
+    "tags": ["desktop", "gaming", "custom", "high-end"],
+    "inStock": true
+  },
+  {
+    "name": "Dell OptiPlex 7090",
+    "description": "Business desktop with Intel Core i7, 16GB RAM, 512GB SSD. Reliable performance for office environments.",
+    "price": "1099.00",
+    "category": "Computer",
+    "tags": ["desktop", "business", "dell", "office"],
+    "inStock": true
+  },
+  {
+    "name": "HP Pavilion Desktop",
+    "description": "All-purpose desktop with Intel Core i5, 12GB RAM, 512GB SSD. Great for home and office use.",
+    "price": "699.00",
+    "category": "Computer",
+    "tags": ["desktop", "home", "HP", "office"],
+    "inStock": true
+  },
+  {
+    "name": "Apple Mac Mini M2",
+    "description": "Compact desktop with Apple M2 chip, 8GB RAM, 256GB SSD. Powerful performance in a tiny footprint.",
+    "price": "599.00",
+    "category": "Computer",
+    "tags": ["desktop", "apple", "M2", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Lenovo IdeaCentre 5i",
+    "description": "Family desktop with Intel Core i5, 12GB RAM, 1TB HDD + 256GB SSD. Perfect for everyday computing.",
+    "price": "799.00",
+    "category": "Computer",
+    "tags": ["desktop", "family", "lenovo", "everyday"],
+    "inStock": true
+  },
+  {
+    "name": "ASUS ROG Strix G10",
+    "description": "Gaming desktop with Intel Core i7, RTX 3070, 16GB RAM, 1TB SSD. Ready for AAA gaming out of the box.",
+    "price": "1799.00",
+    "category": "Computer",
+    "tags": ["desktop", "gaming", "ASUS", "RTX"],
+    "inStock": true
+  },
+  {
+    "name": "Acer Aspire TC",
+    "description": "Budget desktop with Intel Core i3, 8GB RAM, 512GB SSD. Affordable computing for basic needs.",
+    "price": "449.00",
+    "category": "Computer",
+    "tags": ["desktop", "budget", "acer", "basic"],
+    "inStock": true
+  },
+  {
+    "name": "MSI Trident X2",
+    "description": "Compact gaming desktop with Intel Core i9, RTX 4080, 32GB RAM, 2TB SSD. High performance in small form factor.",
+    "price": "2999.00",
+    "category": "Computer",
+    "tags": ["desktop", "gaming", "MSI", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Dell Precision 3660",
+    "description": "Workstation desktop with Intel Xeon, 32GB ECC RAM, 1TB SSD, NVIDIA RTX A4000. Built for professional applications.",
+    "price": "2499.00",
+    "category": "Computer",
+    "tags": ["desktop", "workstation", "dell", "professional"],
+    "inStock": true
+  },
+  {
+    "name": "HP OMEN 45L",
+    "description": "Premium gaming desktop with Intel Core i9, RTX 4080, 32GB RAM, 2TB SSD. Top-tier gaming experience.",
+    "price": "2799.00",
+    "category": "Computer",
+    "tags": ["desktop", "gaming", "HP", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "description": "Premium wireless mouse with ergonomic design, 8K DPI sensor, customizable buttons. Perfect for productivity.",
+    "price": "99.99",
+    "category": "Accessory",
+    "tags": ["mouse", "wireless", "logitech", "ergonomic"],
+    "inStock": true
+  },
+  {
+    "name": "Razer DeathAdder V3",
+    "description": "Gaming mouse with 30K DPI sensor, lightweight design, RGB lighting. Built for competitive gaming.",
+    "price": "69.99",
+    "category": "Accessory",
+    "tags": ["mouse", "gaming", "razer", "RGB"],
+    "inStock": true
+  },
+  {
+    "name": "Apple Magic Mouse",
+    "description": "Wireless mouse with multi-touch surface, rechargeable battery. Seamless integration with Mac.",
+    "price": "79.00",
+    "category": "Accessory",
+    "tags": ["mouse", "wireless", "apple", "touch"],
+    "inStock": true
+  },
+  {
+    "name": "Corsair K95 RGB Platinum",
+    "description": "Mechanical gaming keyboard with Cherry MX switches, RGB backlighting, programmable macro keys. Premium build quality.",
+    "price": "199.99",
+    "category": "Accessory",
+    "tags": ["keyboard", "mechanical", "corsair", "RGB"],
+    "inStock": true
+  },
+  {
+    "name": "Keychron K8 Pro",
+    "description": "Wireless mechanical keyboard with hot-swappable switches, RGB backlighting, Mac and Windows compatible.",
+    "price": "109.00",
+    "category": "Accessory",
+    "tags": ["keyboard", "mechanical", "wireless", "hot-swap"],
+    "inStock": true
+  },
+  {
+    "name": "Logitech MX Keys",
+    "description": "Wireless keyboard with backlit keys, multi-device pairing, comfortable typing experience. Perfect for professionals.",
+    "price": "99.99",
+    "category": "Accessory",
+    "tags": ["keyboard", "wireless", "logitech", "backlit"],
+    "inStock": true
+  },
+  {
+    "name": "Apple Magic Keyboard",
+    "description": "Wireless keyboard with scissor mechanism, rechargeable battery, sleek aluminum design. Optimized for Mac.",
+    "price": "99.00",
+    "category": "Accessory",
+    "tags": ["keyboard", "wireless", "apple", "aluminum"],
+    "inStock": true
+  },
+  {
+    "name": "Dell UltraSharp U2723DE",
+    "description": "27\" QHD monitor with IPS panel, USB-C connectivity, 99% sRGB coverage. Excellent for productivity and content creation.",
+    "price": "599.99",
+    "category": "Accessory",
+    "tags": ["monitor", "27-inch", "dell", "QHD"],
+    "inStock": true
+  },
+  {
+    "name": "LG UltraGear 27GN950",
+    "description": "27\" 4K gaming monitor with 144Hz refresh rate, Nano IPS, 1ms response time. Premium gaming display.",
+    "price": "799.00",
+    "category": "Accessory",
+    "tags": ["monitor", "gaming", "4K", "144Hz"],
+    "inStock": true
+  },
+  {
+    "name": "Samsung Odyssey G7",
+    "description": "32\" curved gaming monitor with QHD resolution, 240Hz refresh rate, 1ms response time. Immersive gaming experience.",
+    "price": "699.00",
+    "category": "Accessory",
+    "tags": ["monitor", "gaming", "curved", "240Hz"],
+    "inStock": true
+  },
+  {
+    "name": "ASUS ProArt PA279CV",
+    "description": "27\" 4K monitor with 100% sRGB, factory calibrated, USB-C. Ideal for designers and photographers.",
+    "price": "449.00",
+    "category": "Accessory",
+    "tags": ["monitor", "4K", "color-accurate", "professional"],
+    "inStock": true
+  },
+  {
+    "name": "BenQ PD3220U",
+    "description": "32\" 4K monitor with Thunderbolt 3, KVM switch, 95% P3 color gamut. Professional-grade display.",
+    "price": "1299.00",
+    "category": "Accessory",
+    "tags": ["monitor", "32-inch", "4K", "thunderbolt"],
+    "inStock": true
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "description": "Premium noise-cancelling headphones with 30-hour battery, exceptional sound quality, multipoint connection.",
+    "price": "399.99",
+    "category": "Accessory",
+    "tags": ["headphones", "wireless", "noise-cancelling", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "SteelSeries Arctis Nova Pro",
+    "description": "Gaming headset with active noise cancellation, Hi-Res audio, swappable batteries. Professional gaming audio.",
+    "price": "349.99",
+    "category": "Accessory",
+    "tags": ["headset", "gaming", "noise-cancelling", "wireless"],
+    "inStock": true
+  },
+  {
+    "name": "HyperX Cloud Alpha",
+    "description": "Wired gaming headset with dual chamber drivers, detachable microphone, comfortable design. Great value for gamers.",
+    "price": "99.99",
+    "category": "Accessory",
+    "tags": ["headset", "gaming", "wired", "comfortable"],
+    "inStock": true
+  },
+  {
+    "name": "Blue Yeti USB Microphone",
+    "description": "Professional USB microphone with multiple pickup patterns, studio-quality sound. Perfect for streaming and podcasting.",
+    "price": "129.99",
+    "category": "Accessory",
+    "tags": ["microphone", "USB", "streaming", "professional"],
+    "inStock": true
+  },
+  {
+    "name": "Elgato Stream Deck",
+    "description": "15-key customizable control pad with LCD buttons. Streamline your workflow and content creation.",
+    "price": "149.99",
+    "category": "Accessory",
+    "tags": ["stream-deck", "productivity", "streaming", "customizable"],
+    "inStock": true
+  },
+  {
+    "name": "Logitech C920 Webcam",
+    "description": "1080p HD webcam with auto-focus, dual stereo microphones. Essential for video calls and streaming.",
+    "price": "79.99",
+    "category": "Accessory",
+    "tags": ["webcam", "1080p", "logitech", "video-calls"],
+    "inStock": true
+  },
+  {
+    "name": "Samsung T7 Portable SSD 1TB",
+    "description": "External SSD with 1050MB/s read speed, USB 3.2 Gen 2, compact design. Fast and portable storage.",
+    "price": "129.99",
+    "category": "Accessory",
+    "tags": ["SSD", "external", "portable", "fast"],
+    "inStock": true
+  },
+  {
+    "name": "WD My Passport 5TB",
+    "description": "External hard drive with 5TB capacity, USB 3.0, automatic backup software. Reliable mass storage.",
+    "price": "139.99",
+    "category": "Accessory",
+    "tags": ["HDD", "external", "backup", "5TB"],
+    "inStock": true
+  },
+  {
+    "name": "Crucial P5 Plus 2TB NVMe SSD",
+    "description": "Internal NVMe SSD with 6600MB/s read speed, PCIe 4.0. Ultra-fast storage for gaming and workstations.",
+    "price": "199.99",
+    "category": "Accessory",
+    "tags": ["SSD", "NVMe", "internal", "PCIe4"],
+    "inStock": true
+  },
+  {
+    "name": "Seagate IronWolf 8TB NAS HDD",
+    "description": "NAS hard drive with 8TB capacity, 7200 RPM, optimized for 24/7 operation. Perfect for home servers.",
+    "price": "219.99",
+    "category": "Accessory",
+    "tags": ["HDD", "NAS", "8TB", "server"],
+    "inStock": true
+  },
+  {
+    "name": "Anker PowerExpand USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, 100W power delivery. Essential laptop accessory.",
+    "price": "49.99",
+    "category": "Accessory",
+    "tags": ["hub", "USB-C", "HDMI", "portable"],
+    "inStock": true
+  },
+  {
+    "name": "CalDigit TS4 Thunderbolt 4 Dock",
+    "description": "18-port Thunderbolt 4 dock with 98W charging, dual 4K display support. Ultimate connectivity solution.",
+    "price": "399.99",
+    "category": "Accessory",
+    "tags": ["dock", "thunderbolt", "18-port", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Belkin USB-C to HDMI Adapter",
+    "description": "USB-C to HDMI adapter supporting 4K@60Hz. Simple and reliable display connection.",
+    "price": "29.99",
+    "category": "Accessory",
+    "tags": ["adapter", "USB-C", "HDMI", "4K"],
+    "inStock": true
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA",
+    "description": "UPS battery backup with 1500VA capacity, 10 outlets, surge protection. Protect your equipment from power issues.",
+    "price": "249.99",
+    "category": "Accessory",
+    "tags": ["UPS", "battery-backup", "surge-protection", "1500VA"],
+    "inStock": true
+  },
+  {
+    "name": "CyberPower CP1500PFCLCD",
+    "description": "Pure sine wave UPS with 1500VA, LCD display, 12 outlets. Premium power protection.",
+    "price": "279.99",
+    "category": "Accessory",
+    "tags": ["UPS", "pure-sine-wave", "LCD", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "Corsair RM850x Power Supply",
+    "description": "850W 80+ Gold modular PSU with fully modular cables, quiet operation. Reliable power for gaming PCs.",
+    "price": "139.99",
+    "category": "Accessory",
+    "tags": ["PSU", "850W", "modular", "80-plus-gold"],
+    "inStock": true
+  },
+  {
+    "name": "EVGA SuperNOVA 1000 G6",
+    "description": "1000W 80+ Gold fully modular PSU with 10-year warranty. High-end power supply for demanding systems.",
+    "price": "199.99",
+    "category": "Accessory",
+    "tags": ["PSU", "1000W", "modular", "warranty"],
+    "inStock": true
+  },
+  {
+    "name": "Noctua NH-D15 CPU Cooler",
+    "description": "Premium dual-tower CPU cooler with two 140mm fans, excellent cooling performance. Quiet and efficient.",
+    "price": "99.99",
+    "category": "Accessory",
+    "tags": ["cooler", "CPU", "air-cooling", "quiet"],
+    "inStock": true
+  },
+  {
+    "name": "Corsair iCUE H150i Elite LCD",
+    "description": "360mm AIO liquid cooler with LCD display, RGB fans, powerful cooling. Premium aesthetics and performance.",
+    "price": "289.99",
+    "category": "Accessory",
+    "tags": ["cooler", "AIO", "liquid", "RGB"],
+    "inStock": true
+  },
+  {
+    "name": "Arctic Liquid Freezer II 280",
+    "description": "280mm AIO cooler with VRM fan, excellent price-to-performance ratio. Effective and affordable cooling.",
+    "price": "119.99",
+    "category": "Accessory",
+    "tags": ["cooler", "AIO", "280mm", "value"],
+    "inStock": true
+  },
+  {
+    "name": "Cooler Master Hyper 212 RGB",
+    "description": "Budget CPU cooler with RGB fan, direct contact heat pipes. Great value for mainstream builds.",
+    "price": "44.99",
+    "category": "Accessory",
+    "tags": ["cooler", "CPU", "budget", "RGB"],
+    "inStock": true
+  },
+  {
+    "name": "G.Skill Trident Z5 RGB 32GB DDR5",
+    "description": "32GB (2x16GB) DDR5-6000 RAM with RGB lighting, low latency. High-performance memory for latest platforms.",
+    "price": "179.99",
+    "category": "Accessory",
+    "tags": ["RAM", "DDR5", "32GB", "RGB"],
+    "inStock": true
+  },
+  {
+    "name": "Corsair Vengeance 64GB DDR5",
+    "description": "64GB (2x32GB) DDR5-5600 RAM, optimized for Intel and AMD. Massive capacity for demanding workloads.",
+    "price": "249.99",
+    "category": "Accessory",
+    "tags": ["RAM", "DDR5", "64GB", "high-capacity"],
+    "inStock": true
+  },
+  {
+    "name": "Kingston Fury Beast 16GB DDR4",
+    "description": "16GB (2x8GB) DDR4-3200 RAM, plug-and-play compatibility. Reliable memory for mainstream systems.",
+    "price": "59.99",
+    "category": "Accessory",
+    "tags": ["RAM", "DDR4", "16GB", "value"],
+    "inStock": true
+  },
+  {
+    "name": "Crucial Ballistix 32GB DDR4",
+    "description": "32GB (2x16GB) DDR4-3600 RAM with aluminum heat spreader. Great for gaming and content creation.",
+    "price": "119.99",
+    "category": "Accessory",
+    "tags": ["RAM", "DDR4", "32GB", "gaming"],
+    "inStock": true
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4090",
+    "description": "Flagship graphics card with 24GB GDDR6X, ray tracing, DLSS 3. Ultimate gaming and AI performance.",
+    "price": "1599.99",
+    "category": "Accessory",
+    "tags": ["GPU", "NVIDIA", "RTX-4090", "flagship"],
+    "inStock": true
+  },
+  {
+    "name": "AMD Radeon RX 7900 XTX",
+    "description": "High-end graphics card with 24GB GDDR6, ray tracing, FSR 3. Excellent 4K gaming performance.",
+    "price": "999.99",
+    "category": "Accessory",
+    "tags": ["GPU", "AMD", "7900-XTX", "4K"],
+    "inStock": true
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4070 Ti",
+    "description": "Upper mid-range GPU with 12GB GDDR6X, ray tracing, DLSS 3. Great for 1440p and 4K gaming.",
+    "price": "799.99",
+    "category": "Accessory",
+    "tags": ["GPU", "NVIDIA", "RTX-4070-Ti", "1440p"],
+    "inStock": true
+  },
+  {
+    "name": "AMD Radeon RX 7800 XT",
+    "description": "Mid-range graphics card with 16GB GDDR6, excellent 1440p performance. Great value for gamers.",
+    "price": "499.99",
+    "category": "Accessory",
+    "tags": ["GPU", "AMD", "7800-XT", "value"],
+    "inStock": true
+  },
+  {
+    "name": "NVIDIA GeForce RTX 4060",
+    "description": "Entry-level RTX card with 8GB GDDR6, ray tracing, DLSS 3. Affordable path to modern gaming features.",
+    "price": "299.99",
+    "category": "Accessory",
+    "tags": ["GPU", "NVIDIA", "RTX-4060", "budget"],
+    "inStock": true
+  },
+  {
+    "name": "Intel Core i9-14900K",
+    "description": "24-core flagship CPU with 6.0GHz boost, unlocked multiplier. Top-tier performance for gaming and productivity.",
+    "price": "589.99",
+    "category": "Accessory",
+    "tags": ["CPU", "Intel", "i9", "flagship"],
+    "inStock": true
+  },
+  {
+    "name": "AMD Ryzen 9 7950X",
+    "description": "16-core CPU with 5.7GHz boost, excellent multi-threaded performance. Powerhouse for content creation.",
+    "price": "549.99",
+    "category": "Accessory",
+    "tags": ["CPU", "AMD", "Ryzen-9", "multi-core"],
+    "inStock": true
+  },
+  {
+    "name": "Intel Core i7-14700K",
+    "description": "20-core CPU with 5.6GHz boost, great gaming and productivity balance. Excellent all-rounder.",
+    "price": "409.99",
+    "category": "Accessory",
+    "tags": ["CPU", "Intel", "i7", "balanced"],
+    "inStock": true
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D",
+    "description": "8-core CPU with 3D V-Cache, exceptional gaming performance. Best gaming CPU for the price.",
+    "price": "449.99",
+    "category": "Accessory",
+    "tags": ["CPU", "AMD", "Ryzen-7", "gaming"],
+    "inStock": true
+  },
+  {
+    "name": "Intel Core i5-14600K",
+    "description": "14-core CPU with 5.3GHz boost, great value for gaming. Solid mid-range performer.",
+    "price": "319.99",
+    "category": "Accessory",
+    "tags": ["CPU", "Intel", "i5", "value"],
+    "inStock": true
+  },
+  {
+    "name": "AMD Ryzen 5 7600X",
+    "description": "6-core CPU with 5.3GHz boost, excellent for gaming and everyday tasks. Budget-friendly performance.",
+    "price": "229.99",
+    "category": "Accessory",
+    "tags": ["CPU", "AMD", "Ryzen-5", "budget"],
+    "inStock": true
+  },
+  {
+    "name": "ASUS ROG Strix Z790-E",
+    "description": "Premium Intel Z790 motherboard with PCIe 5.0, DDR5, WiFi 6E, RGB. Top-tier features for enthusiasts.",
+    "price": "499.99",
+    "category": "Accessory",
+    "tags": ["motherboard", "Intel", "Z790", "premium"],
+    "inStock": true
+  },
+  {
+    "name": "MSI MAG B650 Tomahawk",
+    "description": "AMD B650 motherboard with PCIe 4.0, DDR5, excellent VRM. Great value for Ryzen builds.",
+    "price": "229.99",
+    "category": "Accessory",
+    "tags": ["motherboard", "AMD", "B650", "value"],
+    "inStock": true
+  },
+  {
+    "name": "Gigabyte X670E Aorus Master",
+    "description": "High-end AMD X670E board with PCIe 5.0, DDR5, 10GbE, WiFi 6E. Premium features for enthusiasts.",
+    "price": "449.99",
+    "category": "Accessory",
+    "tags": ["motherboard", "AMD", "X670E", "enthusiast"],
+    "inStock": true
+  },
+  {
+    "name": "ASRock B760M Pro RS",
+    "description": "Budget Intel B760 micro-ATX board with DDR5 support. Affordable foundation for mainstream builds.",
+    "price": "129.99",
+    "category": "Accessory",
+    "tags": ["motherboard", "Intel", "B760", "budget"],
+    "inStock": true
+  },
+  {
+    "name": "NZXT H7 Flow",
+    "description": "Mid-tower case with excellent airflow, cable management, tempered glass. Clean and functional design.",
+    "price": "129.99",
+    "category": "Accessory",
+    "tags": ["case", "mid-tower", "airflow", "tempered-glass"],
+    "inStock": true
+  },
+  {
+    "name": "Lian Li O11 Dynamic EVO",
+    "description": "Premium mid-tower with dual-chamber design, excellent build quality, showcase your components.",
+    "price": "179.99",
+    "category": "Accessory",
+    "tags": ["case", "mid-tower", "premium", "dual-chamber"],
+    "inStock": true
+  },
+  {
+    "name": "Fractal Design Meshify 2",
+    "description": "Mid-tower with mesh front panel, modular interior, sound dampening. Versatile and quiet.",
+    "price": "149.99",
+    "category": "Accessory",
+    "tags": ["case", "mid-tower", "mesh", "quiet"],
+    "inStock": true
+  },
+  {
+    "name": "Cooler Master NR200P",
+    "description": "Compact ITX case with tempered glass, excellent cooling support. Small form factor done right.",
+    "price": "99.99",
+    "category": "Accessory",
+    "tags": ["case", "ITX", "compact", "SFF"],
+    "inStock": true
+  },
+  {
+    "name": "Corsair 4000D Airflow",
+    "description": "Mid-tower with high-airflow front panel, tool-free design. Popular choice for builders.",
+    "price": "104.99",
+    "category": "Accessory",
+    "tags": ["case", "mid-tower", "airflow", "popular"],
+    "inStock": true
+  },
+  {
+    "name": "Phanteks Eclipse P500A",
+    "description": "Mid-tower with mesh front, RGB fans included, spacious interior. Great airflow and aesthetics.",
+    "price": "159.99",
+    "category": "Accessory",
+    "tags": ["case", "mid-tower", "RGB", "spacious"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "description": "Adjustable laptop cooling pad with 5 quiet fans, ergonomic design. Keep your laptop cool during intensive tasks.",
+    "price": "34.99",
+    "category": "Accessory",
+    "tags": ["cooling-pad", "laptop", "fans", "ergonomic"],
+    "inStock": true
+  },
+  {
+    "name": "USB-C Laptop Charger 100W",
+    "description": "Universal USB-C charger with 100W power delivery, compact design. Compatible with most laptops.",
+    "price": "49.99",
+    "category": "Accessory",
+    "tags": ["charger", "USB-C", "100W", "universal"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Privacy Screen 15.6\"",
+    "description": "Privacy filter for 15.6\" laptops, reduces glare, protects sensitive information. Essential for public spaces.",
+    "price": "39.99",
+    "category": "Accessory",
+    "tags": ["privacy-screen", "laptop", "15.6-inch", "security"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Stand Aluminum",
+    "description": "Ergonomic aluminum laptop stand, adjustable height, improves posture. Sleek and sturdy design.",
+    "price": "44.99",
+    "category": "Accessory",
+    "tags": ["laptop-stand", "aluminum", "ergonomic", "adjustable"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Sleeve 13-14\"",
+    "description": "Protective laptop sleeve with water-resistant material, extra pocket for accessories. Slim and lightweight.",
+    "price": "24.99",
+    "category": "Accessory",
+    "tags": ["sleeve", "laptop", "protective", "water-resistant"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Backpack with USB Port",
+    "description": "Anti-theft laptop backpack with USB charging port, fits 15.6\" laptops, multiple compartments.",
+    "price": "49.99",
+    "category": "Accessory",
+    "tags": ["backpack", "laptop", "USB-port", "anti-theft"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Presenter Remote",
+    "description": "Wireless presentation remote with laser pointer, USB receiver, 100ft range. Perfect for presentations.",
+    "price": "29.99",
+    "category": "Accessory",
+    "tags": ["presenter", "wireless", "laser-pointer", "remote"],
+    "inStock": true
+  },
+  {
+    "name": "USB 3.0 Hub 7-Port",
+    "description": "7-port USB 3.0 hub with individual power switches, 5Gbps transfer speed. Expand your connectivity.",
+    "price": "34.99",
+    "category": "Accessory",
+    "tags": ["hub", "USB-3.0", "7-port", "powered"],
+    "inStock": true
+  },
+  {
+    "name": "Cable Management Kit",
+    "description": "Complete cable management solution with clips, sleeves, ties, and labels. Organize your workspace.",
+    "price": "19.99",
+    "category": "Accessory",
+    "tags": ["cable-management", "organizer", "clips", "workspace"],
+    "inStock": true
+  },
+  {
+    "name": "Monitor Arm Dual Mount",
+    "description": "Dual monitor arm with full articulation, supports up to 27\" monitors, VESA compatible. Save desk space.",
+    "price": "89.99",
+    "category": "Accessory",
+    "tags": ["monitor-arm", "dual", "VESA", "ergonomic"],
+    "inStock": true
+  },
+  {
+    "name": "Desk Mat XXL",
+    "description": "Extra large desk mat 35\"x15\", waterproof surface, non-slip rubber base. Protect your desk in style.",
+    "price": "24.99",
+    "category": "Accessory",
+    "tags": ["desk-mat", "XXL", "waterproof", "non-slip"],
+    "inStock": true
+  },
+  {
+    "name": "RGB LED Strip 16ft",
+    "description": "Smart RGB LED strip with app control, music sync, 16 million colors. Enhance your setup ambiance.",
+    "price": "29.99",
+    "category": "Accessory",
+    "tags": ["LED-strip", "RGB", "smart", "music-sync"],
+    "inStock": true
+  },
+  {
+    "name": "Desk Lamp LED with USB",
+    "description": "LED desk lamp with adjustable brightness, color temperature, USB charging port. Eye-friendly lighting.",
+    "price": "39.99",
+    "category": "Accessory",
+    "tags": ["desk-lamp", "LED", "USB", "adjustable"],
+    "inStock": true
+  },
+  {
+    "name": "Ergonomic Wrist Rest Set",
+    "description": "Memory foam wrist rest set for keyboard and mouse, reduces strain. Comfortable for long sessions.",
+    "price": "19.99",
+    "category": "Accessory",
+    "tags": ["wrist-rest", "ergonomic", "memory-foam", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Compressed Air Duster",
+    "description": "Rechargeable electric air duster, eco-friendly alternative to canned air. Clean your electronics safely.",
+    "price": "49.99",
+    "category": "Accessory",
+    "tags": ["air-duster", "rechargeable", "cleaning", "eco-friendly"],
+    "inStock": true
+  },
+  {
+    "name": "Screen Cleaning Kit",
+    "description": "Professional screen cleaning kit with microfiber cloths and solution. Safe for all screens.",
+    "price": "14.99",
+    "category": "Accessory",
+    "tags": ["cleaning-kit", "screen", "microfiber", "safe"],
+    "inStock": true
+  },
+  {
+    "name": "Surge Protector Power Strip",
+    "description": "12-outlet surge protector with 4 USB ports, 6ft cord, 4000J protection. Comprehensive power protection.",
+    "price": "39.99",
+    "category": "Accessory",
+    "tags": ["surge-protector", "power-strip", "USB", "protection"],
+    "inStock": true
+  },
+  {
+    "name": "KVM Switch 2-Port",
+    "description": "2-port KVM switch with USB and HDMI, control 2 computers with 1 keyboard/mouse/monitor. Efficient workspace.",
+    "price": "59.99",
+    "category": "Accessory",
+    "tags": ["KVM-switch", "2-port", "HDMI", "USB"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Docking Station",
+    "description": "Universal laptop docking station with dual HDMI, 6 USB ports, ethernet, audio. Complete connectivity solution.",
+    "price": "129.99",
+    "category": "Accessory",
+    "tags": ["docking-station", "laptop", "dual-HDMI", "USB"],
+    "inStock": true
+  },
+  {
+    "name": "Bluetooth Audio Transmitter",
+    "description": "USB Bluetooth 5.0 transmitter for PC, low latency, dual device connection. Add Bluetooth to any computer.",
+    "price": "24.99",
+    "category": "Accessory",
+    "tags": ["bluetooth", "transmitter", "USB", "audio"],
+    "inStock": true
+  }
+]

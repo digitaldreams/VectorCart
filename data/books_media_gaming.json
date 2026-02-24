@@ -1,0 +1,903 @@
+[
+  {
+    "name": "The Silent Patient - Hardcover",
+    "description": "The #1 New York Times bestselling psychological thriller. A shocking act of violence, a silent survivor, and a therapist's quest to uncover the truth.",
+    "price": "26.99",
+    "category": "Books",
+    "tags": ["mystery", "thriller", "fiction", "bestseller"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Atomic Habits by James Clear",
+    "description": "An easy and proven way to build good habits and break bad ones. Practical strategies for life and productivity from an world-renowned expert.",
+    "price": "27.00",
+    "category": "Books",
+    "tags": ["self-help", "productivity", "non-fiction", "personal-growth"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592492159418-39f319320569?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sony PlayStation 5 Console",
+    "description": "Latest generation PS5 console featuring lightning-fast loading, haptic feedback, and an incredible library of exclusive 4K games.",
+    "price": "499.99",
+    "category": "Gaming",
+    "tags": ["PS5", "gaming-console", "sony", "next-gen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "description": "Epic open-world action-adventure for Nintendo Switch. Build, explore, and master Link's new abilities in the vast world of Hyrule.",
+    "price": "69.99",
+    "category": "Gaming",
+    "tags": ["nintendo-switch", "zelda", "adventure", "best-seller"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550745127-d28235d8d97c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Gaming Controller - Pro Black",
+    "description": "Ergonomic high-performance controller with customizable buttons, vibration feedback, and long-lasting rechargeable battery. PC and console compatible.",
+    "price": "59.99",
+    "category": "Gaming Accessories",
+    "tags": ["controller", "gaming", "PC", "wireless"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Vintage Vinyl Record - Rumours by Fleetwood Mac",
+    "description": "Original 180g vinyl pressing of the classic 1977 album. A must-have for any audiophile and music collector's library.",
+    "price": "34.99",
+    "category": "Music & Vinyl",
+    "tags": ["vinyl", "records", "classic-rock", "audiophile"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Wooden Bookshelf Speaker Set",
+    "description": "Pair of high-fidelity 50W bookshelf speakers and integrated Bluetooth connection. Clear sound and deep bass in a stylish wooden cabinet.",
+    "price": "149.00",
+    "category": "Media & Audio",
+    "tags": ["speakers", "audio", "hifi", "music"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Leather Journal with Refillable Pages",
+    "description": "Handcrafted genuine leather notebook with an elastic closure. Perfect for creative writing, sketching, or daily journaling. Includes premium ivory paper.",
+    "price": "32.00",
+    "category": "Stationery",
+    "tags": ["journal", "notebook", "leather", "writing"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941068-d08316492978?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mechanical Gaming Keyboard - RGB Blue Switches",
+    "description": "Compact tenkeyless mechanical keyboard with clicky blue switches for tactile feedback. 16.8 million customizable RGB colors per key.",
+    "price": "89.99",
+    "category": "Gaming Accessories",
+    "tags": ["keyboard", "gaming", "mechanical", "RGB"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Harry Potter Complete Collection Box Set",
+    "description": "All seven bestselling novels in a beautiful collector's box set. Journey with the boy who lived in this timeless magical series.",
+    "price": "99.00",
+    "category": "Books",
+    "tags": ["fantasy", "fiction", "collection", "young-adult"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Board Game - Catan Extended Edition",
+    "description": "Classic strategy game of trading and building. Includes the basic set plus 5-6 player expansion. Fun for family and friends of all ages.",
+    "price": "55.00",
+    "category": "Hobbies & Games",
+    "tags": ["board-games", "strategy", "family-fun", "tabletop"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1610890732551-21307b1c4b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Studio Condenser USB Microphone",
+    "description": "Professional-grade USB mic for streaming, podcasting, and voiceover work. Features a cardioid pickup pattern and adjustable gain control.",
+    "price": "129.00",
+    "category": "Media & Production",
+    "tags": ["microphone", "streaming", "content-creation", "audio"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artist Sketch Pencil Set - 24 Count",
+    "description": "Premium graphite drawing pencils ranging from 9H to 14B. Includes sharpener, erasers, and a durable tin case for professional and hobbyist artists.",
+    "price": "24.99",
+    "category": "Stationery",
+    "tags": ["art-supplies", "drawing", "pencils", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Noise Cancelling Headphones",
+    "description": "High-fidelity over-ear headphones with 30-hour battery life and superior active noise cancellation. Perfect for commuting and focus work.",
+    "price": "249.00",
+    "category": "Media & Audio",
+    "tags": ["headphones", "bluetooth", "audio", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Xbox Series X Console",
+    "description": "Microsoft's most powerful console with true 4K gaming and 120 FPS support. Includes 1TB SSD for lightning-fast loading of your favorite titles.",
+    "price": "499.99",
+    "category": "Gaming",
+    "tags": ["xbox", "gaming-console", "microsoft", "power"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fountain Pen with Ink Converter",
+    "description": "Classic executive fountain pen with medium iridium nib. Sleek metallic finish and smooth ink flow for professional hand-writing and calligraphy.",
+    "price": "45.00",
+    "category": "Stationery",
+    "tags": ["fountain-pen", "writing", "executive", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tabletop RPG Master Set",
+    "description": "Everything needed to start your fantasy campaign: dice set, modular battle map, and guidebook. Perfect for beginner and veteran roleplayers.",
+    "price": "65.00",
+    "category": "Hobbies & Games",
+    "tags": ["tabletop", "RPG", "fantasy", "games"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1635332304892-2007801a6176?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Blue-Light Blocking Glasses",
+    "description": "Stylish non-prescription glasses designed to reduce eye strain from computer and gaming screens. Durable frames and crystal clear lenses.",
+    "price": "19.99",
+    "category": "Gaming Accessories",
+    "tags": ["glasses", "health", "tech", "accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591076482161-421a3a0f63f2?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acoustic Guitar - Starter Pack",
+    "description": "Full-size steel-string acoustic guitar with bridge pins and spruce top. Includes gig bag, tuner, strap, and picks for prospective musicians.",
+    "price": "199.00",
+    "category": "Music & Instruments",
+    "tags": ["guitar", "music", "instruments", "hobbies"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550291652-6ea9114a47b1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Outdoor Speaker",
+    "description": "Rugged portable Bluetooth speaker with powerful 360-degree sound. IPX7 waterproof rating and 20-hour battery for beach and camping adventures.",
+    "price": "79.99",
+    "category": "Media & Audio",
+    "tags": ["portable-speaker", "outdoor", "audio", "beach"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Historical Non-fiction - Sapiens",
+    "description": "A brief history of humankind by Yuval Noah Harari. A landmark exploration of how biology and history have defined us since the Stone Age.",
+    "price": "24.00",
+    "category": "Books",
+    "tags": ["history", "non-fiction", "science", "bestseller"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Dungeons & Dragons Player's Handbook",
+    "description": "The essential core rulebook for D&D. Create heroes, learn magic, and embark on epic quests in the world's greatest roleplaying game.",
+    "price": "49.95",
+    "category": "Hobbies & Games",
+    "tags": ["D&D", "tabletop", "rpg", "reference"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1635332304892-2007801a6176?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Desktop Lamp with Ambient Mode",
+    "description": "Adjustable LED desk lamp with touch controls for brightness and color temperature. Features an ambient RGB mode to sync with gaming setups.",
+    "price": "39.99",
+    "category": "Media & Production",
+    "tags": ["lighting", "tech", "desktop-decor", "smart-home"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artist Easel - Lightweight Aluminum",
+    "description": "Sturdy and portable tripod easel with adjustable height and tray. Folds down for easy travel and outdoor painting sessions.",
+    "price": "34.99",
+    "category": "Stationery",
+    "tags": ["art-supplies", "painting", "hobby", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Surround Sound Soundbar - 3.1 Channel",
+    "description": "Compact home theater soundbar with wireless subwoofer. Immersive Dolby Audio for movies and clear dialogue for sports and shows.",
+    "price": "229.00",
+    "category": "Media & Audio",
+    "tags": ["soundbar", "home-theater", "audio", "movie-night"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541810237-766792376483?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Drawing Tablet with Pen",
+    "description": "High-sensitivity graphic tablet for digital artists and photo editors. Includes battery-free pen and customizable shortcut keys.",
+    "price": "159.00",
+    "category": "Media & Production",
+    "tags": ["drawing-tablet", "digital-art", "creative", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "E-Reader Paperwhite - 32GB",
+    "description": "Latest e-reader featuring a glare-free Paperwhite display, waterproof design, and weeks of battery life. Store thousands of books.",
+    "price": "139.00",
+    "category": "Books & E-Media",
+    "tags": ["e-reader", "kindle", "books", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512428559083-a40193214fd8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sci-Fi Masterpiece - Dune",
+    "description": "Frank Herbert's seminal science fiction novel. A story of political intrigue, environmentalism, and religion set on the desert planet Arrakis.",
+    "price": "18.99",
+    "category": "Books",
+    "tags": ["sci-fi", "classic", "fiction", "space-opera"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "RGB Extended Mouse Pad",
+    "description": "Large desk-sized mouse pad with smooth textile surface and 12 lighting modes. Non-slip rubber base for stability during gaming.",
+    "price": "29.99",
+    "category": "Gaming Accessories",
+    "tags": ["mouse-pad", "RGB", "desk-decor", "gaming"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collectible Figure - Cyberpunk Protagonist",
+    "description": "Detailed 10-inch hand-painted figure with multiple accessories. A perfect addition to any sci-fi or gaming memorabilia collection.",
+    "price": "44.99",
+    "category": "Hobbies & Games",
+    "tags": ["collectible", "action-figure", "gaming", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608933390230-f383f9f30b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acrylic Paint Set - 48 Vibrant Colors",
+    "description": "Professional quality acrylics with rich pigments and smooth consistency. Suitable for canvas, wood, ceramics, and more. Non-toxic.",
+    "price": "39.99",
+    "category": "Stationery",
+    "tags": ["art-supplies", "painting", "creative", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Noise Isolating In-Ear Monitors",
+    "description": "High-fidelity wired earphones used by musicians. Superior sound separation and three sizes of memory foam tips for a perfect fit.",
+    "price": "89.00",
+    "category": "Media & Audio",
+    "tags": ["earphones", "audiophile", "hifi", "music"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retro Bluetooth Turntable",
+    "description": "3-speed record player with built-in stereo speakers and Bluetooth for wireless music streaming. Vintage wooden design with modern features.",
+    "price": "129.00",
+    "category": "Music & Vinyl",
+    "tags": ["turntable", "vinyl", "music", "retro"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Nintendo Switch OLED Model",
+    "description": "Newest Switch model with a vibrant 7-inch OLED screen, enhanced audio, and a wide adjustable stand. Perfect for handheld or docked play.",
+    "price": "349.99",
+    "category": "Gaming",
+    "tags": ["nintendo-switch", "portable", "OLED", "handheld"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550745127-d28235d8d97c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gaming Headset with Mic",
+    "description": "Comfortable over-ear headset with noise-cancelling microphone and 7.1 virtual surround sound. Long-lasting for extended gaming marathons.",
+    "price": "69.00",
+    "category": "Gaming Accessories",
+    "tags": ["headset", "audio", "mic", "gaming"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0cd4352f20d6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sci-Fi Classic - Star Wars Art Book",
+    "description": "The Art of Star Wars: The Mandalorian. Stunning concept art, behind-the-scenes sketches, and world-building insights for the hit series.",
+    "price": "45.00",
+    "category": "Books",
+    "tags": ["art-book", "star-wars", "fantasy", "cinema"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Karaoke Microphone",
+    "description": "Rechargeable Bluetooth mic with built-in high-quality speaker and echo effects. Fun for family gatherings, parties, and kids' performances.",
+    "price": "39.99",
+    "category": "Media & Audio",
+    "tags": ["karaoke", "singing", "music", "leisure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Watercolor Paper Pad",
+    "description": "300gsm cold-pressed cotton watercolor paper. Acid-free and highly absorbent, perfect for professional watercolor and mixed media techniques.",
+    "price": "29.00",
+    "category": "Stationery",
+    "tags": ["art-supplies", "watercolor", "paper", "painting"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mini LED Projector with Screen",
+    "description": "Portable 1080p projector with built-in speaker and 100-inch foldable screen. Ideal for outdoor movie nights and home theater setups.",
+    "price": "189.99",
+    "category": "Media & Production",
+    "tags": ["projector", "home-theater", "movies", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "64-Piece Colored Pencil Set",
+    "description": "Soft-core colored pencils in a beautiful rainbow of shades. Smooth blending and high-pigment laydown for coloring and illustration work.",
+    "price": "34.00",
+    "category": "Stationery",
+    "tags": ["colored-pencils", "drawing", "illustration", "art-supplies"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Classic Mystery Novel - Sherlock Holmes",
+    "description": "The Complete Works of Arthur Conan Doyle. Includes all four novels and fifty-six short stories in a beautiful leather-bound edition.",
+    "price": "32.00",
+    "category": "Books",
+    "tags": ["mystery", "classic", "fiction", "collection"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retro 8-Bit Gaming Console",
+    "description": "Compact plug-and-play console with 600 built-in classic games. Simple setup with HDMI and two wired controllers for nostalgic 2-player fun.",
+    "price": "49.99",
+    "category": "Gaming",
+    "tags": ["retro-gaming", "classic-games", "nintendo", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550745127-d28235d8d97c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mic Suspension Arm",
+    "description": "Sturdy steel scissor arm stand for professional microphones. Fully adjustable with built-in cable management and clamp for desk mounting.",
+    "price": "35.00",
+    "category": "Media & Production",
+    "tags": ["mic-stand", "podcast", "streaming", "audio"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Canvas Brush Roll Case",
+    "description": "Durable cotton canvas storage for paint brushes, pens, and pencils. Roll-up design protects your tools and keeps them organized while traveling.",
+    "price": "14.99",
+    "category": "Stationery",
+    "tags": ["art-supplies", "case", "organization", "painting"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Definition 4K Blu-ray Player",
+    "description": "Premium player featuring ultra HD resolution, HDR support, and built-in streaming apps. Crystal clear picture and multi-channel surround sound.",
+    "price": "169.00",
+    "category": "Media & Audio",
+    "tags": ["blu-ray", "home-theater", "movies", "4K"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541810237-766792376483?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital Photo Frame - 10-inch",
+    "description": "IPS touchscreen frame that displays your favorite memories. Wi-Fi enabled for instant photo sharing from your phone via the secure app.",
+    "price": "89.00",
+    "category": "Media & Audio",
+    "tags": ["photo-frame", "digital", "decor", "memories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fantasy Classic - The Hobbit",
+    "description": "J.R.R. Tolkien's introductory tale to Middle-earth. Journey with Bilbo Baggins on a great adventure to reclaim a lost dwarf kingdom.",
+    "price": "14.50",
+    "category": "Books",
+    "tags": ["fantasy", "classic", "fiction", "adventure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acrylic Display Case for Collectibles",
+    "description": "Crystal clear UV-protected display box with an elegant black base. Perfect for protecting and showcasing rare figures, models, or signed artifacts.",
+    "price": "29.99",
+    "category": "Hobbies & Games",
+    "tags": ["display-case", "collectibles", "hobby", "protection"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608933390230-f383f9f30b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 12.9-inch Drawing Pen Pro",
+    "description": "High-precision active stylus compatible with major tablets. Pressure sensitivity and tilt support for fluid digital sketching and note-taking.",
+    "price": "119.00",
+    "category": "Media & Production",
+    "tags": ["stylus", "digital-art", "creative", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Resin Model Kits",
+    "description": "Fun DIY model building set featuring classic spaceships. Includes detailed parts, assembly guide, and basic painting instructions.",
+    "price": "39.99",
+    "category": "Hobbies & Games",
+    "tags": ["model-kit", "hobby", "DIY", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608933390230-f383f9f30b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "The Great Gatsby - Centennial Edition",
+    "description": "F. Scott Fitzgerald's masterpiece of high society and mystery. Beautiful leather-bound edition with gilded pages and original illustrations.",
+    "price": "35.00",
+    "category": "Books",
+    "tags": ["classic", "literature", "fiction", "gift-edition"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Steam Deck - 512GB OLED",
+    "description": "Powerful handheld gaming PC for playing your Steam library on the go. Vibrant OLED screen and haptic touchpads for precise control.",
+    "price": "649.00",
+    "category": "Gaming",
+    "tags": ["handheld-gaming", "portable", "PC-gaming", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Studio Monitor Speakers - Pair",
+    "description": "High-accuracy audio monitors for creators. Flat frequency response ensures honest sound for editing videos, podcasts, and music production.",
+    "price": "199.00",
+    "category": "Media & Audio",
+    "tags": ["speakers", "studio", "audio", "production"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 10 Dual-Tip Art Markers",
+    "description": "Alcohol-based professional markers with both fine and broad tips. Smooth blending and vibrant color for manga, design, and coloring.",
+    "price": "24.99",
+    "category": "Stationery",
+    "tags": ["markers", "art-supplies", "illustration", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tabletop Strategy Game - Scythe",
+    "description": "Deep engine-building and strategy game set in an 1920s alternate-reality. Highly detailed miniatures and immersive world-building mechanics.",
+    "price": "69.00",
+    "category": "Hobbies & Games",
+    "tags": ["board-game", "strategy", "tabletop", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1610890732551-21307b1c4b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Charging Gaming Mouse",
+    "description": "Lightweight ultra-fast gaming mouse with an optical sensor and wireless charging capability. Customizable buttons and zero-latency performance.",
+    "price": "79.99",
+    "category": "Gaming Accessories",
+    "tags": ["mouse", "gaming", "wireless", "PC"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Canvas Artist Backpack and Portfolio",
+    "description": "Specialized backpack designed for artists. Safely carries large canvases, sketchbooks, and art supplies with dedicated compartments.",
+    "price": "55.00",
+    "category": "Stationery",
+    "tags": ["art-supplies", "bag", "creative", "travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Classic Science Fiction - 1984",
+    "description": "George Orwell's chilling vision of a dystopian future. A timeless and powerful cautionary tale about total government control.",
+    "price": "14.00",
+    "category": "Books",
+    "tags": ["sci-fi", "dystopian", "classic", "fiction"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Handmade Wooden Chess Set",
+    "description": "Large folding wooden chess board with intricately hand-carved pieces. Felt bottom for smooth movement and internal storage for chessmen.",
+    "price": "49.00",
+    "category": "Hobbies & Games",
+    "tags": ["chess", "strategy", "wooden-games", "family"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1528819622765-d6bcf132f793?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Sound System - Home Hub",
+    "description": "Voice-controlled smart speaker with high-fidelity audio. Integrates with your music streaming services and smart home devices effortlessly.",
+    "price": "129.00",
+    "category": "Media & Audio",
+    "tags": ["smart-speaker", "audio", "tech", "smart-home"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1543512214-318bd4bb19f9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "The Great Gatsby - Hardcover",
+    "description": "F. Scott Fitzgerald's timeless tale of the Roaring Twenties. A masterpiece of American literature exploring themes of wealth, love, and the American dream.",
+    "price": "18.99",
+    "category": "Books",
+    "tags": ["classic", "literature", "fiction", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Nintendo Switch Pro Controller",
+    "description": "The definitive controller for Nintendo Switch. Features motion controls, HD rumble, built-in amiibo functionality, and a comfortable ergonomic design.",
+    "price": "69.00",
+    "category": "Gaming Accessories",
+    "tags": ["nintendo-switch", "controller", "gaming", "pro"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550745127-d28235d8d97c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Vinyl Record Cleaning Kit - Pro Set",
+    "description": "Maintain your audio quality with this professional cleaning set. Includes anti-static brush, microfiber cloth, and specialized cleaning solution.",
+    "price": "24.99",
+    "category": "Music & Vinyl",
+    "tags": ["vinyl-care", "audiophile", "maintenance", "music"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603048588665-791ca8aea617?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart LED Backlight for TV - 65\"",
+    "description": "App-controlled RGB LED strip for your large screen TV. Senses screen colors and mirrors them on the wall for an immersive cinematic experience.",
+    "price": "49.99",
+    "category": "Media & Audio",
+    "tags": ["TV-backlight", "LED", "home-theater", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541810237-766792376483?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fantasy Novel - The Name of the Wind",
+    "description": "Patrick Rothfuss's poetic and captivating story of Kvothe. A journey from a traveling performer to the most notorious wizard the world has ever known.",
+    "price": "16.50",
+    "category": "Books",
+    "tags": ["fantasy", "fiction", "magic", "bestseller"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Writing Pen Set",
+    "description": "Beautiful hand-blown glass dip pen with a collection of vibrant colored inks. Perfect for calligraphy, artistic writing, and unique journaling.",
+    "price": "32.00",
+    "category": "Stationery",
+    "tags": ["calligraphy", "writing", "art-supplies", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Portable Gaming Monitor - 15.6\" 4K",
+    "description": "Ultra-slim 4K HDR monitor with USB-C and HDMI inputs. perfect for gaming on the go with your console or laptop. Includes a protective stand cover.",
+    "price": "299.00",
+    "category": "Gaming Accessories",
+    "tags": ["gaming-monitor", "portable", "tech", "gadget"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Historical Non-fiction - The Diary of a Young Girl",
+    "description": "Anne Frank's definitive and moving account of her life in hiding during the Holocaust. A timeless testament to the human spirit in difficult times.",
+    "price": "12.99",
+    "category": "Books",
+    "tags": ["history", "biography", "classic", "non-fiction"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retro Pixel Art Display - Smart Frame",
+    "description": "App-controlled LED panel for displaying retro-style animations and pixel art. Doubles as a smart clock and notification center for your desk.",
+    "price": "59.00",
+    "category": "Gaming Accessories",
+    "tags": ["pixel-art", "decor", "gaming-setup", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Acoustic Guitar Humidifier Case",
+    "description": "Industrial-strength hard case with a built-in digital hygrometer and humidification system to protect your precious instrument from environmental damage.",
+    "price": "149.00",
+    "category": "Music & Instruments",
+    "tags": ["guitar-case", "instrument-care", "audiophile", "music"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1550291652-6ea9114a47b1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Dungeons & Dragons Starter Kit - 5e",
+    "description": "Everything needed for a new group to start playing D&D immediately. Includes d6 adventure, rulebook, dice, and pre-made character sheets.",
+    "price": "24.99",
+    "category": "Hobbies & Games",
+    "tags": ["D&D", "tabletop", "RPG", "beginner-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1635332304892-2007801a6176?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Studio Boom Arm - Pro Set",
+    "description": "Heavy-duty microphone arm with internal springs and hidden cable management. Features a broad range of motion for podcasting and streaming.",
+    "price": "65.00",
+    "category": "Media & Production",
+    "tags": ["boom-arm", "microphone", "streaming", "podcast"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Fountain Pen Ink - Sapphire Blue",
+    "description": "High-pigment archival-quality ink in an elegant glass bottle. Smooth-flowing formula designed for professional calligraphy and executive pens.",
+    "price": "19.99",
+    "category": "Stationery",
+    "tags": ["ink", "fountain-pen", "writing", "executive"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554941426-e9604e34bc94?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sci-Fi Tabletop Miniature Set - Space Marines",
+    "description": "Box of 10 highly detailed unpainted figures for wargaming and collectors. Includes various weapon options and artistic modeling guide.",
+    "price": "39.00",
+    "category": "Hobbies & Games",
+    "tags": ["miniatures", "wargaming", "creative", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608933390230-f383f9f30b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Self-Help Bestseller - Think and Grow Rich",
+    "description": "Napoleon Hill's classic guide to financial success and personal achievement. A foundational text in personal development and wealth-building.",
+    "price": "14.50",
+    "category": "Books",
+    "tags": ["wealth-building", "success", "non-fiction", "classic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital HD Video Capture Card - 4K Pass",
+    "description": "High-performance capture card for console and PC streaming. Provides lag-free 4K passthrough and 1080p 60fps recording for content creators.",
+    "price": "129.00",
+    "category": "Media & Production",
+    "tags": ["capture-card", "streaming", "gaming", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Artist Portfolio - Large",
+    "description": "Sturdy weather-resistant carrying case for large canvases and sketchbooks. includes multiple pockets for brushes, pencils, and art supplies.",
+    "price": "45.00",
+    "category": "Stationery",
+    "tags": ["art-portfolio", "carrying-case", "creative", "travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Classic Novel - Pride and Prejudice",
+    "description": "Jane Austen's witty and romantic masterpiece. A story of manners, marriage, and money in late 18th-century England in an elegant hardcover.",
+    "price": "18.00",
+    "category": "Books",
+    "tags": ["literature", "classic", "fiction", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Charging Mouse Pad - Pro Gaming",
+    "description": "Extra-large desk mat with a built-in wireless charging zone for your phone and earbuds. smooth surface for precision gaming and anti-slip base.",
+    "price": "39.99",
+    "category": "Gaming Accessories",
+    "tags": ["mouse-pad", "wireless-charging", "gaming", "desk-setup"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Painted Fantasy Map - Wall Art",
+    "description": "Large high-quality print of an original fantasy world map. Beautiful vintage aesthetic with intricate detail for home decor and RPG inspiration.",
+    "price": "24.00",
+    "category": "Hobbies & Games",
+    "tags": ["wall-art", "fantasy", "RPG", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 3D Printer Filament - 1kg",
+    "description": "Premium industrial-grade PLA filament for high-precision 3D printing. Available in various colors with consistent thickness for reliable result.",
+    "price": "29.99",
+    "category": "Media & Production",
+    "tags": ["3D-printing", "tech", "making", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1510076857177-7470076d4098?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sci-Fi Classic - 2001: A Space Odyssey",
+    "description": "Arthur C. Clarke's groundbreaking exploration of human evolution and technology. A visionary journey to the stars following the discovery of a monolith.",
+    "price": "14.99",
+    "category": "Books",
+    "tags": ["sci-fi", "classic", "fiction", "cosmic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Tabletop Easel - Wooden",
+    "description": "Compact solid beechwood easel with storage drawer for brushes and paints. perfect for small studio work and displaying finished canvases.",
+    "price": "34.00",
+    "category": "Stationery",
+    "tags": ["easel", "painting", "art-supplies", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless TV Headphones - Easy Connect",
+    "description": "Over-ear headphones with a dedicated charging base. Provides lag-free wireless audio for late night TV watching without disturbing others.",
+    "price": "89.00",
+    "category": "Media & Audio",
+    "tags": ["tv-headphones", "wireless", "audio", "home-theater"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Historical Non-fiction - Guns, Germs, and Steel",
+    "description": "Jared Diamond's Pulitzer Prize-winning exploration of the fates of human societies. A wide-ranging analysis of geography and history.",
+    "price": "18.50",
+    "category": "Books",
+    "tags": ["history", "science", "non-fiction", "academic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Soundboard for Streaming",
+    "description": "USB-connected controller with 12 customizable buttons for instant sound effects and macro control. Integrated with popular streaming apps.",
+    "price": "79.00",
+    "category": "Media & Production",
+    "tags": ["soundboard", "content-creation", "streaming", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Reading Lamp",
+    "description": "Minimalist adjustable desk lamp in a beautiful antique brass finish. Features energy-efficient LED light that mimics natural sunlight for reading.",
+    "price": "45.00",
+    "category": "Stationery",
+    "tags": ["reading-lamp", "brass", "decor", "home-office"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Strategy Board Game - Terraforming Mars",
+    "description": "Deeply thematic game where corporations compete to make Mars habitable. Complex engine-building mechanics and hundreds of unique project cards.",
+    "price": "55.00",
+    "category": "Hobbies & Games",
+    "tags": ["board-game", "strategy", "sci-fi", "tabletop"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1610890732551-21307b1c4b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pro Gaming Headset Hanging Case",
+    "description": "Hard shell universal travel case that protects your expensive gaming headphones and cables. Includes an internal mesh pocket and durable zipper.",
+    "price": "19.99",
+    "category": "Gaming Accessories",
+    "tags": ["headphone-case", "gaming", "protection", "travel"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0cd4352f20d6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "The Lord of the Rings - Illustrated Ed.",
+    "description": "Single-volume deluxe edition featuring J.R.R. Tolkien's original sketches and paintings. A beautiful heirloom for any fan of the fantasy classic.",
+    "price": "65.00",
+    "category": "Books",
+    "tags": ["fantasy", "classic", "fiction", "illustrated"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Charging Dock for PS5 Controllers",
+    "description": "Fast charging station that holds and recharges two DualSense controllers simultaneously. Sleek matching aesthetic for your gaming setup.",
+    "price": "29.99",
+    "category": "Gaming Accessories",
+    "tags": ["ps5", "charging-dock", "gaming-setup", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Artist Charcoal Drawing Set - 12pc",
+    "description": "High-quality set including willow charcoal, compressed stick, and charcoal pencils. Perfect for dramatic sketching and high-contrast life drawing.",
+    "price": "16.49",
+    "category": "Stationery",
+    "tags": ["art-supplies", "charcoal", "drawing", "creative"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hobbyist Soldering Station for Electronics",
+    "description": "Adjustable temperature soldering iron with digital readout and multiple tips. essential for DIY electronic projects and gaming console repairs.",
+    "price": "39.99",
+    "category": "Hobbies & Games",
+    "tags": ["soldering", "electronics", "DIY", "maker"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Classic Sci-Fi - The War of the Worlds",
+    "description": "H.G. Wells's terrifying tale of Martian invasion. One of the earliest and most influential works of science fiction in a beautiful new edition.",
+    "price": "14.00",
+    "category": "Books",
+    "tags": ["sci-fi", "classic", "fiction", "invasion"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Bookmark Set - 3pc",
+    "description": "Exquisite hand-stamped solid brass clips to mark your place in style. Durable and elegant, perfect for students, researchers, and book lovers.",
+    "price": "12.00",
+    "category": "Stationery",
+    "tags": ["bookmark", "brass", "reading", "gift"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Universal Vertical Laptop Stand - Aluminum",
+    "description": "Saves desk space by holding your laptop vertically when connected to an external monitor. adjustable width to fit most modern laptops and tablets.",
+    "price": "34.99",
+    "category": "Stationery",
+    "tags": ["laptop-stand", "desk-setup", "office", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Strategic Card Game - Wingspan",
+    "description": "Beautifully illustrated bird-themed engine building game. Collect unique bird cards, build your sanctuary, and score points through diverse mechanics.",
+    "price": "49.00",
+    "category": "Hobbies & Games",
+    "tags": ["board-game", "nature", "strategy", "tabletop"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1610890732551-21307b1c4b9d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Multi-Color Desk RGB Speaker Pods",
+    "description": "Pair of compact speakers with 12 lighting modes to match your mood or music. High-quality audio for desktop setups and smart home integration.",
+    "price": "59.00",
+    "category": "Media & Audio",
+    "tags": ["speakers", "audio", "RGB", "desk-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional 3D Sculpting Tool Set - 20pc",
+    "description": "Comprehensive set of stainless steel and wooden tools for modeling clay, wax, and other sculpting materials for hobbyists and professionals.",
+    "price": "29.99",
+    "category": "Stationery",
+    "tags": ["sculpting", "art-supplies", "creative", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fantasy Novel - American Gods",
+    "description": "Neil Gaiman's epic journey through a world where ancient deities struggle to survive against the modern gods of money, media, and technology.",
+    "price": "18.50",
+    "category": "Books",
+    "tags": ["fantasy", "modern-fiction", "bestseller", "mythology"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

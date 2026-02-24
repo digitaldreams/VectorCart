@@ -1,0 +1,1272 @@
+[
+  {
+    "name": "Men's Classic Cotton T-Shirt",
+    "description": "Comfortable everyday cotton tee with crew neck, soft breathable fabric, perfect for casual wear and layering. Available in multiple colors.",
+    "price": "19.99",
+    "category": "Men",
+    "tags": [
+      "t-shirt",
+      "casual",
+      "cotton",
+      "basic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Slim Fit Dress Shirt",
+    "description": "Professional dress shirt with modern slim fit, wrinkle-resistant fabric, button-down collar. Ideal for office and formal occasions.",
+    "price": "49.99",
+    "category": "Men",
+    "tags": [
+      "dress-shirt",
+      "formal",
+      "business",
+      "wrinkle-resistant"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c7176c8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Denim Jeans - Straight Leg",
+    "description": "Classic straight leg jeans in durable denim, comfortable fit with stretch, five-pocket design. Versatile for any casual outfit.",
+    "price": "59.99",
+    "category": "Men",
+    "tags": [
+      "jeans",
+      "denim",
+      "casual",
+      "pants"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Wool Blend Suit Jacket",
+    "description": "Elegant suit jacket in premium wool blend, two-button closure, notch lapel, fully lined. Perfect for business meetings and formal events.",
+    "price": "299.99",
+    "category": "Men",
+    "tags": [
+      "suit",
+      "formal",
+      "wool",
+      "business"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Athletic Running Shorts",
+    "description": "Lightweight running shorts with moisture-wicking fabric, built-in liner, zippered pocket. Designed for high-performance workouts.",
+    "price": "34.99",
+    "category": "Men",
+    "tags": [
+      "shorts",
+      "athletic",
+      "running",
+      "sports"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Leather Jacket",
+    "description": "Genuine leather jacket with asymmetric zipper, multiple pockets, quilted lining. Timeless style for cool weather.",
+    "price": "399.99",
+    "category": "Men",
+    "tags": [
+      "jacket",
+      "leather",
+      "outerwear",
+      "fashion"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Cashmere Sweater",
+    "description": "Luxurious cashmere V-neck sweater, ultra-soft and warm, ribbed trim. Premium quality for sophisticated style.",
+    "price": "179.99",
+    "category": "Men",
+    "tags": [
+      "sweater",
+      "cashmere",
+      "luxury",
+      "knitwear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Cargo Pants",
+    "description": "Utility cargo pants with multiple pockets, durable cotton twill, relaxed fit. Great for outdoor activities and casual wear.",
+    "price": "54.99",
+    "category": "Men",
+    "tags": [
+      "pants",
+      "cargo",
+      "utility",
+      "outdoor"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Polo Shirt",
+    "description": "Classic pique polo with three-button placket, ribbed collar and cuffs, breathable cotton. Smart casual essential.",
+    "price": "39.99",
+    "category": "Men",
+    "tags": [
+      "polo",
+      "casual",
+      "cotton",
+      "smart-casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Winter Parka",
+    "description": "Insulated winter parka with faux fur hood trim, water-resistant shell, multiple pockets. Maximum warmth for cold weather.",
+    "price": "249.99",
+    "category": "Men",
+    "tags": [
+      "parka",
+      "winter",
+      "outerwear",
+      "insulated"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1539533113208-f6df8141e98a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Chino Pants",
+    "description": "Tailored chino pants in stretch cotton, flat front, slim fit. Versatile for both casual and business casual looks.",
+    "price": "64.99",
+    "category": "Men",
+    "tags": [
+      "chinos",
+      "pants",
+      "business-casual",
+      "cotton"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Hoodie Sweatshirt",
+    "description": "Comfortable pullover hoodie with kangaroo pocket, soft fleece lining, adjustable drawstring. Perfect for relaxed days.",
+    "price": "44.99",
+    "category": "Men",
+    "tags": [
+      "hoodie",
+      "sweatshirt",
+      "casual",
+      "fleece"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Linen Shirt",
+    "description": "Breathable linen shirt with relaxed fit, button-down front, perfect for summer. Lightweight and naturally cooling.",
+    "price": "54.99",
+    "category": "Men",
+    "tags": [
+      "shirt",
+      "linen",
+      "summer",
+      "breathable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Track Pants",
+    "description": "Athletic track pants with elastic waistband, side stripe detail, tapered leg. Comfortable for sports and lounging.",
+    "price": "39.99",
+    "category": "Men",
+    "tags": [
+      "track-pants",
+      "athletic",
+      "sports",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Bomber Jacket",
+    "description": "Classic bomber jacket with ribbed cuffs and hem, zip front, satin lining. Iconic style for casual outfits.",
+    "price": "129.99",
+    "category": "Men",
+    "tags": [
+      "bomber",
+      "jacket",
+      "casual",
+      "outerwear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Flannel Shirt",
+    "description": "Soft flannel shirt in plaid pattern, button-front closure, chest pockets. Cozy and stylish for fall and winter.",
+    "price": "44.99",
+    "category": "Men",
+    "tags": [
+      "flannel",
+      "shirt",
+      "plaid",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1520903074185-8ec362b39c5b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Compression Shirt",
+    "description": "Performance compression shirt with moisture-wicking technology, four-way stretch, flatlock seams. Ideal for intense workouts.",
+    "price": "34.99",
+    "category": "Men",
+    "tags": [
+      "compression",
+      "athletic",
+      "performance",
+      "workout"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Peacoat",
+    "description": "Double-breasted peacoat in wool blend, wide lapels, side pockets. Classic naval-inspired outerwear.",
+    "price": "199.99",
+    "category": "Men",
+    "tags": [
+      "peacoat",
+      "wool",
+      "outerwear",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Henley Shirt",
+    "description": "Long-sleeve henley with button placket, soft cotton blend, relaxed fit. Casual comfort with style.",
+    "price": "29.99",
+    "category": "Men",
+    "tags": [
+      "henley",
+      "casual",
+      "cotton",
+      "long-sleeve"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Swim Trunks",
+    "description": "Quick-dry swim trunks with mesh lining, elastic waistband, side pockets. Perfect for beach and pool.",
+    "price": "34.99",
+    "category": "Men",
+    "tags": [
+      "swim",
+      "trunks",
+      "beach",
+      "summer"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1502323777036-f29e3972d82f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Quilted Vest",
+    "description": "Lightweight quilted vest with zip front, side pockets, water-resistant. Great layering piece for transitional weather.",
+    "price": "79.99",
+    "category": "Men",
+    "tags": [
+      "vest",
+      "quilted",
+      "layering",
+      "outerwear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Oxford Shirt",
+    "description": "Classic oxford cloth button-down shirt, durable cotton, button-down collar. Timeless wardrobe staple.",
+    "price": "49.99",
+    "category": "Men",
+    "tags": [
+      "oxford",
+      "shirt",
+      "classic",
+      "cotton"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c7176c8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Jogger Pants",
+    "description": "Modern jogger pants with elastic cuffs, drawstring waist, side pockets. Athleisure style for everyday comfort.",
+    "price": "49.99",
+    "category": "Men",
+    "tags": [
+      "joggers",
+      "athleisure",
+      "casual",
+      "comfortable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Turtleneck Sweater",
+    "description": "Merino wool turtleneck sweater, slim fit, soft and warm. Sophisticated layering piece for cold weather.",
+    "price": "89.99",
+    "category": "Men",
+    "tags": [
+      "turtleneck",
+      "sweater",
+      "wool",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Windbreaker",
+    "description": "Lightweight windbreaker with hood, water-resistant nylon, packable design. Essential for unpredictable weather.",
+    "price": "59.99",
+    "category": "Men",
+    "tags": [
+      "windbreaker",
+      "jacket",
+      "water-resistant",
+      "lightweight"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Floral Maxi Dress",
+    "description": "Elegant flowing maxi dress with beautiful floral print, adjustable straps, empire waist. Perfect for summer events and beach vacations.",
+    "price": "79.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "maxi",
+      "floral",
+      "summer"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Skinny Jeans",
+    "description": "Stretchy skinny jeans with high waist, five-pocket styling, ankle length. Flattering fit for everyday wear.",
+    "price": "64.99",
+    "category": "Women",
+    "tags": [
+      "jeans",
+      "skinny",
+      "denim",
+      "pants"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Silk Blouse",
+    "description": "Luxurious silk blouse with V-neck, long sleeves, elegant drape. Sophisticated choice for office or evening.",
+    "price": "89.99",
+    "category": "Women",
+    "tags": [
+      "blouse",
+      "silk",
+      "formal",
+      "elegant"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Yoga Leggings",
+    "description": "High-waisted yoga leggings with four-way stretch, moisture-wicking fabric, hidden pocket. Non-see-through and squat-proof.",
+    "price": "44.99",
+    "category": "Women",
+    "tags": [
+      "leggings",
+      "yoga",
+      "athletic",
+      "workout"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cashmere Cardigan",
+    "description": "Soft cashmere cardigan with button front, ribbed trim, relaxed fit. Luxurious layering essential.",
+    "price": "159.99",
+    "category": "Women",
+    "tags": [
+      "cardigan",
+      "cashmere",
+      "luxury",
+      "knitwear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Little Black Dress",
+    "description": "Classic cocktail dress with fitted bodice, A-line skirt, sleeveless design. Timeless elegance for any occasion.",
+    "price": "99.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "cocktail",
+      "formal",
+      "classic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Trench Coat",
+    "description": "Double-breasted trench coat with belt, water-resistant fabric, classic styling. Sophisticated outerwear for rainy days.",
+    "price": "179.99",
+    "category": "Women",
+    "tags": [
+      "trench-coat",
+      "outerwear",
+      "classic",
+      "rain"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cotton T-Shirt",
+    "description": "Soft cotton tee with crew neck, relaxed fit, breathable fabric. Essential basic for everyday comfort.",
+    "price": "24.99",
+    "category": "Women",
+    "tags": [
+      "t-shirt",
+      "cotton",
+      "casual",
+      "basic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Blazer",
+    "description": "Tailored blazer with single-button closure, notched lapel, structured shoulders. Professional and polished.",
+    "price": "129.99",
+    "category": "Women",
+    "tags": [
+      "blazer",
+      "formal",
+      "business",
+      "jacket"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591366754631-9884aa332ca1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Wide Leg Pants",
+    "description": "Flowing wide leg pants with high waist, side zipper, elegant drape. Comfortable and chic for work or weekend.",
+    "price": "69.99",
+    "category": "Women",
+    "tags": [
+      "pants",
+      "wide-leg",
+      "elegant",
+      "comfortable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Wrap Dress",
+    "description": "Flattering wrap dress with tie waist, V-neckline, three-quarter sleeves. Versatile style for multiple occasions.",
+    "price": "74.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "wrap",
+      "versatile",
+      "flattering"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Denim Jacket",
+    "description": "Classic denim jacket with button front, chest pockets, slightly cropped. Perfect layering piece for any season.",
+    "price": "69.99",
+    "category": "Women",
+    "tags": [
+      "jacket",
+      "denim",
+      "casual",
+      "layering"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Pencil Skirt",
+    "description": "Professional pencil skirt with back slit, knee length, stretch fabric. Office-appropriate and figure-flattering.",
+    "price": "49.99",
+    "category": "Women",
+    "tags": [
+      "skirt",
+      "pencil",
+      "business",
+      "formal"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Sweater Dress",
+    "description": "Cozy knit sweater dress with turtleneck, long sleeves, midi length. Warm and stylish for cold weather.",
+    "price": "84.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "sweater",
+      "knit",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Sports Bra",
+    "description": "High-support sports bra with adjustable straps, moisture-wicking fabric, removable pads. Ideal for high-impact workouts.",
+    "price": "39.99",
+    "category": "Women",
+    "tags": [
+      "sports-bra",
+      "athletic",
+      "workout",
+      "support"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Palazzo Pants",
+    "description": "Flowy palazzo pants with elastic waist, wide leg, lightweight fabric. Comfortable and breezy for summer.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": [
+      "pants",
+      "palazzo",
+      "summer",
+      "comfortable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Puffer Jacket",
+    "description": "Quilted puffer jacket with hood, down insulation, water-resistant shell. Warm and lightweight for winter.",
+    "price": "149.99",
+    "category": "Women",
+    "tags": [
+      "puffer",
+      "jacket",
+      "winter",
+      "insulated"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Tank Top",
+    "description": "Ribbed tank top with scoop neck, fitted silhouette, soft stretch fabric. Versatile layering piece or standalone.",
+    "price": "19.99",
+    "category": "Women",
+    "tags": [
+      "tank-top",
+      "casual",
+      "basic",
+      "layering"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Midi Skirt",
+    "description": "Flowing midi skirt with elastic waist, A-line silhouette, soft fabric. Feminine and comfortable for any occasion.",
+    "price": "59.99",
+    "category": "Women",
+    "tags": [
+      "skirt",
+      "midi",
+      "feminine",
+      "versatile"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Jumpsuit",
+    "description": "One-piece jumpsuit with wide legs, adjustable straps, side pockets. Effortlessly chic and comfortable.",
+    "price": "89.99",
+    "category": "Women",
+    "tags": [
+      "jumpsuit",
+      "one-piece",
+      "casual",
+      "chic"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cropped Sweater",
+    "description": "Trendy cropped sweater with crew neck, long sleeves, soft knit. Perfect for high-waisted bottoms.",
+    "price": "49.99",
+    "category": "Women",
+    "tags": [
+      "sweater",
+      "cropped",
+      "trendy",
+      "knitwear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Boyfriend Jeans",
+    "description": "Relaxed boyfriend jeans with rolled cuffs, distressed details, comfortable fit. Casual and cool style.",
+    "price": "69.99",
+    "category": "Women",
+    "tags": [
+      "jeans",
+      "boyfriend",
+      "denim",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Camisole",
+    "description": "Silky camisole with adjustable straps, lace trim, relaxed fit. Delicate layering piece or sleepwear.",
+    "price": "29.99",
+    "category": "Women",
+    "tags": [
+      "camisole",
+      "silk",
+      "layering",
+      "delicate"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Tunic Top",
+    "description": "Flowy tunic top with three-quarter sleeves, round neck, longer length. Comfortable and flattering fit.",
+    "price": "44.99",
+    "category": "Women",
+    "tags": [
+      "tunic",
+      "top",
+      "casual",
+      "comfortable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Leather Leggings",
+    "description": "Faux leather leggings with elastic waist, sleek finish, stretchy fabric. Edgy style for night out.",
+    "price": "59.99",
+    "category": "Women",
+    "tags": [
+      "leggings",
+      "leather",
+      "edgy",
+      "fashion"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Kimono Robe",
+    "description": "Lightweight kimono robe with floral print, tie waist, flowing sleeves. Beautiful layering piece or loungewear.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": [
+      "kimono",
+      "robe",
+      "loungewear",
+      "floral"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Pleated Skirt",
+    "description": "Elegant pleated skirt with elastic waist, midi length, flowing movement. Feminine and sophisticated.",
+    "price": "64.99",
+    "category": "Women",
+    "tags": [
+      "skirt",
+      "pleated",
+      "elegant",
+      "midi"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Hoodie",
+    "description": "Cozy pullover hoodie with kangaroo pocket, drawstring hood, soft fleece. Casual comfort essential.",
+    "price": "49.99",
+    "category": "Women",
+    "tags": [
+      "hoodie",
+      "casual",
+      "fleece",
+      "comfortable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Button-Down Shirt",
+    "description": "Classic button-down shirt with chest pocket, tailored fit, crisp cotton. Versatile wardrobe staple.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": [
+      "shirt",
+      "button-down",
+      "classic",
+      "cotton"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Culottes",
+    "description": "Wide-leg culottes with high waist, cropped length, flowy fabric. Modern and comfortable alternative to pants.",
+    "price": "59.99",
+    "category": "Women",
+    "tags": [
+      "culottes",
+      "pants",
+      "wide-leg",
+      "modern"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Bodysuit",
+    "description": "Fitted bodysuit with snap closure, scoop neck, long sleeves. Sleek base layer that stays tucked.",
+    "price": "39.99",
+    "category": "Women",
+    "tags": [
+      "bodysuit",
+      "fitted",
+      "layering",
+      "sleek"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cardigan Sweater",
+    "description": "Open-front cardigan with long sleeves, ribbed trim, soft knit. Cozy layering piece for any outfit.",
+    "price": "64.99",
+    "category": "Women",
+    "tags": [
+      "cardigan",
+      "sweater",
+      "layering",
+      "cozy"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Shift Dress",
+    "description": "Simple shift dress with short sleeves, straight silhouette, knee length. Easy and elegant style.",
+    "price": "69.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "shift",
+      "simple",
+      "elegant"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Track Jacket",
+    "description": "Athletic track jacket with zip front, side pockets, stripe detail. Sporty style for active lifestyle.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": [
+      "jacket",
+      "track",
+      "athletic",
+      "sporty"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Capri Pants",
+    "description": "Cropped capri pants with elastic waist, stretchy fabric, casual fit. Perfect for warm weather.",
+    "price": "39.99",
+    "category": "Women",
+    "tags": [
+      "capri",
+      "pants",
+      "casual",
+      "summer"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Off-Shoulder Top",
+    "description": "Trendy off-shoulder top with elastic neckline, short sleeves, flowy fit. Feminine and flirty style.",
+    "price": "44.99",
+    "category": "Women",
+    "tags": [
+      "top",
+      "off-shoulder",
+      "trendy",
+      "feminine"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Sweatpants",
+    "description": "Comfortable sweatpants with elastic waist, drawstring, side pockets. Relaxed fit for lounging or errands.",
+    "price": "44.99",
+    "category": "Women",
+    "tags": [
+      "sweatpants",
+      "casual",
+      "comfortable",
+      "loungewear"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Peplum Top",
+    "description": "Fitted peplum top with flared hem, sleeveless, back zipper. Flattering silhouette for dressy occasions.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": [
+      "top",
+      "peplum",
+      "fitted",
+      "dressy"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Linen Pants",
+    "description": "Breathable linen pants with elastic waist, relaxed fit, ankle length. Cool and comfortable for summer.",
+    "price": "64.99",
+    "category": "Women",
+    "tags": [
+      "pants",
+      "linen",
+      "summer",
+      "breathable"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Turtleneck Sweater",
+    "description": "Classic turtleneck sweater with long sleeves, soft knit, fitted silhouette. Timeless cold-weather essential.",
+    "price": "69.99",
+    "category": "Women",
+    "tags": [
+      "sweater",
+      "turtleneck",
+      "classic",
+      "winter"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Romper",
+    "description": "Playful romper with shorts, adjustable straps, tie waist. Fun and easy one-piece for summer.",
+    "price": "59.99",
+    "category": "Women",
+    "tags": [
+      "romper",
+      "shorts",
+      "summer",
+      "playful"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Sheath Dress",
+    "description": "Tailored sheath dress with cap sleeves, knee length, back zipper. Professional and polished for office.",
+    "price": "89.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "sheath",
+      "professional",
+      "office"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Fleece Jacket",
+    "description": "Soft fleece jacket with zip front, side pockets, lightweight warmth. Cozy layering for outdoor activities.",
+    "price": "59.99",
+    "category": "Women",
+    "tags": [
+      "jacket",
+      "fleece",
+      "outdoor",
+      "cozy"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's High-Waisted Shorts",
+    "description": "Denim high-waisted shorts with rolled cuffs, five-pocket styling, flattering fit. Summer essential.",
+    "price": "44.99",
+    "category": "Women",
+    "tags": [
+      "shorts",
+      "denim",
+      "high-waisted",
+      "summer"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cowl Neck Sweater",
+    "description": "Elegant cowl neck sweater with draped neckline, long sleeves, soft fabric. Sophisticated and cozy.",
+    "price": "74.99",
+    "category": "Women",
+    "tags": [
+      "sweater",
+      "cowl-neck",
+      "elegant",
+      "cozy"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cargo Pants",
+    "description": "Utility cargo pants with multiple pockets, adjustable waist, relaxed fit. Functional and trendy.",
+    "price": "64.99",
+    "category": "Women",
+    "tags": [
+      "pants",
+      "cargo",
+      "utility",
+      "trendy"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Halter Top",
+    "description": "Sleeveless halter top with tie neck, open back, fitted silhouette. Sexy and stylish for warm weather.",
+    "price": "34.99",
+    "category": "Women",
+    "tags": [
+      "top",
+      "halter",
+      "sleeveless",
+      "summer"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's A-Line Dress",
+    "description": "Classic A-line dress with fitted bodice, flared skirt, sleeveless. Universally flattering silhouette.",
+    "price": "79.99",
+    "category": "Women",
+    "tags": [
+      "dress",
+      "a-line",
+      "classic",
+      "flattering"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Joggers",
+    "description": "Athleisure joggers with elastic cuffs, drawstring waist, side pockets. Comfortable and stylish.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": [
+      "joggers",
+      "athleisure",
+      "comfortable",
+      "casual"
+    ],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Luxury Silk Tie - Navy",
+    "description": "100% pure silk tie with a subtle geometric pattern. Hand-finished for a perfect knot and professional appearance.",
+    "price": "45.00",
+    "category": "Men",
+    "tags": ["tie", "silk", "formal", "office"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Cashmere Scarf - Beige",
+    "description": "Ultra-soft premium cashmere scarf. Provides exceptional warmth and elegance for winter layering.",
+    "price": "89.00",
+    "category": "Women",
+    "tags": ["scarf", "cashmere", "winter", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Performance Polo - Breathable",
+    "description": "Moisture-wicking fabric with four-way stretch. Ideal for golf, office, or active weekends.",
+    "price": "49.00",
+    "category": "Men",
+    "tags": ["polo", "athletic", "breathable", "casual"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's High-Rise Leggings - Yoga Pro",
+    "description": "Squat-proof, buttery-soft leggings with a concealed waist pocket. Perfect for yoga, Pilates, and gym sessions.",
+    "price": "65.00",
+    "category": "Women",
+    "tags": ["leggings", "yoga", "fitness", "activewear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Slim Fit Chinos - Olive",
+    "description": "Stretch cotton twill chinos with a modern tapered leg. versatile enough for work or casual outings.",
+    "price": "59.00",
+    "category": "Men",
+    "tags": ["chinos", "pants", "casual-wear", "office"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Oversized Linen Shirt",
+    "description": "Lightweight and breathable linen shirt with a relaxed silhouette. effortlessly cool for summer layering.",
+    "price": "54.99",
+    "category": "Women",
+    "tags": ["linen-shirt", "summer", "breathable", "relaxed"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Lightweight Hooded Windbreaker",
+    "description": "Water-resistant and packable windbreaker. Features adjustable hood and cuffs, perfect for transitional weather.",
+    "price": "79.00",
+    "category": "Men",
+    "tags": ["windbreaker", "jacket", "outdoor", "activewear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Pleated Midi Skirt",
+    "description": "Elegant knife-pleated skirt with a high waist and fluid movement. Transition easily from desk to dinner.",
+    "price": "69.00",
+    "category": "Women",
+    "tags": ["skirt", "midi", "pleated", "elegant"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Merino Wool V-Neck Sweater",
+    "description": "Fine-gauge merino wool sweater. provides natural warmth and breathability in a sleek, lightweight profile.",
+    "price": "89.00",
+    "category": "Men",
+    "tags": ["merino-wool", "sweater", "layering", "classic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Tailored Blazer - Charcoal",
+    "description": "Structured blazer with a modern fit and subtle stretch. An essential piece for a professional wardrobe.",
+    "price": "129.00",
+    "category": "Women",
+    "tags": ["blazer", "professional", "office-wear", "tailored"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Graphic Cotton T-Shirt",
+    "description": "Soft organic cotton tee featuring an original mountain trail graphic. Relaxed fit for daily comfort.",
+    "price": "29.99",
+    "category": "Men",
+    "tags": ["t-shirt", "graphic-tee", "cotton", "casual"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Wide-Leg Jumpsuit",
+    "description": "Chic and comfortable jumpsuit with a V-neckline and tie waist. Crafted from a soft, sustainable modal blend.",
+    "price": "95.00",
+    "category": "Women",
+    "tags": ["jumpsuit", "chics", "one-piece", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Heavyweight Canvas Work Pants",
+    "description": "Durable reinforced canvas pants for tough jobs or rugged outdoor activities. Multiple utility pockets and triple-stitched seams.",
+    "price": "69.00",
+    "category": "Men",
+    "tags": ["workwear", "canvas-pants", "durable", "utility"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Ribbed Knit Tank Top",
+    "description": "Versatile racerback tank in a stretchy ribbed knit. an essential base layer for year-round styling.",
+    "price": "24.00",
+    "category": "Women",
+    "tags": ["tank-top", "ribbed", "layering", "basics"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523381283785-214bb7f3994e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Classic Denim Jacket",
+    "description": "Timeless trucker jacket in a medium-wash rugged denim. adds a classic edge to any casual outfit.",
+    "price": "79.00",
+    "category": "Men",
+    "tags": ["denim-jacket", "classic", "casual", "rugged"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Leather Biker Jacket",
+    "description": "Supple genuine leather jacket with silver hardware and asymmetric zip. A bold statement piece with a modern fit.",
+    "price": "249.00",
+    "category": "Women",
+    "tags": ["leather-jacket", "biker-style", "luxury", "outerwear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Soft Modal Boxer Briefs - 3pk",
+    "description": "Ultra-breathable and lightweight modal blend underwear. features a comfortable stay-put waistband and supportive fit.",
+    "price": "39.00",
+    "category": "Men",
+    "tags": ["underwear", "boxer-briefs", "modal", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594932224036-9c2049e6f6eb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Strappy Athletic Sports Bra",
+    "description": "Medium-impact support bra with moisture-wicking technology and a stylish open-back design. Ideal for the gym and HIIT.",
+    "price": "35.00",
+    "category": "Women",
+    "tags": ["sports-bra", "activewear", "fitness", "sporty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Performance Running Shorts",
+    "description": "Lightweight shorts with a built-in liner and secure zip pocket for keys. reflective details for early morning or late night runs.",
+    "price": "39.00",
+    "category": "Men",
+    "tags": ["running-shorts", "athletic", "outdoor", "fitness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Chunky Knit Beanie",
+    "description": "Soft acrylic blend beanie with a faux-fur pom. keeps you warm and stylish during the coldest winter days.",
+    "price": "22.50",
+    "category": "Women",
+    "tags": ["beanie", "winter-hat", "accessories", "cozy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Waterproof Rain Parka",
+    "description": "Fully seam-sealed waterproof jacket with a detachable hood. features a longer length for maximum protection from the elements.",
+    "price": "149.00",
+    "category": "Men",
+    "tags": ["parka", "rainwear", "waterproof", "outerwear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Velvet Slip Dress",
+    "description": "Luxurious velvet dress with adjustable spaghetti straps. A sophisticated choice for holiday parties and evening events.",
+    "price": "85.00",
+    "category": "Women",
+    "tags": ["dress", "velvet", "evening-wear", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1572804013307-a9a111dc72f1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Quilted Vest - Lightweight",
+    "description": "Water-resistant quilted vest with high-loft insulation. perfect for layering over a sweater or under a heavier coat.",
+    "price": "69.00",
+    "category": "Men",
+    "tags": ["vest", "layering", "outdoor", "casual"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's High-Waisted Flare Jeans",
+    "description": "Vintage-inspired flare jeans with a flattering high rise and subtle stretch. adds a retro touch to your denim collection.",
+    "price": "79.00",
+    "category": "Women",
+    "tags": ["jeans", "flare", "denim", "retro"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Men's Corduroy Button-Down Shirt",
+    "description": "Soft fine-wale corduroy shirt. A rugged yet refined option for autumn and winter layering.",
+    "price": "59.00",
+    "category": "Men",
+    "tags": ["corduroy", "shirt", "casual", "menswear"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Women's Athletic Pullover - Half-Zip",
+    "description": "Moisture-wicking half-zip pullover with thumbhole cuffs. ideal for chilly morning runs or as a breathable gym cover-up.",
+    "price": "49.00",
+    "category": "Women",
+    "tags": ["pullover", "activewear", "fitness", "sporty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&q=80&w=800"
+  }
+]

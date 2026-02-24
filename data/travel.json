@@ -1,0 +1,803 @@
+[
+  {
+    "name": "Hardside Spinner Luggage 28 inch",
+    "description": "Durable hardshell suitcase with 360-degree spinner wheels. TSA-approved lock, expandable design. Scratch-resistant polycarbonate shell. Perfect for international travel.",
+    "price": "149.99",
+    "category": "Luggage",
+    "tags": ["suitcase", "hardside", "spinner", "travel"],
+    "inStock": true
+  },
+  {
+    "name": "Carry-On Backpack Travel",
+    "description": "Airline-approved carry-on backpack with laptop compartment. Water-resistant, multiple pockets, USB charging port. Fits under airplane seat.",
+    "price": "79.99",
+    "category": "Luggage",
+    "tags": ["backpack", "carry-on", "travel", "laptop"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Packing Cubes Set of 6",
+    "description": "Compression packing cubes organize clothes efficiently. Lightweight, breathable mesh. Various sizes for different items. Maximize suitcase space.",
+    "price": "29.99",
+    "category": "Travel Accessories",
+    "tags": ["packing-cubes", "organization", "travel", "compression"],
+    "inStock": true
+  },
+  {
+    "name": "Neck Pillow Memory Foam Travel",
+    "description": "Ergonomic memory foam neck pillow for comfortable flights. Adjustable strap, machine washable cover. Compact carrying bag included.",
+    "price": "24.99",
+    "category": "Travel Comfort",
+    "tags": ["neck-pillow", "memory-foam", "flight", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Universal Travel Adapter",
+    "description": "All-in-one travel adapter works in 150+ countries. 4 USB ports plus AC outlet. Surge protection, compact design. Essential for international travel.",
+    "price": "34.99",
+    "category": "Travel Accessories",
+    "tags": ["adapter", "universal", "charger", "international"],
+    "inStock": true
+  },
+  {
+    "name": "Toiletry Bag Hanging Travel",
+    "description": "Spacious hanging toiletry bag with multiple compartments. Water-resistant material, hook for easy hanging. Clear pockets for TSA compliance.",
+    "price": "27.99",
+    "category": "Travel Accessories",
+    "tags": ["toiletry", "bag", "hanging", "organization"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Luggage Scale Digital",
+    "description": "Compact digital luggage scale prevents overweight fees. Accurate up to 110 lbs, easy-to-read LCD display. Battery included.",
+    "price": "14.99",
+    "category": "Travel Accessories",
+    "tags": ["scale", "luggage", "digital", "portable"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Document Organizer RFID",
+    "description": "RFID-blocking passport holder and document organizer. Multiple slots for cards, tickets, cash. Keeps travel documents secure and organized.",
+    "price": "22.99",
+    "category": "Travel Accessories",
+    "tags": ["passport", "organizer", "RFID", "security"],
+    "inStock": true
+  },
+  {
+    "name": "Weekender Duffel Bag Canvas",
+    "description": "Stylish canvas weekender bag with leather trim. Spacious main compartment, shoe pocket, adjustable strap. Perfect for short trips.",
+    "price": "69.99",
+    "category": "Luggage",
+    "tags": ["duffel", "weekender", "canvas", "short-trip"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Blanket and Pillow Set",
+    "description": "Soft fleece travel blanket with built-in pillow. Compact carrying case, machine washable. Ideal for flights and road trips.",
+    "price": "32.99",
+    "category": "Travel Comfort",
+    "tags": ["blanket", "pillow", "fleece", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Compression Socks for Travel",
+    "description": "Graduated compression socks prevent swelling on long flights. Moisture-wicking, comfortable fit. Reduces risk of DVT. Pack of 3 pairs.",
+    "price": "24.99",
+    "category": "Travel Comfort",
+    "tags": ["compression", "socks", "flight", "health"],
+    "inStock": true
+  },
+  {
+    "name": "Travel First Aid Kit Compact",
+    "description": "Comprehensive first aid kit in compact case. 100+ pieces including bandages, medications, tools. Essential for any trip.",
+    "price": "29.99",
+    "category": "Travel Safety",
+    "tags": ["first-aid", "medical", "safety", "emergency"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Water Purifier Bottle",
+    "description": "Water bottle with built-in purification filter. Removes 99.9% bacteria and parasites. Perfect for international travel and hiking.",
+    "price": "44.99",
+    "category": "Travel Safety",
+    "tags": ["water", "purifier", "bottle", "filter"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Steamer Portable Handheld",
+    "description": "Compact garment steamer for wrinkle-free clothes. Heats in 60 seconds, dual voltage for international use. Perfect for business travel.",
+    "price": "39.99",
+    "category": "Travel Accessories",
+    "tags": ["steamer", "garment", "portable", "wrinkle-free"],
+    "inStock": true
+  },
+  {
+    "name": "Noise Cancelling Headphones Travel",
+    "description": "Active noise cancellation headphones for peaceful flights. 30-hour battery, foldable design, carrying case. Superior sound quality.",
+    "price": "199.99",
+    "category": "Travel Electronics",
+    "tags": ["headphones", "noise-cancelling", "audio", "flight"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Jewelry Organizer Case",
+    "description": "Compact jewelry case with multiple compartments. Prevents tangling, soft interior lining. Zippered closure keeps valuables secure.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["jewelry", "organizer", "case", "accessories"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Power Bank 20000mAh",
+    "description": "High-capacity power bank charges devices multiple times. Fast charging, LED display, dual USB ports. TSA-approved for flights.",
+    "price": "49.99",
+    "category": "Travel Electronics",
+    "tags": ["power-bank", "charger", "portable", "battery"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Shoe Bags Set of 4",
+    "description": "Waterproof shoe bags keep luggage clean. Drawstring closure, transparent window. Protects shoes and separates dirty items.",
+    "price": "16.99",
+    "category": "Travel Accessories",
+    "tags": ["shoe-bags", "waterproof", "organization", "luggage"],
+    "inStock": true
+  },
+  {
+    "name": "Foldable Daypack Lightweight",
+    "description": "Ultra-light foldable backpack for day trips. Packs into own pocket, water-resistant. Perfect as extra bag for souvenirs.",
+    "price": "22.99",
+    "category": "Luggage",
+    "tags": ["daypack", "foldable", "lightweight", "backpack"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Laundry Bag Portable",
+    "description": "Collapsible laundry bag with shoulder strap. Separates dirty clothes, easy to carry. Mesh design allows airflow.",
+    "price": "14.99",
+    "category": "Travel Accessories",
+    "tags": ["laundry", "bag", "portable", "organization"],
+    "inStock": true
+  },
+  {
+    "name": "TSA Approved Toiletry Bottles",
+    "description": "Leak-proof silicone travel bottles, TSA 3-1-1 compliant. Set of 4 with labels. Refillable and eco-friendly.",
+    "price": "12.99",
+    "category": "Travel Accessories",
+    "tags": ["toiletry", "bottles", "TSA", "leak-proof"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Umbrella Compact Windproof",
+    "description": "Automatic open/close travel umbrella. Windproof design, fits in bag. Durable construction for all weather conditions.",
+    "price": "24.99",
+    "category": "Travel Accessories",
+    "tags": ["umbrella", "compact", "windproof", "weather"],
+    "inStock": true
+  },
+  {
+    "name": "Luggage Tags Durable Set of 4",
+    "description": "Stainless steel luggage tags with privacy flap. Durable, won't tear or fade. Easy identification of bags.",
+    "price": "11.99",
+    "category": "Travel Accessories",
+    "tags": ["luggage-tags", "identification", "durable", "privacy"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Pillow Inflatable Camping",
+    "description": "Lightweight inflatable pillow for camping and travel. Ergonomic design, compact when deflated. Easy to clean.",
+    "price": "17.99",
+    "category": "Travel Comfort",
+    "tags": ["pillow", "inflatable", "camping", "lightweight"],
+    "inStock": true
+  },
+  {
+    "name": "Cable Organizer Travel Pouch",
+    "description": "Electronics organizer for cables, chargers, and accessories. Multiple elastic loops and pockets. Keeps tech gear tangle-free.",
+    "price": "19.99",
+    "category": "Travel Electronics",
+    "tags": ["cable", "organizer", "electronics", "pouch"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Wallet Passport Holder Leather",
+    "description": "Genuine leather travel wallet with passport slot. RFID protection, multiple card slots. Elegant and functional.",
+    "price": "34.99",
+    "category": "Travel Accessories",
+    "tags": ["wallet", "passport", "leather", "RFID"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Door Lock Travel Security",
+    "description": "Portable door lock adds security to hotel rooms. Easy installation, works on most doors. Peace of mind while traveling.",
+    "price": "16.99",
+    "category": "Travel Safety",
+    "tags": ["door-lock", "security", "portable", "safety"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Clothesline Portable",
+    "description": "Retractable clothesline with clips for drying clothes. Extends up to 12 feet, compact storage. Perfect for hotel rooms.",
+    "price": "12.99",
+    "category": "Travel Accessories",
+    "tags": ["clothesline", "portable", "laundry", "drying"],
+    "inStock": true
+  },
+  {
+    "name": "Eye Mask Sleep Silk Travel",
+    "description": "100% silk sleep mask blocks light completely. Adjustable strap, comfortable fit. Essential for quality sleep while traveling.",
+    "price": "18.99",
+    "category": "Travel Comfort",
+    "tags": ["eye-mask", "silk", "sleep", "light-blocking"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Sewing Kit Compact",
+    "description": "Emergency sewing kit in compact case. Needles, thread, buttons, scissors. Quick fixes for clothing mishaps.",
+    "price": "9.99",
+    "category": "Travel Accessories",
+    "tags": ["sewing-kit", "emergency", "repair", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Waterproof Phone Pouch Universal",
+    "description": "Waterproof phone case for beach and water activities. Touch-sensitive, fits phones up to 7 inches. Includes lanyard.",
+    "price": "14.99",
+    "category": "Travel Electronics",
+    "tags": ["phone", "waterproof", "pouch", "beach"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Journal Leather Bound",
+    "description": "Premium leather travel journal for documenting adventures. 200 pages, pen holder, elastic closure. Create lasting memories.",
+    "price": "29.99",
+    "category": "Travel Accessories",
+    "tags": ["journal", "leather", "writing", "memories"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Luggage Cart Folding",
+    "description": "Lightweight folding luggage cart holds up to 150 lbs. Compact storage, easy to maneuver. Saves strain on back and arms.",
+    "price": "34.99",
+    "category": "Travel Accessories",
+    "tags": ["luggage-cart", "folding", "portable", "wheels"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Adapter with USB-C",
+    "description": "Modern travel adapter with USB-C PD fast charging. Works in 200+ countries, compact design. Charges laptop, phone, tablet simultaneously.",
+    "price": "44.99",
+    "category": "Travel Electronics",
+    "tags": ["adapter", "USB-C", "fast-charging", "universal"],
+    "inStock": true
+  },
+  {
+    "name": "Packable Rain Jacket Lightweight",
+    "description": "Waterproof rain jacket packs into own pocket. Breathable, windproof, adjustable hood. Essential for unpredictable weather.",
+    "price": "49.99",
+    "category": "Travel Clothing",
+    "tags": ["rain-jacket", "packable", "waterproof", "lightweight"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Cutlery Set Reusable",
+    "description": "Eco-friendly bamboo cutlery set with carrying case. Includes fork, knife, spoon, chopsticks, straw. Reduce single-use plastic.",
+    "price": "16.99",
+    "category": "Travel Accessories",
+    "tags": ["cutlery", "reusable", "eco-friendly", "bamboo"],
+    "inStock": true
+  },
+  {
+    "name": "Luggage Strap Adjustable TSA",
+    "description": "TSA-approved luggage strap with combination lock. Bright color for easy identification. Secures luggage during travel.",
+    "price": "13.99",
+    "category": "Travel Accessories",
+    "tags": ["luggage-strap", "TSA", "security", "identification"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Hammock Portable Camping",
+    "description": "Lightweight parachute nylon hammock with straps. Holds 400 lbs, packs small. Perfect for camping and beach trips.",
+    "price": "39.99",
+    "category": "Travel Gear",
+    "tags": ["hammock", "portable", "camping", "outdoor"],
+    "inStock": true
+  },
+  {
+    "name": "Insulated Water Bottle Stainless Steel",
+    "description": "Vacuum-insulated water bottle keeps drinks cold 24 hours. Leak-proof, fits cup holders. Essential for hydration on the go.",
+    "price": "29.99",
+    "category": "Travel Accessories",
+    "tags": ["water-bottle", "insulated", "stainless-steel", "hydration"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Pillow Case Silk",
+    "description": "Silk pillowcase for travel reduces hair frizz and skin wrinkles. Fits standard travel pillows. Luxury comfort anywhere.",
+    "price": "24.99",
+    "category": "Travel Comfort",
+    "tags": ["pillowcase", "silk", "beauty", "luxury"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Espresso Maker Travel",
+    "description": "Manual espresso maker for coffee lovers on the go. No electricity needed, makes rich espresso. Compact and durable.",
+    "price": "54.99",
+    "category": "Travel Accessories",
+    "tags": ["espresso", "coffee", "portable", "manual"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Yoga Mat Foldable",
+    "description": "Thin foldable yoga mat for travelers. Non-slip surface, easy to pack. Maintain wellness routine while traveling.",
+    "price": "34.99",
+    "category": "Travel Gear",
+    "tags": ["yoga-mat", "foldable", "fitness", "wellness"],
+    "inStock": true
+  },
+  {
+    "name": "Luggage Cover Protective Suitcase",
+    "description": "Elastic luggage cover protects suitcase from scratches. Washable, fits 24-28 inch luggage. Easy identification at baggage claim.",
+    "price": "18.99",
+    "category": "Travel Accessories",
+    "tags": ["luggage-cover", "protective", "washable", "suitcase"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Alarm Clock Compact",
+    "description": "Small digital alarm clock with backlight. Multiple alarms, temperature display. Battery-powered for reliable wake-ups.",
+    "price": "14.99",
+    "category": "Travel Accessories",
+    "tags": ["alarm-clock", "digital", "compact", "battery"],
+    "inStock": true
+  },
+  {
+    "name": "Dry Bag Waterproof 20L",
+    "description": "Waterproof dry bag for water sports and beach trips. Roll-top closure, shoulder strap. Protects valuables from water and sand.",
+    "price": "24.99",
+    "category": "Travel Gear",
+    "tags": ["dry-bag", "waterproof", "beach", "water-sports"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Sunglasses Case Hard",
+    "description": "Hard-shell sunglasses case protects eyewear. Compact, fits in bag easily. Includes cleaning cloth.",
+    "price": "12.99",
+    "category": "Travel Accessories",
+    "tags": ["sunglasses", "case", "protective", "hard-shell"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Camping Stove Compact",
+    "description": "Lightweight camping stove for outdoor cooking. Folds flat, uses standard fuel canisters. Perfect for camping and hiking trips.",
+    "price": "29.99",
+    "category": "Travel Gear",
+    "tags": ["camping-stove", "portable", "cooking", "outdoor"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Binoculars Compact 10x25",
+    "description": "Compact binoculars for wildlife watching and sightseeing. Clear optics, foldable design. Includes carrying case and strap.",
+    "price": "44.99",
+    "category": "Travel Gear",
+    "tags": ["binoculars", "compact", "wildlife", "sightseeing"],
+    "inStock": true
+  },
+  {
+    "name": "Microfiber Travel Towel Quick Dry",
+    "description": "Ultra-absorbent microfiber towel dries quickly. Compact, lightweight, includes carrying pouch. Perfect for beach, gym, camping.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["towel", "microfiber", "quick-dry", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Slipper Foldable Portable",
+    "description": "Foldable travel slippers with non-slip sole. Compact carrying bag, washable. Comfortable for hotels and flights.",
+    "price": "16.99",
+    "category": "Travel Comfort",
+    "tags": ["slippers", "foldable", "portable", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Luggage Handle Wrap Padded",
+    "description": "Neoprene luggage handle wrap adds comfort. Reduces hand fatigue, easy to install. Bright color for bag identification.",
+    "price": "9.99",
+    "category": "Travel Accessories",
+    "tags": ["handle-wrap", "padded", "comfort", "luggage"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Pill Organizer Weekly",
+    "description": "Compact pill organizer with 7-day compartments. Secure lids, small enough for purse. Never miss medications while traveling.",
+    "price": "11.99",
+    "category": "Travel Safety",
+    "tags": ["pill-organizer", "medication", "weekly", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Bluetooth Speaker Waterproof",
+    "description": "Waterproof Bluetooth speaker for beach and pool. 12-hour battery, excellent sound quality. Compact and durable.",
+    "price": "39.99",
+    "category": "Travel Electronics",
+    "tags": ["speaker", "bluetooth", "waterproof", "portable"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Backpack Anti-Theft",
+    "description": "Anti-theft backpack with hidden zippers and RFID pockets. USB charging port, water-resistant. Secure travel in crowded areas.",
+    "price": "69.99",
+    "category": "Luggage",
+    "tags": ["backpack", "anti-theft", "security", "RFID"],
+    "inStock": true
+  },
+  {
+    "name": "Collapsible Water Bottle Silicone",
+    "description": "Silicone water bottle collapses when empty. BPA-free, leak-proof, dishwasher safe. Saves space in luggage.",
+    "price": "17.99",
+    "category": "Travel Accessories",
+    "tags": ["water-bottle", "collapsible", "silicone", "space-saving"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Hair Dryer Dual Voltage",
+    "description": "Compact hair dryer with dual voltage for international use. Foldable handle, concentrator nozzle. Powerful yet portable.",
+    "price": "34.99",
+    "category": "Travel Accessories",
+    "tags": ["hair-dryer", "dual-voltage", "portable", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Packing List Notepad Travel",
+    "description": "Pre-printed packing list notepad helps organize trips. Tear-off sheets, comprehensive categories. Never forget essentials.",
+    "price": "8.99",
+    "category": "Travel Accessories",
+    "tags": ["packing-list", "notepad", "organization", "planning"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Resistance Bands Set",
+    "description": "Portable resistance bands for workouts anywhere. 5 resistance levels, door anchor included. Maintain fitness while traveling.",
+    "price": "24.99",
+    "category": "Travel Gear",
+    "tags": ["resistance-bands", "fitness", "portable", "workout"],
+    "inStock": true
+  },
+  {
+    "name": "Scratch Off World Map Poster",
+    "description": "Deluxe scratch-off world map tracks travels. High-quality paper, detailed cartography. Inspiring wall art for travelers.",
+    "price": "24.99",
+    "category": "Travel Accessories",
+    "tags": ["map", "scratch-off", "world", "poster"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Humidifier Portable USB",
+    "description": "Mini USB humidifier for hotel rooms. Quiet operation, auto shut-off. Improves air quality and sleep.",
+    "price": "22.99",
+    "category": "Travel Comfort",
+    "tags": ["humidifier", "portable", "USB", "air-quality"],
+    "inStock": true
+  },
+  {
+    "name": "Convertible Backpack Duffel Bag",
+    "description": "Versatile bag converts from backpack to duffel. Multiple carrying options, spacious compartments. Perfect for any trip.",
+    "price": "89.99",
+    "category": "Luggage",
+    "tags": ["backpack", "duffel", "convertible", "versatile"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Socks Merino Wool",
+    "description": "Merino wool travel socks regulate temperature. Odor-resistant, moisture-wicking, comfortable. Pack of 3 pairs.",
+    "price": "34.99",
+    "category": "Travel Clothing",
+    "tags": ["socks", "merino-wool", "odor-resistant", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Luggage Tracker GPS",
+    "description": "GPS luggage tracker with smartphone app. Real-time location tracking, long battery life. Never lose luggage again.",
+    "price": "49.99",
+    "category": "Travel Electronics",
+    "tags": ["GPS", "tracker", "luggage", "technology"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Guidebook Collection Europe",
+    "description": "Comprehensive guidebook set for European destinations. Maps, tips, attractions, restaurant recommendations. Plan perfect trip.",
+    "price": "39.99",
+    "category": "Travel Planning",
+    "tags": ["guidebook", "europe", "travel", "planning"],
+    "inStock": true
+  },
+  {
+    "name": "Inflatable Neck Pillow Compact",
+    "description": "Inflatable travel pillow packs flat. Ergonomic support, soft velour cover. Lightweight and space-saving.",
+    "price": "14.99",
+    "category": "Travel Comfort",
+    "tags": ["neck-pillow", "inflatable", "compact", "space-saving"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Photography Course Online",
+    "description": "Comprehensive online course for travel photography. Learn composition, lighting, editing. Capture stunning travel memories.",
+    "price": "79.99",
+    "category": "Travel Planning",
+    "tags": ["photography", "course", "online", "learning"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Fan USB Rechargeable",
+    "description": "Handheld USB fan with rechargeable battery. 3 speeds, quiet operation. Stay cool in hot climates.",
+    "price": "16.99",
+    "category": "Travel Comfort",
+    "tags": ["fan", "USB", "portable", "cooling"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Tripod Lightweight Compact",
+    "description": "Portable tripod for phones and cameras. Flexible legs, Bluetooth remote. Perfect for travel photography and selfies.",
+    "price": "29.99",
+    "category": "Travel Electronics",
+    "tags": ["tripod", "portable", "photography", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Language Translation Device Portable",
+    "description": "Pocket translator supports 70+ languages. Instant voice translation, offline mode available. Break language barriers while traveling.",
+    "price": "149.99",
+    "category": "Travel Electronics",
+    "tags": ["translator", "language", "portable", "communication"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Insurance Annual Plan",
+    "description": "Comprehensive travel insurance for unlimited trips. Medical coverage, trip cancellation, lost luggage. Peace of mind for frequent travelers.",
+    "price": "299.99",
+    "category": "Travel Planning",
+    "tags": ["insurance", "travel", "protection", "coverage"],
+    "inStock": true
+  },
+  {
+    "name": "Camping Tent 2-Person Lightweight",
+    "description": "Ultralight backpacking tent for two. Easy setup, waterproof, compact carry bag. Perfect for hiking and camping adventures.",
+    "price": "129.99",
+    "category": "Travel Gear",
+    "tags": ["tent", "camping", "lightweight", "backpacking"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Mug Insulated Leak-Proof",
+    "description": "Vacuum-insulated travel mug keeps drinks hot 6 hours. Leak-proof lid, fits car cup holder. Perfect for road trips.",
+    "price": "24.99",
+    "category": "Travel Accessories",
+    "tags": ["mug", "insulated", "leak-proof", "coffee"],
+    "inStock": true
+  },
+  {
+    "name": "Passport Photo Service Kit",
+    "description": "DIY passport photo kit with backdrop and guidelines. Take professional photos at home. Includes digital and print options.",
+    "price": "19.99",
+    "category": "Travel Planning",
+    "tags": ["passport", "photo", "DIY", "service"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Scarf with Hidden Pocket",
+    "description": "Fashionable infinity scarf with secret zippered pocket. Hide cash, passport, phone. Stylish and secure.",
+    "price": "29.99",
+    "category": "Travel Clothing",
+    "tags": ["scarf", "hidden-pocket", "security", "fashion"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Clothes Steamer Mini",
+    "description": "Mini travel steamer heats in 30 seconds. Dual voltage, compact design. Wrinkle-free clothes anywhere.",
+    "price": "29.99",
+    "category": "Travel Accessories",
+    "tags": ["steamer", "mini", "portable", "clothes"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Subscription Box Monthly",
+    "description": "Monthly box with travel-sized products and destination guides. Discover new places and products. Perfect for travel enthusiasts.",
+    "price": "39.99",
+    "category": "Travel Planning",
+    "tags": ["subscription", "monthly", "travel", "discovery"],
+    "inStock": true
+  },
+  {
+    "name": "Hiking Boots Waterproof Lightweight",
+    "description": "Waterproof hiking boots with ankle support. Breathable, durable, excellent traction. Essential for outdoor adventures.",
+    "price": "119.99",
+    "category": "Travel Clothing",
+    "tags": ["hiking-boots", "waterproof", "outdoor", "footwear"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Router Portable WiFi",
+    "description": "Portable WiFi router creates secure network. Connects multiple devices, extends hotel WiFi. Essential for digital nomads.",
+    "price": "59.99",
+    "category": "Travel Electronics",
+    "tags": ["router", "WiFi", "portable", "internet"],
+    "inStock": true
+  },
+  {
+    "name": "Luggage Set 3-Piece Hardside",
+    "description": "Complete luggage set with 20, 24, and 28-inch suitcases. Matching design, spinner wheels, TSA locks. All sizes for any trip.",
+    "price": "299.99",
+    "category": "Luggage",
+    "tags": ["luggage-set", "hardside", "spinner", "complete"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Planner Undated Journal",
+    "description": "Comprehensive travel planner with itinerary pages. Budget tracker, packing lists, memory pages. Organize entire trip.",
+    "price": "24.99",
+    "category": "Travel Planning",
+    "tags": ["planner", "journal", "organization", "itinerary"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Washing Machine Travel",
+    "description": "Mini washing machine for travel and camping. USB-powered, cleans small loads. Maintain fresh clothes on long trips.",
+    "price": "44.99",
+    "category": "Travel Accessories",
+    "tags": ["washing-machine", "portable", "laundry", "compact"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Visa Service Consultation",
+    "description": "Professional visa consultation and application assistance. Expert guidance for complex visa requirements. Stress-free travel planning.",
+    "price": "149.99",
+    "category": "Travel Planning",
+    "tags": ["visa", "consultation", "service", "assistance"],
+    "inStock": true
+  },
+  {
+    "name": "Camping Cookware Set Portable",
+    "description": "Compact camping cookware set for 2-3 people. Nesting design, includes pots, pans, utensils. Lightweight aluminum.",
+    "price": "49.99",
+    "category": "Travel Gear",
+    "tags": ["cookware", "camping", "portable", "cooking"],
+    "inStock": true
+  },
+  {
+    "name": "Travel SIM Card International",
+    "description": "Prepaid international SIM card works in 100+ countries. Data, calls, texts included. Stay connected while traveling.",
+    "price": "29.99",
+    "category": "Travel Electronics",
+    "tags": ["SIM-card", "international", "data", "connectivity"],
+    "inStock": true
+  },
+  {
+    "name": "Sleeping Bag Lightweight Compact",
+    "description": "Ultralight sleeping bag for backpacking. Compresses small, rated for 3 seasons. Comfortable and warm.",
+    "price": "79.99",
+    "category": "Travel Gear",
+    "tags": ["sleeping-bag", "lightweight", "camping", "backpacking"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Guidebook Asia Collection",
+    "description": "Comprehensive guidebook set for Asian destinations. Cultural insights, practical tips, maps. Explore Asia confidently.",
+    "price": "44.99",
+    "category": "Travel Planning",
+    "tags": ["guidebook", "asia", "travel", "culture"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Solar Charger Panel",
+    "description": "Foldable solar panel charges devices outdoors. Waterproof, multiple USB ports. Perfect for camping and hiking.",
+    "price": "69.99",
+    "category": "Travel Electronics",
+    "tags": ["solar", "charger", "portable", "eco-friendly"],
+    "inStock": true
+  },
+  {
+    "name": "Travel Photography Gear Bag",
+    "description": "Padded camera bag with customizable dividers. Weather-resistant, fits laptop and camera gear. Comfortable carrying straps.",
+    "price": "89.99",
+    "category": "Travel Electronics",
+    "tags": ["camera-bag", "photography", "padded", "protective"],
+    "inStock": true
+  },
+  {
+    "name": "Cruise Vacation Package Caribbean",
+    "description": "7-day Caribbean cruise for two. All-inclusive, multiple ports, onboard entertainment. Tropical paradise getaway.",
+    "price": "1499.99",
+    "category": "Travel Experiences",
+    "tags": ["cruise", "caribbean", "vacation", "all-inclusive"],
+    "inStock": true
+  },
+  {
+    "name": "Safari Adventure Package Africa",
+    "description": "10-day African safari with guided tours. Wildlife viewing, luxury lodges, meals included. Once-in-a-lifetime experience.",
+    "price": "3999.99",
+    "category": "Travel Experiences",
+    "tags": ["safari", "africa", "adventure", "wildlife"],
+    "inStock": true
+  },
+  {
+    "name": "European Rail Pass 2 Weeks",
+    "description": "Unlimited train travel across Europe for 2 weeks. Flexible itinerary, first-class option. Explore multiple countries.",
+    "price": "599.99",
+    "category": "Travel Experiences",
+    "tags": ["rail-pass", "europe", "train", "travel"],
+    "inStock": true
+  },
+  {
+    "name": "Backpacking Southeast Asia Package",
+    "description": "30-day guided backpacking tour through Southeast Asia. Hostels, activities, local experiences. Budget-friendly adventure.",
+    "price": "1999.99",
+    "category": "Travel Experiences",
+    "tags": ["backpacking", "asia", "adventure", "budget"],
+    "inStock": true
+  },
+  {
+    "name": "Northern Lights Tour Iceland",
+    "description": "5-day Iceland tour chasing Northern Lights. Includes accommodation, transportation, guided tours. Magical Arctic experience.",
+    "price": "1799.99",
+    "category": "Travel Experiences",
+    "tags": ["northern-lights", "iceland", "tour", "arctic"],
+    "inStock": true
+  },
+  {
+    "name": "Beach Resort All-Inclusive Maldives",
+    "description": "7-night stay at luxury Maldives resort. Overwater villa, meals, spa, water sports. Ultimate tropical relaxation.",
+    "price": "4999.99",
+    "category": "Travel Experiences",
+    "tags": ["maldives", "resort", "luxury", "beach"],
+    "inStock": true
+  },
+  {
+    "name": "Road Trip USA National Parks",
+    "description": "14-day guided road trip visiting 10 national parks. RV rental, campgrounds, park passes. American adventure.",
+    "price": "2499.99",
+    "category": "Travel Experiences",
+    "tags": ["road-trip", "USA", "national-parks", "adventure"],
+    "inStock": true
+  },
+  {
+    "name": "Luxury Silk Travel Neck Pillow",
+    "description": "Premium memory foam pillow with a 100% mulberry silk cover. Provides exceptional neck support while keeping your skin cool and hydrated during long flights.",
+    "price": "55.00",
+    "category": "Travel Accessories",
+    "tags": ["travel-pillow", "silk", "luxury-travel", "comfort"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Anti-Theft Backpack - Pro",
+    "description": "Slash-resistant fabric with hidden zippers and integrated TSA lock. Includes a built-in USB charging port and dedicated compartments for all your tech.",
+    "price": "129.00",
+    "category": "Travel Bags",
+    "tags": ["anti-theft", "backpack", "smart-travel", "security"],
+    "inStock": true
+  },
+  {
+    "name": "Ultralight Packing Cube Set - 6pc",
+    "description": "High-density ripstop nylon cubes that maximize luggage space and keep your gear organized. Features breathable mesh panels and durable zippers.",
+    "price": "45.00",
+    "category": "Travel Accessories",
+    "tags": ["packing-cubes", "organization", "lightweight", "luggage"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Global WiFi Hotspot",
+    "description": "Pocket-sized device that provides secure 4G/LTE internet in over 150 countries. No SIM card needed, pay-as-you-go data plans available.",
+    "price": "159.00",
+    "category": "Travel Electronics",
+    "tags": ["wifi-hotspot", "digital-nomad", "connectivity", "tech"],
+    "inStock": true
+  },
+  {
+    "name": "Reusable Silicone Travel Bottle Set",
+    "description": "Leak-proof, BPA-free bottles for your toiletries. Easy to fill and clean, these TSA-approved bottles reduce single-use plastic waste while traveling.",
+    "price": "19.99",
+    "category": "Travel Accessories",
+    "tags": ["travel-bottles", "eco-friendly", "toiletries", "organization"],
+    "inStock": true
+  }
+]
+

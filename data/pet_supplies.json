@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Orthopedic Memory Foam Dog Bed",
+    "description": "High-density memory foam base provides superior comfort for senior dogs or those with joint issues. Removable water-resistant cover for easy cleaning.",
+    "price": "79.99",
+    "category": "Dogs",
+    "tags": ["dog-bed", "orthopedic", "pet-comfort", "memory-foam"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591768793355-74d04bb6608f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Interactive Laser Cat Toy",
+    "description": "Automatic rotating laser pointer with multiple speed settings. Keeps your cat entertained and active for hours while you're away. Safe and quiet operation.",
+    "price": "24.99",
+    "category": "Cats",
+    "tags": ["cat-toy", "interactive", "laser", "exercise"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Self-Cleaning Litter Box",
+    "description": "Advanced automatic litter box that separates waste from clean litter after every use. Odor-control carbon filters and easy-empty waste tray.",
+    "price": "399.00",
+    "category": "Cats",
+    "tags": ["litter-box", "automatic", "cat-care", "technology"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Dog Harness",
+    "description": "Soft and breathable reflective mesh harness for safe walking. Features a front-clip to prevent pulling and adjustable straps for a perfect fit.",
+    "price": "19.99",
+    "category": "Dogs",
+    "tags": ["dog-harness", "walking", "safety", "reflective"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Pet Camera with Treat Dispenser",
+    "description": "Wi-Fi enabled 1080p camera with night vision and two-way audio. Toss a treat to your pet from your smartphone while away. 160-degree wide angle.",
+    "price": "149.00",
+    "category": "Smart Pet Tech",
+    "tags": ["pet-camera", "treat-dispenser", "smart-home", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Whisker-Friendly Ceramic Cat Bowl",
+    "description": "Shallow and wide ceramic bowls designed to prevent whisker fatigue. Weighted base to prevent sliding and easy to clean glaze.",
+    "price": "15.99",
+    "category": "Cats",
+    "tags": ["cat-bowl", "ceramic", "feeding", "whisker-fatigue"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Grain-Free Dog Treats - 1lb",
+    "description": "High-protein beef and sweet potato treats baked with limited ingredients. No artificial colors or preservatives. Perfect for training and rewarding.",
+    "price": "14.99",
+    "category": "Dogs",
+    "tags": ["dog-treats", "grain-free", "training", "healthy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Travel Pet Bowl",
+    "description": "Food-grade silicone bowl with a carabiner for attachment to backpacks or leashes. Compact and lightweight, essential for hiking and road trips.",
+    "price": "9.99",
+    "category": "Travel Accessories",
+    "tags": ["travel-bowl", "dog-accessories", "hiking", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Flea & Tick Comb",
+    "description": "Gentle electric comb that detects and kills fleas on contact without chemicals. Safe and easy to use on both short and long-haired pets.",
+    "price": "29.99",
+    "category": "Grooming",
+    "tags": ["flea-comb", "grooming", "health", "pet-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Large Aquarium Kit - 20 Gallon",
+    "description": "Comprehensive fish tank set including LED lighting, power filter, and heater. Ideal for beginner and experienced hobbyists alike.",
+    "price": "129.99",
+    "category": "Small Pets",
+    "tags": ["aquarium", "fish-tank", "hobby", "pets"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Grooming Glove - Pair",
+    "description": "Five-finger design gloves for shedding and massaging your pet. Soft silicone tips gently remove hair and dirt. Perfect for all coat types.",
+    "price": "12.99",
+    "category": "Grooming",
+    "tags": ["grooming-glove", "shedding", "massage", "pet-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Retractable Leash - 16ft",
+    "description": "Durable nylon tape leash with one-hand braking and locking system. Ergonomic handle and tangle-free design for active dogs up to 110lbs.",
+    "price": "24.99",
+    "category": "Dogs",
+    "tags": ["dog-leash", "walking", "sturdy", "retractable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Slow Feeder Dog Bowl",
+    "description": "Interactive maze design bowl that slows down eating to prevent bloating and improve digestion. Non-slip base and dishwasher-safe material.",
+    "price": "14.99",
+    "category": "Dogs",
+    "tags": ["slow-feeder", "dog-bowl", "health", "feeding"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bird Playground Gym - Tabletop",
+    "description": "Fun wooden parakeet and cockatiel playground with ladders, swings, and bells. Encourages physical exercise and mental stimulation for pet birds.",
+    "price": "34.99",
+    "category": "Birds",
+    "tags": ["bird-toy", "playground", "birds", "exercise"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Catnip Spray - 4oz",
+    "description": "100% pure organic catnip hydrosol. Spray on toys, scratching posts, and beds to encourage play and reduce stress in anxious cats.",
+    "price": "11.99",
+    "category": "Cats",
+    "tags": ["catnip", "cat-toy", "wellness", "organic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ultra-Absorbent Puppy Pads - 100pk",
+    "description": "Five-layer leak-proof training pads with an integrated attractant. Quickly turns liquid into gel for easy disposal. Perfect for potty training.",
+    "price": "29.99",
+    "category": "Dogs",
+    "tags": ["puppy-pads", "training", "hygiene", "dog-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Pet Fountain - 2L",
+    "description": "Silent water fountain with a triple-filtration system. Encourages pets to drink more and keeps water fresh for days. LED indicator for low water.",
+    "price": "34.99",
+    "category": "Cats & Dogs",
+    "tags": ["water-fountain", "hydration", "cats", "dogs"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Plush Calming Pet Bed - Small",
+    "description": "Donut-shaped ultra-soft bed with raised edges to provide security and comfort. Eases anxiety and promotes better sleep for small dogs and cats.",
+    "price": "32.00",
+    "category": "Cats & Dogs",
+    "tags": ["pet-bed", "calming", "anxiety-relief", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591768793355-74d04bb6608f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Guinea Pig Wooden Settle House",
+    "description": "Natural solid wood hideout and sleeping cabin for small animals. Provides a safe and cozy place for guinea pigs, hamsters, and chinchillas.",
+    "price": "22.00",
+    "category": "Small Pets",
+    "tags": ["small-animal", "hideout", "guinea-pig", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Safety Car Seat Belt",
+    "description": "Adjustable nylon belt that clicks into standard heart seat belt buckets. Keeps your pet safely restrained in the vehicle during travel.",
+    "price": "14.49",
+    "category": "Travel Accessories",
+    "tags": ["car-safety", "travel", "dog-accessories", "pet-safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hemp Oil for Pets - Anxiety Support",
+    "description": "Pure cold-pressed hemp oil formulated for pets. Helps relieve anxiety, situational stress, and joint stiffness. Easily added to food.",
+    "price": "26.00",
+    "category": "Pet Health",
+    "tags": ["hemp-oil", "anxiety", "joint-health", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Dental Chews for Large Dogs - 30ct",
+    "description": "VOHC-accepted dental treats that reduce plaque and tartar buildup while freshening breath. Nutritious and highly digestible.",
+    "price": "34.99",
+    "category": "Dogs",
+    "tags": ["dental-care", "dog-treats", "dental-chews", "oral-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Soft Pet Carrier",
+    "description": "Breathable mesh carrier with a padded shoulder strap for comfortable transport of cats and small dogs. Airplane approved dimensions.",
+    "price": "49.00",
+    "category": "Travel Accessories",
+    "tags": ["pet-carrier", "travel", "cats", "small-dogs"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Interactive Puzzle Ball - Treat Dispenser",
+    "description": "Hard plastic ball with an inner maze that slowly releases treats as it's rolled. Mental stimulation and reward in one durable toy.",
+    "price": "16.99",
+    "category": "Dogs",
+    "tags": ["dog-toy", "interactive", "treat-dispenser", "puzzle"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Sisal Cat Scratching Post",
+    "description": "Large sturdy post wrapped in premium sisal rope. Protects your furniture and provides a satisfying scratching surface for cats of all sizes.",
+    "price": "34.99",
+    "category": "Cats",
+    "tags": ["scratching-post", "cat-care", "furniture-protection", "sisal"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Hair Remover Brush Set",
+    "description": "Double-sided reusable lint brush that easily removes pet hair from clothes, sofas, and car seats. Includes a travel-sized brush.",
+    "price": "18.00",
+    "category": "Home Cleaning",
+    "tags": ["hair-remover", "cleaning", "pet-care", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Biodegradable Poop Bags with Dispenser",
+    "description": "Eco-friendly leak-proof bags made from plant-based materials. Includes a durable clip-on dispenser for leashes. 120 bags included.",
+    "price": "14.99",
+    "category": "Dogs",
+    "tags": ["poop-bags", "eco-friendly", "walking", "cleaning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Level Cat Tree with Scratching Posts",
+    "description": "60-inch tall cat activity center with plush perches, hammocks, and sisal pillars. Provides vertical space for multiple cats to climb and nap.",
+    "price": "129.00",
+    "category": "Cats",
+    "tags": ["cat-tree", "cat-care", "activity-center", "vertical-space"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Enzymatic Stain & Odor Remover",
+    "description": "Professional-strength formula that breaks down pet urine and stains on carpets and upholstery. Safe around pets and children. 32oz spray.",
+    "price": "16.50",
+    "category": "Home Cleaning",
+    "tags": ["stain-remover", "odor-control", "cleaning", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Small Animal Playpen - Folding",
+    "description": "Portable and easy-to-assemble wire playpen for rabbits, guinea pigs, and small puppies. Provides a safe area for supervised outdoor or indoor play.",
+    "price": "39.99",
+    "category": "Small Pets",
+    "tags": ["playpen", "small-animal", "safety", "portable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Dog Collar with GPS Tracking",
+    "description": "Waterproof collar with real-time location tracking and activity monitoring. Get escape alerts and insight into your pet's health via the app.",
+    "price": "99.00",
+    "category": "Smart Pet Tech",
+    "tags": ["dog-collar", "GPS", "safety", "smart-device"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Wooden Rabbit Hutch",
+    "description": "Double-decker weatherproof wooden hutch with an integrated outdoor run. Provides a safe and spacious home for pet rabbits or chickens.",
+    "price": "249.00",
+    "category": "Small Pets",
+    "tags": ["rabbit-hutch", "outdoor-pets", "small-animal", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Pet Clipper Set",
+    "description": "Low-noise cordless electric clippers for at-home grooming. Includes stainless steel blades, guard combs, and a sleek storage case.",
+    "price": "44.99",
+    "category": "Grooming",
+    "tags": ["clippers", "grooming", "pet-care", "hair-cut"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Silicone Pet Grooming Bath Brush",
+    "description": "Soft yet firm silicone brush for lathering shampoo and massaging your pet during bath time. Loosens dirt and massage skin effectively.",
+    "price": "9.99",
+    "category": "Grooming",
+    "tags": ["bath-brush", "grooming", "pet-safety", "cleaning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Woven Rope Toy Set - 5pc",
+    "description": "Collection of durable cotton rope toys for aggressive chewers. Cleans teeth while playing fetch and tug-of-war. Safe and non-toxic.",
+    "price": "24.00",
+    "category": "Dogs",
+    "tags": ["dog-toy", "rope-toy", "chewing", "fetch"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Bird Waterer Station",
+    "description": "Gravity-fed water dispenser with a large capacity. Ensures your pet birds always have clean, fresh water while reducing spills.",
+    "price": "18.99",
+    "category": "Birds",
+    "tags": ["bird-care", "feeder", "waterer", "birds"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet First Aid Kit - Comprehensive",
+    "description": "Includes bandages, antiseptic wipes, scissors, tweezers, and emergency guide. A must-have for every pet owner for home or travel.",
+    "price": "29.99",
+    "category": "Pet Health",
+    "tags": ["first-aid", "health", "pet-safety", "emergency"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Microfiber Quick-Dry Pet Towel",
+    "description": "Extra large ultra-absorbent towel that dries your dog faster than standard towels. Lightweight and machine washable. Dries quickly.",
+    "price": "19.99",
+    "category": "Grooming",
+    "tags": ["pet-towel", "grooming", "cleaning", "bath-accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Silk Pet Neck Scarf",
+    "description": "Soft and stylish silk bandana in various patterns. An elegant accessory for special occasions or daily fashionable pets.",
+    "price": "12.00",
+    "category": "Pet Accessories",
+    "tags": ["bandana", "pet-fashion", "accessory", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Pet Bathtub - 10-Gallon",
+    "description": "Sturdy space-saving tub with a non-slip base. Perfect for bathing small to medium pets at home. Folds flat for easy storage.",
+    "price": "39.00",
+    "category": "Grooming",
+    "tags": ["pet-bath", "grooming", "portable", "cleaning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Timber Foraging Bird Toy",
+    "description": "Interactive toy made of various natural woods and textures. Encourages natural foraging behavior for parrots and cockatoos.",
+    "price": "24.99",
+    "category": "Birds",
+    "tags": ["bird-toy", "foraging", "birds", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Reflective Personalized Cat Collar",
+    "description": "High-visibility breakaway collar with your cat's name and phone number engraved. Ensures safety and identification for outdoor adventures.",
+    "price": "14.99",
+    "category": "Cats",
+    "tags": ["cat-collar", "personalized", "safety", "reflective"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Grass Growing Kit - Wheatgrass",
+    "description": "Complete kit including organic seeds and soil to grow fresh wheatgrass for your cat. Provides natural digestion support and vitamins.",
+    "price": "16.49",
+    "category": "Cats",
+    "tags": ["cat-grass", "health", "indoor-gardening", "cats"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Orthopedic Pillow for Cat Beds",
+    "description": "Small memory foam bolster cushion for cats to rest their heads. Enhances existing beds for senior feline comfort and joint support.",
+    "price": "18.00",
+    "category": "Cats",
+    "tags": ["cat-bed", "orthopedic", "comfort", "senior-pet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591768793355-74d04bb6608f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Large Folding Metal Dog Crate",
+    "description": "Durable steel crate with a removable pan and double doors. Folds flat for transport and storage. Secure latch system for safety.",
+    "price": "74.99",
+    "category": "Dogs",
+    "tags": ["dog-crate", "training", "safety", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Grooming Blow Dryer - Quiet",
+    "description": "2-in-1 hair dryer and grooming brush. Quiet motor avoids scaring pets while drying their coat after a bath. Multiple heat settings.",
+    "price": "34.99",
+    "category": "Grooming",
+    "tags": ["hair-dryer", "grooming", "pet-care", "bath-time"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Floating Aquatic Turtle Dock",
+    "description": "Self-leveling basking platform for aquatic turtles. Textured ramp for easy climbing and durable construction for wet environments.",
+    "price": "29.99",
+    "category": "Small Pets",
+    "tags": ["turtle-dock", "reptile-care", "aquarium-accessories"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Metal Parrot Playstand",
+    "description": "Floor-standing activity center for large birds. Features stainless steel bowls, multiple perches, and a rolling base for mobility.",
+    "price": "89.00",
+    "category": "Birds",
+    "tags": ["bird-stand", "parrot", "birds", "activity-center"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Memory Urn with Photo Frame",
+    "description": "Elegant wooden urn for storing pet ashes with an integrated photo window. A beautiful and respectful way to honor your beloved pet.",
+    "price": "49.99",
+    "category": "Pet Memorials",
+    "tags": ["memorial", "urn", "pet-loss", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Outdoor Enclosed Cat Patio",
+    "description": "Large wooden catio with multiple perches and weather-resistant roofing. Provides outdoor safety while preventing escape and bird hunting.",
+    "price": "399.00",
+    "category": "Cats",
+    "tags": ["catio", "outdoor-safety", "cat-care", "enclosure"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Orthopedic Memory Foam Cat Bed",
+    "description": "Premium 3-inch memory foam base with a soft fleece top. Designed for senior cats with arthritis or joint pain. Machine washable cover.",
+    "price": "39.99",
+    "category": "Cats",
+    "tags": ["cat-bed", "orthopedic", "comfort", "senior-pet"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591768793355-74d04bb6608f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Automatic Pet Feeder - WiFi",
+    "description": "App-controlled feeder for remote portion control and scheduling. Features 1080p camera to watch your pet eat and two-way audio for talking.",
+    "price": "129.00",
+    "category": "Smart Pet Tech",
+    "tags": ["automatic-feeder", "smart-home", "pet-care", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Tie-Out Stake & Cable",
+    "description": "360-degree swivel stake and 20ft steel cable for large dogs. Allows for supervised outdoor time with maximum freedom and security.",
+    "price": "24.99",
+    "category": "Dogs",
+    "tags": ["dog-tie-out", "outdoor", "safety", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Self-Cleaning Deshedding Brush",
+    "description": "Push-button hair release mechanism for easy cleaning. Effectively removes loose undercoat and tangles for both dogs and cats.",
+    "price": "16.50",
+    "category": "Grooming",
+    "tags": ["deshedding-brush", "grooming", "pet-care", "shedding"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Ceramic Pet Water Fountain",
+    "description": "Triple-filtration ceramic fountain that mimics natural spring water. Whisper-quiet pump and dishwasher-safe components for easy maintenance.",
+    "price": "59.00",
+    "category": "Cats & Dogs",
+    "tags": ["water-fountain", "ceramic", "hydration", "cats"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Level Rabbit Activity Center",
+    "description": "Large wooden castle with ramps, hay feeders, and hidden tunnels. Stimulates natural curiosity and provides exercise for pet rabbits.",
+    "price": "149.00",
+    "category": "Small Pets",
+    "tags": ["rabbit-toys", "activity-center", "small-animal", "wooden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Bluetooth Pet Activity Tracker",
+    "description": "Lightweight clip-on sensor that monitors steps, sleep quality, and active minutes. Syncs to your phone to track your pet's fitness goals.",
+    "price": "49.00",
+    "category": "Smart Pet Tech",
+    "tags": ["pet-fitness", "activity-tracker", "tech", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Himalayan Yak Milk Dog Chews",
+    "description": "Extra-hard, long-lasting dental chews made from traditional Himalayan cheese. 100% natural, high-protein, and grain-free for aggressive chewers.",
+    "price": "19.99",
+    "category": "Dogs",
+    "tags": ["dog-chews", "natural", "yak-milk", "dental-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Bird Traveling Bag",
+    "description": "Breathable transparent side panels and a solid wood perch. Allows your bird to see out while staying secure during transport. Includes seeds cup.",
+    "price": "39.00",
+    "category": "Birds",
+    "tags": ["bird-travel", "pet-carrier", "birds", "travel-safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Grooming Hammock for Bathing",
+    "description": "Sturdy canvas harness that holds your dog or cat comfortably suspended for easier nail trimming and grooming. includes S-hooks for stability.",
+    "price": "32.00",
+    "category": "Grooming",
+    "tags": ["grooming-hammock", "nail-trimming", "stress-free", "pet-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Catnip Silvervine Sticks - 5pk",
+    "description": "Natural dental sticks that stimulate cats and clean their teeth through chewing. A powerful alternative to standard catnip for picky felines.",
+    "price": "14.99",
+    "category": "Cats",
+    "tags": ["catnip", "silvervine", "dental-care", "cat-toy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Deep-Cleaning Pet Vacuum Attachment",
+    "description": "Universal nozzle with specialized rubber bristles to pull embedded pet hair from carpets and upholstery. Compatible with most vacuum brands.",
+    "price": "22.00",
+    "category": "Home Cleaning",
+    "tags": ["cleaning", "pet-hair", "vacuum-attachment", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wireless Invisible Dog Fence System",
+    "description": "Creates a circular safe zone for your dog without burying wires. Includes a rechargeable waterproof collar and base transmitter unit.",
+    "price": "199.00",
+    "category": "Smart Pet Tech",
+    "tags": ["invisible-fence", "safety", "dog-training", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Hemp Seed Oil Dog Balm",
+    "description": "Organic topical butter to soothe and protect cracked paws and dry noses. Fragrance-free and safe if licked. Essential for winter and summer walks.",
+    "price": "12.99",
+    "category": "Pet Health",
+    "tags": ["paw-balm", "natural", "skincare", "dog-health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Cat Muzzle for Grooming",
+    "description": "Safe and breathable nylon muzzle that covers the eyes to reduce stress during nail trimming or vet visits. Comfortable and secure fit.",
+    "price": "9.99",
+    "category": "Grooming",
+    "tags": ["cat-muzzle", "stress-relief", "vet-visit", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eco-Friendly Bamboo Pet Food Mat",
+    "description": "Minimalist waterproof bamboo mat to catch spills and protect floors. Anti-slip rubber backing keeps bowls in place during active feeding.",
+    "price": "18.50",
+    "category": "Cats & Dogs",
+    "tags": ["feeding-mat", "bamboo", "eco-friendly", "home-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548247416-ec66f4900b2e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Digital High-Precision Pet Food Scale",
+    "description": "Compact kitchen scale with a removable bowl. Measure exact portions to manage your pet's weight and prevent overfeeding. LCD readout.",
+    "price": "24.99",
+    "category": "Cats & Dogs",
+    "tags": ["food-scale", "weight-management", "feeding", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tabletop Bird Bath with Mirror base",
+    "description": "Safe and fun water station for small birds like budgies and lovebirds. Includes a reflective surface to encourage play and bathing.",
+    "price": "15.99",
+    "category": "Birds",
+    "tags": ["bird-bath", "grooming", "birds", "toy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Dog Agility Tunnel - 10ft",
+    "description": "Professional-grade training tunnel with stakes and carrying case. durable reinforced material for high-intensity exercise and obedience training.",
+    "price": "49.00",
+    "category": "Dogs",
+    "tags": ["agility", "training", "exercise", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Bird Seed Dispenser - No Mess",
+    "description": "Gravity-fed feeder that isolates hulls and dust into a separate tray. Keeps the cage clean and ensures a constant fresh supply of food.",
+    "price": "21.99",
+    "category": "Birds",
+    "tags": ["bird-feeder", "hygiene", "birds", "pet-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Pet ID Tag - Custom",
+    "description": "Solid brass tag with deep engraving of your pet's name and contact information. Elegant and durable, won't rust or fade over time.",
+    "price": "14.00",
+    "category": "Pet Accessories",
+    "tags": ["id-tag", "personalized", "brass", "safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pet Grooming Scissors with Safety Tips",
+    "description": "Professional multi-pack of straight, thinning, and curved shears. Rounded safety tips prevent accidental nicks during delicate facial grooming.",
+    "price": "29.99",
+    "category": "Grooming",
+    "tags": ["scissors", "grooming", "shears", "pet-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Hemp Seed Cat Scratching Mat",
+    "description": "Eco-friendly alternative to sisal. Natural hemp fibers provide a tough scratching surface that can be hung on walls or laid flat on floors.",
+    "price": "19.99",
+    "category": "Cats",
+    "tags": ["scratching-mat", "hemp", "cat-care", "eco-friendly"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Leak Sensor for Pet Bowls",
+    "description": "Small Bluetooth sensor that alerts your phone if a pet bowl overflows or if there's a leak in a fountain. Prevent water damage to floors.",
+    "price": "24.00",
+    "category": "Smart Pet Tech",
+    "tags": ["leak-sensor", "smart-home", "safety", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Foraging Parrot Perch",
+    "description": "Hand-carved branch with multiple hidden compartments for seeds and dried fruit. Stimulates natural instincts in large parrots and macaws.",
+    "price": "35.00",
+    "category": "Birds",
+    "tags": ["bird-perch", "foraging", "birds", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxe Velvet Dog Bowtie - Deep Emerald",
+    "description": "Elegant formal accessory made from premium velvet. attaches easily to any collar for special occasions or stylish daily walking.",
+    "price": "12.00",
+    "category": "Pet Accessories",
+    "tags": ["dog-fashion", "accessory", "bowtie", "glamour"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Pet Stairs - 3 Step",
+    "description": "Lightweight plastic stairs with anti-slip carpet treads. Helps small or senior pets reach sofas and beds safely. Folds for storage.",
+    "price": "45.00",
+    "category": "Cats & Dogs",
+    "tags": ["pet-stairs", "senior-pet", "safety", "home-access"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1590233639134-b2587cdcd41f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Himalayan Salt Lick for Rabbits",
+    "description": "Pure pink salt crystal with a rope hangar. Provides essential minerals and helps clean teeth for pet rabbits, guinea pigs, and chinchillas.",
+    "price": "8.99",
+    "category": "Small Pets",
+    "tags": ["salt-lick", "health", "small-animal", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart UV Toothbrush Sanitizer for Pets",
+    "description": "Compact holder that uses UVC light to eliminate 99% of bacteria on your pet's toothbrush after cleaning their teeth. Hygiene first.",
+    "price": "29.99",
+    "category": "Pet Health",
+    "tags": ["sanitizer", "oral-care", "health-tech", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Cat Harness & Leash Set",
+    "description": "Soft and escaped-proof vest designed for safe outdoor exploration. Features a velcro closure and reinforced leash attachment for secure cat walks.",
+    "price": "19.99",
+    "category": "Cats",
+    "tags": ["cat-harness", "walking", "safety", "exploration"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Interactive Motion-Activated Cat Ball",
+    "description": "Rolling LED ball that changes direction randomly when touched. Features auto-shutoff after 10 minutes to preserve battery life. Keeps cats active.",
+    "price": "16.50",
+    "category": "Cats",
+    "tags": ["cat-toy", "interactive", "LED-toy", "exercise"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Canvas Pet Carrier Bag",
+    "description": "Stylish and breathable tote bag with a soft fleece lining. features multiple ventilation windows and a safety leash clip inside for comfort.",
+    "price": "65.00",
+    "category": "Travel Accessories",
+    "tags": ["pet-carrier", "travel", "style", "comfort"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Pet Hair Lint Roller",
+    "description": "Reusable and washable silicone roller in a beautiful bamboo handle. Efficiently removes pet hair from all surfaces without using sticky paper.",
+    "price": "14.49",
+    "category": "Home Cleaning",
+    "tags": ["cleaning", "pet-hair", "bamboo", "reusable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Pet Safety Gate - 30\"",
+    "description": "BPA-free durable mesh gate to block off stairways or rooms. Easy one-hand operation for humans and impossible for small pets to hop over.",
+    "price": "39.99",
+    "category": "Home Safety",
+    "tags": ["pet-gate", "safety", "home-access", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Magnesium Bath Soak for Senior Dogs",
+    "description": "Therapeutic bath salts formulated to relieve muscle stiffness and joint pain in older dogs. Calming lavender scent for a relaxing spa day.",
+    "price": "19.99",
+    "category": "Pet Health",
+    "tags": ["bath-salts", "senior-pet", "joint-relief", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Pet Door with RFID Key - Small",
+    "description": "Allows automatic access for your pet only when their collar key is detected. Keeps stray animals out and features multiple lock modes.",
+    "price": "149.00",
+    "category": "Smart Pet Tech",
+    "tags": ["pet-door", "RFID", "safety", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Bird Ladder - 7 Steps",
+    "description": "Handcrafted from safe, non-toxic wood. provides essential exercise and vertical space for parakeet cages. attaches to wire with steel hooks.",
+    "price": "9.99",
+    "category": "Birds",
+    "tags": ["bird-toy", "ladder", "birds", "exercise"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Pet Food Scoop - 1 Cup",
+    "description": "Elevated design for your daily pet feeding routine. Solid brass scoop with a comfortable handle and industrial-strength finish for long life.",
+    "price": "12.00",
+    "category": "Cats & Dogs",
+    "tags": ["feeding-scoop", "brass", "style", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Catnip Silvervine Mouse Toy",
+    "description": "Large plush mouse stuffed with a potent blend of organic catnip and silvervine. Durable double-stitched canvas for rough play and pouncing.",
+    "price": "8.99",
+    "category": "Cats",
+    "tags": ["cat-toy", "catnip", "silvervine", "plush"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Parrot Walking Harness",
+    "description": "Lightweight and safe harness system for outdoor excursions with your large bird. Elastic leash prevents sudden jerks during flight attempts.",
+    "price": "26.00",
+    "category": "Birds",
+    "tags": ["bird-harness", "walking", "safety", "exploration"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30ebe3?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Pet Grooming Table - Mini",
+    "description": "Foldable and professional portable table for small dogs and cats. includes adjustable arm, safety noose, and non-slip rubber surface.",
+    "price": "89.00",
+    "category": "Grooming",
+    "tags": ["grooming-table", "professional", "pet-care", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Pet Toothbrush Set - 2pk",
+    "description": "Dual-head reusable toothbrushes with soft charcoal bristles. Naturally antimicrobial and eco-friendly choice for pet oral health.",
+    "price": "14.49",
+    "category": "Pet Health",
+    "tags": ["toothbrush", "bamboo", "eco-friendly", "oral-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Humidity Gauge for Large Terariums",
+    "description": "High-accuracy digital sensor for reptiles and exotic small pets. alerts your phone if humidity or temperature falls outside safe range.",
+    "price": "34.99",
+    "category": "Smart Pet Tech",
+    "tags": ["hygrometer", "smart-home", "reptile-care", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Chew Toy Set for Small Pets",
+    "description": "Set of 3 unbleached and non-toxic cotton ropes for chewing and play. Specially sized for guinea pigs, rats, and small rabbits.",
+    "price": "15.50",
+    "category": "Small Pets",
+    "tags": ["small-animal", "chew-toy", "organic", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Pet Medicine Dropper Set",
+    "description": "Includes 3 sizes of calibrated glass droppers for exact dosing of oils and supplements. Safer and more durable than plastic alternatives.",
+    "price": "12.99",
+    "category": "Pet Health",
+    "tags": ["syringes", "medicine", "health", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Pet Safety Harness for Cats",
+    "description": "Soft and lightweight vest-style harness that won't choke. reflective trim for nighttime visibility and easy-clip leash attachment for safe walks.",
+    "price": "18.00",
+    "category": "Cats",
+    "tags": ["cat-harness", "walking", "safety", "cats"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Rabbit Digging Box",
+    "description": "Large solid wood container you can fill with safe soil or paper. satisfies the natural digging instinct of pet rabbits and guinea pigs.",
+    "price": "39.00",
+    "category": "Small Pets",
+    "tags": ["rabbit-toys", "digging-box", "small-animal", "hobby"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Pet Bowl with Integrated Weighting",
+    "description": "Features a built-in digital scale and an app that suggests caloric intake based on your pet's breed and weight. Anti-skid matching design.",
+    "price": "49.00",
+    "category": "Smart Pet Tech",
+    "tags": ["smart-feeder", "smart-home", "weight-management", "tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Hemp Bark Infused Dog Treats - 1lb",
+    "description": "Slow-baked hemp treats with calming properties for situational stress. Features organic chamomile and Valerian root for extra relaxation.",
+    "price": "24.00",
+    "category": "Dogs",
+    "tags": ["hemp-treats", "calming", "anxiety", "healthy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Metal Terarium Wall Stand",
+    "description": "Space-saving vertical mount for small reptile tanks and terariums. Sturdy industrial steel design that allows for proper ventilation and access.",
+    "price": "69.00",
+    "category": "Small Pets",
+    "tags": ["aquarium-stand", "terarium", "small-animal", "home-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

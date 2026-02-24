@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Self-Watering Indoor Planter",
+    "description": "Elegant ceramic planter with integrated water reservoir and indicator. Automatically waters your plants for up to 2 weeks. Perfect for busy plant owners.",
+    "price": "29.99",
+    "category": "Indoor Gardening",
+    "tags": ["planter", "self-watering", "indoor-plants", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ergonomic Garden Tool Set - 7 Pieces",
+    "description": "Comprehensive garden tool kit with high-quality stainless steel heads and soft-grip handles. Includes trowel, pruner, rake, and durable storage bag.",
+    "price": "49.99",
+    "category": "Garden Tools",
+    "tags": ["garden-tools", "gardening", "stainless-steel", "pruning"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Solar Powered Path Lights - 12 Pack",
+    "description": "Weather-resistant LED outdoor lights that charge during the day and automatically turn on at dusk. Easy to install stake design for walkways and gardens.",
+    "price": "39.99",
+    "category": "Outdoor Lighting",
+    "tags": ["solar-lights", "outdoor", "lighting", "garden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Macramé Plant Hanger Set",
+    "description": "Set of 3 handcrafted cotton rope plant hangers in different lengths. Adds a boho-chic touch to any room. Suitable for various pot sizes.",
+    "price": "24.99",
+    "category": "Home Decor",
+    "tags": ["macrame", "plant-hanger", "boho", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Floating Wall Shelves - Set of 3",
+    "description": "Rustic wooden floating shelves with sturdy metal brackets. Perfect for displaying plants, books, and small decor items. Easy wall mounting kit included.",
+    "price": "34.99",
+    "category": "Home Decor",
+    "tags": ["shelves", "floating-shelves", "storage", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Drip Irrigation Kit",
+    "description": "Full irrigation system for garden beds and pots. Includes tubing, emitters, and programmable timer. Saves water and effort while keeping plants healthy.",
+    "price": "59.99",
+    "category": "Gardening Supplies",
+    "tags": ["irrigation", "watering", "garden", "automated"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Woven Large Area Rug",
+    "description": "Neutral tone jute and cotton blend area rug for living rooms and bedrooms. Durable, eco-friendly, and easy to maintain. 5ft x 8ft size.",
+    "price": "129.99",
+    "category": "Home Decor",
+    "tags": ["rug", "area-rug", "jute", "boho"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531835597900-51cd9677cbb8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Decorative Ceramic Vase Set",
+    "description": "Set of 2 modern minimalist ceramic vases with matte finish. Unique geometric shapes that stand alone or hold fresh flowers for an elegant look.",
+    "price": "39.99",
+    "category": "Home Decor",
+    "tags": ["vase", "ceramic", "minimalist", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Indoor Herb Garden Kit",
+    "description": "Complete kit to grow basil, parsley, and cilantro on your windowsill. Includes organic seeds, soil discs, pots, and gardening guide.",
+    "price": "29.99",
+    "category": "Indoor Gardening",
+    "tags": ["herbs", "gardening-kit", "indoor", "fresh-herbs"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Outdoor Sprinkler Controller",
+    "description": "Wi-Fi enabled sprinkler controller with weather-based scheduling. Control your garden watering from your smartphone and save water efficiently.",
+    "price": "99.99",
+    "category": "Gardening Supplies",
+    "tags": ["smart-home", "irrigation", "garden", "automation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Boho Tufted Throw Pillow",
+    "description": "Extra-soft cotton throw pillow with intricate tufted patterns and tassels. Adds texture and comfort to your sofa or bed. Removable cover.",
+    "price": "24.99",
+    "category": "Home Decor",
+    "tags": ["pillow", "throw-pillow", "boho", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Galvanized Steel Raised Garden Bed",
+    "description": "Large durable raised bed for vegetables and flowers. Easy assembly and excellent drainage. Rust-resistant for long-lasting outdoor use. 4ft x 2ft.",
+    "price": "79.99",
+    "category": "Gardening Supplies",
+    "tags": ["garden-bed", "vegetable-garden", "outdoor", "metal"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Velvet Blackout Curtains - 2 Panels",
+    "description": "Rich velvet curtains that block 99% of light and reduce noise. Thermal insulation helps maintain room temperature. Elegant look for bedrooms.",
+    "price": "54.99",
+    "category": "Home Decor",
+    "tags": ["curtains", "blackout", "velvet", "bedroom"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hanging Solar Lantern",
+    "description": "Decorative metal lantern with flickering LED flame effect. Solar powered with automatic dusk-to-dawn operation. Ideal for patios and garden trees.",
+    "price": "29.99",
+    "category": "Outdoor Lighting",
+    "tags": ["lantern", "solar", "outdoor", "garden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Modern Round Wall Mirror",
+    "description": "Large circular mirror with thin black metal frame. Enhances light and adds a modern minimalist aesthetic to hallways or living rooms. 30-inch diameter.",
+    "price": "89.99",
+    "category": "Home Decor",
+    "tags": ["mirror", "wall-decor", "minimalist", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Plant Stand",
+    "description": "Mid-century modern style plant stand made from sustainable bamboo. Adjustable width to fit various pot sizes. Sturdy and elegant for indoor use.",
+    "price": "34.99",
+    "category": "Indoor Gardening",
+    "tags": ["plant-stand", "bamboo", "mid-century", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aromatic Soy Wax Candle - Forest Pine",
+    "description": "Hand-poured soy wax candle with a refreshing forest pine and cedarwood scent. Long-lasting 50-hour burn time in a reusable glass jar.",
+    "price": "19.99",
+    "category": "Home Decor",
+    "tags": ["candle", "soy-wax", "fragrance", "aromatherapy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Woven Seagrass Belly Basket",
+    "description": "Natural seagrass basket with handles, perfect for plant covers, laundry, or storage. Flexible design can be folded for versatility.",
+    "price": "22.99",
+    "category": "Organization",
+    "tags": ["basket", "seagrass", "storage", "boho"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Decorative Wall Clock - Gold Finish",
+    "description": "Elegant gold metal wall clock with silent non-ticking movement. Modern design that makes a statement in any home office or living room.",
+    "price": "44.99",
+    "category": "Home Decor",
+    "tags": ["clock", "wall-clock", "modern", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Bath Mat - Non-Slip",
+    "description": "Sustainable bamboo bath mat with water-resistant finish and non-slip feet. Provides a spa-like feel to your bathroom while ensuring safety.",
+    "price": "29.99",
+    "category": "Bathroom Decor",
+    "tags": ["bath-mat", "bamboo", "bathroom", "spa"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ceramic Succulent Pots - Set of 6",
+    "description": "Miniature colorful ceramic pots with drainage holes and bamboo saucers. Perfect for succulents, cacti, and small herbs on desks or windowsills.",
+    "price": "24.99",
+    "category": "Indoor Gardening",
+    "tags": ["pots", "succulents", "ceramic", "miniature"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Outdoor String Lights - 50ft",
+    "description": "Heavy-duty commercial grade string lights with 25 vintage Edison bulbs. Weatherproof design for year-round patio and backyard ambiance.",
+    "price": "49.99",
+    "category": "Outdoor Lighting",
+    "tags": ["string-lights", "edison-bulbs", "patio", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Canvas Wall Art",
+    "description": "Large multi-panel abstract landscape painting on gallery-wrapped canvas. Ready to hang, vibrant colors that bring life to any large wall.",
+    "price": "89.99",
+    "category": "Home Decor",
+    "tags": ["art", "canvas", "wall-decor", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Desktop Bookshelf",
+    "description": "Small adjustable wooden bookshelf for organizing books and stationery on your desk. Minimalist design for home offices and study areas.",
+    "price": "19.99",
+    "category": "Organization",
+    "tags": ["bookshelf", "desk-organizer", "study", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Marble Top Side Table",
+    "description": "Compact side table with genuine marble top and gold metal legs. Perfect for small spaces, adds a touch of luxury next to a sofa or bed.",
+    "price": "74.99",
+    "category": "Furniture",
+    "tags": ["side-table", "marble", "furniture", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Industrial Style Wall Sconce",
+    "description": "Matte black metal wall sconce with adjustable arm. Ideal for reading nooks or bedside lighting. Hardwired or plug-in options available.",
+    "price": "39.99",
+    "category": "Home Lighting",
+    "tags": ["lighting", "sconce", "industrial", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513506159206-3bc550449177?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Personalized Welcome Door Mat",
+    "description": "Durable coir doormat with non-slip backing. Customizable with your family name or a custom message. Traps dirt effectively.",
+    "price": "34.99",
+    "category": "Home Decor",
+    "tags": ["doormat", "personalized", "gift", "entrance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart LED Table Lamp",
+    "description": "Wi-Fi enabled table lamp with 16 million colors and adjustable brightness. Compatible with Alexa and Google Home for voice-controlled ambiance.",
+    "price": "49.99",
+    "category": "Home Lighting",
+    "tags": ["smart-lighting", "LED", "lamp", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tufted Ottoman Footstool",
+    "description": "Round velvet ottoman with deep tufting and sturdy wooden frame. Can be used as a footrest or extra seating. Available in various jewel tones.",
+    "price": "64.99",
+    "category": "Furniture",
+    "tags": ["ottoman", "velvet", "seating", "furniture"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Minimalist Desktop Organizer",
+    "description": "Elegant acrylic and bamboo organizer for pens, stationery, and small office supplies. Keep your workspace clean and productive.",
+    "price": "24.99",
+    "category": "Organization",
+    "tags": ["organization", "desk-organizer", "office", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cotton Waffle Weave Throw Blanket",
+    "description": "Lightweight and breathable cotton throw with classic waffle texture. Soft and cozy, perfect for layering on sofas or beds. Machine washable.",
+    "price": "39.99",
+    "category": "Home Decor",
+    "tags": ["blanket", "cotton", "decor", "cozy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Decorative Mirror Tray",
+    "description": "Chic mirror tray with gold geometric frame. Ideal for organizing perfumes, jewelry, or serving drinks at parties. Adds glamour to any space.",
+    "price": "29.99",
+    "category": "Home Decor",
+    "tags": ["tray", "mirror", "decor", "glam"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541070280493-22240b461013?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ceramic Essential Oil Diffuser",
+    "description": "Beautiful ceramic diffuser with ultrasonic technology. Quiet operation, 7 color LED lights, and auto-shutoff. Creates a peaceful home environment.",
+    "price": "44.99",
+    "category": "Home Living",
+    "tags": ["diffuser", "aromatherapy", "essential-oils", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Shoe Rack - 3 Tiers",
+    "description": "Sustainable bamboo shoe organizer that holds up to 12 pairs of shoes. Natural finish, sturdy and easy to assemble for entryways or closets.",
+    "price": "34.99",
+    "category": "Organization",
+    "tags": ["shoe-rack", "bamboo", "organization", "entryway"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1595943928218-2e2d8b4e3697?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Velvet Bar Stools - Set of 2",
+    "description": "Sophisticated bar height stools with velvet upholstery and gold-finished legs. Ergonomic backrest for comfort during kitchen island dining.",
+    "price": "189.99",
+    "category": "Furniture",
+    "tags": ["stools", "velvet", "furniture", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Geometric Metal Wall Art",
+    "description": "Large sculptural wall art piece made from interconnected metal triangles. Modern industrial design that creates interesting shadows and depth.",
+    "price": "59.99",
+    "category": "Home Decor",
+    "tags": ["art", "metal-decor", "industrial", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Silk Pillowcase Set",
+    "description": "Pure mulberry silk pillowcases that help prevent hair frizz and skin creases. Breathable, hypoallergenic, and naturally cooling for better sleep.",
+    "price": "39.99",
+    "category": "Bedding",
+    "tags": ["pillowcase", "silk", "bedding", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Fiddle Leaf Fig Artificial Tree",
+    "description": "Large 5ft tall artificial fiddle leaf fig tree with realistic leaves and stable pot. Perfect for adding greenery to rooms with low light.",
+    "price": "79.99",
+    "category": "Indoor Gardening",
+    "tags": ["artificial-plant", "greenery", "decor", "no-maintenance"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Glass Desk with Metal Frame",
+    "description": "Modern minimalist writing desk with tempered glass top and sturdy steel frame. Sleek design for home offices and contemporary study spaces.",
+    "price": "149.99",
+    "category": "Furniture",
+    "tags": ["desk", "office-furniture", "glass", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Woven Wall Hanging - Macrame Art",
+    "description": "Large handcrafted macrame wall tapestry with geometric patterns and fringe. Adds texture and a boho vibe to bedrooms or nurseries.",
+    "price": "49.99",
+    "category": "Home Decor",
+    "tags": ["macrame", "wall-art", "boho", "tapestry"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Soap Dispenser Set",
+    "description": "Set of 2 glass soap dispensers with rust-proof stainless steel pumps. Includes waterproof labels for hand soap and dish soap. Elegant kitchen upgrade.",
+    "price": "24.99",
+    "category": "Kitchen Decor",
+    "tags": ["dispenser", "kitchen", "organization", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Blind Controller",
+    "description": "Easily automate your existing blinds with this smart motor. Controlled via app or voice. Set schedules for natural light and energy savings.",
+    "price": "89.99",
+    "category": "Smart Home",
+    "tags": ["automation", "smart-blinds", "energy-saving", "home-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Key Holder",
+    "description": "Small wall-mounted key organizer with magnetic hooks and a small shelf for mail or sunglasses. Minimalist design for hallway organization.",
+    "price": "19.99",
+    "category": "Organization",
+    "tags": ["key-holder", "hallway", "organization", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Ceramic Sculpture",
+    "description": "Mid-century modern ceramic sculpture in a smooth white finish. An artistic centerpiece for coffee tables or bookshelves.",
+    "price": "34.99",
+    "category": "Home Decor",
+    "tags": ["sculpture", "art", "ceramic", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cotton Storage Bins - Set of 3",
+    "description": "Folding canvas storage cubes with reinforced handles. Organize toys, clothes, or office supplies stylishly in any shelving unit.",
+    "price": "29.99",
+    "category": "Organization",
+    "tags": ["storage", "bins", "organization", "canvas"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wall Mounted Magazine Rack",
+    "description": "Sleek gold metal magazine and mail organizer. Save desk space and keep your current reads within easy reach on the wall.",
+    "price": "24.99",
+    "category": "Organization",
+    "tags": ["magazine-rack", "office", "organization", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Watering Can - Gold",
+    "description": "Brushed gold stainless steel watering can with long spout for precision. Functional tool that looks beautiful on a shelf among plants.",
+    "price": "27.99",
+    "category": "Indoor Gardening",
+    "tags": ["watering-can", "gardening", "gold", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Modern Tripod Floor Lamp",
+    "description": "Stylish floor lamp with wooden tripod base and large linen drum shade. Provides warm diffused light for living rooms and libraries.",
+    "price": "119.99",
+    "category": "Home Lighting",
+    "tags": ["floor-lamp", "lighting", "modern", "furniture"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513506159206-3bc550449177?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Geometric Glass Terrarium",
+    "description": "Handcrafted glass and copper terrarium for air plants, moss, or decor small plants. Unique tabletop piece for plant lovers.",
+    "price": "32.99",
+    "category": "Indoor Gardening",
+    "tags": ["terrarium", "glass", "air-plants", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Velvet Lumbar Support Pillow",
+    "description": "Decorative and functional pillow for lower back support while sitting on a sofa or chair. Soft velvet cover with memory foam insert.",
+    "price": "29.99",
+    "category": "Home Decor",
+    "tags": ["pillow", "lumbar-support", "comfort", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 4 Marble Coasters",
+    "description": "Heavy white marble coasters with gold inlay edges. Includes non-slip velvet bottom to protect your furniture from drink rings.",
+    "price": "24.99",
+    "category": "Kitchen Decor",
+    "tags": ["coasters", "marble", "kitchen", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Woven Rope Laundry Hamper",
+    "description": "Large decorative cotton rope basket for laundry or toy storage. Durable, flexible, and handles for easy transport. Neutral gray and white design.",
+    "price": "34.99",
+    "category": "Organization",
+    "tags": ["hamper", "laundry", "basket", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Desktop Clock",
+    "description": "Small round wooden clock with silent sweeping hands. Perfect for nightstands or home office desks. Battery operated and minimalist.",
+    "price": "18.99",
+    "category": "Home Decor",
+    "tags": ["clock", "minimalist", "desk-decor", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Decorative Bamboo Ladder",
+    "description": "Lean-against-wall bamboo ladder for displaying throw blankets, towels, or scarves. Adds a natural decorative element to bathrooms or living rooms.",
+    "price": "44.99",
+    "category": "Home Decor",
+    "tags": ["ladder", "storage-rack", "bamboo", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hanging Cloud Pendant Light",
+    "description": "Whimsical fluffy cloud-shaped lighting fixture. Creates soft diffused light, perfect for children's rooms or artistic spaces. Adjustable cable height.",
+    "price": "79.99",
+    "category": "Home Lighting",
+    "tags": ["lighting", "pendant", "whimsical", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513506159206-3bc550449177?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gold Feather Wall Decor",
+    "description": "Set of 3 sculptural metal feathers with gold leaf finish. Artistic wall installation that brings a sophisticated and weightless feel to any room.",
+    "price": "54.99",
+    "category": "Home Decor",
+    "tags": ["wall-decor", "sculpture", "gold", "art"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Wood Tissue Box Cover",
+    "description": "Solid walnut tissue box holder with magnetic bottom. Replaces generic cardboard boxes with an elegant and warm decorative touch.",
+    "price": "22.99",
+    "category": "Home Decor",
+    "tags": ["tissue-box", "walnut", "decor", "home-office"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1554995207-c18c2036a2cb?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sleek Black Watering Can",
+    "description": "Powder-coated stainless steel watering can with a long, narrow spout. Designed for watering hard-to-reach indoor house plants gracefully.",
+    "price": "24.99",
+    "category": "Indoor Gardening",
+    "tags": ["watering-can", "minimalist", "gardening", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Boho Woven Placemats - Set of 6",
+    "description": "Natural corn husk woven placemats for dining tables. Heat resistant and durable, adds a organic and textured feel to your dining experience.",
+    "price": "29.99",
+    "category": "Kitchen Decor",
+    "tags": ["placemats", "woven", "boho", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531835597900-51cd9677cbb8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wall Mounted Pot Rack",
+    "description": "Industrial style iron pot and pan rack with 10 hooks. Frees up cabinet space and adds a farmhouse aesthetic to professional kitchen setups.",
+    "price": "49.99",
+    "category": "Organization",
+    "tags": ["pot-rack", "kitchen-storage", "industrial", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e75b7a3ae55c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ceramic Tea Light Bird House",
+    "description": "Whimsical ceramic tea light holder shaped like a birdhouse. Provides a soft glow and serves as a cute decorative piece for tables or mantels.",
+    "price": "14.99",
+    "category": "Home Decor",
+    "tags": ["candle-holder", "ceramic", "whimsical", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Desktop Tabletop Fountain",
+    "description": "Small tiered water fountain with LED lighting and smooth stones. Create a relaxing atmosphere with the gentle sound of flowing water. Battery operated.",
+    "price": "39.99",
+    "category": "Home Living",
+    "tags": ["fountain", "relaxation", "desktop", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Large Glass Juice Pitcher",
+    "description": "Elegant hand-blown glass pitcher with an ergonomic handle. Perfect for serving water, juice, or iced tea during family gatherings. 2L capacity.",
+    "price": "24.99",
+    "category": "Kitchen Decor",
+    "tags": ["pitcher", "glassware", "servingware", "kitchen"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Stone Bookends",
+    "description": "Heavy natural marble bookends in unique unpolished stone shapes. Hold your book collection securely while serving as sophisticated bookshelf decor.",
+    "price": "44.99",
+    "category": "Organization",
+    "tags": ["bookends", "marble", "decor", "bookshelf"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Boho Lace Hanging Chair",
+    "description": "Comfortable macrame swing chair with plush cushions. Perfect for creating a cozy reading corner in bedrooms or covered patios. Holds up to 330lbs.",
+    "price": "89.99",
+    "category": "Furniture",
+    "tags": ["hanging-chair", "swing", "macrame", "boho"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retro Vinyl Record Stand",
+    "description": "Compact metal and wood organizer for displaying your favorite vinyl records. Minimalist design for music lovers to showcase their collection.",
+    "price": "34.99",
+    "category": "Organization",
+    "tags": ["vinyl-record-stand", "music", "decor", "organization"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Painted Birdhouse",
+    "description": "Solid wood decorative birdhouse with colorful floral designs. Functional for outdoor use or as a charming indoor decorative piece for garden lovers.",
+    "price": "29.99",
+    "category": "Outdoor Decor",
+    "tags": ["birdhouse", "outdoor-decor", "hand-painted", "garden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Decorative Bamboo Fan",
+    "description": "Large hand-painted bamboo wall fan with traditional landscape scenes. An elegant and large-scale wall decor piece for creating an Asian-inspired room.",
+    "price": "39.99",
+    "category": "Home Decor",
+    "tags": ["wall-fan", "bamboo", "asian-inspired", "art"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Marble Top Coffee Table",
+    "description": "Modern round coffee table with genuine white marble and gold metal base. A central piece that adds elegance to any contemporary living room.",
+    "price": "249.99",
+    "category": "Furniture",
+    "tags": ["coffee-table", "marble", "furniture", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Glass Cloche with Wood Base",
+    "description": "Transparent glass dome with a rustic solid wood base. Ideal for protecting and displaying dry flowers, small plants, or seasonal decor centerpiece.",
+    "price": "24.99",
+    "category": "Home Decor",
+    "tags": ["cloche", "display", "decor", "glass"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541070280493-22240b461013?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Abstract Bronze Table Sculpture",
+    "description": "Hand-finished abstract bronze sculpture on a marble base. A gallery-worthy artistic piece that adds a touch of sophistication to any console or desk.",
+    "price": "69.99",
+    "category": "Home Decor",
+    "tags": ["sculpture", "bronze", "art", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Wall Mounted Key Safe Box",
+    "description": "Durable metal combination lock box for storing house keys and access cards. Weatherproof and ideal for shared rentals or secure home entry.",
+    "price": "29.99",
+    "category": "Smart Home",
+    "tags": ["key-safe", "security", "organization", "home-safety"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Velvet Bench with Gold Detailing",
+    "description": "Plush cushioned velvet bench with decorative gold-finished metal legs. Perfect for the end of a bed or an entryway for comfortable seating and style.",
+    "price": "129.99",
+    "category": "Furniture",
+    "tags": ["bench", "velvet", "furniture", "entryway"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ceramic Tea Pot - Minimalist Design",
+    "description": "Modern matte ceramic teapot with an integrated tea strainer and bamboo handle. A functional work of art for tea enthusiasts.",
+    "price": "39.99",
+    "category": "Kitchen Decor",
+    "tags": ["teapot", "ceramic", "tea", "minimalist"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Decorative Globe with Metal Stand",
+    "description": "Vintage style world globe with an antiqued finish and sleek gold metal stand. A timeless and educational piece for offices and dens.",
+    "price": "49.99",
+    "category": "Home Decor",
+    "tags": ["globe", "vintage", "decor", "educational"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1542332213-31f87348057f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Woven Straw Wall Decor - Set of 3",
+    "description": "Artistic set of three hand-woven straw discs in various sizes and patterns. Creates a natural and textured focal point on large wall surfaces.",
+    "price": "44.99",
+    "category": "Home Decor",
+    "tags": ["wall-decor", "woven", "boho", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1531835597900-51cd9677cbb8?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 6 Glass Candle Holders",
+    "description": "Simple and elegant glass cylinders in various heights for pillar candles. Perfect for wedding centerpieces or creating a cozy mood at home.",
+    "price": "34.99",
+    "category": "Home Decor",
+    "tags": ["candle-holders", "glass", "minimalist", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1603006899172-64291ee4481c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Watering Can - Matte Black",
+    "description": "Sleek and functional matte black watering can. Features a long precision spout to easily water indoor and delicate potted plants without splashing.",
+    "price": "24.99",
+    "category": "Indoor Gardening",
+    "tags": ["watering-can", "matte-black", "gardening", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gold Metal Desk Lamp",
+    "description": "Retro inspired adjustable task lamp in a brilliant gold finish. Ideal for home offices to provide focused light while looking exceptionally stylish.",
+    "price": "49.99",
+    "category": "Home Lighting",
+    "tags": ["desk-lamp", "gold", "lighting", "modern"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cozy Cable Knit Ottoman",
+    "description": "Chunky hand-knitted navy blue pouf for extra seating or leg rest. Firm filling provides good support while being soft and inviting.",
+    "price": "59.99",
+    "category": "Furniture",
+    "tags": ["pouf", "ottoman", "knitted", "decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Ceramic Planter - Royal Blue",
+    "description": "Large deep-glazed ceramic pot for outdoor trees and large shrubs. Frost-resistant material ensures your garden stays beautiful year-round. Drainage hole included.",
+    "price": "59.99",
+    "category": "Outdoor Gardening",
+    "tags": ["planter", "ceramic", "outdoor", "garden-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Bluetooth Plant Soil Sensor",
+    "description": "Monitor soil moisture, light levels, and temperature from your smartphone. Provides personalized care tips for over 6,000 plant species. Waterproof design.",
+    "price": "29.00",
+    "category": "Indoor Gardening",
+    "tags": ["soil-sensor", "smart-home", "gardening-tech", "plants"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Automatic Solar Bird Bath Fountain",
+    "description": "Eco-friendly fountain pump that floats in your bird bath and runs on solar power. Creates a gentle spray to attract birds and keep water oxygenated.",
+    "price": "24.99",
+    "category": "Outdoor Decor",
+    "tags": ["bird-bath", "fountain", "solar", "garden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Metal Garden Arch - 8ft",
+    "description": "Sturdy weather-resistant steel frame for climbing roses and ivy. Provides a beautiful focal point and doorway to your garden or backyard patio.",
+    "price": "89.00",
+    "category": "Gardening Supplies",
+    "tags": ["garden-arch", "outdoor", "climbing-plants", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Brass Garden Hose Nozzle",
+    "description": "Premium solid brass spray nozzle with adjustable patterns from fine mist to jet stream. Industrial strength construction for life-long durability.",
+    "price": "19.99",
+    "category": "Gardening Supplies",
+    "tags": ["hose-nozzle", "brass", "gardening-tools", "outdoor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1523301343968-6a6ebf031751?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hand-Woven Willow Privacy Screen",
+    "description": "Natural willow fence panels for creating private outdoor spaces. Breathable design blocks wind and provides a rustic organic backdrop for patios.",
+    "price": "65.00",
+    "category": "Outdoor Decor",
+    "tags": ["privacy-screen", "willow", "outdoor", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Outdoor WiFi Smart Plug",
+    "description": "Weatherproof dual outlet plug to control your outdoor lights and holiday decor from anywhere. Features scheduling and sunset/sunrise automation.",
+    "price": "29.99",
+    "category": "Smart Home",
+    "tags": ["smart-plug", "outdoor-tech", "safety", "convenience"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Kelp Meal Fertilizer - 5lb",
+    "description": "Slow-release organic nutrient source rich in minerals and growth hormones. Improves soil quality and helps plants build resistance to stress.",
+    "price": "22.50",
+    "category": "Gardening Supplies",
+    "tags": ["fertilizer", "organic", "kelp", "garden-health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Copper Plant Markers",
+    "description": "Elegant and permanent way to label your herbs and flowers. Thick copper plates will naturally patina over time, adding a vintage feel to your garden.",
+    "price": "14.99",
+    "category": "Indoor Gardening",
+    "tags": ["plant-labels", "copper", "garden-decor", "style"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Hummingbird Feeder",
+    "description": "Glass nectar reservoir with red ant-moat base. Specifically designed to attract hummingbirds while being easy to clean and refill. 12oz capacity.",
+    "price": "18.00",
+    "category": "Outdoor Decor",
+    "tags": ["bird-feeder", "hummingbird", "nature", "garden"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Teak Wood Folding Garden Chair",
+    "description": "Solid Indonesian teak chair that naturally resists weather and rot. Folds flat for easy storage and provides a timeless organic look to any patio.",
+    "price": "89.00",
+    "category": "Furniture",
+    "tags": ["outdoor-chair", "teak-wood", "furniture", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Boho Macrame Hanging Table Shelf",
+    "description": "Unique floating wooden shelf suspended by handcrafted cotton rope. Perfect for displaying trailing plants on porches or in bright windows.",
+    "price": "34.00",
+    "category": "Home Decor",
+    "tags": ["macrame", "floating-shelf", "boho", "plants"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Weather Station for Home Gardens",
+    "description": "Precise real-time monitoring of hyper-local temperature, rainfall, and wind. Syncs data to your phone to help you make informed gardening decisions.",
+    "price": "119.00",
+    "category": "Gardening Supplies",
+    "tags": ["weather-station", "tech", "gardening", "precision"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Bamboo Wind Chimes - XL",
+    "description": "Handcrafted bamboo tubes that create a deep, relaxing wooden tone in the breeze. 30 inches long, sustainably sourced and weather-treated.",
+    "price": "39.99",
+    "category": "Outdoor Decor",
+    "tags": ["wind-chimes", "bamboo", "natural", "relaxation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heavy-Duty Metal Fire Pit with Grate",
+    "description": "Large steel wood-burning fire pit for cozy autumn evenings. includes mesh spark screen and a removable cooking grate for backyard grilling.",
+    "price": "149.00",
+    "category": "Outdoor Living",
+    "tags": ["fire-pit", "outdoor", "hosting", "sturdy"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Neem Oil Plant Spray - 32oz",
+    "description": "Ready-to-use natural insecticide and fungicide. effectively controls aphids, mites, and mildew without harmful synthetic chemicals. Safe for pets.",
+    "price": "19.99",
+    "category": "Gardening Supplies",
+    "tags": ["pest-control", "organic", "neem-oil", "plant-health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e835?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Concrete Vertical Planter",
+    "description": "Modern minimalist modular planter for growing succulents or strawberries. Industrial concrete finish that patinas beautifully in the rain.",
+    "price": "45.00",
+    "category": "Outdoor Gardening",
+    "tags": ["vertical-garden", "concrete", "modern", "plants"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Set of 3 Solar Butterfly Stakes - LED",
+    "description": "Vibrant hand-painted glass butterfly lights that gently sway in the wind. Color-changing LEDs provide a whimsical night-time garden display.",
+    "price": "29.99",
+    "category": "Outdoor Decor",
+    "tags": ["garden-lights", "solar", "butterfly", "whimsical"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Water Timer - WiFi Enabled",
+    "description": "Automate your garden hose with easy app control. Set multiple watering schedules and pause for rain to conserve water and money.",
+    "price": "49.00",
+    "category": "Gardening Supplies",
+    "tags": ["water-timer", "smart-home", "irrigation", "convenience"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Copper Hummingbird Swing",
+    "description": "Simple and elegant perch for your garden. Copper attracts hummers and provides them a safe resting spot near their favored flowers.",
+    "price": "14.49",
+    "category": "Outdoor Decor",
+    "tags": ["hummingbird", "nature", "copper", "garden-decor"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1592150621344-c7a431030537?auto=format&fit=crop&q=80&w=800"
+  }
+]
+

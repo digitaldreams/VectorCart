@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Hyaluronic Acid Serum - Ultra Hydrate",
+    "description": "Pure multi-molecular hyaluronic acid serum that penetrates deep skin layers for intense hydration and plumping effect. Fragrance-free and sensitive skin safe.",
+    "price": "24.99",
+    "category": "Skincare",
+    "tags": ["serum", "hydrating", "anti-aging", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Vitamin C Glow Brightening Cream",
+    "description": "Powerful antioxidant facial cream enriched with stable Vitamin C and Vitamin E. Evens skin tone, fades dark spots, and restores youthful radiance.",
+    "price": "34.99",
+    "category": "Skincare",
+    "tags": ["moisturizer", "brightening", "vitamin-c", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Retinol Night Repair Treatment",
+    "description": "Advanced 1% Retinol night treatment designed to reduce fine lines and wrinkles. Features a slow-release formula to minimize irritation for glowing skin.",
+    "price": "45.00",
+    "category": "Skincare",
+    "tags": ["retinol", "night-cream", "anti-aging", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Soothing Aloe Vera After-Sun Gel",
+    "description": "Pure cold-pressed aloe vera gel with tea tree. Instantly cools and hydrates sun-exposed skin. Non-sticky formula that's perfect for summer skincare.",
+    "price": "14.99",
+    "category": "Personal Care",
+    "tags": ["aloe-vera", "sun-care", "soothing", "hydration"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Argan Oil for Hair and Body",
+    "description": "100% pure organic Moroccan Argan Oil. Rich in fatty acids and Vitamin E to nourish hair, strengthen nails, and soften skin. Cold-pressed and unrefined.",
+    "price": "19.99",
+    "category": "Personal Care",
+    "tags": ["argan-oil", "hair-care", "skincare", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gentle Oatmeal Body Scrub",
+    "description": "Exfoliating body scrub with natural colloidal oatmeal and brown sugar. Gently removes dead skin cells while calming dry, itchy, or sensitive skin.",
+    "price": "22.99",
+    "category": "Personal Care",
+    "tags": ["body-scrub", "exfoliation", "oatmeal", "skincare"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1567721913486-6585f069b332?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxe Velvet Matte Lipstick - Ruby",
+    "description": "Long-wearing matte lipstick with a comfortable, non-drying velvet finish. High-pigment red color that stays vibrant all day and night.",
+    "price": "18.00",
+    "category": "Cosmetics",
+    "tags": ["lipstick", "matte", "makeup", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1586771107445-d3ca888129ff?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Definition Volumizing Mascara",
+    "description": "Jet black volumizing mascara with a precision wand. Adds incredible volume and length without clumping. Waterproof and smudge-proof formula.",
+    "price": "15.99",
+    "category": "Cosmetics",
+    "tags": ["mascara", "makeup", "volumizing", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Mineral Based Liquid Foundation",
+    "description": "Breathable mineral foundation with medium, buildable coverage. Natural finish that blurs imperfections and includes skin-nourishing ingredients.",
+    "price": "28.50",
+    "category": "Cosmetics",
+    "tags": ["foundation", "makeup", "mineral", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Rose Water Facial Toner Mist",
+    "description": "Pure steam-distilled Bulgarian rose water. Refreshing facial mist that balances skin pH and tightens pores. Use as a toner or midday refresher.",
+    "price": "16.99",
+    "category": "Skincare",
+    "tags": ["toner", "rose-water", "skincare", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556229158-944f128c948e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Eucalyptus and Menthol Foot Cream",
+    "description": "Intensive cooling foot cream designed to soothe tired feet and repair cracked heels. Features 10% Urea for superior moisturization.",
+    "price": "12.49",
+    "category": "Personal Care",
+    "tags": ["foot-care", "moisturizer", "cooling", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1567721913486-6585f069b332?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Broad Spectrum Mineral Sunscreen SPF 50",
+    "description": "Non-greasy mineral sunscreen with Zinc Oxide. Provides high UV protection without chemicals. Coral reef safe and water-resistant for 80 minutes.",
+    "price": "26.99",
+    "category": "Sun Care",
+    "tags": ["sunscreen", "SPF", "mineral", "skincare"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collagen Boost Eye Gel Patches - 30 Pairs",
+    "description": "Under-eye patches infused with plant collagen, green tea, and 24K gold. Reduces puffiness, dark circles, and refreshes tired eyes instantly.",
+    "price": "29.99",
+    "category": "Skincare",
+    "tags": ["eye-patches", "skincare", "collagen", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Probiotic Night Serum",
+    "description": "Serum with concentrated probiotics designed to restore the skin's natural microbiome. Strengthens skin barrier and improves texture overnight.",
+    "price": "39.99",
+    "category": "Skincare",
+    "tags": ["serum", "probiotics", "night-routine", "skincare"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Detoxifying Charcoal Clay Mask",
+    "description": "Deep-cleansing mask with activated charcoal and kaolin clay. Draws out impurities, minimizes pores, and controls excess oil production.",
+    "price": "19.99",
+    "category": "Skincare",
+    "tags": ["face-mask", "charcoal", "detox", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sandalwood & Bergamot Hand Cream",
+    "description": "Luxurious hand cream with a warm woody and citrus scent. Fast-absorbing shea butter base that leaves hands silky smooth without feeling greasy.",
+    "price": "14.00",
+    "category": "Personal Care",
+    "tags": ["hand-cream", "fragrance", "moisturizer", "luxury"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Silk Facial Cleansing Oil",
+    "description": "Lightweight cleansing oil that melts away waterproof makeup and impurities. Rinses clean with water, leaving skin soft and hydrated.",
+    "price": "24.50",
+    "category": "Skincare",
+    "tags": ["cleansing-oil", "makeup-remover", "skincare", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556227450-4d8db191e491?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Peppermint Lip Scrub & Balm Duo",
+    "description": "Gentle sugar lip scrub for exfoliation followed by a moisturizing peppermint balm. Perfect for maintaining smooth, hydrated lips year-round.",
+    "price": "12.99",
+    "category": "Personal Care",
+    "tags": ["lip-care", "scrub", "balm", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lavender & Magnesium Sleep Soak",
+    "description": "Therapeutic bath salts with pure magnesium flakes and organic lavender oil. Promotes deep relaxation and improves sleep quality.",
+    "price": "21.99",
+    "category": "Health & Wellness",
+    "tags": ["bath-salts", "sleep-aid", "magnesium", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Frizz Silk Hair Serum",
+    "description": "Silicone-free hair serum with silk proteins and coconut oil. Adds shine, tames flyaways, and protects against heat damage up to 450°F.",
+    "price": "22.00",
+    "category": "Hair Care",
+    "tags": ["hair-serum", "anti-frizz", "heat-protection", "hair-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart UV Toothbrush Sanitizer",
+    "description": "Wall-mounted toothbrush holder with UVC light to eliminate 99.9% of bacteria. Holds 5 brushes and includes an automatic toothpaste dispenser.",
+    "price": "39.99",
+    "category": "Oral Care",
+    "tags": ["toothbrush-sanitizer", "hygiene", "oral-care", "health-tech"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Sonic Face Cleansing Brush",
+    "description": "Waterproof facial brush with soft silicone bristles and 10 vibration speeds. Deeply cleanses pores and provides a gentle facial massage.",
+    "price": "49.00",
+    "category": "Skincare",
+    "tags": ["cleansing-brush", "skincare-tools", "beauty-tech", "exfoliation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gel Under-Eye Roller - Caffeine Rush",
+    "description": "Cooling rollerball applicator with caffeine and cucumber extract. Instantly depuffs and awakens tired eyes in the morning.",
+    "price": "14.50",
+    "category": "Skincare",
+    "tags": ["eye-care", "eye-roller", "depuffing", "morning-routine"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Multi-Herb Probiotic Supplement - 60ct",
+    "description": "Daily digestive support supplement with 50 billion CFU and a blend of calming herbs like fennel and ginger. Supports gut health and immunity.",
+    "price": "29.99",
+    "category": "Supplements",
+    "tags": ["probiotics", "gut-health", "supplements", "immunity"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnesium Glycinate - 120 Capsules",
+    "description": "High-absorption magnesium glycinate supplement for muscle relaxation, improved sleep, and anxiety relief. Non-buffered and gentle on stomach.",
+    "price": "24.99",
+    "category": "Supplements",
+    "tags": ["magnesium", "supplements", "muscle-relaxation", "sleep-aid"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Turmeric & Ginger Gummies",
+    "description": "Chewable turmeric and ginger gummies with black pepper for maximum absorption. Natural anti-inflammatory support for joint health.",
+    "price": "19.99",
+    "category": "Supplements",
+    "tags": ["turmeric", "joint-health", "gummies", "supplements"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Liquid Iron & B-Vitamin Tonic",
+    "description": "Gentle liquid iron supplement with Vitamin B-complex and fruit juices. Increases energy levels and supports blood health without digestive upset.",
+    "price": "18.99",
+    "category": "Supplements",
+    "tags": ["iron-supplement", "vitamins", "energy", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Back Lumbar Pillow",
+    "description": "Ergonomic lumbar support pillow with adjustable strap. Breathable mesh design for use in office chairs or car seats to improve posture.",
+    "price": "29.99",
+    "category": "Health Accessories",
+    "tags": ["lumbar-support", "ergonomic", "posture", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Non-Contact Infrared Thermometer",
+    "description": "Medical-grade infrared forehead thermometer. Delivers instant and accurate readings without contact. Memory for 32 previous readings.",
+    "price": "34.99",
+    "category": "Medical Devices",
+    "tags": ["thermometer", "health-monitoring", "medical", "home-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Blood Pressure Monitor - Wifi",
+    "description": "Automatic upper arm blood pressure monitor that syncs data to an app. Large backlit display and multi-user tracking for heart health monitoring.",
+    "price": "79.99",
+    "category": "Medical Devices",
+    "tags": ["blood-pressure", "heart-health", "smart-device", "monitoring"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "TENS Unit Muscle Stimulator",
+    "description": "Portable dual-channel TENS machine with 8 electrode pads. Features 20 intensity levels for effective drug-free pain management and muscle therapy.",
+    "price": "49.99",
+    "category": "Health Devices",
+    "tags": ["TENS-unit", "pain-relief", "muscle-therapy", "recovery"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Foot Massager with Heat",
+    "description": "Shiatsu foot massager with deep-kneading rollers and optional heat. Relieves plantar fasciitis, arch pain, and improves circulation after a long day.",
+    "price": "89.00",
+    "category": "Health Devices",
+    "tags": ["foot-massager", "relaxation", "pain-relief", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Meditation Zafu Cushion - Buckwheat",
+    "description": "Traditional round meditation cushion filled with organic buckwheat hulls. Provides stable support for hips and spine during mindfulness practice.",
+    "price": "45.00",
+    "category": "Wellness",
+    "tags": ["meditation", "yoga", "mindfulness", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tibetan Brass Singing Bowl Set",
+    "description": "Handcrafted singing bowl for sound therapy and meditation. Produces long-lasting calming tones. Includes wooden striker and silk cushion.",
+    "price": "34.99",
+    "category": "Wellness",
+    "tags": ["singing-bowl", "meditation", "sound-therapy", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Hemp Seed Face Oil",
+    "description": "Cold-pressed hemp seed oil for facial use. Calms redness, balances oil production, and provides essential fatty acids for a healthy glow.",
+    "price": "21.99",
+    "category": "Skincare",
+    "tags": ["face-oil", "hemp-oil", "skincare", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Volumizing Sea Salt Hair Spray",
+    "description": "Texturizing spray for effortless beachy waves. Infused with sea kelp and essential oils for a natural, non-crispy hold and hydrated feel.",
+    "price": "16.50",
+    "category": "Hair Care",
+    "tags": ["hair-spray", "sea-salt", "styling", "beach-waves"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Purple Toning Shampoo for Blonde Hair",
+    "description": "Sulfate-free toning shampoo with violet pigments to neutralize brassy tones. Restores brightness and shine to blonde, platinum, and silver hair.",
+    "price": "24.99",
+    "category": "Hair Care",
+    "tags": ["shampoo", "purple-shampoo", "blonde-hair", "hair-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Ionic Hair Dryer - 1875W",
+    "description": "Professional hair dryer with ceramic tourmaline technology. Fast drying and frizz-free results with multiple heat and speed settings and cool shot.",
+    "price": "65.00",
+    "category": "Hair Care",
+    "tags": ["hair-dryer", "styling", "tools", "professional"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Bamboo Paddle Hair Brush",
+    "description": "Natural bamboo paddle brush with wooden bristles. Reduces static and provides a soothing scalp massage while detangling long hair easily.",
+    "price": "19.99",
+    "category": "Hair Care",
+    "tags": ["hair-brush", "bamboo", "eco-friendly", "hair-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lash & Brow Enhancing Serum",
+    "description": "Clinically-proven peptide serum for longer, thicker-looking lashes and brows. Safe for sensitive eyes and contact lens wearers.",
+    "price": "49.99",
+    "category": "Cosmetics",
+    "tags": ["lash-serum", "brow-serum", "beauty", "growth-serum"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Waterproof Liquid Eyeliner - Noir",
+    "description": "Precision liquid eyeliner with an ultra-fine felt tip. Perfect for sharp wings and long-lasting, smudge-free wear in any weather.",
+    "price": "14.99",
+    "category": "Cosmetics",
+    "tags": ["eyeliner", "makeup", "waterproof", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Full Coverage Beauty Blender Set",
+    "description": "Set of 3 high-quality latex-free makeup sponges. Multi-purpose design for seamless foundation, concealer, and powder application.",
+    "price": "12.00",
+    "category": "Cosmetics",
+    "tags": ["makeup-sponge", "beauty-blender", "tools", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1541575140244-9d042be68292?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Satin Sleep Mask & Scrunches Set",
+    "description": "Luxury set containing a padded satin sleep mask and 3 matching silk-look scrunchies. Protects hair and ensures deeper, more comfortable sleep.",
+    "price": "19.99",
+    "category": "Personal Care",
+    "tags": ["sleep-mask", "satin", "hair-accessories", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Manicure & Pedicure Kit",
+    "description": "10-piece stainless steel nail grooming set in a stylish leatherette case. Professional grade tools for hand and foot care at home.",
+    "price": "24.99",
+    "category": "Personal Care",
+    "tags": ["manicure-kit", "nail-care", "grooming", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Essential Oils Starter Kit - 6 Scents",
+    "description": "Collection of 100% pure therapeutic grade essential oils: Lavender, Peppermint, Eucalyptus, Lemon, Tea Tree, and Lemongrass.",
+    "price": "29.99",
+    "category": "Wellness",
+    "tags": ["essential-oils", "aromatherapy", "wellness", "gift-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collagen Peptides Powder - Unflavored",
+    "description": "Pure hydrolyzed bovine collagen peptides. Easily dissolves in hot or cold liquids. Supports hair, skin, nail, and joint health.",
+    "price": "34.99",
+    "category": "Supplements",
+    "tags": ["collagen", "supplements", "beauty-from-within", "protein"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Posture Corrector",
+    "description": "Discreet under-clothing posture support brace. Corrects slouching and aligns shoulders to reduce back and neck strain during computer work.",
+    "price": "19.99",
+    "category": "Health Accessories",
+    "tags": ["posture-corrector", "back-support", "health", "ergonomic"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Nasal Congestion Relief Strips - 30ct",
+    "description": "Drug-free adhesive strips that gently open nasal passages for better breathing and reduced snoring. Comfortable and skin-friendly.",
+    "price": "12.99",
+    "category": "Health",
+    "tags": ["nasal-strips", "breathing-relief", "sleep", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Large Monthly Pill Organizer",
+    "description": "A-day-and-night colored pill planner for 31 days. BPA-free containers with easy-open lids for those with dexterity issues.",
+    "price": "15.99",
+    "category": "Health Accessories",
+    "tags": ["pill-organizer", "medication", "organization", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Compression Knee Sleeves - Pair",
+    "description": "Breathable high-elasticity knee supports designed for joint stability and pain relief during physical activities like running or lifting.",
+    "price": "24.99",
+    "category": "Health Accessories",
+    "tags": ["compression", "knee-sleeves", "recovery", "sports-support"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Beard Grooming Kit",
+    "description": "Full set including beard oil, balm, wooden comb, and boar bristle brush. Handcrafted with organic jojoba and sandalwood for a soft, styled beard.",
+    "price": "29.99",
+    "category": "Personal Care",
+    "tags": ["beard-care", "grooming", "men-beauty", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Silk Pillowcases - Standard Pair",
+    "description": "High-quality 22 momme mulberry silk pillowcases. Naturally hypoallergenic and moisture-wicking for superior skin and hair health during sleep.",
+    "price": "59.00",
+    "category": "Bedding",
+    "tags": ["silk", "pillowcase", "luxury", "beauty-sleep"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aromatherapy Sleep Mist - Lavender",
+    "description": "Calming pillow and linen spray with pure lavender and chamomile essential oils. Promotes a deeper and more restful night's sleep.",
+    "price": "16.00",
+    "category": "Wellness",
+    "tags": ["sleep-mist", "aromatherapy", "lavender", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional Hair Flat Iron",
+    "description": "1-inch floating ceramic plates with adjustable heat up to 450°F. Smooth glide technology for perfectly straight hair or bouncy curls without frizz.",
+    "price": "89.00",
+    "category": "Hair Care",
+    "tags": ["flat-iron", "hair-styling", "tools", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Activated Charcoal Teeth Whitening Powder",
+    "description": "Natural teeth whitening alternative made from organic coconut charcoal and peppermint. Gently removes surface stains for a brighter smile.",
+    "price": "14.99",
+    "category": "Oral Care",
+    "tags": ["teeth-whitening", "charcoal", "natural", "oral-care"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Copper Fit Compression Wrist Sleeve",
+    "description": "Lightweight copper-infused compression sleeve for wrist support and relief from stiffness. Breathable fabric that's comfortable for 24-hour wear.",
+    "price": "14.49",
+    "category": "Health Accessories",
+    "tags": ["compression", "wrist-sleeve", "joint-relief", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Handheld Scalp Massager",
+    "description": "Cordless waterproof scalp massager with 4 rotating nodes. Simulates manual massage to relieve stress and improve blood circulation in the scalp.",
+    "price": "39.99",
+    "category": "Personal Care",
+    "tags": ["scalp-massager", "relaxation", "hair-care", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Elderberry Syrup with Honey",
+    "description": "High-potency black elderberry syrup with mountain honey and astragalus. Natural immune system support for both adults and children.",
+    "price": "24.99",
+    "category": "Supplements",
+    "tags": ["elderberry", "immunity", "natural-health", "supplements"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Sleep Support White Noise Machine",
+    "description": "Sound machine with 20 non-looping high-fidelity nature and white noise sounds. Helps mask environment noise for deeper, uninterrupted sleep.",
+    "price": "34.99",
+    "category": "Wellness",
+    "tags": ["white-noise", "sleep-aid", "wellness", "relaxation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Magnetic Eyelash Kit with Eyeliner",
+    "description": "Easy-to-use magnetic lash system with 5 pairs of natural-looking lashes and a waterproof magnetic eyeliner. No glue required, long-lasting hold.",
+    "price": "22.99",
+    "category": "Cosmetics",
+    "tags": ["eyelashes", "magnetic", "makeup", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Heated Eye Massager with Bluetooth",
+    "description": "Therapeutic eye mask with gentle air pressure and heat. Features built-in speakers for music or meditation sounds. Relieves dry eyes and migraines.",
+    "price": "69.00",
+    "category": "Health Devices",
+    "tags": ["eye-massager", "migraine-relief", "relaxation", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Water Flosser - Portable Cordless",
+    "description": "Rechargeable water flosser with 3 pressure modes and 4 interchangeable tips. Effectively removes 99% of plaque from hard-to-reach areas.",
+    "price": "44.99",
+    "category": "Oral Care",
+    "tags": ["water-flosser", "dental-hygiene", "oral-care", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Bath Bomb Set - 12pcs",
+    "description": "Hand-made essential oil bath bombs in a gift-ready wooden box. Moisturizing formula with shea butter for a spa-like bath experience.",
+    "price": "29.99",
+    "category": "Wellness",
+    "tags": ["bath-bombs", "relaxation", "spa", "gift-set"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Body Scale - 13 Metrics",
+    "description": "Digital weight scale that analyzes BMI, body fat%, muscle mass, and even metabolic age. Syncs effortlessly via Bluetooth to a smartphone app.",
+    "price": "49.99",
+    "category": "Medical Devices",
+    "tags": ["smart-scale", "weight-loss", "fitness-tracking", "monitoring"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cooling Bamboo Bed Sheets - Queen",
+    "description": "Ultra-soft and breathable bed sheets made from sustainable bamboo viscose. Naturally temperature-regulating for hot sleepers and gentle on skin.",
+    "price": "89.00",
+    "category": "Bedding",
+    "tags": ["sheets", "bamboo", "bedding", "sleep-health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Ergonomic Seat Cushion",
+    "description": "Memory foam seat cushion with U-shaped cutout for coccyx relief. Tailored for office workers and long-distance drivers to relieve lower back pain.",
+    "price": "34.99",
+    "category": "Health Accessories",
+    "tags": ["seat-cushion", "pain-relief", "ergonomic", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Infrared Light Therapy Panel",
+    "description": "Red light and near-infrared therapy lamp for skin rejuvenation, pain relief, and muscle recovery. Features 660nm and 850nm therapeutic wavelengths.",
+    "price": "149.00",
+    "category": "Health Devices",
+    "tags": ["light-therapy", "recovery", "anti-aging", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Lash Lifting & Tinting Home Kit",
+    "description": "Complete DIY kit for achieving salon-quality curled and dark lashes that last up to 6 weeks. Includes all necessary solutions and tools for 10 uses.",
+    "price": "39.99",
+    "category": "Cosmetics",
+    "tags": ["lash-lift", "beauty", "DIY-makeup", "beauty-tools"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Anti-Aging Facial Gua Sha Set",
+    "description": "Genuine pink quartz Gua Sha and jade roller set. Improves blood circulation, reduces facial swelling, and assists in product absorption.",
+    "price": "24.50",
+    "category": "Skincare",
+    "tags": ["gua-sha", "facial-massage", "skincare", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Himalayan Pink Salt Inhaler",
+    "description": "Ceramic saline air inhaler with pure pink salt crystals. Drug-free Respiratory relief for allergies, asthma, and sinus congestion.",
+    "price": "19.99",
+    "category": "Health",
+    "tags": ["respiratory-health", "natural-remedy", "saline", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hyaluronic Acid Plumping Lip Mask",
+    "description": "Overnight lip treatment with triple hyaluronic acid and shea butter. Deeply hydrates and volumizes lips for a smooth, full look by morning.",
+    "price": "14.99",
+    "category": "Skincare",
+    "tags": ["lip-mask", "hydration", "beauty", "skincare"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Silk Hair Turban for Sleeping",
+    "description": "100% pure mulberry silk turban that prevents friction and hair breakage. Keeps styles intact and preserves natural oils for healthier, shinier hair.",
+    "price": "39.00",
+    "category": "Hair Care",
+    "tags": ["hair-turban", "silk", "hair-care", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Vitamin E & Shea Butter Body Butter",
+    "description": "Extra-rich whipped body butter for intensive skin repair. Features a soothing vanilla scent and provides 24-hour hydration for very dry skin.",
+    "price": "22.50",
+    "category": "Personal Care",
+    "tags": ["body-butter", "moisturizer", "skincare", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Mineral Blush - Peachy Pink",
+    "description": "Silky-smooth mineral powder blush with a hint of shimmer. Buildable color that blends perfectly for a healthy, natural flush on all skin tones.",
+    "price": "16.00",
+    "category": "Cosmetics",
+    "tags": ["blush", "makeup", "beauty", "mineral"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1594125356682-7b0cfa0099d0?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Cooling Eye Compression Mask - Gel",
+    "description": "Reusable gel-filled mask for soothing migraines, puffy eyes, and sinus pressure. Can be used hot or cold for therapeutic relief.",
+    "price": "12.99",
+    "category": "Health & Wellness",
+    "tags": ["eye-mask", "gel-mask", "pain-relief", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Bamboo Cotton Rounds - 20pk",
+    "description": "Soft and reusable makeup remover pads with a mesh laundry bag. Eco-friendly alternative to disposable cotton balls for all skin types.",
+    "price": "18.00",
+    "category": "Skincare",
+    "tags": ["cotton-rounds", "reusable", "eco-friendly", "skincare"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556227450-4d8db191e491?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Biotin & Keratin Hair Growth Gummies",
+    "description": "Sweet strawberry-flavored gummies infused with high-dose biotin and keratin. Supports strong hair growth and healthy nails naturally.",
+    "price": "24.99",
+    "category": "Supplements",
+    "tags": ["biotin", "hair-growth", "supplements", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Stainless Steel Tongue Scraper - Pair",
+    "description": "Industrial-grade surgical steel scrapers for superior oral hygiene. Removes toxins and bacteria for fresher breath and better taste sensation.",
+    "price": "9.99",
+    "category": "Oral Care",
+    "tags": ["tongue-scraper", "oral-hygiene", "health", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Professional UV Gel Nail Lamp",
+    "description": "High-power LED nail dryer with automatic sensors and 4 timer settings. Cures all types of gel polish quickly for a salon-quality manicure at home.",
+    "price": "49.00",
+    "category": "Personal Care",
+    "tags": ["nail-lamp", "manicure", "beauty-tech", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Tea Tree & Peppermint Foot Soak",
+    "description": "Refreshing Epsom salt blend with anti-fungal essential oils. Softens calluses, fights foot odor, and provides relief for sore, tired feet.",
+    "price": "15.50",
+    "category": "Personal Care",
+    "tags": ["foot-soak", "relaxation", "epsom-salts", "hygiene"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Gentle Exfoliating Enzyme Powder",
+    "description": "Water-activated powder cleanser with rice enzymes and papaya extract. Gently resurfaces skin for a smooth, bright complexion without irritation.",
+    "price": "34.00",
+    "category": "Skincare",
+    "tags": ["exfoliator", "skincare", "enzyme-peel", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Electric Sonic Toothbrush - 5 Modes",
+    "description": "Advanced sonic vibration technology with a built-in 2-minute timer. Features whitening, sensitive, and gum care modes with a travel case.",
+    "price": "69.99",
+    "category": "Oral Care",
+    "tags": ["electric-toothbrush", "oral-care", "health-tech", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559591942-0f04c979d9e4?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "High-Potency Vitamin D3 + K2 Cpd",
+    "description": "High-strength immune support complex in easy-to-swallow veggie capsules. Supports bone health and efficient calcium absorption.",
+    "price": "26.99",
+    "category": "Supplements",
+    "tags": ["vitamin-d", "immunity", "supplements", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Glass Water Carafe with Cup",
+    "description": "Elegant bedside water set made from heat-resistant borosilicate glass. Perfect for keeping hydrated throughout the night in style.",
+    "price": "29.00",
+    "category": "Wellness",
+    "tags": ["water-carafe", "hydration", "bedroom-decor", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d24265cc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Deep Tissue Percussion Massage Gun",
+    "description": "Professional quiet-glide massager with 6 interchangeable heads. Targets muscle soreness and improves blood flow for faster recovery after workouts.",
+    "price": "99.00",
+    "category": "Health Devices",
+    "tags": ["massage-gun", "muscle-recovery", "fitness", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Mesh Headrest for Office",
+    "description": "Ergonomic head and neck support that easily attaches to most office chairs. Reduces neck strain during long gaming or work sessions.",
+    "price": "45.00",
+    "category": "Health Accessories",
+    "tags": ["neck-support", "ergonomic", "office-setup", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart Sleep Tracker Mat - Under Bed",
+    "description": "Non-wearable sleep sensor that monitors heart rate, breathing, and movement under your mattress. Provides detailed sleep quality analysis via app.",
+    "price": "129.00",
+    "category": "Health Devices",
+    "tags": ["sleep-tracker", "smart-health", "monitoring", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Himalayan Salt Floor Lamp",
+    "description": "Large hand-carved salt crystal lamp that emits a warm, soothing amber glow. Naturally ionizes the air and creates a relaxing ambiance.",
+    "price": "54.99",
+    "category": "Wellness",
+    "tags": ["salt-lamp", "wellness", "home-decor", "relaxation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1521997817043-34fad6749007?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Premium Organic Night Recovery Tea",
+    "description": "Caffeine-free loose leaf blend with valerian root, passionflower, and lemon balm. Promotes restorative sleep and calms the nervous system.",
+    "price": "18.99",
+    "category": "Wellness",
+    "tags": ["herbal-tea", "sleep-aid", "organic", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Hydrating Cucumber & Mint Face Mist",
+    "description": "Soothing revitalizing spray for a quick moisture boost. features actual cucumber juice and cooling peppermint for a refreshing midday skin pick-me-up.",
+    "price": "12.00",
+    "category": "Skincare",
+    "tags": ["face-mist", "refreshing", "skincare", "beauty"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556229158-944f128c948e?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Luxury Scented Soy Candle - Lavender",
+    "description": "Hand-poured natural soy wax candle with a crackling wood wick. High-fragrance load for a long-lasting calming scent for your spa day at home.",
+    "price": "24.00",
+    "category": "Wellness",
+    "tags": ["candle", "lavender", "aromatherapy", "relaxation"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Ergonomic Back Support",
+    "description": "Rigid back rest with adjustable lumbar curvature. Fits on any chair to provide ultimate spinal alignment and prevent slouching during work.",
+    "price": "59.00",
+    "category": "Health Accessories",
+    "tags": ["back-support", "ergonomic", "posture", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Collapsible Heated Foot Bath Spa",
+    "description": "Electronic foot tub with high-intensity massage rollers and temperature control. Folds flat for easy storage under your bed or in a closet.",
+    "price": "69.00",
+    "category": "Health Devices",
+    "tags": ["foot-spa", "relaxation", "wellness", "massage"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Natural Hemp and Cotton Bath Mitt",
+    "description": "Double-sided exfoliating glove for use in the shower. Loosens dead skin and improves lymphatic drainage for a smoother, healthier body.",
+    "price": "8.99",
+    "category": "Personal Care",
+    "tags": ["bath-mitt", "exfoliation", "skincare", "natural"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1567721913486-6585f069b332?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Rose Gold Eyelash Curler",
+    "description": "Ergonomic curler with high-quality silicone pads. Provides a dramatic and long-lasting lift to lashes without pinching or pulling.",
+    "price": "14.49",
+    "category": "Cosmetics",
+    "tags": ["eyelash-curler", "makeup-tools", "beauty", "glamour"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1591360236440-ad92261a8ef9?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Pure Magnesium Oil Spray - Joint Relief",
+    "description": "High-concentration topical magnesium spray for fast relief from muscle cramps and joint pain. Naturally sourced and easily absorbed through the skin.",
+    "price": "19.99",
+    "category": "Health",
+    "tags": ["magnesium-oil", "pain-relief", "recovery", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f114387c41?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Smart UVC Air Purifier for Bedrooms",
+    "description": "Features a medical-grade HEPA filter and UVC light to eliminate 99% of airborne viruses and allergens. Operates silently for better sleep.",
+    "price": "149.00",
+    "category": "Health Devices",
+    "tags": ["air-purifier", "allergy-relief", "smart-home", "health"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Aesthetic Bamboo Toothbrush Stand",
+    "description": "Minimalist wooden holder for up to 4 brushes. Naturally antimicrobial and eco-friendly design that keeps your bathroom organized.",
+    "price": "12.00",
+    "category": "Oral Care",
+    "tags": ["toothbrush-holder", "bamboo", "organization", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Organic Cotton Reusable Facial Sponges",
+    "description": "Set of 5 ultra-soft sponges for applying toner and removing makeup. Durable and washable, a plastic-free alternative for your beauty routine.",
+    "price": "15.99",
+    "category": "Skincare",
+    "tags": ["cotton-sponges", "reusable", "skincare", "sustainable"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1556227450-4d8db191e491?auto=format&fit=crop&q=80&w=800"
+  },
+  {
+    "name": "Adjustable Anti-Snore Chin Strap",
+    "description": "Comfortable breathable strap that gently keeps your jaw closed during sleep. A non-invasive and effective way to reduce snoring and dry mouth.",
+    "price": "18.50",
+    "category": "Health",
+    "tags": ["snoring-relief", "sleep-aid", "health", "wellness"],
+    "inStock": true,
+    "imageUrl": "https://images.unsplash.com/photo-1584184924103-e310d9dc82fc?auto=format&fit=crop&q=80&w=800"
+  }
+]
+
