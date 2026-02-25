@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Portable Notebook Computer 15-inch",
+    "description": "High-performance mobile computing device with Intel Core i7 processor, 16GB memory, 512GB solid state drive. Ideal for professionals and content creators.",
+    "price": "1899.99",
+    "category": "Technology",
+    "tags": ["notebook", "portable-computer", "mobile-workstation", "computing-device"],
+    "inStock": true
+  },
+  {
+    "name": "Ultra-Slim Notebook Pro 14-inch",
+    "description": "Lightweight mobile computing workstation with M3 chip, 18GB unified memory, 512GB storage. Perfect for coding and creative tasks.",
+    "price": "2199.00",
+    "category": "Technology",
+    "tags": ["notebook", "mobile-workstation", "ultrabook", "computing-device"],
+    "inStock": true
+  },
+  {
+    "name": "Business Portable Computer Carbon",
+    "description": "Ultra-lightweight travel computing device with Intel Core i7, 16GB RAM, 1TB SSD. Built for professionals on the move.",
+    "price": "1699.00",
+    "category": "Technology",
+    "tags": ["portable-computer", "business-notebook", "travel-workstation", "mobile-device"],
+    "inStock": true
+  },
+  {
+    "name": "Gaming Notebook with Graphics Card",
+    "description": "Powerful gaming portable computer with AMD Ryzen 7, NVIDIA RTX 3060, 16GB RAM. Great for gaming and development.",
+    "price": "1299.00",
+    "category": "Technology",
+    "tags": ["gaming-notebook", "portable-gaming", "graphics-workstation", "gaming-rig"],
+    "inStock": true
+  },
+  {
+    "name": "Compact Gaming Portable 14-inch",
+    "description": "Small form-factor gaming computer with AMD Ryzen 9, RTX 4060, 32GB RAM. Powerful performance in portable design.",
+    "price": "1899.00",
+    "category": "Technology",
+    "tags": ["compact-gaming", "portable-gaming", "small-workstation", "gaming-notebook"],
+    "inStock": true
+  },
+  {
+    "name": "Premium Touchscreen Portable 13-inch",
+    "description": "Elegant mobile computer with Intel Core i7, 16GB RAM, 512GB SSD, PixelSense touch display. For professionals.",
+    "price": "1599.00",
+    "category": "Technology",
+    "tags": ["touchscreen", "portable-computer", "premium-notebook", "2-in-1-device"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Input Device Mechanical",
+    "description": "Premium mechanical typing board with customizable RGB backlighting. Tactile switches for comfortable typing.",
+    "price": "169.99",
+    "category": "Technology",
+    "tags": ["typing-board", "mechanical-input", "wireless-keyboard", "input-device"],
+    "inStock": true
+  },
+  {
+    "name": "Ergonomic Wireless Pointing Device",
+    "description": "Comfortable cursor controller with precision tracking. Reduces wrist strain for extended use.",
+    "price": "99.99",
+    "category": "Technology",
+    "tags": ["pointing-device", "cursor-controller", "ergonomic-mouse", "wireless-input"],
+    "inStock": true
+  },
+  {
+    "name": "Premium Audio Headset Over-Ear",
+    "description": "High-fidelity wireless listening device with active noise cancellation. 30-hour battery life.",
+    "price": "349.99",
+    "category": "Technology",
+    "tags": ["audio-headset", "listening-device", "over-ear-headphones", "wireless-audio"],
+    "inStock": true
+  },
+  {
+    "name": "True Wireless Earbuds with Charging Case",
+    "description": "Compact in-ear audio devices with premium sound quality. Includes portable charging container.",
+    "price": "199.99",
+    "category": "Technology",
+    "tags": ["earbuds", "in-ear-audio", "wireless-earphones", "listening-device"],
+    "inStock": true
+  },
+  {
+    "name": "Ultra-Wide Curved Display 34-inch",
+    "description": "Immersive widescreen monitor with 3440x1440 resolution. Perfect for productivity and gaming.",
+    "price": "699.99",
+    "category": "Technology",
+    "tags": ["ultrawide-display", "curved-monitor", "widescreen", "computer-display"],
+    "inStock": true
+  },
+  {
+    "name": "4K Professional Display 27-inch",
+    "description": "High-resolution screen with accurate color reproduction. Ideal for designers and video editors.",
+    "price": "549.99",
+    "category": "Technology",
+    "tags": ["4k-display", "professional-monitor", "uhd-screen", "color-accurate-display"],
+    "inStock": true
+  },
+  {
+    "name": "Portable External Storage 2TB",
+    "description": "Compact data drive with fast USB 3.0 transfer speeds. Backup your files on the go.",
+    "price": "89.99",
+    "category": "Technology",
+    "tags": ["external-drive", "portable-storage", "backup-drive", "data-storage"],
+    "inStock": true
+  },
+  {
+    "name": "High-Speed Portable SSD 1TB",
+    "description": "Ultra-fast solid state drive with USB-C connectivity. Perfect for content creators.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["portable-ssd", "external-storage", "fast-drive", "solid-state-drive"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Charging Pad Fast Charge",
+    "description": "Qi-compatible power mat for smartphones and earbuds. 15W fast wireless charging.",
+    "price": "39.99",
+    "category": "Technology",
+    "tags": ["wireless-charger", "charging-pad", "qi-charger", "power-mat"],
+    "inStock": true
+  },
+  {
+    "name": "Multi-Port USB-C Hub Adapter",
+    "description": "7-in-1 connectivity hub with HDMI, USB 3.0, SD card reader. Essential for modern portable computers.",
+    "price": "59.99",
+    "category": "Technology",
+    "tags": ["usb-hub", "adapter", "dongle", "connectivity-hub"],
+    "inStock": true
+  },
+  {
+    "name": "High-Definition Webcam 1080p",
+    "description": "Full HD video camera for video calls and streaming. Built-in microphone with noise reduction.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["webcam", "video-camera", "streaming-camera", "hd-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Professional Streaming Microphone USB",
+    "description": "Studio-quality condenser audio capture device. Perfect for podcasting and voiceovers.",
+    "price": "129.99",
+    "category": "Technology",
+    "tags": ["microphone", "streaming-mic", "usb-mic", "audio-capture"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Home Hub Voice Assistant",
+    "description": "Central control device for smart home products. Voice-activated with premium speaker.",
+    "price": "99.99",
+    "category": "Technology",
+    "tags": ["smart-speaker", "voice-assistant", "home-hub", "smart-home-controller"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Router Mesh System",
+    "description": "Whole-home WiFi coverage with mesh networking technology. Eliminates dead zones.",
+    "price": "299.99",
+    "category": "Technology",
+    "tags": ["wifi-router", "mesh-system", "wireless-network", "internet-router"],
+    "inStock": true
+  },
+  {
+    "name": "Graphics Processing Unit RTX 4070",
+    "description": "High-performance video card for gaming and content creation. Ray tracing capable.",
+    "price": "599.99",
+    "category": "Technology",
+    "tags": ["gpu", "graphics-card", "video-card", "gaming-hardware"],
+    "inStock": true
+  },
+  {
+    "name": "Desktop Processor 16-Core",
+    "description": "High-performance central processing unit for gaming and productivity. 16 cores, 32 threads.",
+    "price": "449.99",
+    "category": "Technology",
+    "tags": ["cpu", "processor", "desktop-cpu", "computer-chip"],
+    "inStock": true
+  },
+  {
+    "name": "High-Speed Memory Kit 32GB",
+    "description": "DDR5 RAM modules for modern computers. 32GB capacity for demanding applications.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["ram", "memory", "ddr5", "computer-memory"],
+    "inStock": true
+  },
+  {
+    "name": "Gaming Controller Wireless",
+    "description": "Ergonomic game pad for console and PC. Wireless connectivity with rechargeable battery.",
+    "price": "69.99",
+    "category": "Technology",
+    "tags": ["controller", "gamepad", "gaming-controller", "wireless-controller"],
+    "inStock": true
+  },
+  {
+    "name": "Virtual Reality Headset",
+    "description": "Immersive VR glasses for gaming and experiences. Includes motion controllers.",
+    "price": "499.99",
+    "category": "Technology",
+    "tags": ["vr-headset", "virtual-reality", "vr-glasses", "gaming-vr"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact wireless audio player with 360-degree sound. Waterproof design.",
+    "price": "129.99",
+    "category": "Technology",
+    "tags": ["bluetooth-speaker", "portable-speaker", "wireless-audio", "speaker"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Watch Fitness Tracker",
+    "description": "Wearable health monitoring device with GPS. Tracks workouts and notifications.",
+    "price": "399.99",
+    "category": "Technology",
+    "tags": ["smartwatch", "fitness-tracker", "wearable", "health-monitor"],
+    "inStock": true
+  },
+  {
+    "name": "Tablet Computer 11-inch",
+    "description": "Portable touchscreen device with stylus support. Perfect for note-taking and media.",
+    "price": "799.99",
+    "category": "Technology",
+    "tags": ["tablet", "touchscreen-device", "portable-tablet", "slate-computer"],
+    "inStock": true
+  },
+  {
+    "name": "E-Reader Digital Book Device",
+    "description": "Electronic paper display for reading books. Weeks of battery life.",
+    "price": "139.99",
+    "category": "Technology",
+    "tags": ["e-reader", "digital-book-reader", "electronic-reader", "ebook-device"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Presentation Remote",
+    "description": "Laser pointer and slide advancer for presentations. USB receiver included.",
+    "price": "29.99",
+    "category": "Technology",
+    "tags": ["presenter", "clicker", "remote-control", "laser-pointer"],
+    "inStock": true
+  },
+  {
+    "name": "Notebook Cooling Pad with Fans",
+    "description": "Portable computer temperature reduction stand with adjustable fans. Prevents overheating.",
+    "price": "39.99",
+    "category": "Technology",
+    "tags": ["cooling-pad", "notebook-stand", "cooling-fan", "laptop-cooler"],
+    "inStock": true
+  },
+  {
+    "name": "Monitor Arm Desk Mount",
+    "description": "Adjustable screen support for ergonomic positioning. Frees up desk space.",
+    "price": "89.99",
+    "category": "Technology",
+    "tags": ["monitor-arm", "desk-mount", "screen-stand", "ergonomic"],
+    "inStock": true
+  },
+  {
+    "name": "Mechanical Numeric Keypad",
+    "description": "Standalone number pad for portable computers. Mechanical switches for tactile typing.",
+    "price": "34.99",
+    "category": "Technology",
+    "tags": ["numpad", "numeric-keypad", "number-pad", "calculator-pad"],
+    "inStock": true
+  },
+  {
+    "name": "USB Desktop Fan Quiet",
+    "description": "Small cooling fan powered by USB. Perfect for personal desk cooling.",
+    "price": "19.99",
+    "category": "Technology",
+    "tags": ["usb-fan", "desk-fan", "cooling-fan", "personal-fan"],
+    "inStock": true
+  },
+  {
+    "name": "LED Desk Lamp with USB Port",
+    "description": "Adjustable work light with device charging port. Multiple brightness levels.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["desk-lamp", "led-lamp", "task-light", "reading-light"],
+    "inStock": true
+  },
+  {
+    "name": "Cable Management Sleeve Kit",
+    "description": "Wire organization system for clean desk setup. Includes clips and ties.",
+    "price": "24.99",
+    "category": "Technology",
+    "tags": ["cable-management", "wire-organizer", "cord-sleeve", "desk-organization"],
+    "inStock": true
+  },
+  {
+    "name": "Privacy Screen Filter 24-inch",
+    "description": "Monitor privacy protector blocks side viewing. Protects sensitive information.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["privacy-filter", "screen-protector", "privacy-screen", "monitor-filter"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Barcode Scanner",
+    "description": "Handheld product code reader for retail. USB and Bluetooth connectivity.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["barcode-scanner", "qr-scanner", "product-scanner", "retail-scanner"],
+    "inStock": true
+  },
+  {
+    "name": "Label Maker Portable Bluetooth",
+    "description": "Wireless tag printer for organization. Smartphone app controlled.",
+    "price": "69.99",
+    "category": "Technology",
+    "tags": ["label-maker", "label-printer", "tag-printer", "organizer"],
+    "inStock": true
+  },
+  {
+    "name": "Digital Voice Recorder",
+    "description": "Compact audio recording device for meetings and lectures. Long battery life.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["voice-recorder", "audio-recorder", "dictaphone", "recording-device"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Projector Mini",
+    "description": "Compact video projector for presentations and movies. Built-in speaker.",
+    "price": "299.99",
+    "category": "Technology",
+    "tags": ["projector", "mini-projector", "portable-projector", "video-projector"],
+    "inStock": true
+  },
+  {
+    "name": "Document Camera Scanner",
+    "description": "Overhead scanner for documents and objects. Perfect for remote teaching.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["document-camera", "scanner", "visual-presenter", "document-scanner"],
+    "inStock": true
+  },
+  {
+    "name": "Graphics Drawing Tablet",
+    "description": "Digital art pad with pressure-sensitive stylus. For digital artists and designers.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["drawing-tablet", "graphics-tablet", "digital-art", "stylus-pad"],
+    "inStock": true
+  },
+  {
+    "name": "3D Printer Desktop",
+    "description": "Personal additive manufacturing machine. Creates physical objects from digital designs.",
+    "price": "299.99",
+    "category": "Technology",
+    "tags": ["3d-printer", "additive-manufacturing", "desktop-printer", "maker"],
+    "inStock": true
+  },
+  {
+    "name": "Laser Engraving Machine",
+    "description": "Desktop marking and cutting device. For wood, leather, and acrylic materials.",
+    "price": "399.99",
+    "category": "Technology",
+    "tags": ["laser-engraver", "engraving-machine", "laser-cutter", "maker-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Soldering Station Digital",
+    "description": "Precision electronics work station with temperature control. For circuit repair.",
+    "price": "89.99",
+    "category": "Technology",
+    "tags": ["soldering-station", "soldering-iron", "electronics-tool", "repair-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Digital Multimeter Professional",
+    "description": "Electronic measurement device for voltage, current, resistance. Essential for electricians.",
+    "price": "59.99",
+    "category": "Technology",
+    "tags": ["multimeter", "electrical-tester", "measurement-tool", "electronics-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Raspberry Pi 5 Computer Kit",
+    "description": "Single-board microcomputer for learning and projects. Complete starter kit included.",
+    "price": "119.99",
+    "category": "Technology",
+    "tags": ["raspberry-pi", "single-board-computer", "microcomputer", "maker-kit"],
+    "inStock": true
+  },
+  {
+    "name": "Arduino Starter Electronics Kit",
+    "description": "Microcontroller platform for interactive projects. Includes sensors and components.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["arduino", "microcontroller", "electronics-kit", "maker"],
+    "inStock": true
+  },
+  {
+    "name": "Network Attached Storage 4-Bay",
+    "description": "Centralized file storage server for home or office. 4 drive bays.",
+    "price": "449.99",
+    "category": "Technology",
+    "tags": ["nas", "network-storage", "file-server", "data-storage"],
+    "inStock": true
+  },
+  {
+    "name": "Uninterruptible Power Supply 1500VA",
+    "description": "Battery backup for computers and electronics. Protects against power outages.",
+    "price": "199.99",
+    "category": "Technology",
+    "tags": ["ups", "battery-backup", "power-protection", "surge-protector"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Power Strip WiFi",
+    "description": "Internet-connected surge protector with individual outlet control. Voice compatible.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["smart-strip", "wifi-outlet", "power-strip", "smart-home"],
+    "inStock": true
+  },
+  {
+    "name": "KVM Switch 2-Port",
+    "description": "Keyboard, video, mouse selector for multiple computers. Share peripherals.",
+    "price": "59.99",
+    "category": "Technology",
+    "tags": ["kvm-switch", "computer-switch", "peripheral-sharing", "multi-pc"],
+    "inStock": true
+  },
+  {
+    "name": "Thunderbolt 4 Dock",
+    "description": "Universal portable computer docking station with 40Gbps speeds. Single cable connectivity.",
+    "price": "299.99",
+    "category": "Technology",
+    "tags": ["thunderbolt-dock", "notebook-dock", "usb-c-hub", "docking-station"],
+    "inStock": true
+  },
+  {
+    "name": "Portable Monitor 15.6-inch",
+    "description": "Secondary display for portable computers. USB-C powered, perfect for dual-screen productivity.",
+    "price": "199.99",
+    "category": "Technology",
+    "tags": ["portable-monitor", "travel-display", "secondary-screen", "usb-monitor"],
+    "inStock": true
+  },
+  {
+    "name": "Ring Light with Tripod Stand",
+    "description": "Circular LED light for photography and video. Adjustable brightness and color.",
+    "price": "69.99",
+    "category": "Technology",
+    "tags": ["ring-light", "photography-light", "video-light", "streaming-light"],
+    "inStock": true
+  },
+  {
+    "name": "Green Screen Background",
+    "description": "Chromakey backdrop for video production. Collapsible with stand.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["green-screen", "chromakey", "video-background", "photography"],
+    "inStock": true
+  },
+  {
+    "name": "Action Camera 4K Waterproof",
+    "description": "Compact sports video camera with image stabilization. Underwater capable.",
+    "price": "349.99",
+    "category": "Technology",
+    "tags": ["action-camera", "sports-camera", "gopro", "waterproof-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Drone with 4K Camera",
+    "description": "Remote-controlled flying camera with GPS. Aerial photography made easy.",
+    "price": "799.99",
+    "category": "Technology",
+    "tags": ["drone", "quadcopter", "aerial-camera", "flying-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Gimbal Stabilizer for Smartphone",
+    "description": "3-axis handheld steadying device for smooth video. Smartphone mount included.",
+    "price": "129.99",
+    "category": "Technology",
+    "tags": ["gimbal", "stabilizer", "video-stabilizer", "smartphone-gimbal"],
+    "inStock": true
+  },
+  {
+    "name": "Memory Card 256GB High-Speed",
+    "description": "MicroSD storage card with adapter. Fast read/write speeds for 4K video.",
+    "price": "34.99",
+    "category": "Technology",
+    "tags": ["memory-card", "microsd", "sd-card", "storage-card"],
+    "inStock": true
+  },
+  {
+    "name": "Phone Camera Lens Kit",
+    "description": "Clip-on lens set for smartphones. Wide angle, macro, and fisheye options.",
+    "price": "39.99",
+    "category": "Technology",
+    "tags": ["phone-lens", "smartphone-lens", "camera-lens", "mobile-photography"],
+    "inStock": true
+  },
+  {
+    "name": "Selfie Stick with Tripod",
+    "description": "Extendable phone holder with Bluetooth remote. Doubles as tabletop stand.",
+    "price": "29.99",
+    "category": "Technology",
+    "tags": ["selfie-stick", "phone-tripod", "selfie-pole", "phone-holder"],
+    "inStock": true
+  },
+  {
+    "name": "Car Phone Mount Magnetic",
+    "description": "Strong magnetic vehicle phone holder. Dashboard and vent mounting options.",
+    "price": "24.99",
+    "category": "Technology",
+    "tags": ["phone-mount", "car-holder", "magnetic-mount", "vehicle-mount"],
+    "inStock": true
+  },
+  {
+    "name": "Wireless Car Charger Mount",
+    "description": "Auto-clamping phone holder with Qi charging. Air vent and dashboard mount.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["car-charger", "wireless-charger", "phone-mount", "auto-charger"],
+    "inStock": true
+  },
+  {
+    "name": "Dash Cam Front and Rear",
+    "description": "Dual vehicle video recorder with night vision. Loop recording and G-sensor.",
+    "price": "129.99",
+    "category": "Technology",
+    "tags": ["dash-cam", "car-camera", "vehicle-recorder", "driving-camera"],
+    "inStock": true
+  },
+  {
+    "name": "GPS Tracker Real-Time",
+    "description": "Compact location tracking device. Live tracking via smartphone app.",
+    "price": "39.99",
+    "category": "Technology",
+    "tags": ["gps-tracker", "location-tracker", "vehicle-tracker", "tracking-device"],
+    "inStock": true
+  },
+  {
+    "name": "OBD2 Scanner Diagnostic Tool",
+    "description": "Vehicle code reader for check engine light. Works with all modern cars.",
+    "price": "29.99",
+    "category": "Technology",
+    "tags": ["obd2-scanner", "code-reader", "car-diagnostic", "vehicle-scanner"],
+    "inStock": true
+  },
+  {
+    "name": "Tire Pressure Monitoring System",
+    "description": "Wireless tire pressure and temperature monitor. Real-time alerts.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["tpms", "tire-monitor", "pressure-sensor", "car-safety"],
+    "inStock": true
+  },
+  {
+    "name": "Jump Starter Portable Power Bank",
+    "description": "Emergency vehicle battery booster with USB ports. Compact lithium design.",
+    "price": "89.99",
+    "category": "Technology",
+    "tags": ["jump-starter", "battery-booster", "power-bank", "emergency-starter"],
+    "inStock": true
+  },
+  {
+    "name": "Car Vacuum Cleaner Cordless",
+    "description": "Handheld vehicle cleaning device. Powerful suction for car interiors.",
+    "price": "59.99",
+    "category": "Technology",
+    "tags": ["car-vacuum", "auto-vacuum", "handheld-vacuum", "vehicle-cleaner"],
+    "inStock": true
+  },
+  {
+    "name": "Air Purifier for Car",
+    "description": "Compact air cleaner with HEPA filter. Removes odors and allergens.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["air-purifier", "car-air-cleaner", "hepa-filter", "auto-freshener"],
+    "inStock": true
+  },
+  {
+    "name": "Backup Camera Wireless",
+    "description": "Rear-view camera system with monitor. Easy installation, night vision.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["backup-camera", "rear-camera", "reversing-camera", "parking-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Head-Up Display for Car",
+    "description": "Windshield speed and navigation projector. OBD2 connected.",
+    "price": "79.99",
+    "category": "Technology",
+    "tags": ["hud", "head-up-display", "car-projector", "windshield-display"],
+    "inStock": true
+  },
+  {
+    "name": "Bluetooth FM Transmitter for Car",
+    "description": "Wireless music adapter for older vehicles. USB charging ports included.",
+    "price": "24.99",
+    "category": "Technology",
+    "tags": ["fm-transmitter", "bluetooth-adapter", "car-audio", "music-adapter"],
+    "inStock": true
+  },
+  {
+    "name": "Smart WiFi Thermostat",
+    "description": "Programmable temperature controller with app control. Energy saving features.",
+    "price": "179.99",
+    "category": "Technology",
+    "tags": ["smart-thermostat", "wifi-thermostat", "temperature-control", "home-automation"],
+    "inStock": true
+  },
+  {
+    "name": "Video Doorbell Smart",
+    "description": "WiFi-enabled door camera with two-way audio. Motion detection alerts.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["video-doorbell", "smart-doorbell", "door-camera", "security-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Lock Keyless Entry",
+    "description": "Electronic door lock with smartphone control. Keyless entry and auto-lock.",
+    "price": "199.99",
+    "category": "Technology",
+    "tags": ["smart-lock", "keyless-lock", "electronic-lock", "door-lock"],
+    "inStock": true
+  },
+  {
+    "name": "Security Camera Indoor WiFi",
+    "description": "Home monitoring camera with night vision. Two-way audio and motion alerts.",
+    "price": "39.99",
+    "category": "Technology",
+    "tags": ["security-camera", "indoor-camera", "wifi-camera", "home-monitor"],
+    "inStock": true
+  },
+  {
+    "name": "Outdoor Security Camera Wireless",
+    "description": "Weatherproof surveillance camera with spotlight. Color night vision.",
+    "price": "89.99",
+    "category": "Technology",
+    "tags": ["outdoor-camera", "security-camera", "surveillance", "weatherproof-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Motion Sensor Light Outdoor",
+    "description": "Solar-powered security light with motion detection. LED flood light.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["motion-light", "security-light", "solar-light", "flood-light"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Garage Door Opener",
+    "description": "WiFi garage controller with smartphone app. Voice control compatible.",
+    "price": "99.99",
+    "category": "Technology",
+    "tags": ["garage-opener", "smart-garage", "garage-controller", "home-automation"],
+    "inStock": true
+  },
+  {
+    "name": "Robot Vacuum Cleaner",
+    "description": "Autonomous floor cleaning device. App control and scheduling.",
+    "price": "299.99",
+    "category": "Technology",
+    "tags": ["robot-vacuum", "auto-vacuum", "robotic-cleaner", "smart-vacuum"],
+    "inStock": true
+  },
+  {
+    "name": "Robot Mop Floor Cleaner",
+    "description": "Automatic mopping device for hard floors. Vacuum and mop combo.",
+    "price": "349.99",
+    "category": "Technology",
+    "tags": ["robot-mop", "floor-cleaner", "auto-mop", "smart-cleaner"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Light Bulbs Color 4-Pack",
+    "description": "WiFi LED bulbs with millions of colors. Voice and app control.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["smart-bulb", "color-bulb", "wifi-bulb", "led-bulb"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Plug WiFi Outlet 4-Pack",
+    "description": "Remote-controlled power outlets. Schedule and automate devices.",
+    "price": "29.99",
+    "category": "Technology",
+    "tags": ["smart-plug", "wifi-outlet", "smart-outlet", "remote-plug"],
+    "inStock": true
+  },
+  {
+    "name": "Water Leak Detector Smart",
+    "description": "WiFi flood sensor with app alerts. Protects against water damage.",
+    "price": "29.99",
+    "category": "Technology",
+    "tags": ["leak-detector", "water-sensor", "flood-alarm", "smart-sensor"],
+    "inStock": true
+  },
+  {
+    "name": "Smoke Detector Smart WiFi",
+    "description": "Internet-connected fire alarm with smartphone notifications. Battery backup.",
+    "price": "119.99",
+    "category": "Technology",
+    "tags": ["smoke-detector", "fire-alarm", "smart-alarm", "wifi-detector"],
+    "inStock": true
+  },
+  {
+    "name": "Carbon Monoxide Detector Smart",
+    "description": "Digital CO alarm with app connectivity. Voice alerts and smartphone warnings.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["co-detector", "carbon-monoxide", "smart-alarm", "safety-detector"],
+    "inStock": true
+  },
+  {
+    "name": "Pet Camera with Treat Dispenser",
+    "description": "Interactive pet monitor with two-way audio. Toss treats remotely.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["pet-camera", "pet-monitor", "treat-camera", "dog-camera"],
+    "inStock": true
+  },
+  {
+    "name": "Automatic Pet Feeder Smart",
+    "description": "Programmed food dispenser with app control. Portion control and scheduling.",
+    "price": "129.99",
+    "category": "Technology",
+    "tags": ["pet-feeder", "auto-feeder", "smart-feeder", "dog-feeder"],
+    "inStock": true
+  },
+  {
+    "name": "Smart Litter Box Self-Cleaning",
+    "description": "Automatic cat toilet with waste separation. App monitoring and alerts.",
+    "price": "499.99",
+    "category": "Technology",
+    "tags": ["smart-litter-box", "auto-litter", "self-cleaning", "cat-toilet"],
+    "inStock": true
+  },
+  {
+    "name": "GPS Pet Tracker Collar",
+    "description": "Real-time location tracker for pets. Unlimited range with subscription.",
+    "price": "99.99",
+    "category": "Technology",
+    "tags": ["pet-tracker", "gps-collar", "dog-tracker", "pet-location"],
+    "inStock": true
+  },
+  {
+    "name": "Digital Picture Frame WiFi",
+    "description": "Smart photo display with cloud connectivity. Remote photo sharing.",
+    "price": "149.99",
+    "category": "Technology",
+    "tags": ["digital-frame", "photo-frame", "smart-display", "picture-frame"],
+    "inStock": true
+  },
+  {
+    "name": "Streaming Media Player 4K",
+    "description": "Digital media streamer for TV. Access to all major streaming services.",
+    "price": "49.99",
+    "category": "Technology",
+    "tags": ["streaming-device", "media-player", "tv-streamer", "4k-streamer"],
+    "inStock": true
+  },
+  {
+    "name": "Universal Remote Control Smart",
+    "description": "All-in-one device controller with voice commands. Replaces multiple remotes.",
+    "price": "99.99",
+    "category": "Technology",
+    "tags": ["universal-remote", "smart-remote", "voice-remote", "home-remote"],
+    "inStock": true
+  },
+  {
+    "name": "Surge Protector Power Strip 12-Outlet",
+    "description": "Heavy-duty surge suppressor with USB ports. 4000 joules protection.",
+    "price": "39.99",
+    "category": "Technology",
+    "tags": ["surge-protector", "power-strip", "outlet-strip", "power-conditioner"],
+    "inStock": true
+  },
+  {
+    "name": "Extension Cord Heavy Duty 25ft",
+    "description": "Thick gauge power cable for indoor/outdoor use. Multiple outlet ends.",
+    "price": "34.99",
+    "category": "Technology",
+    "tags": ["extension-cord", "power-cord", "outdoor-cord", "heavy-duty-cord"],
+    "inStock": true
+  }
+]

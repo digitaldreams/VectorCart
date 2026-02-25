@@ -1,0 +1,930 @@
+[
+  {
+    "name": "Countertop Microwave Oven 1000W",
+    "description": "Compact cooking appliance with multiple power levels. 1.1 cu ft capacity.",
+    "price": "89.99",
+    "category": "Kitchen",
+    "tags": ["microwave", "cooking-appliance", "kitchen-oven", "countertop-oven"],
+    "inStock": true
+  },
+  {
+    "name": "Air Fryer Oil-Free Cooker",
+    "description": "Healthy cooking device using hot air circulation. Digital touchscreen controls.",
+    "price": "119.99",
+    "category": "Kitchen",
+    "tags": ["air-fryer", "oil-free-cooker", "healthy-appliance", "kitchen-cooker"],
+    "inStock": true
+  },
+  {
+    "name": "Slow Cooker Crock Pot 6-Quart",
+    "description": "Electric simmering pot for long cooking times. Programmable timer.",
+    "price": "49.99",
+    "category": "Kitchen",
+    "tags": ["slow-cooker", "crock-pot", "simmer-pot", "electric-cooker"],
+    "inStock": true
+  },
+  {
+    "name": "Electric Pressure Cooker Multi-Use",
+    "description": "Versatile cooking device combining multiple functions. Rice cooker, steamer, sauté.",
+    "price": "89.99",
+    "category": "Kitchen",
+    "tags": ["pressure-cooker", "instant-pot", "multi-cooker", "electric-pot"],
+    "inStock": true
+  },
+  {
+    "name": "Rice Cooker Automatic Steamer",
+    "description": "Dedicated grain cooking appliance with keep-warm function. Includes steaming basket.",
+    "price": "39.99",
+    "category": "Kitchen",
+    "tags": ["rice-cooker", "grain-cooker", "food-steamer", "kitchen-appliance"],
+    "inStock": true
+  },
+  {
+    "name": "Food Processor Multi-Function",
+    "description": "Versatile kitchen machine for chopping, slicing, shredding. Multiple blade attachments.",
+    "price": "99.99",
+    "category": "Kitchen",
+    "tags": ["food-processor", "kitchen-machine", "chopper", "food-chopper"],
+    "inStock": true
+  },
+  {
+    "name": "Countertop Blender High-Speed",
+    "description": "Powerful mixing machine for smoothies and soups. Variable speed control.",
+    "price": "79.99",
+    "category": "Kitchen",
+    "tags": ["blender", "mixer", "smoothie-maker", "liquefier"],
+    "inStock": true
+  },
+  {
+    "name": "Immersion Hand Blender Stick",
+    "description": "Handheld blending wand for soups and sauces. Detachable shaft for cleaning.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["hand-blender", "immersion-blender", "stick-blender", "blending-wand"],
+    "inStock": true
+  },
+  {
+    "name": "Electric Coffee Grinder Burr",
+    "description": "Precision bean grinding machine. Adjustable coarseness settings.",
+    "price": "69.99",
+    "category": "Kitchen",
+    "tags": ["coffee-grinder", "burr-grinder", "bean-grinder", "kitchen-grinder"],
+    "inStock": true
+  },
+  {
+    "name": "Drip Coffee Maker Programmable",
+    "description": "Automatic brewing machine with timer. 12-cup glass carafe.",
+    "price": "59.99",
+    "category": "Kitchen",
+    "tags": ["coffee-maker", "brewing-machine", "drip-brewer", "coffee-brewer"],
+    "inStock": true
+  },
+  {
+    "name": "Espresso Machine Semi-Automatic",
+    "description": "Professional-style coffee maker with steam wand. 15-bar pressure pump.",
+    "price": "199.99",
+    "category": "Kitchen",
+    "tags": ["espresso-machine", "coffee-maker", "espresso-brewer", "cappuccino-maker"],
+    "inStock": true
+  },
+  {
+    "name": "Electric Kettle Fast-Boil",
+    "description": "Quick water heating appliance. Auto shut-off and boil-dry protection.",
+    "price": "39.99",
+    "category": "Kitchen",
+    "tags": ["electric-kettle", "water-boiler", "tea-kettle", "hot-water-heater"],
+    "inStock": true
+  },
+  {
+    "name": "Toaster 4-Slice Wide Slot",
+    "description": "Countertop bread browning appliance. Bagel and defrost settings.",
+    "price": "44.99",
+    "category": "Kitchen",
+    "tags": ["toaster", "bread-toaster", "breakfast-appliance", "kitchen-toaster"],
+    "inStock": true
+  },
+  {
+    "name": "Toaster Oven Convection",
+    "description": "Compact oven with fan circulation. Bake, broil, toast functions.",
+    "price": "89.99",
+    "category": "Kitchen",
+    "tags": ["toaster-oven", "countertop-oven", "mini-oven", "convection-oven"],
+    "inStock": true
+  },
+  {
+    "name": "Electric Griddle Non-Stick",
+    "description": "Flat cooking surface for pancakes and eggs. Adjustable temperature control.",
+    "price": "49.99",
+    "category": "Kitchen",
+    "tags": ["griddle", "electric-griddle", "pancake-maker", "breakfast-cooker"],
+    "inStock": true
+  },
+  {
+    "name": "Waffle Maker Belgian Style",
+    "description": "Deep-pocket waffle iron with non-stick plates. Indicator lights.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["waffle-maker", "waffle-iron", "breakfast-maker", "waffle-cooker"],
+    "inStock": true
+  },
+  {
+    "name": "Electric Can Opener Automatic",
+    "description": "Hands-free lid cutting device. Magnetic lid holder.",
+    "price": "24.99",
+    "category": "Kitchen",
+    "tags": ["can-opener", "electric-opener", "kitchen-tool", "lid-cutter"],
+    "inStock": true
+  },
+  {
+    "name": "Stand Mixer Tilt-Head",
+    "description": "Powerful baking machine with multiple attachments. 5-quart stainless bowl.",
+    "price": "279.99",
+    "category": "Kitchen",
+    "tags": ["stand-mixer", "baking-mixer", "kitchen-mixer", "dough-mixer"],
+    "inStock": true
+  },
+  {
+    "name": "Hand Mixer Electric 5-Speed",
+    "description": "Portable mixing device for baking. Includes beaters and dough hooks.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["hand-mixer", "electric-mixer", "portable-mixer", "baking-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Bread Maker Automatic",
+    "description": "All-in-one loaf baking machine. Multiple settings for different bread types.",
+    "price": "119.99",
+    "category": "Kitchen",
+    "tags": ["bread-maker", "bread-machine", "loaf-maker", "automatic-baker"],
+    "inStock": true
+  },
+  {
+    "name": "Ice Cream Maker Frozen Dessert",
+    "description": "Home frozen treat maker. Compressor model - no pre-freezing needed.",
+    "price": "99.99",
+    "category": "Kitchen",
+    "tags": ["ice-cream-maker", "frozen-dessert-maker", "gelato-maker", "dessert-maker"],
+    "inStock": true
+  },
+  {
+    "name": "Vacuum Sealer Food Preservation",
+    "description": "Air removal system for food storage. Extends freshness of foods.",
+    "price": "79.99",
+    "category": "Kitchen",
+    "tags": ["vacuum-sealer", "food-sealer", "preservation-system", "storage-sealer"],
+    "inStock": true
+  },
+  {
+    "name": "Food Dehydrator Fruit Jerky",
+    "description": "Low-temperature drying appliance. Multiple stackable trays.",
+    "price": "69.99",
+    "category": "Kitchen",
+    "tags": ["dehydrator", "food-dryer", "jerky-maker", "fruit-dryer"],
+    "inStock": true
+  },
+  {
+    "name": "Wine Cooler Refrigerator 12-Bottle",
+    "description": "Thermoelectric beverage chiller. Dual temperature zones.",
+    "price": "149.99",
+    "category": "Kitchen",
+    "tags": ["wine-cooler", "beverage-fridge", "wine-chiller", "drink-refrigerator"],
+    "inStock": true
+  },
+  {
+    "name": "Compact Refrigerator Mini Fridge",
+    "description": "Small cooling appliance for dorms and offices. Freezer compartment included.",
+    "price": "129.99",
+    "category": "Kitchen",
+    "tags": ["mini-fridge", "compact-fridge", "small-refrigerator", "dorm-fridge"],
+    "inStock": true
+  },
+  {
+    "name": "Chest Freezer Compact",
+    "description": "Top-loading frozen food storage. Manual defrost.",
+    "price": "179.99",
+    "category": "Kitchen",
+    "tags": ["chest-freezer", "deep-freezer", "frozen-storage", "freezer"],
+    "inStock": true
+  },
+  {
+    "name": "Dishwasher Countertop Portable",
+    "description": "Compact automatic dish washing machine. No installation required.",
+    "price": "299.99",
+    "category": "Kitchen",
+    "tags": ["dishwasher", "portable-dishwasher", "countertop-dishwasher", "dish-washer"],
+    "inStock": true
+  },
+  {
+    "name": "Garbage Disposal Unit 3/4 HP",
+    "description": "Under-sink food waste grinder. Continuous feed operation.",
+    "price": "149.99",
+    "category": "Kitchen",
+    "tags": ["garbage-disposal", "waste-disposer", "food-grinder", "sink-disposal"],
+    "inStock": true
+  },
+  {
+    "name": "Water Filter Pitcher 10-Cup",
+    "description": "Gravity-fed water purification container. Reduces chlorine and contaminants.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["water-filter", "filter-pitcher", "water-purifier", "drinking-filter"],
+    "inStock": true
+  },
+  {
+    "name": "Under-Sink Water Filtration System",
+    "description": "Multi-stage water cleaning system. Dedicated faucet included.",
+    "price": "89.99",
+    "category": "Kitchen",
+    "tags": ["water-filter", "filtration-system", "under-sink-filter", "water-purifier"],
+    "inStock": true
+  },
+  {
+    "name": "Cast Iron Skillet 12-Inch Pre-Seasoned",
+    "description": "Traditional frying pan with natural non-stick surface. Oven safe.",
+    "price": "34.99",
+    "category": "Cookware",
+    "tags": ["cast-iron", "skillet", "frying-pan", "fry-pan"],
+    "inStock": true
+  },
+  {
+    "name": "Non-Stick Frying Pan Set 3-Piece",
+    "description": "PTFE-coated pans in multiple sizes. Dishwasher safe.",
+    "price": "49.99",
+    "category": "Cookware",
+    "tags": ["non-stick-pan", "frying-pan", "cookware-set", "kitchen-pan"],
+    "inStock": true
+  },
+  {
+    "name": "Stainless Steel Saucepan 3-Quart",
+    "description": "Multi-ply construction pot with lid. Even heat distribution.",
+    "price": "59.99",
+    "category": "Cookware",
+    "tags": ["saucepan", "cooking-pot", "stainless-steel", "kitchen-pot"],
+    "inStock": true
+  },
+  {
+    "name": "Stock Pot Large 12-Quart",
+    "description": "Tall cooking vessel for soups and stocks. Dual handles for lifting.",
+    "price": "69.99",
+    "category": "Cookware",
+    "tags": ["stock-pot", "soup-pot", "large-pot", "cooking-vessel"],
+    "inStock": true
+  },
+  {
+    "name": "Dutch Oven Enameled Cast Iron",
+    "description": "Heavy-duty braising pot with tight-fitting lid. Multiple color options.",
+    "price": "89.99",
+    "category": "Cookware",
+    "tags": ["dutch-oven", "braising-pot", "cast-iron-pot", "enameled-pot"],
+    "inStock": true
+  },
+  {
+    "name": "Wok Carbon Steel 14-Inch",
+    "description": "Traditional Asian cooking pan with round bottom. Includes ring stand.",
+    "price": "44.99",
+    "category": "Cookware",
+    "tags": ["wok", "stir-fry-pan", "asian-cookware", "carbon-steel-wok"],
+    "inStock": true
+  },
+  {
+    "name": "Cookware Set 10-Piece Stainless",
+    "description": "Complete kitchen pot and pan collection. Pots, pans, and lids included.",
+    "price": "199.99",
+    "category": "Cookware",
+    "tags": ["cookware-set", "pot-set", "pan-set", "kitchen-collection"],
+    "inStock": true
+  },
+  {
+    "name": "Baking Sheet Pan Set 3-Piece",
+    "description": "Rimmed cookie sheets in multiple sizes. Heavy-duty aluminum.",
+    "price": "29.99",
+    "category": "Bakeware",
+    "tags": ["baking-sheet", "cookie-sheet", "sheet-pan", "oven-pan"],
+    "inStock": true
+  },
+  {
+    "name": "Muffin Tin 12-Cup Non-Stick",
+    "description": "Cupcake and muffin baking pan. Easy-release coating.",
+    "price": "14.99",
+    "category": "Bakeware",
+    "tags": ["muffin-tin", "cupcake-pan", "baking-pan", "muffin-pan"],
+    "inStock": true
+  },
+  {
+    "name": "Loaf Pan for Bread 9x5",
+    "description": "Rectangular baking vessel for breads and meatloaf. Aluminized steel.",
+    "price": "16.99",
+    "category": "Bakeware",
+    "tags": ["loaf-pan", "bread-pan", "baking-pan", "meatloaf-pan"],
+    "inStock": true
+  },
+  {
+    "name": "Cake Pan Round 9-Inch Set",
+    "description": "Layer cake baking pans sold in pairs. Even baking technology.",
+    "price": "19.99",
+    "category": "Bakeware",
+    "tags": ["cake-pan", "round-pan", "layer-pan", "baking-tin"],
+    "inStock": true
+  },
+  {
+    "name": "Pie Dish Glass 9-Inch",
+    "description": "Transparent baking dish for pies. Tempered glass construction.",
+    "price": "12.99",
+    "category": "Bakeware",
+    "tags": ["pie-dish", "pie-pan", "glass-dish", "baking-dish"],
+    "inStock": true
+  },
+  {
+    "name": "Casserole Dish Ceramic 3-Quart",
+    "description": "Oven-to-table baking vessel. Decorative exterior design.",
+    "price": "39.99",
+    "category": "Bakeware",
+    "tags": ["casserole-dish", "baking-dish", "ceramic-dish", "oven-dish"],
+    "inStock": true
+  },
+  {
+    "name": "Bundt Pan Non-Stick 10-Cup",
+    "description": "Fluted ring pan for decorative cakes. Die-cast aluminum.",
+    "price": "24.99",
+    "category": "Bakeware",
+    "tags": ["bundt-pan", "ring-pan", "cake-pan", "tube-pan"],
+    "inStock": true
+  },
+  {
+    "name": "Springform Pan 9-Inch Leakproof",
+    "description": "Removable-bottom pan for cheesecakes. Tight-sealing latch.",
+    "price": "18.99",
+    "category": "Bakeware",
+    "tags": ["springform-pan", "cheesecake-pan", "removable-pan", "cake-ring"],
+    "inStock": true
+  },
+  {
+    "name": "Cooling Rack Wire Set of 2",
+    "description": "Elevated grid for cooling baked goods. Stackable design.",
+    "price": "16.99",
+    "category": "Bakeware",
+    "tags": ["cooling-rack", "wire-rack", "baking-rack", "cookie-rack"],
+    "inStock": true
+  },
+  {
+    "name": "Silicone Baking Mat Set 2-Pack",
+    "description": "Reusable non-stick oven liners. Replaces parchment paper.",
+    "price": "14.99",
+    "category": "Bakeware",
+    "tags": ["baking-mat", "silicone-mat", "oven-liner", "non-stick-mat"],
+    "inStock": true
+  },
+  {
+    "name": "Parchment Paper Pre-Cut Sheets",
+    "description": "Disposable non-stick baking liners. 100 sheets per box.",
+    "price": "9.99",
+    "category": "Bakeware",
+    "tags": ["parchment-paper", "baking-liner", "oven-paper", "disposable-liner"],
+    "inStock": true
+  },
+  {
+    "name": "Aluminum Foil Heavy Duty 200sqft",
+    "description": "Thick kitchen wrapping foil. Tear-resistant design.",
+    "price": "12.99",
+    "category": "Kitchen",
+    "tags": ["aluminum-foil", "kitchen-foil", "cooking-foil", "food-wrap"],
+    "inStock": true
+  },
+  {
+    "name": "Plastic Wrap Food Storage 300sqft",
+    "description": "Clear cling film for food covering. Built-in cutter box.",
+    "price": "8.99",
+    "category": "Kitchen",
+    "tags": ["plastic-wrap", "cling-film", "food-wrap", "storage-wrap"],
+    "inStock": true
+  },
+  {
+    "name": "Zipper Storage Bags Gallon 50ct",
+    "description": "Resealable plastic bags for food storage. Freezer safe.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["storage-bags", "ziplock-bags", "freezer-bags", "food-bags"],
+    "inStock": true
+  },
+  {
+    "name": "Food Storage Container Set 20-Piece",
+    "description": "Plastic containers with snap lids. Multiple sizes included.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["storage-containers", "food-containers", "tupperware", "meal-prep"],
+    "inStock": true
+  },
+  {
+    "name": "Glass Food Storage Set 10-Piece",
+    "description": "Borosilicate glass containers with locking lids. Microwave and oven safe.",
+    "price": "49.99",
+    "category": "Kitchen",
+    "tags": ["glass-containers", "food-storage", "meal-prep", "glass-tupperware"],
+    "inStock": true
+  },
+  {
+    "name": "Vacuum Storage Containers Electric",
+    "description": "Air-tight food preservation system. Pump included.",
+    "price": "59.99",
+    "category": "Kitchen",
+    "tags": ["vacuum-containers", "airtight-storage", "food-preservation", "fresh-containers"],
+    "inStock": true
+  },
+  {
+    "name": "Spice Rack Organizer 3-Tier",
+    "description": "Countertop seasoning holder. Holds 30+ spice jars.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["spice-rack", "seasoning-organizer", "spice-holder", "kitchen-organizer"],
+    "inStock": true
+  },
+  {
+    "name": "Spice Jars Glass 24-Pack",
+    "description": "Small glass containers with labels. Bamboo lids included.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["spice-jars", "seasoning-containers", "glass-jars", "spice-bottles"],
+    "inStock": true
+  },
+  {
+    "name": "Knife Block Set 15-Piece",
+    "description": "Complete cutlery collection with wooden holder. High-carbon stainless steel.",
+    "price": "149.99",
+    "category": "Kitchen",
+    "tags": ["knife-set", "cutlery-set", "kitchen-knives", "chef-knives"],
+    "inStock": true
+  },
+  {
+    "name": "Chef's Knife 8-Inch German Steel",
+    "description": "Professional all-purpose cutting blade. Ergonomic handle.",
+    "price": "69.99",
+    "category": "Kitchen",
+    "tags": ["chef-knife", "kitchen-knife", "cooking-knife", "cutting-blade"],
+    "inStock": true
+  },
+  {
+    "name": "Paring Knife Small 3.5-Inch",
+    "description": "Compact blade for detailed cutting work. Precision tip.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["paring-knife", "small-knife", "fruit-knife", "utility-knife"],
+    "inStock": true
+  },
+  {
+    "name": "Serrated Bread Knife 10-Inch",
+    "description": "Long toothed blade for slicing bread. Won't crush soft loaves.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["bread-knife", "serrated-knife", "slicing-knife", "loaf-knife"],
+    "inStock": true
+  },
+  {
+    "name": "Carving Knife and Fork Set",
+    "description": "Long thin blade for slicing meats. Matching serving fork.",
+    "price": "44.99",
+    "category": "Kitchen",
+    "tags": ["carving-knife", "meat-knife", "slicing-set", "roast-knife"],
+    "inStock": true
+  },
+  {
+    "name": "Kitchen Shears Heavy Duty",
+    "description": "Multi-purpose cutting scissors. Bottle opener and nutcracker built-in.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["kitchen-shears", "kitchen-scissors", "cooking-shears", "utility-shears"],
+    "inStock": true
+  },
+  {
+    "name": "Cutting Board Wood Large",
+    "description": "Hardwood chopping surface. Juice groove around perimeter.",
+    "price": "39.99",
+    "category": "Kitchen",
+    "tags": ["cutting-board", "chopping-board", "wood-board", "kitchen-board"],
+    "inStock": true
+  },
+  {
+    "name": "Plastic Cutting Board Set 3-Piece",
+    "description": "Color-coded boards for different foods. Dishwasher safe.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["cutting-board", "plastic-board", "chopping-board", "food-prep"],
+    "inStock": true
+  },
+  {
+    "name": "Bamboo Cutting Board with Juice Groove",
+    "description": "Eco-friendly chopping surface. Deep groove catches liquids.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["bamboo-board", "cutting-board", "eco-board", "chopping-surface"],
+    "inStock": true
+  },
+  {
+    "name": "Meat Thermometer Digital Instant-Read",
+    "description": "Fast temperature probe for cooking. Backlit display.",
+    "price": "24.99",
+    "category": "Kitchen",
+    "tags": ["meat-thermometer", "cooking-thermometer", "food-thermometer", "temperature-probe"],
+    "inStock": true
+  },
+  {
+    "name": "Kitchen Scale Digital Food Weight",
+    "description": "Precision weighing platform. Tare function and multiple units.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["kitchen-scale", "food-scale", "digital-scale", "weighing-scale"],
+    "inStock": true
+  },
+  {
+    "name": "Measuring Cups and Spoons Set",
+    "description": "Stainless steel measuring tools. Nested stackable design.",
+    "price": "16.99",
+    "category": "Kitchen",
+    "tags": ["measuring-cups", "measuring-spoons", "baking-tools", "kitchen-measure"],
+    "inStock": true
+  },
+  {
+    "name": "Mixing Bowl Set Stainless Steel 5-Piece",
+    "description": "Nesting bowls in graduated sizes. Non-slip bases.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["mixing-bowls", "steel-bowls", "kitchen-bowls", "prep-bowls"],
+    "inStock": true
+  },
+  {
+    "name": "Colander Strainer Large 5-Quart",
+    "description": "Perforated bowl for draining pasta and vegetables. Stable handles.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["colander", "strainer", "drainer", "pasta-strainer"],
+    "inStock": true
+  },
+  {
+    "name": "Fine Mesh Sieve Strainer Set",
+    "description": "Tight-weave filters for straining sauces. Multiple sizes.",
+    "price": "17.99",
+    "category": "Kitchen",
+    "tags": ["mesh-strainer", "sieve", "fine-strainer", "sauce-strainer"],
+    "inStock": true
+  },
+  {
+    "name": "Vegetable Peeler Y-Blade",
+    "description": "Ergonomic skin remover for produce. Swiveling blade.",
+    "price": "9.99",
+    "category": "Kitchen",
+    "tags": ["vegetable-peeler", "peeler", "potato-peeler", "kitchen-peeler"],
+    "inStock": true
+  },
+  {
+    "name": "Box Grater 4-Sided",
+    "description": "Multi-surface shredder for cheese and vegetables. Container base.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["box-grater", "cheese-grater", "shredder", "kitchen-grater"],
+    "inStock": true
+  },
+  {
+    "name": "Microplane Zester Grater",
+    "description": "Fine rasp for citrus zest and hard cheese. Ergonomic handle.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["microplane", "zester", "fine-grater", "citrus-grater"],
+    "inStock": true
+  },
+  {
+    "name": "Garlic Press Mincer",
+    "description": "Handheld clove crusher. Built-in cleaning tool.",
+    "price": "12.99",
+    "category": "Kitchen",
+    "tags": ["garlic-press", "garlic-mincer", "garlic-crusher", "kitchen-press"],
+    "inStock": true
+  },
+  {
+    "name": "Can Opener Manual Handheld",
+    "description": "Traditional cutting tool for cans. Smooth edge technology.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["can-opener", "manual-opener", "hand-opener", "kitchen-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Bottle Opener Wine Corkscrew",
+    "description": "Waiter's friend style wine opener. Foil cutter included.",
+    "price": "12.99",
+    "category": "Kitchen",
+    "tags": ["wine-opener", "corkscrew", "bottle-opener", "wine-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Electric Wine Opener Rechargeable",
+    "description": "Automatic cork removal device. LED charging indicator.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["electric-wine-opener", "automatic-corkscrew", "wine-tool", "rechargeable-opener"],
+    "inStock": true
+  },
+  {
+    "name": "Potato Masher Ricer",
+    "description": "Handheld tool for mashing cooked vegetables. Stainless steel.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["potato-masher", "masher", "ricer", "kitchen-masher"],
+    "inStock": true
+  },
+  {
+    "name": "Rolling Pin Adjustable Thickness",
+    "description": "Dough rolling tool with removable rings. Consistent thickness.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["rolling-pin", "dough-roller", "pastry-roller", "baking-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Whisk Set Stainless Steel 3-Piece",
+    "description": "Wire mixing tools in multiple sizes. Balloon and flat styles.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["whisk", "mixing-whisk", "kitchen-whisk", "baking-whisk"],
+    "inStock": true
+  },
+  {
+    "name": "Spatula Set Silicone Heat-Resistant",
+    "description": "Flexible turning and scraping tools. Won't scratch non-stick.",
+    "price": "16.99",
+    "category": "Kitchen",
+    "tags": ["spatula", "silicone-spatula", "kitchen-spatula", "turning-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Tongs Kitchen Locking 3-Piece",
+    "description": "Gripping tools with scalloped ends. Locking mechanism for storage.",
+    "price": "17.99",
+    "category": "Kitchen",
+    "tags": ["tongs", "kitchen-tongs", "cooking-tongs", "serving-tongs"],
+    "inStock": true
+  },
+  {
+    "name": "Ladle Soup Spoon Large",
+    "description": "Long-handled serving spoon for liquids. Hanging loop.",
+    "price": "9.99",
+    "category": "Kitchen",
+    "tags": ["ladle", "soup-ladle", "serving-spoon", "kitchen-ladle"],
+    "inStock": true
+  },
+  {
+    "name": "Slotted Spoon Drain Serving",
+    "description": "Perforated spoon for lifting solids from liquid. Stainless steel.",
+    "price": "9.99",
+    "category": "Kitchen",
+    "tags": ["slotted-spoon", "draining-spoon", "serving-spoon", "kitchen-spoon"],
+    "inStock": true
+  },
+  {
+    "name": "Pasta Server Spaghetti Spoon",
+    "description": "Specialized tool for serving noodles. Toothed design.",
+    "price": "11.99",
+    "category": "Kitchen",
+    "tags": ["pasta-server", "spaghetti-spoon", "noodle-server", "kitchen-tool"],
+    "inStock": true
+  },
+  {
+    "name": "Pizza Cutter Wheel Sharp",
+    "description": "Rolling blade for slicing pizza. Protective blade guard.",
+    "price": "12.99",
+    "category": "Kitchen",
+    "tags": ["pizza-cutter", "pizza-wheel", "slicing-wheel", "kitchen-cutter"],
+    "inStock": true
+  },
+  {
+    "name": "Ice Cream Scoop Spring-Loaded",
+    "description": "Self-releasing frozen dessert server. Ergonomic handle.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["ice-cream-scoop", "dessert-scoop", "cookie-scoop", "portion-scoop"],
+    "inStock": true
+  },
+  {
+    "name": "Dish Drying Rack Stainless Steel",
+    "description": "Countertop dish drainer with utensil holder. Rust-resistant.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["dish-rack", "drying-rack", "dish-drainer", "kitchen-rack"],
+    "inStock": true
+  },
+  {
+    "name": "Dish Soap Dispenser with Sponge Holder",
+    "description": "Sink-side soap pump with caddy. Keeps sponge dry.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["soap-dispenser", "sponge-holder", "sink-organizer", "kitchen-caddy"],
+    "inStock": true
+  },
+  {
+    "name": "Kitchen Sink Strainer Basket 2-Pack",
+    "description": "Drain catchers for food debris. Stainless steel mesh.",
+    "price": "12.99",
+    "category": "Kitchen",
+    "tags": ["sink-strainer", "drain-basket", "sink-basket", "drain-catcher"],
+    "inStock": true
+  },
+  {
+    "name": "Dish Sponges Non-Scratch 12-Pack",
+    "description": "Dual-sided cleaning pads. Soft on dishes, tough on grease.",
+    "price": "9.99",
+    "category": "Kitchen",
+    "tags": ["dish-sponges", "cleaning-sponges", "kitchen-sponges", "scrub-pads"],
+    "inStock": true
+  },
+  {
+    "name": "Steel Wool Scrubbers 10-Pack",
+    "description": "Heavy-duty metal cleaning pads. For tough baked-on residue.",
+    "price": "7.99",
+    "category": "Kitchen",
+    "tags": ["steel-wool", "scrubbers", "cleaning-pads", "heavy-duty-cleaner"],
+    "inStock": true
+  },
+  {
+    "name": "Dishwasher Detergent Pods 60ct",
+    "description": "Pre-measured automatic dishwashing tablets. Grease-fighting power.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["dishwasher-pods", "dish-tabs", "detergent", "dishwasher-supplies"],
+    "inStock": true
+  },
+  {
+    "name": "Dish Soap Liquid Dishwashing 3-Pack",
+    "description": "Concentrated hand washing detergent. Grease-cutting formula.",
+    "price": "11.99",
+    "category": "Kitchen",
+    "tags": ["dish-soap", "dish-detergent", "dishwashing-liquid", "cleaning-soap"],
+    "inStock": true
+  },
+  {
+    "name": "Kitchen Towels Cotton 8-Pack",
+    "description": "Absorbent drying cloths. Machine washable.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["kitchen-towels", "dish-towels", "drying-cloths", "tea-towels"],
+    "inStock": true
+  },
+  {
+    "name": "Paper Towels Kitchen 12-Roll",
+    "description": "Absorbent disposable cleaning sheets. Select-a-size perforations.",
+    "price": "24.99",
+    "category": "Kitchen",
+    "tags": ["paper-towels", "kitchen-towels", "disposable-towels", "cleaning-paper"],
+    "inStock": true
+  },
+  {
+    "name": "Trash Bags Kitchen 13-Gallon 100ct",
+    "description": "Drawstring garbage bags for kitchen bins. Leak-resistant.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["trash-bags", "garbage-bags", "kitchen-bags", "waste-bags"],
+    "inStock": true
+  },
+  {
+    "name": "Compost Bin Countertop with Filter",
+    "description": "Small food scrap container for composting. Charcoal filter reduces odor.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["compost-bin", "food-scrap-bin", "countertop-composter", "kitchen-compost"],
+    "inStock": true
+  },
+  {
+    "name": "Recycling Trash Can 3-Section",
+    "description": "Multi-compartment waste sorter. Labels for different materials.",
+    "price": "49.99",
+    "category": "Kitchen",
+    "tags": ["recycling-bin", "trash-sorter", "waste-separator", "recycling-can"],
+    "inStock": true
+  },
+  {
+    "name": "Step Trash Can 13-Gallon Stainless",
+    "description": "Hands-free garbage bin with foot pedal. Fingerprint-proof finish.",
+    "price": "79.99",
+    "category": "Kitchen",
+    "tags": ["step-can", "trash-can", "garbage-bin", "pedal-bin"],
+    "inStock": true
+  },
+  {
+    "name": "Under-Sink Organizer Expandable",
+    "description": "Adjustable storage rack for cleaning supplies. Two-tier design.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["sink-organizer", "under-sink-storage", "cleaning-caddy", "kitchen-organizer"],
+    "inStock": true
+  },
+  {
+    "name": "Pantry Organization Bins 8-Pack",
+    "description": "Clear plastic storage containers for food. Handles for easy access.",
+    "price": "39.99",
+    "category": "Kitchen",
+    "tags": ["pantry-bins", "food-storage", "kitchen-organizer", "storage-containers"],
+    "inStock": true
+  },
+  {
+    "name": "Lazy Susan Turntable 2-Pack",
+    "description": "Rotating cabinet organizer. Easy access to items in back.",
+    "price": "24.99",
+    "category": "Kitchen",
+    "tags": ["lazy-susan", "turntable", "cabinet-organizer", "rotating-tray"],
+    "inStock": true
+  },
+  {
+    "name": "Over-the-Door Pantry Rack",
+    "description": "Hanging storage organizer for food and spices. Multiple shelves.",
+    "price": "34.99",
+    "category": "Kitchen",
+    "tags": ["door-rack", "pantry-organizer", "hanging-storage", "over-door-rack"],
+    "inStock": true
+  },
+  {
+    "name": "Magnetic Knife Strip Holder 16-Inch",
+    "description": "Wall-mounted blade storage. Strong magnets hold knives securely.",
+    "price": "24.99",
+    "category": "Kitchen",
+    "tags": ["knife-strip", "magnetic-holder", "knife-storage", "wall-mount"],
+    "inStock": true
+  },
+  {
+    "name": "Pot Rack Ceiling Mount Hanging",
+    "description": "Overhead cookware storage. Saves cabinet space.",
+    "price": "59.99",
+    "category": "Kitchen",
+    "tags": ["pot-rack", "hanging-rack", "cookware-storage", "ceiling-rack"],
+    "inStock": true
+  },
+  {
+    "name": "Paper Towel Holder Under-Cabinet",
+    "description": "Mounted roll dispenser. Frees up counter space.",
+    "price": "14.99",
+    "category": "Kitchen",
+    "tags": ["paper-towel-holder", "towel-dispenser", "under-cabinet", "kitchen-holder"],
+    "inStock": true
+  },
+  {
+    "name": "Wine Rack Countertop 6-Bottle",
+    "description": "Compact wine storage holder. Freestanding design.",
+    "price": "29.99",
+    "category": "Kitchen",
+    "tags": ["wine-rack", "bottle-holder", "wine-storage", "countertop-rack"],
+    "inStock": true
+  },
+  {
+    "name": "Coffee Mug Tree Stand",
+    "description": "Rotating cup holder for counter. Holds 6 mugs.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["mug-tree", "cup-stand", "mug-holder", "coffee-organizer"],
+    "inStock": true
+  },
+  {
+    "name": "Utensil Holder Crock Ceramic",
+    "description": "Countertop tool storage container. Easy-clean glazed interior.",
+    "price": "24.99",
+    "category": "Kitchen",
+    "tags": ["utensil-holder", "kitchen-crock", "tool-storage", "countertop-organizer"],
+    "inStock": true
+  },
+  {
+    "name": "Drawer Organizer Dividers 8-Piece",
+    "description": "Adjustable kitchen drawer separators. Customizable compartments.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["drawer-organizer", "divider-inserts", "kitchen-dividers", "drawer-separators"],
+    "inStock": true
+  },
+  {
+    "name": "Kitchen Mat Anti-Fatigue",
+    "description": "Cushioned floor mat for standing comfort. Water-resistant surface.",
+    "price": "39.99",
+    "category": "Kitchen",
+    "tags": ["kitchen-mat", "anti-fatigue-mat", "floor-mat", "comfort-mat"],
+    "inStock": true
+  },
+  {
+    "name": "Oven Mitts Heat Resistant Pair",
+    "description": "Protective hand coverings for hot items. Silicone grip.",
+    "price": "16.99",
+    "category": "Kitchen",
+    "tags": ["oven-mitts", "heat-protection", "kitchen-gloves", "hot-pads"],
+    "inStock": true
+  },
+  {
+    "name": "Pot Holders Quilted Cotton 4-Pack",
+    "description": "Padded hand protectors for handling hot cookware. Machine washable.",
+    "price": "12.99",
+    "category": "Kitchen",
+    "tags": ["pot-holders", "hot-pads", "heat-protection", "kitchen-liners"],
+    "inStock": true
+  },
+  {
+    "name": "Apron Chef Adjustable",
+    "description": "Protective cooking garment with pockets. Neck and waist ties.",
+    "price": "19.99",
+    "category": "Kitchen",
+    "tags": ["apron", "chef-apron", "cooking-apron", "kitchen-apron"],
+    "inStock": true
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Men's Leather Outerwear Coat",
+    "description": "Classic motorcycle-style jacket made from genuine leather. Zipper closure and multiple pockets.",
+    "price": "195.00",
+    "category": "Clothing",
+    "tags": ["leather-outerwear", "motorcycle-coat", "genuine-leather", "mens-fashion"],
+    "inStock": true
+  },
+  {
+    "name": "Women's Denim Jean Coat",
+    "description": "Timeless blue denim outer layer with button front. Classic trucker style with chest pockets.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": ["denim-coat", "jean-outerwear", "trucker-coat", "womens-fashion"],
+    "inStock": true
+  },
+  {
+    "name": "Lightweight Wind Breaker Coat",
+    "description": "Thin protective outer layer against wind and light rain. Packable design.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["wind-protection", "lightweight-outerwear", "weather-coat", "packable-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Wool Blend Overcoat Long",
+    "description": "Elegant full-length winter coat. Wool and cashmere blend for warmth and style.",
+    "price": "245.00",
+    "category": "Clothing",
+    "tags": ["overcoat", "winter-outerwear", "wool-coat", "formal-outerwear"],
+    "inStock": true
+  },
+  {
+    "name": "Puffer Insulated Coat",
+    "description": "Quilted winter outer layer with down alternative filling. Warm and lightweight.",
+    "price": "120.00",
+    "category": "Clothing",
+    "tags": ["puffer-coat", "insulated-outerwear", "winter-coat", "quilted-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Casual Cotton T-Shirt Crew Neck",
+    "description": "Everyday short-sleeve top with round neckline. Soft breathable fabric.",
+    "price": "19.99",
+    "category": "Clothing",
+    "tags": ["cotton-top", "crew-neck-tee", "casual-shirt", "short-sleeve"],
+    "inStock": true
+  },
+  {
+    "name": "Women's Blouse Silk Touch",
+    "description": "Elegant long-sleeve top with silky feel. Perfect for office or evening wear.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["blouse", "womens-top", "silk-blouse", "office-shirt"],
+    "inStock": true
+  },
+  {
+    "name": "Button-Down Dress Shirt",
+    "description": "Formal collared shirt with button front. Wrinkle-resistant fabric.",
+    "price": "49.99",
+    "category": "Clothing",
+    "tags": ["dress-shirt", "button-down", "formal-shirt", "office-shirt"],
+    "inStock": true
+  },
+  {
+    "name": "Casual Polo Shirt Short Sleeve",
+    "description": "Collared sport shirt with button placket. Cotton pique fabric.",
+    "price": "35.00",
+    "category": "Clothing",
+    "tags": ["polo-shirt", "polo", "sport-shirt", "casual-top"],
+    "inStock": true
+  },
+  {
+    "name": "Hooded Sweatshirt Pullover",
+    "description": "Comfortable hooded top with kangaroo pocket. Soft fleece interior.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["hoodie", "sweatshirt", "hooded-top", "pullover"],
+    "inStock": true
+  },
+  {
+    "name": "Zip-Up Hooded Coat",
+    "description": "Full-zip hooded outer layer. Ribbed cuffs and hem for fit.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["zip-hoodie", "hooded-coat", "sweatshirt-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Crew Neck Sweater Knit",
+    "description": "Classic pullover knitwear with round neck. Warm wool blend.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": ["sweater", "knitwear", "pullover", "wool-sweater"],
+    "inStock": true
+  },
+  {
+    "name": "V-Neck Cardigan Sweater",
+    "description": "Button-front knit cardigan with v-neckline. Layering essential.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["cardigan", "sweater", "knit-cardigan", "v-neck"],
+    "inStock": true
+  },
+  {
+    "name": "Turtleneck Sweater Warm",
+    "description": "High-neck knit pullover for cold weather. Ribbed collar and cuffs.",
+    "price": "60.00",
+    "category": "Clothing",
+    "tags": ["turtleneck", "sweater", "high-neck", "winter-knitwear"],
+    "inStock": true
+  },
+  {
+    "name": "Slim Fit Chino Trousers",
+    "description": "Modern tapered pants in cotton twill. Versatile casual-formal bottoms.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["chinos", "trousers", "pants", "slim-fit-pants"],
+    "inStock": true
+  },
+  {
+    "name": "Classic Denim Jeans Straight Leg",
+    "description": "Timeless five-pocket jeans with straight cut. Medium wash denim.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": ["jeans", "denim", "straight-jeans", "pants"],
+    "inStock": true
+  },
+  {
+    "name": "Skinny Fit Denim Pants",
+    "description": "Form-fitting jeans with stretch for comfort. Dark wash.",
+    "price": "60.00",
+    "category": "Clothing",
+    "tags": ["skinny-jeans", "denim-pants", "stretch-jeans", "fitted-pants"],
+    "inStock": true
+  },
+  {
+    "name": "Relaxed Fit Cargo Pants",
+    "description": "Loose-fitting utility trousers with multiple pockets. Durable cotton.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["cargo-pants", "utility-pants", "cargo-trousers", "work-pants"],
+    "inStock": true
+  },
+  {
+    "name": "Athletic Track Pants",
+    "description": "Sporty bottoms with side stripes. Elastic waistband with drawstring.",
+    "price": "40.00",
+    "category": "Clothing",
+    "tags": ["track-pants", "sweatpants", "athletic-pants", "joggers"],
+    "inStock": true
+  },
+  {
+    "name": "Jogger Pants Tapered",
+    "description": "Modern cuffed athletic pants. Comfortable fleece fabric.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["joggers", "tapered-pants", "athletic-pants", "casual-pants"],
+    "inStock": true
+  },
+  {
+    "name": "Formal Dress Slacks",
+    "description": "Professional flat-front trousers. Perfect for office and formal events.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": ["dress-pants", "slacks", "formal-trousers", "office-pants"],
+    "inStock": true
+  },
+  {
+    "name": "Wool Suit Trousers",
+    "description": "High-quality formal pants from wool blend. Pleated front design.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": ["suit-pants", "wool-trousers", "formal-pants", "dress-slacks"],
+    "inStock": true
+  },
+  {
+    "name": "Casual Shorts Knee-Length",
+    "description": "Relaxed summer bottoms hitting at knee. Cotton twill fabric.",
+    "price": "35.00",
+    "category": "Clothing",
+    "tags": ["shorts", "casual-shorts", "summer-shorts", "knee-shorts"],
+    "inStock": true
+  },
+  {
+    "name": "Athletic Running Shorts",
+    "description": "Lightweight sport shorts with built-in liner. Moisture-wicking fabric.",
+    "price": "25.00",
+    "category": "Clothing",
+    "tags": ["running-shorts", "gym-shorts", "athletic-shorts", "workout-shorts"],
+    "inStock": true
+  },
+  {
+    "name": "Denim Cutoff Shorts",
+    "description": "Casual jean shorts with frayed hem. Classic five-pocket design.",
+    "price": "40.00",
+    "category": "Clothing",
+    "tags": ["denim-shorts", "jean-shorts", "cutoffs", "summer-shorts"],
+    "inStock": true
+  },
+  {
+    "name": "Women's Pencil Skirt",
+    "description": "Form-fitting knee-length skirt. Professional office wear.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["pencil-skirt", "skirt", "office-skirt", "formal-skirt"],
+    "inStock": true
+  },
+  {
+    "name": "Flowy Maxi Skirt Long",
+    "description": "Full-length flowing skirt with elastic waist. Bohemian style.",
+    "price": "40.00",
+    "category": "Clothing",
+    "tags": ["maxi-skirt", "long-skirt", "boho-skirt", "flowy-skirt"],
+    "inStock": true
+  },
+  {
+    "name": "Pleated Tennis Skirt",
+    "description": "Athletic mini skirt with box pleats. Built-in shorts liner.",
+    "price": "35.00",
+    "category": "Clothing",
+    "tags": ["tennis-skirt", "pleated-skirt", "athletic-skirt", "mini-skirt"],
+    "inStock": true
+  },
+  {
+    "name": "Women's Casual Dress",
+    "description": "Everyday knee-length dress with short sleeves. Comfortable cotton blend.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["dress", "casual-dress", "womens-dress", "day-dress"],
+    "inStock": true
+  },
+  {
+    "name": "Cocktail Party Dress",
+    "description": "Elegant knee-length dress for special occasions. Fitted silhouette.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": ["cocktail-dress", "party-dress", "evening-dress", "formal-dress"],
+    "inStock": true
+  },
+  {
+    "name": "Flowy Summer Sundress",
+    "description": "Light and airy warm-weather dress. Spaghetti straps and floral print.",
+    "price": "45.00",
+    "category": "Clothing",
+    "tags": ["sundress", "summer-dress", "floral-dress", "casual-dress"],
+    "inStock": true
+  },
+  {
+    "name": "Elegant Evening Gown",
+    "description": "Full-length formal dress for galas and weddings. Luxe fabric.",
+    "price": "150.00",
+    "category": "Clothing",
+    "tags": ["evening-gown", "formal-gown", "ball-gown", "long-dress"],
+    "inStock": true
+  },
+  {
+    "name": "Business Blazer Coat",
+    "description": "Tailored suit jacket for professional wear. Single-breasted design.",
+    "price": "120.00",
+    "category": "Clothing",
+    "tags": ["blazer", "suit-coat", "sport-coat", "formal-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Casual Sport Coat",
+    "description": "Relaxed-fit jacket for smart-casual occasions. Unstructured design.",
+    "price": "145.00",
+    "category": "Clothing",
+    "tags": ["sport-coat", "blazer", "casual-coat", "mens-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Tuxedo Dinner Coat",
+    "description": "Formal black-tie jacket with satin lapels. For special events.",
+    "price": "250.00",
+    "category": "Clothing",
+    "tags": ["tuxedo", "dinner-coat", "formal-coat", "black-tie"],
+    "inStock": true
+  },
+  {
+    "name": "Rain Coat Waterproof",
+    "description": "Protective outer layer against rain. Sealed seams and hood.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": ["raincoat", "rain-coat", "waterproof-coat", "weather-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Trench Coat Classic",
+    "description": "Timeless double-breasted rain coat. Belted waist and storm flap.",
+    "price": "165.00",
+    "category": "Clothing",
+    "tags": ["trench-coat", "rain-coat", "classic-coat", "belted-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Parka Winter Coat Long",
+    "description": "Extended length winter coat with fur-trimmed hood. Extreme warmth.",
+    "price": "195.00",
+    "category": "Clothing",
+    "tags": ["parka", "winter-coat", "long-coat", "insulated-parka"],
+    "inStock": true
+  },
+  {
+    "name": "Pea Coat Wool Double-Breasted",
+    "description": "Classic naval-style short coat. Heavy wool construction.",
+    "price": "175.00",
+    "category": "Clothing",
+    "tags": ["pea-coat", "wool-coat", "naval-coat", "winter-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Bomber Flight Coat",
+    "description": "Classic aviation-style jacket with ribbed trim. Nylon construction.",
+    "price": "95.00",
+    "category": "Clothing",
+    "tags": ["bomber-coat", "flight-coat", "aviation-coat", "ma-1"],
+    "inStock": true
+  },
+  {
+    "name": "Varsity Letterman Coat",
+    "description": "Traditional college-style jacket with contrasting sleeves. Snap closure.",
+    "price": "110.00",
+    "category": "Clothing",
+    "tags": ["varsity-coat", "letterman-coat", "college-coat", "baseball-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Quilted Vest Sleeveless",
+    "description": "Padded sleeveless layer for layering. Lightweight warmth.",
+    "price": "65.00",
+    "category": "Clothing",
+    "tags": ["vest", "puffer-vest", "quilted-vest", "sleeveless-coat"],
+    "inStock": true
+  },
+  {
+    "name": "Fleece Vest Outdoor",
+    "description": "Soft synthetic fleece vest. Perfect mid-layer for hiking.",
+    "price": "55.00",
+    "category": "Clothing",
+    "tags": ["fleece-vest", "outdoor-vest", "hiking-vest", "warm-vest"],
+    "inStock": true
+  },
+  {
+    "name": "Down Vest Lightweight",
+    "description": "Ultra-light insulated vest with down filling. Packable design.",
+    "price": "85.00",
+    "category": "Clothing",
+    "tags": ["down-vest", "lightweight-vest", "puffer-vest", "insulated-vest"],
+    "inStock": true
+  },
+  {
+    "name": "Running Sneakers Athletic",
+    "description": "Lightweight sport shoes with cushioned sole. Breathable mesh upper.",
+    "price": "85.00",
+    "category": "Footwear",
+    "tags": ["running-shoes", "sneakers", "athletic-shoes", "trainers"],
+    "inStock": true
+  },
+  {
+    "name": "Walking Shoes Comfort",
+    "description": "Supportive everyday shoes with arch support. Memory foam insole.",
+    "price": "75.00",
+    "category": "Footwear",
+    "tags": ["walking-shoes", "comfort-shoes", "casual-sneakers", "everyday-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Basketball High-Top Sneakers",
+    "description": "Court shoes with ankle support. Responsive cushioning for jumping.",
+    "price": "120.00",
+    "category": "Footwear",
+    "tags": ["basketball-shoes", "high-tops", "court-shoes", "athletic-sneakers"],
+    "inStock": true
+  },
+  {
+    "name": "Trail Running Hiking Shoes",
+    "description": "Rugged outdoor shoes with aggressive tread. Waterproof membrane.",
+    "price": "130.00",
+    "category": "Footwear",
+    "tags": ["trail-shoes", "hiking-shoes", "outdoor-sneakers", "waterproof-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Casual Canvas Sneakers",
+    "description": "Classic low-top shoes with canvas upper. Vulcanized rubber sole.",
+    "price": "55.00",
+    "category": "Footwear",
+    "tags": ["canvas-shoes", "sneakers", "casual-shoes", "plimsolls"],
+    "inStock": true
+  },
+  {
+    "name": "Slip-On Loafers Casual",
+    "description": "Easy wear shoes without laces. Comfortable for all-day wear.",
+    "price": "65.00",
+    "category": "Footwear",
+    "tags": ["loafers", "slip-on-shoes", "casual-shoes", "no-tie-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Boat Deck Shoes",
+    "description": "Nautical-inspired shoes with non-marking sole. Leather upper.",
+    "price": "95.00",
+    "category": "Footwear",
+    "tags": ["boat-shoes", "deck-shoes", "driving-shoes", "casual-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Oxford Dress Shoes Formal",
+    "description": "Classic lace-up formal shoes. Polished leather for special occasions.",
+    "price": "125.00",
+    "category": "Footwear",
+    "tags": ["oxford-shoes", "dress-shoes", "formal-shoes", "leather-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Derby Brogue Shoes",
+    "description": "Decorative perforated dress shoes. Open lacing system.",
+    "price": "135.00",
+    "category": "Footwear",
+    "tags": ["derby-shoes", "brogues", "dress-shoes", "wingtips"],
+    "inStock": true
+  },
+  {
+    "name": "Chelsea Ankle Boots",
+    "description": "Sleek pull-on boots with elastic panels. Versatile style.",
+    "price": "145.00",
+    "category": "Footwear",
+    "tags": ["chelsea-boots", "ankle-boots", "pull-on-boots", "leather-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Combat Lace-Up Boots",
+    "description": "Rugged high-top boots with speed laces. Durable construction.",
+    "price": "155.00",
+    "category": "Footwear",
+    "tags": ["combat-boots", "lace-up-boots", "military-boots", "work-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Hiking Boots Waterproof",
+    "description": "Supportive ankle boots for trails. Waterproof leather and membrane.",
+    "price": "165.00",
+    "category": "Footwear",
+    "tags": ["hiking-boots", "waterproof-boots", "trail-boots", "outdoor-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Winter Snow Boots Insulated",
+    "description": "Warm cold-weather boots with faux fur lining. Ice-grip sole.",
+    "price": "125.00",
+    "category": "Footwear",
+    "tags": ["snow-boots", "winter-boots", "insulated-boots", "cold-weather-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Rain Rubber Boots",
+    "description": "Waterproof boots for wet conditions. Easy-clean rubber construction.",
+    "price": "45.00",
+    "category": "Footwear",
+    "tags": ["rain-boots", "rubber-boots", "wellington-boots", "waterproof-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Work Safety Boots Steel Toe",
+    "description": "Protective footwear with reinforced toe cap. Oil-resistant sole.",
+    "price": "135.00",
+    "category": "Footwear",
+    "tags": ["work-boots", "safety-boots", "steel-toe-boots", "industrial-boots"],
+    "inStock": true
+  },
+  {
+    "name": "High Heel Pumps Women",
+    "description": "Classic pointed-toe shoes with stiletto heel. Office and evening wear.",
+    "price": "85.00",
+    "category": "Footwear",
+    "tags": ["heels", "pumps", "high-heels", "womens-dress-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Block Heel Ankle Booties",
+    "description": "Stylish short boots with chunky heel. Side zipper entry.",
+    "price": "95.00",
+    "category": "Footwear",
+    "tags": ["booties", "ankle-boots", "block-heel", "womens-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Wedge Sandals Summer",
+    "description": "Platform sandals with wedge heel. Comfortable elevated style.",
+    "price": "65.00",
+    "category": "Footwear",
+    "tags": ["wedge-sandals", "platform-sandals", "summer-shoes", "womens-sandals"],
+    "inStock": true
+  },
+  {
+    "name": "Flat Ballet Shoes",
+    "description": "Simple rounded-toe flats. Comfortable everyday footwear.",
+    "price": "45.00",
+    "category": "Footwear",
+    "tags": ["ballet-flats", "flats", "womens-shoes", "casual-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Strappy Gladiator Sandals",
+    "description": "Roman-style sandals with multiple straps. Flat or heeled options.",
+    "price": "55.00",
+    "category": "Footwear",
+    "tags": ["gladiator-sandals", "strappy-sandals", "summer-sandals", "womens-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Flip Flop Thong Sandals",
+    "description": "Casual beach sandals with Y-strap. Rubber sole.",
+    "price": "20.00",
+    "category": "Footwear",
+    "tags": ["flip-flops", "thong-sandals", "beach-sandals", "summer-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Slide Sandals Slip-On",
+    "description": "Open-toe sandals with single wide strap. Easy on-off design.",
+    "price": "30.00",
+    "category": "Footwear",
+    "tags": ["slide-sandals", "slip-on-sandals", "pool-slides", "casual-sandals"],
+    "inStock": true
+  },
+  {
+    "name": "Clog Wooden Sole",
+    "description": "Traditional Scandinavian-style shoes with wood base. Leather upper.",
+    "price": "95.00",
+    "category": "Footwear",
+    "tags": ["clogs", "wooden-clogs", "swedish-clogs", "platform-clogs"],
+    "inStock": true
+  },
+  {
+    "name": "Mule Backless Shoes",
+    "description": "Slip-on shoes with open back. Heeled or flat styles.",
+    "price": "65.00",
+    "category": "Footwear",
+    "tags": ["mules", "backless-shoes", "slip-on-shoes", "womens-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Espadrille Rope Sole",
+    "description": "Summer shoes with jute rope bottom. Canvas or linen upper.",
+    "price": "55.00",
+    "category": "Footwear",
+    "tags": ["espadrilles", "rope-sole", "summer-shoes", "vacation-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Indoor House Slippers",
+    "description": "Cozy home footwear with soft lining. Non-slip sole.",
+    "price": "30.00",
+    "category": "Footwear",
+    "tags": ["slippers", "house-shoes", "indoor-slippers", "home-footwear"],
+    "inStock": true
+  },
+  {
+    "name": "Memory Foam Slippers",
+    "description": "Ultra-comfortable slippers with cushioned footbed. Closed toe design.",
+    "price": "35.00",
+    "category": "Footwear",
+    "tags": ["memory-foam-slippers", "comfort-slippers", "indoor-shoes", "cozy-slippers"],
+    "inStock": true
+  },
+  {
+    "name": "Fur-Lined Winter Slippers",
+    "description": "Warm slippers with faux fur interior. Bootie style.",
+    "price": "40.00",
+    "category": "Footwear",
+    "tags": ["fur-slippers", "winter-slippers", "warm-slippers", "bootie-slippers"],
+    "inStock": true
+  },
+  {
+    "name": "Kids Light-Up Sneakers",
+    "description": "Fun children's shoes with LED lights in sole. Rechargeable battery.",
+    "price": "45.00",
+    "category": "Footwear",
+    "tags": ["kids-shoes", "light-up-shoes", "led-sneakers", "childrens-shoes"],
+    "inStock": true
+  },
+  {
+    "name": "Toddler Velcro Shoes",
+    "description": "Easy-on shoes for small children. Hook-and-loop closure.",
+    "price": "35.00",
+    "category": "Footwear",
+    "tags": ["toddler-shoes", "velcro-shoes", "kids-shoes", "first-walker"],
+    "inStock": true
+  },
+  {
+    "name": "School Uniform Dress Shoes",
+    "description": "Formal black shoes for children. Durable leather construction.",
+    "price": "50.00",
+    "category": "Footwear",
+    "tags": ["school-shoes", "uniform-shoes", "kids-dress-shoes", "formal-kids"],
+    "inStock": true
+  },
+  {
+    "name": "Kids Rain Boots Colorful",
+    "description": "Waterproof boots for children. Fun colors and patterns.",
+    "price": "30.00",
+    "category": "Footwear",
+    "tags": ["kids-rain-boots", "childrens-boots", "waterproof-kids", "puddle-boots"],
+    "inStock": true
+  },
+  {
+    "name": "Infant Soft Sole Booties",
+    "description": "First shoes for babies. Flexible sole for developing feet.",
+    "price": "25.00",
+    "category": "Footwear",
+    "tags": ["baby-shoes", "infant-booties", "first-walker", "soft-sole"],
+    "inStock": true
+  },
+  {
+    "name": "Cotton Ankle Socks 6-Pack",
+    "description": "Low-cut socks for everyday wear. Breathable cotton blend.",
+    "price": "15.00",
+    "category": "Clothing",
+    "tags": ["socks", "ankle-socks", "cotton-socks", "no-show-socks"],
+    "inStock": true
+  },
+  {
+    "name": "Dress Socks Over-the-Calf",
+    "description": "Formal long socks for business wear. Stays up all day.",
+    "price": "18.00",
+    "category": "Clothing",
+    "tags": ["dress-socks", "formal-socks", "over-calf-socks", "business-socks"],
+    "inStock": true
+  },
+  {
+    "name": "Athletic Crew Socks Cushioned",
+    "description": "Sport socks with extra padding. Moisture-wicking fabric.",
+    "price": "16.00",
+    "category": "Clothing",
+    "tags": ["athletic-socks", "sports-socks", "crew-socks", "gym-socks"],
+    "inStock": true
+  },
+  {
+    "name": "Wool Hiking Socks Thick",
+    "description": "Warm outdoor socks with cushioning. Merino wool blend.",
+    "price": "20.00",
+    "category": "Clothing",
+    "tags": ["hiking-socks", "wool-socks", "outdoor-socks", "thermal-socks"],
+    "inStock": true
+  },
+  {
+    "name": "Compression Socks Medical Grade",
+    "description": "Graduated pressure socks for circulation. Knee-high length.",
+    "price": "25.00",
+    "category": "Clothing",
+    "tags": ["compression-socks", "medical-socks", "support-socks", "health-socks"],
+    "inStock": true
+  },
+  {
+    "name": "Leather Belt Classic",
+    "description": "Traditional waist belt with metal buckle. Genuine leather.",
+    "price": "35.00",
+    "category": "Accessories",
+    "tags": ["belt", "leather-belt", "waist-belt", "mens-accessories"],
+    "inStock": true
+  },
+  {
+    "name": "Woven Fabric Belt Casual",
+    "description": "Flexible canvas belt with clip buckle. Adjustable fit.",
+    "price": "25.00",
+    "category": "Accessories",
+    "tags": ["canvas-belt", "fabric-belt", "casual-belt", "woven-belt"],
+    "inStock": true
+  },
+  {
+    "name": "Reversible Belt Two-Color",
+    "description": "Flip belt with black and brown sides. Two belts in one.",
+    "price": "45.00",
+    "category": "Accessories",
+    "tags": ["reversible-belt", "two-tone-belt", "leather-belt", "versatile-belt"],
+    "inStock": true
+  },
+  {
+    "name": "Silk Necktie Formal",
+    "description": "Classic business tie in silk. Multiple color options.",
+    "price": "35.00",
+    "category": "Accessories",
+    "tags": ["tie", "necktie", "silk-tie", "formal-accessories"],
+    "inStock": true
+  },
+  {
+    "name": "Bow Tie Self-Tie",
+    "description": "Formal neck bow for tuxedos. Adjustable self-tie design.",
+    "price": "25.00",
+    "category": "Accessories",
+    "tags": ["bow-tie", "formal-tie", "tuxedo-accessories", "black-tie"],
+    "inStock": true
+  },
+  {
+    "name": "Knit Skinny Tie",
+    "description": "Modern narrow tie with textured fabric. Casual-formal style.",
+    "price": "30.00",
+    "category": "Accessories",
+    "tags": ["skinny-tie", "knit-tie", "modern-tie", "narrow-tie"],
+    "inStock": true
+  },
+  {
+    "name": "Wool Scarf Winter Warm",
+    "description": "Soft neck wrap for cold weather. Long fringed design.",
+    "price": "40.00",
+    "category": "Accessories",
+    "tags": ["scarf", "winter-scarf", "wool-scarf", "neck-warmer"],
+    "inStock": true
+  },
+  {
+    "name": "Infinity Loop Scarf",
+    "description": "Continuous circle scarf. Easy wear no ends.",
+    "price": "30.00",
+    "category": "Accessories",
+    "tags": ["infinity-scarf", "loop-scarf", "circle-scarf", "endless-scarf"],
+    "inStock": true
+  },
+  {
+    "name": "Pashmina Shawl Wrap",
+    "description": "Elegant large scarf for shoulders. Dressy occasions.",
+    "price": "45.00",
+    "category": "Accessories",
+    "tags": ["pashmina", "shawl", "wrap", "evening-scarf"],
+    "inStock": true
+  },
+  {
+    "name": "Baseball Cap Adjustable",
+    "description": "Classic six-panel hat with curved brim. Velcro back closure.",
+    "price": "25.00",
+    "category": "Accessories",
+    "tags": ["baseball-cap", "hat", "cap", "sports-hat"],
+    "inStock": true
+  },
+  {
+    "name": "Beanie Knit Winter Hat",
+    "description": "Warm skull cap for cold weather. Ribbed knit construction.",
+    "price": "20.00",
+    "category": "Accessories",
+    "tags": ["beanie", "knit-hat", "winter-hat", "skull-cap"],
+    "inStock": true
+  },
+  {
+    "name": "Fedora Classic Hat",
+    "description": "Stylish brimmed hat with pinched crown. Wool felt material.",
+    "price": "55.00",
+    "category": "Accessories",
+    "tags": ["fedora", "hat", "dress-hat", "classic-hat"],
+    "inStock": true
+  },
+  {
+    "name": "Sun Hat Wide Brim",
+    "description": "Large-brimmed hat for sun protection. Packable design.",
+    "price": "30.00",
+    "category": "Accessories",
+    "tags": ["sun-hat", "beach-hat", "wide-brim-hat", "summer-hat"],
+    "inStock": true
+  },
+  {
+    "name": "Bucket Hat Casual",
+    "description": "Downward-sloping brim hat. Cotton or denim fabric.",
+    "price": "25.00",
+    "category": "Accessories",
+    "tags": ["bucket-hat", "casual-hat", "fishing-hat", "streetwear-hat"],
+    "inStock": true
+  },
+  {
+    "name": "Leather Gloves Winter",
+    "description": "Warm hand coverings with leather exterior. Fleece lining.",
+    "price": "55.00",
+    "category": "Accessories",
+    "tags": ["gloves", "leather-gloves", "winter-gloves", "hand-warmers"],
+    "inStock": true
+  },
+  {
+    "name": "Touchscreen Compatible Gloves",
+    "description": "Winter gloves with conductive fingertips. Use phone without removing.",
+    "price": "30.00",
+    "category": "Accessories",
+    "tags": ["touchscreen-gloves", "smart-gloves", "tech-gloves", "phone-gloves"],
+    "inStock": true
+  },
+  {
+    "name": "Mittens Insulated Warm",
+    "description": "Single-compartment hand warmer. Maximum warmth for extreme cold.",
+    "price": "35.00",
+    "category": "Accessories",
+    "tags": ["mittens", "winter-mittens", "insulated-mittens", "hand-warmers"],
+    "inStock": true
+  },
+  {
+    "name": "Sunglasses Polarized UV Protection",
+    "description": "Eye protection with glare-reducing lenses. 100% UV blocking.",
+    "price": "65.00",
+    "category": "Accessories",
+    "tags": ["sunglasses", "shades", "polarized-sunglasses", "eye-protection"],
+    "inStock": true
+  },
+  {
+    "name": "Reading Glasses Magnifying",
+    "description": "Vision correction glasses for close work. Multiple strengths available.",
+    "price": "25.00",
+    "category": "Accessories",
+    "tags": ["reading-glasses", "magnifiers", "readers", "vision-glasses"],
+    "inStock": true
+  },
+  {
+    "name": "Blue Light Blocking Glasses",
+    "description": "Computer glasses that filter screen light. Reduces eye strain.",
+    "price": "30.00",
+    "category": "Accessories",
+    "tags": ["blue-light-glasses", "computer-glasses", "screen-glasses", "eye-protection"],
+    "inStock": true
+  },
+  {
+    "name": "Backpack Daypack 25L",
+    "description": "Medium-sized bag for daily use. Multiple compartments and pockets.",
+    "price": "55.00",
+    "category": "Accessories",
+    "tags": ["backpack", "daypack", "school-bag", "everyday-backpack"],
+    "inStock": true
+  },
+  {
+    "name": "Laptop Backpack with USB Port",
+    "description": "Tech-friendly bag with padded computer sleeve. External charging port.",
+    "price": "65.00",
+    "category": "Accessories",
+    "tags": ["laptop-backpack", "tech-backpack", "computer-bag", "work-backpack"],
+    "inStock": true
+  },
+  {
+    "name": "Hiking Backpack 40L",
+    "description": "Outdoor pack with hip belt and hydration compatibility. Trail-ready.",
+    "price": "95.00",
+    "category": "Accessories",
+    "tags": ["hiking-backpack", "outdoor-pack", "trekking-backpack", "camping-bag"],
+    "inStock": true
+  }
+]

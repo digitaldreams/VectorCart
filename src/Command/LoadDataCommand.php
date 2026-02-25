@@ -223,7 +223,6 @@ class LoadDataCommand extends Command
             '',
             'Usage examples:',
             '  <info>php bin/console app:data:load 1</info>           - Load file #1',
-            '  <info>php bin/console app:data:load 1,3,5</info>       - Load files 1, 3, and 5',
             '  <info>php bin/console app:data:load 1-5</info>         - Load files 1 through 5',
             '  <info>php bin/console app:data:load all</info>         - Load all files',
             '  <info>php bin/console app:data:load -l</info>          - List files only',
