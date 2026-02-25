@@ -31,7 +31,7 @@ class ProductController extends AbstractController
         $category = $request->query->get('category', '');
         $minScore = (float) $request->query->get('score', 0.75);
         $page = (int) $request->query->get('page', 1);
-        $limit = 20;
+        $limit = (int) $request->query->get('limit',9);
 
         $products = [];
         $searchTime = 0;
@@ -40,8 +40,11 @@ class ProductController extends AbstractController
         if ($query) {
             $start = microtime(true);
 
-            // Get cached query embedding
-            $queryVector = $vectorCache->getVector($query, 1536);
+            // Get user ID if logged in, otherwise null for anonymous
+            $userId = $this->getUser()?->getId();
+
+            // Get cached query embedding (uses database storage)
+            $queryVector = $vectorCache->getVector($query, $userId, 1536);
 
             // Search by vector
             $products = $productRepository->searchByDql(
