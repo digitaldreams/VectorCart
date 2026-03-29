@@ -1,102 +1,1202 @@
 [
-  {"name": "Lightweight Runner", "description": "Breathable mesh sneaker for active daily use.", "price": "65.00", "category": "Shoes", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Leather Chelsea Boot", "description": "Classic ankle boot with elastic panels.", "price": "145.00", "category": "Shoes", "tags": ["men", "fashion"], "inStock": true},
-  {"name": "Suede Loafer", "description": "Soft comfortable slip-on for casual events.", "price": "95.00", "category": "Shoes", "tags": ["men", "casual"], "inStock": true},
-  {"name": "Canvas High-Top", "description": "Traditional streetwear style with rubber toe.", "price": "55.00", "category": "Shoes", "tags": ["unisex", "sneakers"], "inStock": true},
-  {"name": "Formal Pump", "description": "Elegant women's heel for business and parties.", "price": "110.00", "category": "Shoes", "tags": ["women", "formal"], "inStock": true},
-  {"name": "Hiking Trail Boot", "description": "Supportive and waterproof for outdoor paths.", "price": "160.00", "category": "Shoes", "tags": ["unisex", "outdoor"], "inStock": true},
-  {"name": "Winter Home slipper", "description": "Wool-lined house shoe for warmth and comfort.", "price": "35.00", "category": "Shoes", "tags": ["unisex", "home"], "inStock": true},
-  {"name": "Toddler Sandal", "description": "Soft and secure summer footwear for kids.", "price": "30.00", "category": "Shoes", "tags": ["kids", "toddler"], "inStock": true},
-  {"name": "Athletic Cross-Trainer", "description": "Versatile gym shoe for lifting and cardio.", "price": "105.00", "category": "Shoes", "tags": ["unisex", "fitness"], "inStock": true},
-  {"name": "School Dress Shoe", "description": "Durable black leather for school uniform.", "price": "55.00", "category": "Shoes", "tags": ["kids", "school"], "inStock": true},
-  {"name": "Wedge Summer Sandal", "description": "Fashionable height with stable walking base.", "price": "75.00", "category": "Shoes", "tags": ["women", "summer"], "inStock": true},
-  {"name": "Heritage Work Boot", "description": "Tough leather with sturdy sole for labor.", "price": "180.00", "category": "Shoes", "tags": ["men", "workwear"], "inStock": true},
-  {"name": "Basketball Mid-Top", "description": "Ankle support for court sports and style.", "price": "125.00", "category": "Shoes", "tags": ["men", "sports"], "inStock": true},
-  {"name": "Ballet Flat", "description": "Classic everyday shoe for women's comfort.", "price": "60.00", "category": "Shoes", "tags": ["women", "casual"], "inStock": true},
-  {"name": "Rain Rubber Boot", "description": "100% waterproof for wet and muddy days.", "price": "50.00", "category": "Shoes", "tags": ["unisex", "outdoor"], "inStock": true},
-  {"name": "Sporty Puffer Jacket", "description": "Warm insulated coat for cold city winters.", "price": "120.00", "category": "Clothing", "tags": ["unisex", "winter"], "inStock": true},
-  {"name": "Classic Windbreaker", "description": "Lightweight protection against wind and rain.", "price": "65.00", "category": "Clothing", "tags": ["unisex", "outdoor"], "inStock": true},
-  {"name": "Denim Trucker Jacket", "description": "Timeless style in durable blue cotton.", "price": "85.00", "category": "Clothing", "tags": ["men", "casual"], "inStock": true},
-  {"name": "Wool Trench Coat", "description": "Elegant formal layer for cold weather.", "price": "245.00", "category": "Clothing", "tags": ["women", "formal"], "inStock": true},
-  {"name": "Leather Biker Jacket", "description": "Authentic feel with tough zipper details.", "price": "195.00", "category": "Clothing", "tags": ["women", "fashion"], "inStock": true},
-  {"name": "Lightweight Down Vest", "description": "Compressible warmth for layering needs.", "price": "80.00", "category": "Clothing", "tags": ["unisex", "winter"], "inStock": true},
-  {"name": "Waterproof Parka", "description": "Heavy protection for extreme rain and snow.", "price": "210.00", "category": "Clothing", "tags": ["men", "outdoor"], "inStock": true},
-  {"name": "Bomber Flight Jacket", "description": "Military style with rib cuffs and nylon.", "price": "110.00", "category": "Clothing", "tags": ["men", "fashion"], "inStock": true},
-  {"name": "Kids Hooded Raincoat", "description": "Fun patterns and complete rain protection.", "price": "45.00", "category": "Clothing", "tags": ["kids", "rainwear"], "inStock": true},
-  {"name": "Technical Ski Jacket", "description": "Professional mountain gear for snow sports.", "price": "350.00", "category": "Clothing", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Canvas Field Jacket", "description": "Rugged utility look for casual weekends.", "price": "95.00", "category": "Clothing", "tags": ["men", "casual"], "inStock": true},
-  {"name": "Satin Evening Blazer", "description": "Sophisticated shimmering layer for nights out.", "price": "130.00", "category": "Clothing", "tags": ["women", "formal"], "inStock": true},
-  {"name": "Packable Rain Poncho", "description": "Emergency waterproof layer for travel.", "price": "20.00", "category": "Clothing", "tags": ["unisex", "travel"], "inStock": true},
-  {"name": "Sherpa Fleece Pullover", "description": "Soft and fluffy warmth for cozy days.", "price": "75.00", "category": "Clothing", "tags": ["unisex", "casual"], "inStock": true},
-  {"name": "Harrington Style Jacket", "description": "Smart casual British classic for autumn.", "price": "90.00", "category": "Clothing", "tags": ["men", "classic"], "inStock": true},
-  {"name": "Velcro Running Shoe", "description": "Easy-on sneakers for active children.", "price": "45.00", "category": "Shoes", "tags": ["kids", "sports"], "inStock": true},
-  {"name": "Patent Leather heel", "description": "Shiny finish for high formal occasions.", "price": "125.00", "category": "Shoes", "tags": ["women", "party"], "inStock": true},
-  {"name": "Moccasin Suede Shoe", "description": "Traditional comfort for indoor/outdoor use.", "price": "70.00", "category": "Shoes", "tags": ["unisex", "casual"], "inStock": true},
-  {"name": "Steel-Toe Safety Boot", "description": "Workplace protection with durable shell.", "price": "140.00", "category": "Shoes", "tags": ["men", "workwear"], "inStock": true},
-  {"name": "Tennis Court Sneaker", "description": "Lateral support for agility in sports.", "price": "115.00", "category": "Shoes", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Orthopedic Walking Shoe", "description": "Extra support for sensitive feet and joints.", "price": "130.00", "category": "Shoes", "tags": ["unisex", "health"], "inStock": true},
-  {"name": "Neon Fun Trainer", "description": "Bright colors for kids' active lifestyles.", "price": "52.00", "category": "Shoes", "tags": ["kids", "fun"], "inStock": true},
-  {"name": "Professional Cycling shoe", "description": "Cleat compatible for power on the bike.", "price": "165.00", "category": "Shoes", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Luxury Velvet Slipper", "description": "Premium home shoe for evening relaxation.", "price": "85.00", "category": "Shoes", "tags": ["men", "luxury"], "inStock": true},
-  {"name": "Boat Non-Slip Shoe", "description": "Classic deck style with excellent wet grip.", "price": "99.00", "category": "Shoes", "tags": ["unisex", "casual"], "inStock": true},
-  {"name": "Fleece Cargo Jacket", "description": "Warmth meets utility with extra pockets.", "price": "85.00", "category": "Clothing", "tags": ["men", "outdoor"], "inStock": true},
-  {"name": "Cropped Urban Puffer", "description": "High-fashion winter look for city streets.", "price": "110.00", "category": "Clothing", "tags": ["women", "modern"], "inStock": true},
-  {"name": "Corduroy Worker Jacket", "description": "Vintage ribbed fabric for durable style.", "price": "95.00", "category": "Clothing", "tags": ["men", "vintage"], "inStock": true},
-  {"name": "Reversible Wind Shell", "description": "Two styles in one lightweight layer.", "price": "70.00", "category": "Clothing", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Long Wool Cardi-coat", "description": "Minimalist hybrid for cozy layering.", "price": "150.00", "category": "Clothing", "tags": ["women", "fashion"], "inStock": true},
-  {"name": "Rugged Hunting Parka", "description": "Thorn-proof and camouflaged for woodland.", "price": "195.00", "category": "Clothing", "tags": ["men", "outdoor"], "inStock": true},
-  {"name": "Technical Sailing Smock", "description": "100% dry seal for ocean racing sports.", "price": "225.00", "category": "Clothing", "tags": ["unisex", "waterproof"], "inStock": true},
-  {"name": "Kids Fleece Zip-Up", "description": "Soft everyday warmth for the school yard.", "price": "35.00", "category": "Clothing", "tags": ["kids", "casual"], "inStock": true},
-  {"name": "Reflective Safety Vest", "description": "High-vis for roadside and night utility.", "price": "15.00", "category": "Clothing", "tags": ["unisex", "safety"], "inStock": true},
-  {"name": "Tuxedo Formal Jacket", "description": "Peak elegance for black-tie social events.", "price": "320.00", "category": "Clothing", "tags": ["men", "formal"], "inStock": true},
-  {"name": "Varsity Bomber Jacket", "description": "Wool and leather collegiate classic style.", "price": "175.00", "category": "Clothing", "tags": ["unisex", "retro"], "inStock": true},
-  {"name": "Summer Linen Blazer", "description": "Breathable formal layer for hot climates.", "price": "120.00", "category": "Clothing", "tags": ["men", "summer"], "inStock": true},
-  {"name": "Faux-Fur Shag Coat", "description": "Bold texture for luxury evening fashion.", "price": "165.00", "category": "Clothing", "tags": ["women", "luxury"], "inStock": true},
-  {"name": "Workwear Denim Jacket", "description": "Heavily reinforced for manual daily labor.", "price": "115.00", "category": "Clothing", "tags": ["men", "workwear"], "inStock": true},
-  {"name": "Quilted Riding Jacket", "description": "Traditional diamond stitch for country style.", "price": "140.00", "category": "Clothing", "tags": ["unisex", "classic"], "inStock": true},
-  {"name": "Trail Running Mesh", "description": "Breathable grip for off-road athlete use.", "price": "135.00", "category": "Shoes", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Sleek Ankle Stiletto", "description": "Women's bootie with a sharp fine heel.", "price": "115.00", "category": "Shoes", "tags": ["women", "party"], "inStock": true},
-  {"name": "Men's Driving Moccasin", "description": "Soft sole for grip and comfort in the car.", "price": "85.00", "category": "Shoes", "tags": ["men", "casual"], "inStock": true},
-  {"name": "Waterproof Deck shoe", "description": "Marine grade leather for life on water.", "price": "110.00", "category": "Shoes", "tags": ["unisex", "sailing"], "inStock": true},
-  {"name": "Kids Rain Bootie", "description": "Short rubber boot for quick puddle fun.", "price": "32.00", "category": "Shoes", "tags": ["kids", "puddles"], "inStock": true},
-  {"name": "Performance Golf Spike", "description": "Stability focus for a secure grass swing.", "price": "170.00", "category": "Shoes", "tags": ["men", "sports"], "inStock": true},
-  {"name": "Memory Foam Gym Flat", "description": "Yoga and Pilates focus with high flex.", "price": "65.00", "category": "Shoes", "tags": ["women", "fitness"], "inStock": true},
-  {"name": "Rugged Combat Boot", "description": "Hard-wearing leather for a classic rebel.", "price": "155.00", "category": "Shoes", "tags": ["unisex", "boots"], "inStock": true},
-  {"name": "Sleek Patent Loafer", "description": "Women's sharp slip-on for the modern office.", "price": "95.00", "category": "Shoes", "tags": ["women", "formal"], "inStock": true},
-  {"name": "Breathable Summer Slide", "description": "Lightweight beach wear with comfort footbed.", "price": "35.00", "category": "Shoes", "tags": ["unisex", "summer"], "inStock": true},
-  {"name": "Thermal Winter Coat", "description": "High-tech insulation for deep snow months.", "price": "280.00", "category": "Clothing", "tags": ["unisex", "winter"], "inStock": true},
-  {"name": "Urban Canvas Anorak", "description": "Street style shell with large front pocket.", "price": "125.00", "category": "Clothing", "tags": ["unisex", "modern"], "inStock": true},
-  {"name": "Elegant Silk Wrap", "description": "Women's formal layer for shoulder warmth.", "price": "85.00", "category": "Clothing", "tags": ["women", "formal"], "inStock": true},
-  {"name": "Tactical Assault Hoody", "description": "Durable knit for professional field use.", "price": "110.00", "category": "Clothing", "tags": ["men", "outdoor"], "inStock": true},
-  {"name": "Kids Snow Overalls", "description": "Full body warmth for playground winters.", "price": "145.00", "category": "Clothing", "tags": ["kids", "winter"], "inStock": true},
-  {"name": "Men's Velvet Blazer", "description": "Luxury texture for holiday and party nights.", "price": "210.00", "category": "Clothing", "tags": ["men", "luxury"], "inStock": true},
-  {"name": "Leather Aviator Gilet", "description": "Rugged vest with warm shearling collar.", "price": "135.00", "category": "Clothing", "tags": ["unisex", "fashion"], "inStock": true},
-  {"name": "Reflective Cycling Shell", "description": "High visibility for road safety athletes.", "price": "155.00", "category": "Clothing", "tags": ["unisex", "sports"], "inStock": true},
-  {"name": "Luxury Cape Coat", "description": "Slit-sleeve elegance for women's winter.", "price": "320.00", "category": "Clothing", "tags": ["women", "luxury"], "inStock": true},
-  {"name": "Worker Duck Vest", "description": "Heavy canvas layer for manual hard work.", "price": "75.00", "category": "Clothing", "tags": ["men", "workwear"], "inStock": true},
-  {"name": "Woven Summer Flat", "description": "Handmade leather for airy vacation steps.", "price": "85.00", "category": "Shoes", "tags": ["women", "summer"], "inStock": true},
-  {"name": "Hiking Ankle Trainer", "description": "Hybrid speed shoe for moderate mountain paths.", "price": "120.00", "category": "Shoes", "tags": ["unisex", "outdoor"], "inStock": true},
-  {"name": "Girls Party pump", "description": "Sparkly footwear for birthdays and events.", "price": "45.00", "category": "Shoes", "tags": ["kids", "party"], "inStock": true},
-  {"name": "Durable Track Spike", "description": "Propulsion focus for competitive school races.", "price": "110.00", "category": "Shoes", "tags": ["kids", "sports"], "inStock": true},
-  {"name": "Soft Plush House Boot", "description": "Calf-height warmth for home relaxation.", "price": "45.00", "category": "Shoes", "tags": ["women", "home"], "inStock": true},
-  {"name": "Minimalist Office Heel", "description": "Simple stiletto for the professional workplace.", "price": "105.00", "category": "Shoes", "tags": ["women", "formal"], "inStock": true},
-  {"name": "Rugged Pull-On Boot", "description": "Lace-free leather for farm and industrial.", "price": "165.00", "category": "Shoes", "tags": ["men", "boots"], "inStock": true},
-  {"name": "Infant First Walker", "description": "Softest leather for healthy foot growth.", "price": "35.00", "category": "Shoes", "tags": ["kids", "baby"], "inStock": true},
-  {"name": "Women's Rain Mac", "description": "Fashionable waterproof layer for city wet.", "price": "95.00", "category": "Clothing", "tags": ["women", "weather"], "inStock": true},
-  {"name": "Corduroy Button jacket", "description": "Ribbed texture for classic weekend style.", "price": "85.00", "category": "Clothing", "tags": ["men", "casual"], "inStock": true},
-  {"name": "Sporty Half-Zip Shell", "description": "Lightweight layer for transitional workout.", "price": "60.00", "category": "Clothing", "tags": ["unisex", "active"], "inStock": true},
-  {"name": "Modern Tech Cardigan", "description": "Performance wool mix for travel and office.", "price": "115.00", "category": "Clothing", "tags": ["unisex", "modern"], "inStock": true},
-  {"name": "Warm Sherpa Shacket", "description": "Fluffy lining in a shirt-style jacket.", "price": "75.00", "category": "Clothing", "tags": ["unisex", "warm"], "inStock": true},
-  {"name": "Vintage Fringed Suede", "description": "Western detail for a bold fashion piece.", "price": "235.00", "category": "Clothing", "tags": ["unisex", "vintage"], "inStock": true},
-  {"name": "Glossy Puffer Jacket", "description": "Shiny finish for a modern street look.", "price": "145.00", "category": "Clothing", "tags": ["women", "streetwear"], "inStock": true},
-  {"name": "Workwear Canvas Bib", "description": "Protection for heavy gardening and labor.", "price": "120.00", "category": "Clothing", "tags": ["unisex", "rugged"], "inStock": true},
-  {"name": "Lightweight Mac Coat", "description": "Simple rain protection for the daily commute.", "price": "130.00", "category": "Clothing", "tags": ["unisex", "weather"], "inStock": true},
-  {"name": "Patterned Winter Knit", "description": "Heavy sweater for cozy indoor and outdoor.", "price": "95.00", "category": "Clothing", "tags": ["unisex", "warm"], "inStock": true},
-  {"name": "Reflective Kids Parka", "description": "Glows in the dark for safety near roads.", "price": "90.00", "category": "Clothing", "tags": ["kids", "safety"], "inStock": true},
-  {"name": "Leather Dress Glove Set", "description": "Fleece lined for winter formal occasions.", "price": "45.00", "category": "Clothing", "tags": ["unisex", "accessories"], "inStock": true},
-  {"name": "Wool Beanie and Scarf", "description": "Matching winter warmth in high-grade wool.", "price": "55.00", "category": "Clothing", "tags": ["unisex", "warm"], "inStock": true},
-  {"name": "Technical Hiking Sock", "description": "Moisture wicking for blister-free paths.", "price": "18.00", "category": "Clothing", "tags": ["unisex", "outdoor"], "inStock": true},
-  {"name": "Sleek Black Belt Leather", "description": "Minimalist accessory for dress and casual.", "price": "35.00", "category": "Clothing", "tags": ["men", "accessories"], "inStock": true},
-  {"name": "Travel Packable Duffel", "description": "Lightweight bag for extra trip souvenirs.", "price": "40.00", "category": "Travel", "tags": ["travel", "bags"], "inStock": true},
-  {"name": "Solar Battery Power Bank", "description": "Charging on the go using the sun's energy.", "price": "65.00", "category": "Travel", "tags": ["technology", "power"], "inStock": true}
+    {
+        "name": "Lightweight Runner",
+        "description": "Breathable mesh sneaker for active daily use.",
+        "price": "65.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3804
+    },
+    {
+        "name": "Leather Chelsea Boot",
+        "description": "Classic ankle boot with elastic panels.",
+        "price": "145.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "fashion"
+        ],
+        "inStock": true,
+        "id": 3805
+    },
+    {
+        "name": "Suede Loafer",
+        "description": "Soft comfortable slip-on for casual events.",
+        "price": "95.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3806
+    },
+    {
+        "name": "Canvas High-Top",
+        "description": "Traditional streetwear style with rubber toe.",
+        "price": "55.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "sneakers"
+        ],
+        "inStock": true,
+        "id": 3807
+    },
+    {
+        "name": "Formal Pump",
+        "description": "Elegant women's heel for business and parties.",
+        "price": "110.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3808
+    },
+    {
+        "name": "Hiking Trail Boot",
+        "description": "Supportive and waterproof for outdoor paths.",
+        "price": "160.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3809
+    },
+    {
+        "name": "Winter Home slipper",
+        "description": "Wool-lined house shoe for warmth and comfort.",
+        "price": "35.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "home"
+        ],
+        "inStock": true,
+        "id": 3810
+    },
+    {
+        "name": "Toddler Sandal",
+        "description": "Soft and secure summer footwear for kids.",
+        "price": "30.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "toddler"
+        ],
+        "inStock": true,
+        "id": 3811
+    },
+    {
+        "name": "Athletic Cross-Trainer",
+        "description": "Versatile gym shoe for lifting and cardio.",
+        "price": "105.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "fitness"
+        ],
+        "inStock": true,
+        "id": 3812
+    },
+    {
+        "name": "School Dress Shoe",
+        "description": "Durable black leather for school uniform.",
+        "price": "55.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "school"
+        ],
+        "inStock": true,
+        "id": 3813
+    },
+    {
+        "name": "Wedge Summer Sandal",
+        "description": "Fashionable height with stable walking base.",
+        "price": "75.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "summer"
+        ],
+        "inStock": true,
+        "id": 3814
+    },
+    {
+        "name": "Heritage Work Boot",
+        "description": "Tough leather with sturdy sole for labor.",
+        "price": "180.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "workwear"
+        ],
+        "inStock": true,
+        "id": 3815
+    },
+    {
+        "name": "Basketball Mid-Top",
+        "description": "Ankle support for court sports and style.",
+        "price": "125.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3816
+    },
+    {
+        "name": "Ballet Flat",
+        "description": "Classic everyday shoe for women's comfort.",
+        "price": "60.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3817
+    },
+    {
+        "name": "Rain Rubber Boot",
+        "description": "100% waterproof for wet and muddy days.",
+        "price": "50.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3818
+    },
+    {
+        "name": "Sporty Puffer Jacket",
+        "description": "Warm insulated coat for cold city winters.",
+        "price": "120.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "winter"
+        ],
+        "inStock": true,
+        "id": 3819
+    },
+    {
+        "name": "Classic Windbreaker",
+        "description": "Lightweight protection against wind and rain.",
+        "price": "65.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3820
+    },
+    {
+        "name": "Denim Trucker Jacket",
+        "description": "Timeless style in durable blue cotton.",
+        "price": "85.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3821
+    },
+    {
+        "name": "Wool Trench Coat",
+        "description": "Elegant formal layer for cold weather.",
+        "price": "245.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3822
+    },
+    {
+        "name": "Leather Biker Jacket",
+        "description": "Authentic feel with tough zipper details.",
+        "price": "195.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "fashion"
+        ],
+        "inStock": true,
+        "id": 3823
+    },
+    {
+        "name": "Lightweight Down Vest",
+        "description": "Compressible warmth for layering needs.",
+        "price": "80.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "winter"
+        ],
+        "inStock": true,
+        "id": 3824
+    },
+    {
+        "name": "Waterproof Parka",
+        "description": "Heavy protection for extreme rain and snow.",
+        "price": "210.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3825
+    },
+    {
+        "name": "Bomber Flight Jacket",
+        "description": "Military style with rib cuffs and nylon.",
+        "price": "110.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "fashion"
+        ],
+        "inStock": true,
+        "id": 3826
+    },
+    {
+        "name": "Kids Hooded Raincoat",
+        "description": "Fun patterns and complete rain protection.",
+        "price": "45.00",
+        "category": "Clothing",
+        "tags": [
+            "kids",
+            "rainwear"
+        ],
+        "inStock": true,
+        "id": 3827
+    },
+    {
+        "name": "Technical Ski Jacket",
+        "description": "Professional mountain gear for snow sports.",
+        "price": "350.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3828
+    },
+    {
+        "name": "Canvas Field Jacket",
+        "description": "Rugged utility look for casual weekends.",
+        "price": "95.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3829
+    },
+    {
+        "name": "Satin Evening Blazer",
+        "description": "Sophisticated shimmering layer for nights out.",
+        "price": "130.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3830
+    },
+    {
+        "name": "Packable Rain Poncho",
+        "description": "Emergency waterproof layer for travel.",
+        "price": "20.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "travel"
+        ],
+        "inStock": true,
+        "id": 3831
+    },
+    {
+        "name": "Sherpa Fleece Pullover",
+        "description": "Soft and fluffy warmth for cozy days.",
+        "price": "75.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3832
+    },
+    {
+        "name": "Harrington Style Jacket",
+        "description": "Smart casual British classic for autumn.",
+        "price": "90.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "classic"
+        ],
+        "inStock": true,
+        "id": 3833
+    },
+    {
+        "name": "Velcro Running Shoe",
+        "description": "Easy-on sneakers for active children.",
+        "price": "45.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3834
+    },
+    {
+        "name": "Patent Leather heel",
+        "description": "Shiny finish for high formal occasions.",
+        "price": "125.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "party"
+        ],
+        "inStock": true,
+        "id": 3835
+    },
+    {
+        "name": "Moccasin Suede Shoe",
+        "description": "Traditional comfort for indoor/outdoor use.",
+        "price": "70.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3836
+    },
+    {
+        "name": "Steel-Toe Safety Boot",
+        "description": "Workplace protection with durable shell.",
+        "price": "140.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "workwear"
+        ],
+        "inStock": true,
+        "id": 3837
+    },
+    {
+        "name": "Tennis Court Sneaker",
+        "description": "Lateral support for agility in sports.",
+        "price": "115.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3838
+    },
+    {
+        "name": "Orthopedic Walking Shoe",
+        "description": "Extra support for sensitive feet and joints.",
+        "price": "130.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "health"
+        ],
+        "inStock": true,
+        "id": 3839
+    },
+    {
+        "name": "Neon Fun Trainer",
+        "description": "Bright colors for kids' active lifestyles.",
+        "price": "52.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "fun"
+        ],
+        "inStock": true,
+        "id": 3840
+    },
+    {
+        "name": "Professional Cycling shoe",
+        "description": "Cleat compatible for power on the bike.",
+        "price": "165.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3841
+    },
+    {
+        "name": "Luxury Velvet Slipper",
+        "description": "Premium home shoe for evening relaxation.",
+        "price": "85.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "luxury"
+        ],
+        "inStock": true,
+        "id": 3842
+    },
+    {
+        "name": "Boat Non-Slip Shoe",
+        "description": "Classic deck style with excellent wet grip.",
+        "price": "99.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3843
+    },
+    {
+        "name": "Fleece Cargo Jacket",
+        "description": "Warmth meets utility with extra pockets.",
+        "price": "85.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3844
+    },
+    {
+        "name": "Cropped Urban Puffer",
+        "description": "High-fashion winter look for city streets.",
+        "price": "110.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "modern"
+        ],
+        "inStock": true,
+        "id": 3845
+    },
+    {
+        "name": "Corduroy Worker Jacket",
+        "description": "Vintage ribbed fabric for durable style.",
+        "price": "95.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "vintage"
+        ],
+        "inStock": true,
+        "id": 3846
+    },
+    {
+        "name": "Reversible Wind Shell",
+        "description": "Two styles in one lightweight layer.",
+        "price": "70.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3847
+    },
+    {
+        "name": "Long Wool Cardi-coat",
+        "description": "Minimalist hybrid for cozy layering.",
+        "price": "150.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "fashion"
+        ],
+        "inStock": true,
+        "id": 3848
+    },
+    {
+        "name": "Rugged Hunting Parka",
+        "description": "Thorn-proof and camouflaged for woodland.",
+        "price": "195.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3849
+    },
+    {
+        "name": "Technical Sailing Smock",
+        "description": "100% dry seal for ocean racing sports.",
+        "price": "225.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "waterproof"
+        ],
+        "inStock": true,
+        "id": 3850
+    },
+    {
+        "name": "Kids Fleece Zip-Up",
+        "description": "Soft everyday warmth for the school yard.",
+        "price": "35.00",
+        "category": "Clothing",
+        "tags": [
+            "kids",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3851
+    },
+    {
+        "name": "Reflective Safety Vest",
+        "description": "High-vis for roadside and night utility.",
+        "price": "15.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "safety"
+        ],
+        "inStock": true,
+        "id": 3852
+    },
+    {
+        "name": "Tuxedo Formal Jacket",
+        "description": "Peak elegance for black-tie social events.",
+        "price": "320.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3853
+    },
+    {
+        "name": "Varsity Bomber Jacket",
+        "description": "Wool and leather collegiate classic style.",
+        "price": "175.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "retro"
+        ],
+        "inStock": true,
+        "id": 3854
+    },
+    {
+        "name": "Summer Linen Blazer",
+        "description": "Breathable formal layer for hot climates.",
+        "price": "120.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "summer"
+        ],
+        "inStock": true,
+        "id": 3855
+    },
+    {
+        "name": "Faux-Fur Shag Coat",
+        "description": "Bold texture for luxury evening fashion.",
+        "price": "165.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "luxury"
+        ],
+        "inStock": true,
+        "id": 3856
+    },
+    {
+        "name": "Workwear Denim Jacket",
+        "description": "Heavily reinforced for manual daily labor.",
+        "price": "115.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "workwear"
+        ],
+        "inStock": true,
+        "id": 3857
+    },
+    {
+        "name": "Quilted Riding Jacket",
+        "description": "Traditional diamond stitch for country style.",
+        "price": "140.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "classic"
+        ],
+        "inStock": true,
+        "id": 3858
+    },
+    {
+        "name": "Trail Running Mesh",
+        "description": "Breathable grip for off-road athlete use.",
+        "price": "135.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3859
+    },
+    {
+        "name": "Sleek Ankle Stiletto",
+        "description": "Women's bootie with a sharp fine heel.",
+        "price": "115.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "party"
+        ],
+        "inStock": true,
+        "id": 3860
+    },
+    {
+        "name": "Men's Driving Moccasin",
+        "description": "Soft sole for grip and comfort in the car.",
+        "price": "85.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3861
+    },
+    {
+        "name": "Waterproof Deck shoe",
+        "description": "Marine grade leather for life on water.",
+        "price": "110.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "sailing"
+        ],
+        "inStock": true,
+        "id": 3862
+    },
+    {
+        "name": "Kids Rain Bootie",
+        "description": "Short rubber boot for quick puddle fun.",
+        "price": "32.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "puddles"
+        ],
+        "inStock": true,
+        "id": 3863
+    },
+    {
+        "name": "Performance Golf Spike",
+        "description": "Stability focus for a secure grass swing.",
+        "price": "170.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3864
+    },
+    {
+        "name": "Memory Foam Gym Flat",
+        "description": "Yoga and Pilates focus with high flex.",
+        "price": "65.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "fitness"
+        ],
+        "inStock": true,
+        "id": 3865
+    },
+    {
+        "name": "Rugged Combat Boot",
+        "description": "Hard-wearing leather for a classic rebel.",
+        "price": "155.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "boots"
+        ],
+        "inStock": true,
+        "id": 3866
+    },
+    {
+        "name": "Sleek Patent Loafer",
+        "description": "Women's sharp slip-on for the modern office.",
+        "price": "95.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3867
+    },
+    {
+        "name": "Breathable Summer Slide",
+        "description": "Lightweight beach wear with comfort footbed.",
+        "price": "35.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "summer"
+        ],
+        "inStock": true,
+        "id": 3868
+    },
+    {
+        "name": "Thermal Winter Coat",
+        "description": "High-tech insulation for deep snow months.",
+        "price": "280.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "winter"
+        ],
+        "inStock": true,
+        "id": 3869
+    },
+    {
+        "name": "Urban Canvas Anorak",
+        "description": "Street style shell with large front pocket.",
+        "price": "125.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "modern"
+        ],
+        "inStock": true,
+        "id": 3870
+    },
+    {
+        "name": "Elegant Silk Wrap",
+        "description": "Women's formal layer for shoulder warmth.",
+        "price": "85.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3871
+    },
+    {
+        "name": "Tactical Assault Hoody",
+        "description": "Durable knit for professional field use.",
+        "price": "110.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3872
+    },
+    {
+        "name": "Kids Snow Overalls",
+        "description": "Full body warmth for playground winters.",
+        "price": "145.00",
+        "category": "Clothing",
+        "tags": [
+            "kids",
+            "winter"
+        ],
+        "inStock": true,
+        "id": 3873
+    },
+    {
+        "name": "Men's Velvet Blazer",
+        "description": "Luxury texture for holiday and party nights.",
+        "price": "210.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "luxury"
+        ],
+        "inStock": true,
+        "id": 3874
+    },
+    {
+        "name": "Leather Aviator Gilet",
+        "description": "Rugged vest with warm shearling collar.",
+        "price": "135.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "fashion"
+        ],
+        "inStock": true,
+        "id": 3875
+    },
+    {
+        "name": "Reflective Cycling Shell",
+        "description": "High visibility for road safety athletes.",
+        "price": "155.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3876
+    },
+    {
+        "name": "Luxury Cape Coat",
+        "description": "Slit-sleeve elegance for women's winter.",
+        "price": "320.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "luxury"
+        ],
+        "inStock": true,
+        "id": 3877
+    },
+    {
+        "name": "Worker Duck Vest",
+        "description": "Heavy canvas layer for manual hard work.",
+        "price": "75.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "workwear"
+        ],
+        "inStock": true,
+        "id": 3878
+    },
+    {
+        "name": "Woven Summer Flat",
+        "description": "Handmade leather for airy vacation steps.",
+        "price": "85.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "summer"
+        ],
+        "inStock": true,
+        "id": 3879
+    },
+    {
+        "name": "Hiking Ankle Trainer",
+        "description": "Hybrid speed shoe for moderate mountain paths.",
+        "price": "120.00",
+        "category": "Shoes",
+        "tags": [
+            "unisex",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3880
+    },
+    {
+        "name": "Girls Party pump",
+        "description": "Sparkly footwear for birthdays and events.",
+        "price": "45.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "party"
+        ],
+        "inStock": true,
+        "id": 3881
+    },
+    {
+        "name": "Durable Track Spike",
+        "description": "Propulsion focus for competitive school races.",
+        "price": "110.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "sports"
+        ],
+        "inStock": true,
+        "id": 3882
+    },
+    {
+        "name": "Soft Plush House Boot",
+        "description": "Calf-height warmth for home relaxation.",
+        "price": "45.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "home"
+        ],
+        "inStock": true,
+        "id": 3883
+    },
+    {
+        "name": "Minimalist Office Heel",
+        "description": "Simple stiletto for the professional workplace.",
+        "price": "105.00",
+        "category": "Shoes",
+        "tags": [
+            "women",
+            "formal"
+        ],
+        "inStock": true,
+        "id": 3884
+    },
+    {
+        "name": "Rugged Pull-On Boot",
+        "description": "Lace-free leather for farm and industrial.",
+        "price": "165.00",
+        "category": "Shoes",
+        "tags": [
+            "men",
+            "boots"
+        ],
+        "inStock": true,
+        "id": 3885
+    },
+    {
+        "name": "Infant First Walker",
+        "description": "Softest leather for healthy foot growth.",
+        "price": "35.00",
+        "category": "Shoes",
+        "tags": [
+            "kids",
+            "baby"
+        ],
+        "inStock": true,
+        "id": 3886
+    },
+    {
+        "name": "Women's Rain Mac",
+        "description": "Fashionable waterproof layer for city wet.",
+        "price": "95.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "weather"
+        ],
+        "inStock": true,
+        "id": 3887
+    },
+    {
+        "name": "Corduroy Button jacket",
+        "description": "Ribbed texture for classic weekend style.",
+        "price": "85.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "casual"
+        ],
+        "inStock": true,
+        "id": 3888
+    },
+    {
+        "name": "Sporty Half-Zip Shell",
+        "description": "Lightweight layer for transitional workout.",
+        "price": "60.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "active"
+        ],
+        "inStock": true,
+        "id": 3889
+    },
+    {
+        "name": "Modern Tech Cardigan",
+        "description": "Performance wool mix for travel and office.",
+        "price": "115.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "modern"
+        ],
+        "inStock": true,
+        "id": 3890
+    },
+    {
+        "name": "Warm Sherpa Shacket",
+        "description": "Fluffy lining in a shirt-style jacket.",
+        "price": "75.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "warm"
+        ],
+        "inStock": true,
+        "id": 3891
+    },
+    {
+        "name": "Vintage Fringed Suede",
+        "description": "Western detail for a bold fashion piece.",
+        "price": "235.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "vintage"
+        ],
+        "inStock": true,
+        "id": 3892
+    },
+    {
+        "name": "Glossy Puffer Jacket",
+        "description": "Shiny finish for a modern street look.",
+        "price": "145.00",
+        "category": "Clothing",
+        "tags": [
+            "women",
+            "streetwear"
+        ],
+        "inStock": true,
+        "id": 3893
+    },
+    {
+        "name": "Workwear Canvas Bib",
+        "description": "Protection for heavy gardening and labor.",
+        "price": "120.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "rugged"
+        ],
+        "inStock": true,
+        "id": 3894
+    },
+    {
+        "name": "Lightweight Mac Coat",
+        "description": "Simple rain protection for the daily commute.",
+        "price": "130.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "weather"
+        ],
+        "inStock": true,
+        "id": 3895
+    },
+    {
+        "name": "Patterned Winter Knit",
+        "description": "Heavy sweater for cozy indoor and outdoor.",
+        "price": "95.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "warm"
+        ],
+        "inStock": true,
+        "id": 3896
+    },
+    {
+        "name": "Reflective Kids Parka",
+        "description": "Glows in the dark for safety near roads.",
+        "price": "90.00",
+        "category": "Clothing",
+        "tags": [
+            "kids",
+            "safety"
+        ],
+        "inStock": true,
+        "id": 3897
+    },
+    {
+        "name": "Leather Dress Glove Set",
+        "description": "Fleece lined for winter formal occasions.",
+        "price": "45.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "accessories"
+        ],
+        "inStock": true,
+        "id": 3898
+    },
+    {
+        "name": "Wool Beanie and Scarf",
+        "description": "Matching winter warmth in high-grade wool.",
+        "price": "55.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "warm"
+        ],
+        "inStock": true,
+        "id": 3899
+    },
+    {
+        "name": "Technical Hiking Sock",
+        "description": "Moisture wicking for blister-free paths.",
+        "price": "18.00",
+        "category": "Clothing",
+        "tags": [
+            "unisex",
+            "outdoor"
+        ],
+        "inStock": true,
+        "id": 3900
+    },
+    {
+        "name": "Sleek Black Belt Leather",
+        "description": "Minimalist accessory for dress and casual.",
+        "price": "35.00",
+        "category": "Clothing",
+        "tags": [
+            "men",
+            "accessories"
+        ],
+        "inStock": true,
+        "id": 3901
+    },
+    {
+        "name": "Travel Packable Duffel",
+        "description": "Lightweight bag for extra trip souvenirs.",
+        "price": "40.00",
+        "category": "Travel",
+        "tags": [
+            "travel",
+            "bags"
+        ],
+        "inStock": true,
+        "id": 3902
+    },
+    {
+        "name": "Solar Battery Power Bank",
+        "description": "Charging on the go using the sun's energy.",
+        "price": "65.00",
+        "category": "Travel",
+        "tags": [
+            "technology",
+            "power"
+        ],
+        "inStock": true,
+        "id": 3903
+    }
 ]

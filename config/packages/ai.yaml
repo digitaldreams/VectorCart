@@ -25,7 +25,14 @@ ai:
         memory:
             default: ~
 
+
+
+
     vectorizer:
-        ollama:
+        default:
             platform: 'ai.platform.ollama'
             model: 'qwen3-embedding:8b'
+    indexer:
+        product:
+            store: 'ai.store.postgres.default'
+            vectorizer: 'ai.vectorizer.default'

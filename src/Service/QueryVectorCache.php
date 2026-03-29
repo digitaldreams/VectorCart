@@ -13,7 +13,7 @@ class QueryVectorCache
     public function __construct(
         private EntityManagerInterface $entityManager,
         private SearchQueryRepository $searchQueryRepository,
-        private VectorizerInterface $ollama
+        private VectorizerInterface $default
     ) {
     }
 
@@ -40,7 +40,7 @@ class QueryVectorCache
         }
 
         // Compute new vector
-        $vectorResult = $this->ollama->vectorize($query, ['dimensions' => $dimensions]);
+        $vectorResult = $this->default->vectorize($query, ['dimensions' => $dimensions]);
         $vectorArray = $vectorResult->getData();
 
         // Create new search query record
@@ -93,14 +93,14 @@ class QueryVectorCache
     public function cleanupOldSearches(int $daysOld = 90): void
     {
         $cutoffDate = new \DateTimeImmutable("-{$daysOld} days");
-        
+
         $this->entityManager->createQueryBuilder()
             ->delete(SearchQuery::class, 'sq')
             ->where('sq.createdAt < :cutoff')
             ->setParameter('cutoff', $cutoffDate)
             ->getQuery()
             ->execute();
-        
+
         $this->entityManager->flush();
     }
 }

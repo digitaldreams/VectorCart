@@ -26,7 +26,7 @@ class LoadDataCommand extends Command
 
     public function __construct(
         private EntityManagerInterface $entityManager,
-        private VectorizerInterface $ollama
+        private VectorizerInterface $default
     ) {
         parent::__construct();
         $this->loadAvailableFiles();
@@ -290,7 +290,7 @@ class LoadDataCommand extends Command
             // Generate embedding
             if (!$skipEmbedding) {
                 try {
-                    $vectorResult = $this->ollama->vectorize(
+                    $vectorResult = $this->default->vectorize(
                         values: $product->getSearchableText(),
                         options: ['dimensions' => 1536]
                     );
