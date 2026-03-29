@@ -383,7 +383,7 @@ PROMPT;
 ### Error 1: Missing Connection Configuration
 
 ```
-Invalid configuration for path "ai.store.postgres.default": 
+Invalid configuration for path "ai.store.postgres.default":
 Either "dsn" or "dbal_connection" must be configured.
 ```
 
@@ -401,8 +401,8 @@ ai:
 ### Error 2: Wrong Query Type
 
 ```
-StoreProxy::query(): Argument #1 ($query) must be of type 
-Symfony\AI\Store\Query\QueryInterface, 
+StoreProxy::query(): Argument #1 ($query) must be of type
+Symfony\AI\Store\Query\QueryInterface,
 Symfony\AI\Platform\Vector\Vector given
 ```
 
@@ -430,7 +430,7 @@ $results = $store->query(new VectorQuery($vector), ['limit' => 5]);
 ### Error 4: pgvector Extension Not Enabled
 
 ```
-SQLSTATE[42883]: Undefined function: ERROR: 
+SQLSTATE[42883]: Undefined function: ERROR:
 operator does not exist: vector <-> vector
 ```
 
